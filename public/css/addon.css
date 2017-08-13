@@ -1,1 +1,7 @@
 /*CSS pending minification*/
+#sidebar-checkbox:checked~.sidebar-toggle:before, #sidebar-checkbox:focus~.sidebar-toggle:before, .sidebar-toggle:active:before {
+    
+    .sidebar-toggle:before {
+    background-image: linear-gradient(to bottom,#fff,#fff 20%,#ea8923 20%,#ea8923 40%,#fff 40%,#fff 60%,#ea8923 60%,#ea8923 80%,#fff 80%,#fff100%);
+    }
+    
