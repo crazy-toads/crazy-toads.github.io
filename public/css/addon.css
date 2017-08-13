@@ -1,7 +1,11 @@
-/*CSS pending minification*/
-#sidebar-checkbox:checked~.sidebar-toggle:before, #sidebar-checkbox:focus~.sidebar-toggle:before, .sidebar-toggle:active:before {
-    
-    .sidebar-toggle:before {
-    background-image: linear-gradient(to bottom,#fff,#fff 20%,#ea8923 20%,#ea8923 40%,#fff 40%,#fff 60%,#ea8923 60%,#ea8923 80%,#fff 80%,#fff100%);
-    }
-    
+/* CSS pending minification */
+.theme-base-0b #sidebar-checkbox:focus ~ .sidebar-toggle,
+.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #fff;
+  background-color: #90a959;
+}
+.theme-base-0b #sidebar-checkbox:checked~.sidebar-toggle:before, 
+.theme-base-0b #sidebar-checkbox:focus~.sidebar-toggle:before, 
+.theme-base-0b .sidebar-toggle:active:before {
+  background-image: linear-gradient(to bottom,#fff,#fff 20%,#90a959 20%,#90a959 40%,#fff 40%,#fff 60%,#90a959 60%,#90a959 80%,#fff 80%,#fff 100%);
+}
