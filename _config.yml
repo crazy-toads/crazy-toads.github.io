@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Les Crapeuds Fous
+title:               Les Crapauds Fous
 #tagline:             'foo's website
 description:         Foo's blog...
 url: https://shelleycavaness.github.io/wildtoad/
