@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/flori/json.git
+  revision: 7f4cfd853f2c919d854fb95548a19980feff17e8
+  branch: v1.8
+  specs:
+    json (1.8.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -39,7 +46,6 @@ GEM
       gemoji (~> 2.0)
       html-pipeline (~> 2.2)
       jekyll (>= 2.0)
-    json (1.8.3)
     kramdown (1.9.0)
     liquid (3.0.6)
     listen (3.0.5)
@@ -71,5 +77,9 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jemoji
+  json!
   kramdown
   rouge
+
+BUNDLED WITH
+   1.15.3
