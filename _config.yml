@@ -8,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:               Les Crapauds Fous
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         La Fable Moderne d'un Monde Libre et juste un peu Fou
 url: https://shelleycavaness.github.io/wildtoad/
 baseurl: "/wildtoad"
 urlimg: https://shelleycavaness.github.io/wildtoad/images/
@@ -54,9 +54,9 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
-  - title: <i class="iconside iconm-home"></i> Home
+  - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-user"></i> About
+  - title: <i class="iconside iconm-user"></i> A Propos
     url: /apropos/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/

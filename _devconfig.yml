@@ -6,9 +6,9 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Les Crapauds Fous
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         La Fable Moderne d'un Monde Libre et juste un peu Fou
 url:                 http://localhost:4000
 baseurl:  ""
 urlimg: http://localhost:4000/images/
@@ -54,9 +54,9 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
-  - title: <i class="iconside iconm-home"></i> Home
+  - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-user"></i> About
+  - title: <i class="iconside iconm-user"></i> A Propos
     url: /apropos/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
