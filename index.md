@@ -1,79 +1,28 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
-description: "Blogging on ...."
+title: Les Crapauds fous
+description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## La théorie
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+Les crapauds vivent dans une zone et se reproduisent dans d’autres. Chaque année, de manière grégaire, tous migrent dans le même sens. Lorsque nous construisons de nouvelles routes en travers, ils se font massivement écraser. Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que des écologistes font creuser pour eux sous les routes. Parce qu’ils s’aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d’avenir et sauvent l’espèce.
 
-* add-ons by [Samir Amin](http://sbamin.com)
-* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
-* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
+Dans le genre humain, on pense à Christophe Colomb, parti à l’Ouest pour trouver les Indes. Ou à Tim Berners-Lee, qui a transformé un réseau à usage militaire en l’Internet que nous utilisons tous aujourd'hui.
 
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+Les crapauds fous, ce sont ces individus qui « hackent » l’avenir. Guidés par leur seul instinct, ils partent dans des directions absurdes et reviennent ouvrir aux autres les tunnels qu’ils ont trouvés. Nombreux meurent écrasés, mais sans eux, pas d’évolution possible de l’espèce.
 
-{% if site.twitter_widget_id %}
-<div class="text-tweets">
-<div class="tweets">
-<a class="twitter-timeline"
-  data-dnt="true"
-  width="600"
-  height="250"
-  href="https://twitter.com/{{ site.owner.twitter }}"
-  data-widget-id="{{ site.twitter_widget_id }}"
-  data-tweet-limit="2"
-  data-chrome="noheader nofooter noborders noscrollbar transparent">
-  Recent Tweets</a>
-</div>
-<script>
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
-</div>
-{% else %}
-Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`. [Demo](http://sbamin.com)
-{% endif %}
+## La quête du Crapaud Fou
 
-<div class="posts">
-  {% for post in site.categories.featured limit:2 %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.url }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+En novembre 2016, 3 crapauds fous se lancent dans l'écriture d'un Manifeste : Thanh Nghiem, Cédric Villani, Florent Massot. 
 
-  {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i> <a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a></span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> {{ post.date | date_to_string }}</i> <a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a></span>{% endif %}
+Face au tsunami qui menace de balayer l'espèce, il faut provoquer un déclic. "La survie de l'espèce passe par un changement de comportement." Une quête de 6 mois, racontée dans un livre, et un Manifeste qui commence à percuter.
 
- {% if post.description.size > 140 %}{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}{% else %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %} <a href="{{ site.url }}{{ post.url }}" title="Read more"><strong>Read more...</strong></a>
-  </div>
-  <hr class="transp">
-  {% endfor %}
-</div>
+Voir <a href="{{ site.url }}/pdf/argu-manifeste-crapaud.pdf">Argu Manifeste Crapaud <i class="iconside iconm-file-pdf"> </i></a>
 
-<div class="posts">
-  {% for post in site.posts limit:2 %}
-  {% unless post.category contains "featured" %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.url }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+## Première cohorte
 
-  {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i></span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> {{ post.date | date_to_string }}</i></span>{% endif %}
+34 crapauds fous se sont réunis à la Fondation des Treilles du 3 au 7 avril 2017.
 
- {% if post.description.size > 140 %}{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}{% else %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %} <a href="{{ site.url }}{{ post.url }}" title="Read more"><strong>Read more...</strong></a>
-  </div>
-  {% unless forloop.last %}<hr class="transp">{% endunless %}
-  {% endunless %}
-  {% endfor %}
-</div>
-<h3 class="post-title">
-<div class="pagination" style="margin: 0.5rem;">
-    <a class="pagination-item older" href="{{ site.url }}/blog"><i class="fa fa-edit"> Blog</i></a>
-    <a class="pagination-item newer" href="{{ site.url }}/tags"><i class="fa fa-tags"> Tags</i></a>
-</div>
-</h3>
+De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de collaborer, de faire culture. Compte rendu des rencontres des Treilles

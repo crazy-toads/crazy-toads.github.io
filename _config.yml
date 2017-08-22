@@ -33,31 +33,23 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
+  name:              Le Crapaud Fou
   url:               https://twitter.com/abcd
-  avatar:         foo.png
+  avatar:            crapaud-fou.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
-  avatar:         foo.png
+  name:           Le Crapaud Fou
+  avatar:         crapaud-fou.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        abcd
   facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
+  github:         crazy-toad
   flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
-  # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
@@ -65,16 +57,9 @@ links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
   - title: <i class="iconside iconm-user"></i> About
-    url: /about/
+    url: /apropos/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
-  - title: <i class="fa fa-tags"></i> Tags
-    url: /tags/
-  - title: <i class="fa fa-archive"></i> Archive
-    url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
