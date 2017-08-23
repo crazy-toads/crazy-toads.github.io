@@ -1,7 +1,6 @@
 ---
 layout: default
-permalink: 
-title: Les Crapauds fous -Les 9 Cercles
+title: Les 9 Cercles
 description: "Les 9 Cercles"
 ---
 
