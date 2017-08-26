@@ -9,3 +9,15 @@
 .theme-base-0b .sidebar-toggle:active:before {
   background-image: linear-gradient(to bottom,#fff,#fff 20%,#90a959 20%,#90a959 40%,#fff 40%,#fff 60%,#90a959 60%,#90a959 80%,#fff 80%,#fff 100%);
 }
+
+.page.crapaud .photo {
+  float: right;
+  margin-left: 20px;
+}
+.page.crapaud .description {
+  margin-bottom: 10px;
+  margin-top: -10px;
+  color: #90a959;
+  font-weight: bold;
+  font-style: italic;
+}

@@ -9,9 +9,9 @@ relative_permalinks: false
 title:               Les Crapauds Fous
 #tagline:             'foo's website
 description:         La Fable Moderne d'un Monde Libre et juste un peu Fou
-url: https://crazy-toads.github.io/
+url: https://crazy-toads.github.io
 baseurl: ""
-urlimg: https://crazy-toads.github.io/images/
+urlimg: https://crazy-toads.github.io/images
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
