@@ -9,9 +9,9 @@ relative_permalinks: false
 title:               Les Crapauds Fous
 #tagline:             'foo's website
 description:         La Fable Moderne d'un Monde Libre et juste un peu Fou
-url: https://crazy-toads.github.io/website/
-baseurl: "/website"
-urlimg: https://shelleycavaness.github.io/wildtoad/images/
+url: https://crazy-toads.github.io/
+baseurl: ""
+urlimg: https://crazy-toads.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -46,9 +46,9 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
+  twitter:        
   facebook:       
-  github:         crazy-toad
+  github:         crazy-toads
   flickr:
 
 ## sidebar links:

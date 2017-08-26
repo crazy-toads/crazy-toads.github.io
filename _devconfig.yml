@@ -46,10 +46,10 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         crazy-toad
-  flickr:
+  #twitter:        
+  #facebook:       
+  #github:         crazy-toads
+  #flickr:
 
 ## sidebar links:
 # For external links add external: true
@@ -62,9 +62,9 @@ links:
     url: /blog/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
+  # - title: <i class="iconside iconm-twitter"></i> Twitter
+  #   url: https://twitter.com/abcd
+  #   external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 

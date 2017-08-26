@@ -3,10 +3,10 @@
             <ul class="social-icons">
             {% for social_item in site.data.socialmedia %}
               {% if social_item.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = site.url %}
-            {% endif %}
+                {% assign domain = '' %}
+                {% else %}
+                {% assign domain = site.url %}
+              {% endif %}
             <li><a href="{{ domain }}{{ social_item.url }}" rel="me" {% if social_item.url contains 'http' %} target="_blank" {% endif %} class="social-icons" title="{{ social_item.title }}"> <i class="{{ social_item.class }} fa-2x"></i></a></li>
             {% endfor %}          
             </ul>
