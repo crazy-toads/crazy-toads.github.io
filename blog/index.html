@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Blog @ example.com
-description: "Blogging on ...."
+title: Les ecrits des Crapauds fous
+description: "Les ecrits des Crapauds fous"
 ---
 
-<div class="posts">
+<div class="posts list">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h3>
+  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}
 
   {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> {{ post.date | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>{% endif %}
 
- {% if post.description.size > 140 %}{{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}{% else %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %} <a href="{{ site.url }}{{ post.url }}" title="Read more"><strong>Read more...</strong></a>
   </div>
   {% unless forloop.last %}<hr class="transp">{% endunless %}
   {% endfor %}

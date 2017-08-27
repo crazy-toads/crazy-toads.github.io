@@ -34,3 +34,9 @@
   margin-bottom: 30px;
   margin-top: -.5rem;
 }
+.posts.list h3 {
+  margin-bottom: 0;
+}
+.posts.list .post-date {
+  margin: 0;
+}
