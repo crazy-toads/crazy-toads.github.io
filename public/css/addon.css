@@ -25,3 +25,12 @@
 .text-footer span a {
   padding: 0 10px;
 }
+
+.authors {
+  font-size: .9em;
+  color: #90a959;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 30px;
+  margin-top: -.5rem;
+}
