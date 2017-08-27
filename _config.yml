@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year-:month-:day-:title/
 relative_permalinks: false
 
 # Setup
@@ -20,6 +20,7 @@ default_bg: sitelogo.png
 safe: false
 #timezone:    America/Chicago
 future:      true
+github: https://github.com/crazy-toads/crazy-toads.github.io
 
 gems:
   - jekyll-paginate
@@ -62,8 +63,8 @@ links:
     url: /blog/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+  - title: <i class="iconside iconm-github2"></i> Source
+    url: https://github.com/crazy-toads/crazy-toads.github.io
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml

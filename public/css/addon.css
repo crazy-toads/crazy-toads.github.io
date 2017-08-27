@@ -21,3 +21,7 @@
   font-weight: bold;
   font-style: italic;
 }
+
+.text-footer span a {
+  padding: 0 10px;
+}
