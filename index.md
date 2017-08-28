@@ -25,4 +25,6 @@ Voir <a href="{{ site.url }}/pdf/argu-manifeste-crapaud.pdf">Argu Manifeste Crap
 
 34 crapauds fous se sont réunis à la Fondation des Treilles du 3 au 7 avril 2017.
 
-De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de collaborer, de faire culture. Compte rendu des rencontres des Treilles
+De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de collaborer, de faire culture.
+
+[Compte rendu des rencontres des Treilles](/treilles_cr)
