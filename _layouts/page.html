@@ -4,6 +4,9 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.authors %}
+  <div class="authors">par {{ page.authors }}</div>
+  {% endif %}
   {{ content }}
 </div>
 

@@ -4,7 +4,7 @@ title: Intelligence collaborative en action
 authors: Asmaa Guedira, Laura-Jane Gautier, Francesca Pick
 date: "2017-05-20"
 slug: "intelligence_collaborative"
-description: "Hyper-Gender est un mouvement qui explore le changement de paradigme en cours dans nos sociétés autour du genre, de l’identité, et des interactions sociales au 21ème siècle."
+description: "Mettre en place des “processus d’engagement” inspirés du biomimétisme, pour favoriser la stigmergie au sein du collectif éphémère."
 categories:
     - Collaboratif
 ---
