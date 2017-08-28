@@ -7,6 +7,7 @@ description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 
 ## La théorie
 
+<img src="{{ site.urlimg }}/crapauds_fous_logo.png" width="200" align="right" />
 Les crapauds vivent dans une zone et se reproduisent dans d’autres. Chaque année, de manière grégaire, tous migrent dans le même sens. Lorsque nous construisons de nouvelles routes en travers, ils se font massivement écraser. Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que des écologistes font creuser pour eux sous les routes. Parce qu’ils s’aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d’avenir et sauvent l’espèce.
 
 Dans le genre humain, on pense à Christophe Colomb, parti à l’Ouest pour trouver les Indes. Ou à Tim Berners-Lee, qui a transformé un réseau à usage militaire en l’Internet que nous utilisons tous aujourd'hui.
