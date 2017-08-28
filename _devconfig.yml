@@ -60,9 +60,9 @@ links:
     url: /
   - title: <i class="iconside iconm-quill"></i> Textes
     url: /textes/
-  - title: <i class="iconside iconm-quill"></i> Crapauds
+  - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
-  - title: <i class="iconside iconm-quill"></i> Partenaires
+  - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
