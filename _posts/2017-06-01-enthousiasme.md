@@ -5,6 +5,8 @@ authors: Jean-Baptiste Moretti
 date: "2017-06-01"
 slug: "enthousiasme"
 description: "Nous devons voir le monde d'aujourd'hui tel qu'il est, pas pire qu'il ne l'est, afin de pouvoir vraiment envisager le monde de demain tel qu'il pourrait être."
+categories:
+    - Enthousiasme
 ---
 
 > « Nous avons la chance de vivre au cours de l'ère la plus paisible, la plus prospère et la plus progressiste de l'histoire de l'humanité. Ceci peut surprendre les jeunes gens qui regardent le télé ou leurs portables, tant il semble que seules tombent, de jour en jour, de mauvaises nouvelles. Mais prenez bien en considération qu'il s'est écoulé plusieurs décennies depuis le dernier conflit entre puissances majeures. »  
