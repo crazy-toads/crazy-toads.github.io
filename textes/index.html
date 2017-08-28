@@ -12,10 +12,23 @@ description: "Les ecrits des Crapauds fous"
         {{ post.title }}
       </a>
     </h3>
-  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}<br>
 
-  {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> {{ post.date | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>{% endif %}
+  {% if post.modified.size > 2 %}
+  <span class="post-date" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>
+  {% else %}
+  <span class="post-date" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> {{ post.date | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>
+  {% endif %}
 
+  <span class="post-tags">
+  {% for tag in post.categories %}
+    {% if forloop.first %}
+      <i class="fa fa-tags" title="page tags"></i>
+    {% endif %}
+    {{ tag }}
+    {% unless forloop.last %} &bull; {% endunless %}
+  {% endfor %}</span>
+  
   </div>
   {% unless forloop.last %}<hr class="transp">{% endunless %}
   {% endfor %}
@@ -23,15 +36,15 @@ description: "Les ecrits des Crapauds fous"
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.url }}/blog/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.url }}/textes/page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.url }}/blog/">Newer</a>
+      <a class="pagination-item newer" href="{{ site.url }}/textes/">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.url }}/blog/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.url }}/textes/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
