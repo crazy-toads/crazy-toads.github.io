@@ -6,6 +6,8 @@ title: Yamina Saheb
 description: Fondatrice et dirigeante du réseau OpenExp
 photo: yamina_saheb.jpg
 published: true
+twitter: "@ysaheb"
+linkedin: "https://www.linkedin.com/in/yamina-saheb-9b805a6?ppe=1"
 ---
 
 Ses admirateurs la décrivent comme “une force de la nature”, alors que ses détracteurs disent qu’elle est plutôt « un tsunami ». Qu’importe ! Des surnoms, elle en a depuis sa plus tendre enfance. 

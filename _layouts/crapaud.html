@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div class="page crapaud">
+  {% if page.twitter %}<a href="https://twitter.com/{{ page.twitter }}" class="crap-social"><i class="iconside iconm-twitter"> </i></a>{% endif %}
+  {% if page.linkedin %}<a href="{{ page.twitter }}" class="crap-social"><i class="iconside iconm-linkedin2"> </i></a>{% endif %}
   <h1 class="page-title">{{ page.title }}</h1>
   {% if page.description %}
   <div class="description">{{ page.description}}</div>
