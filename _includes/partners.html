@@ -1,6 +1,6 @@
 
 {% for page in site.pages %}
-{% if page.categories | first contains "Partenaires" %}
+{% if page.categories contains "Partenaire" %}
 <div><a href="{{ page.url }}">{{ page.title }}</a></div>
 {% endif %}
 {% endfor %}
