@@ -1,7 +1,6 @@
 
 {% for page in site.pages %}
-{% if (page.categories | first) == "crapaud" %}
-<div>{{ page.categories | first }}</div>
+{% if page.categories contains "crapaud" %}
 <div><a href="{{ page.url }}">{{ page.title }}</a></div>
 {% endif %}
 {% endfor %}
