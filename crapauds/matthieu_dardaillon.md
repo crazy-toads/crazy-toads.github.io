@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Matthieu Dardaillon
 description: Ticket for Change
 published: true

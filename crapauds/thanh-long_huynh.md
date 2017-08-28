@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Thanh-Long Huynh
 description: Fondateur et DG de QuantCube
 published: true

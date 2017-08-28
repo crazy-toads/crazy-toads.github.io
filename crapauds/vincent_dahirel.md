@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Vincent Dahirel
 description: Université Pierre &amp; Marie Curie, CRI
 published: true

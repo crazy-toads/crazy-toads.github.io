@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 relative_permalinks: false
 
 # Setup
@@ -14,7 +14,7 @@ baseurl: ""
 urlimg: https://crazy-toads.github.io/images
 markdown: kramdown
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/textes/page:num"
 excerpt_separator: <!--more-->
 default_bg: sitelogo.png 
 safe: false
@@ -57,10 +57,10 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-user"></i> A Propos
-    url: /apropos/
-  - title: <i class="iconside iconm-quill"></i> Blog
-    url: /blog/
+  - title: <i class="iconside iconm-quill"></i> Textes
+    url: /textes/
+  - title: <i class="iconside iconm-quill"></i> Partenaires
+    url: /partenaires/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-github2"></i> Source

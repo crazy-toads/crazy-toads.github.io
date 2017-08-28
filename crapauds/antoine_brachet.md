@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Antoine Brachet
 description: Les 100 Barbares
 published: true

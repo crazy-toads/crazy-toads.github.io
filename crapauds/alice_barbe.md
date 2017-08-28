@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Alice Barbe
 description: Directrice Générale de Singa
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Francesca Pick
 description: Le collaboratif trans-national
 published: true

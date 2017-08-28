@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Alexandre Delanoë
 description: Game Changer
 published: true

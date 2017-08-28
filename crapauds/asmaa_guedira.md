@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Asmaa Guédira
 description: « hyper-connectrice »
 published: true

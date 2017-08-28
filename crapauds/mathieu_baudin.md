@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Mathieu Baudin
 description: Les conspirateurs positifs
 published: true

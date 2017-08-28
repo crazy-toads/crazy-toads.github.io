@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Pierrick Judéaux
 description: Justice et citoyenneté sur tous les fronts
 published: true

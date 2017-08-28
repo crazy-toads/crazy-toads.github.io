@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Laura-Jane Gautier
 description: Journaliste TV et indépendante et Ouishare connector
 published: true

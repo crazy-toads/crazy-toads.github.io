@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Raphaël Bosch-Joubert
 description: Fondateur de 22EME SIECLE
 published: true

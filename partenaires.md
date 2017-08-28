@@ -4,5 +4,6 @@ title: Nos partenaires
 description: "Nos partenaires"
 ---
 
+## Les partenaires des Crapauds Fous
 
-## Nos partenaires
+{% include partners.html %}

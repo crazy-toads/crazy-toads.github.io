@@ -1,6 +1,7 @@
 ---
 layout: crapaud
-category: crapauds
+categories:
+  - crapaud
 title: Julien Derville
 description: jeune membre de l’AFM et co-fondateur de ZTP (Ze Twelfth Player)
 published: true
