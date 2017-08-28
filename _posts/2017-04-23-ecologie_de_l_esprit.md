@@ -3,7 +3,7 @@ layout: post
 title: Pour une écologie de l’esprit
 authors: Thanh Nghiem
 date: "2017-04-23"
-slug: "ecologie_de_l_esprit.md"
+slug: "ecologie_de_l_esprit"
 description: "Puisque le cerveau est un muscle, tout le monde peut s’entraîner. Quid des extrêmes, des gens qui souffrent d’atypisme ?"
 ---
 
@@ -53,6 +53,22 @@ Mon ami Chris Zobrist, né aveugle à 95% par déficience du nerf optique, a ré
 Fabienne a rédigé un [article sur les femmes autistes qui s’ignorent][4], et comment leur venir en aide. Quelques jours plus tard, le million de vues a été franchi, démontrant que le sujet fait mouche, et que de plus en plus de personnes sont prêtes à se prendre en main. 
 
 Pas de statistique ni de prêche ici. Ce qui me frappe, c’est que l’atypisme peut être un puissant moteur. Il l’a été pour moi et pour ceux que je connais. C’est parce que l’on souffre d’une différence, d’un trouble irrésolu, que l’on a la motivation pour aller plus loin, pour trouver des solutions qui fonctionnent enfin.
+
+### Conclusion 
+
+Faire crapaud fou, c’est valoriser sa (neuro)divergence ! Et ce, quelle que soit la forme d’intelligence considérée1. 
+
+Il faut en tout premier lieu changer de regard sur soi-même, prendre conscience qu’étant atypique, on n’est pas seul à doute. Ensuite, voir ceci : ce sont les quelques % aux extrêmes de la courbe gaussienne qui peuvent apporter un regard neuf et des solutions originales aux problèmes existants, créés par les systèmes dominants. Etant engoncés dans les normes qu’ils ont créées, ces derniers ne peuvent que tourner en boucle.
+
+On dit que les meilleurs guérisseurs sont les patients qui ont guéri. Eh bien voilà ! La différence et la souffrance s’ils la domptent, font d’eux des ambassadeurs authentiques. C’est parce que l’on s’est sorti d’une souffrance et de son tunnel, que l’on peut partager, aider ceux qui sont encore en chemin. C’est ainsi que l’on « remonte » la courbe gaussienne par le partage, l’inspiration, le jeu, puis alors on fait cohorte… 
+
+![courbe du changement]({{ site.urlimg }}/posts/courbe_du_changement.png)
+
+Connaissez-vous cette courbe ? C’est la fameuse courbe du changement, avec la théorie du Tipping Point (point de basculement). 
+
+Enseignée dans toutes les écoles de commerce, elle explique comment percer avec des produits innovants et met en exergue ce point de basculement où un phénomène marginal devient commun. Si l’on applique cette courbe à l’idée que « la survie de l’espèce passe par un changement de comportement », le crapaud fou se situe à la marge à gauche, là où tout commence. 
+
+Les cohortes favorisent la dynamique de contagion (positive), ainsi faire crapaud fou pourrait sauver l’espèce. 
 
 ---
 

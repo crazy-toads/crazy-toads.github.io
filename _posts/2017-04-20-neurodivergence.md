@@ -31,7 +31,7 @@ En bref, l’intelligence est conditionnée par nos sens, par la puissance des c
 
 De même qu’il n’existe pas deux visages identiques, il n’existe pas deux cerveaux identiques. C’est cette variabilité qui fait notre singularité. Toutefois, pour la majeure partie de la population, cette variabilité est marginale, dans le sens où les différences cognitives et perceptives entre deux individus ne pèsent pas lourd comparativement à tout ce qu’ils ont en commun. L’exemple du Quotient Intellectuel de Wechsler (une échelle de mesure des capacités intellectuelles, la plus utilisée, même si ce n’est pas la seule) permet de bien saisir cette notion. Comme on peut le voir sur la courbe ci-dessous, 82,2% de la population présente un QI entre 80 et 120, ce qui est considéré comme la normale. 
 
-![impossible?]({{ site.urlimg }}/posts/courbe_de_normalite.png)
+![courbe de normalité]({{ site.urlimg }}/posts/courbe_de_normalite.png)
 
 Il est essentiel de saisir que nous parlons ici de normalité statistique. En aucun cas, il ne devrait s’agir d’une évaluation de la valeur des individus. Hélas, ce terme de normalité est trompeur et évoque une notion de standard de référence, facilement interprété comme un idéal à atteindre. En d’autres termes, parler de normalité est, qu’on le veuille ou non, normatif. 
 
