@@ -59,6 +59,8 @@ links:
     url: /
   - title: <i class="iconside iconm-quill"></i> Textes
     url: /textes/
+  - title: <i class="iconside iconm-user"></i> Cercles
+    url: /cercles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
