@@ -58,7 +58,7 @@
   float: right;
   margin-left: 10px;
 }
-@media (min-width: 1260px) {
+@media (min-width: 56em) {
   .sidebar {
     visibility: visible;
     left: 0;
@@ -66,5 +66,12 @@
   }
   .sidebar-toggle {
     visibility: hidden;
+  }
+}
+
+@media (min-width: 56em) {
+  .container {
+      max-width: 54rem;
+      margin-left: 14rem;
   }
 }
