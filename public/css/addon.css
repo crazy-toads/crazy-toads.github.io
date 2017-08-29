@@ -58,3 +58,13 @@
   float: right;
   margin-left: 10px;
 }
+@media (min-width: 1260px) {
+  .sidebar {
+    visibility: visible;
+    left: 0;
+    z-index: 2;
+  }
+  .sidebar-toggle {
+    visibility: hidden;
+  }
+}
