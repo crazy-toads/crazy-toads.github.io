@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Pour une écologie de l’esprit
-authors: Thanh Nghiem
-date: "2017-04-23"
+authors: 
+  - Thanh Nghiem
+date: "2017-09-12"
 slug: "ecologie_de_l_esprit"
 description: "Puisque le cerveau est un muscle, tout le monde peut s’entraîner. Quid des extrêmes, des gens qui souffrent d’atypisme ?"
 ---

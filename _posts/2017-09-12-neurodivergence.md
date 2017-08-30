@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Neurodivergence
-authors: Fabienne Cazalis
-date: "2017-04-20"
+authors: 
+  - Fabienne Cazalis
+date: "2017-09-12"
 slug: "neurodivegrence"
 description: "Ces contraintes que nos sens et nos émotions imposent à notre intelligence peuvent entrainer des complications… imperceptibles."
 ---

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: La proximité, cœur du 21eme siècle, à l’heure de la révolution numérique
-authors: Olivier Lebel
-date: "2017-05-05"
+authors: 
+  - Olivier Lebel
+date: "2017-09-12"
 slug: "proximite"
 description: "Le 21e siècle est celui de la proximité, de la collaboration horizontale, avec ses voisins, avec ses réseaux, dans la confiance."
 categories:

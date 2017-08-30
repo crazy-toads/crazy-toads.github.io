@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Diversité culturelle
-authors: Alice Barbe, Jean-Baptiste de Foucauld, Pierrick Judéaux, Olivier Lebel
-date: "2017-05-15"
+authors: 
+  - Alice Barbe
+  - Jean-Baptiste de Foucauld
+  - Pierrick Judéaux
+  - Olivier Lebel
+date: "2017-09-12"
 slug: "diversite_culturelle"
 description: "L’Autre est souvent plus proche de nous que l’on ne l’imagine."
 categories:

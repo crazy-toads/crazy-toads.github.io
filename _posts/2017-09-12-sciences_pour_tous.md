@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Sciences pour tous
-authors: Vincent Dahirel, CRI (Centre de Recherche Interdisciplinaire)
-date: "2017-04-28"
+authors: 
+  - Vincent Dahirel
+date: "2017-09-12"
 slug: "sciences_pour_tous"
 description: "La science peut être amusante, étonnante, passionnante, poétique..."
 ---

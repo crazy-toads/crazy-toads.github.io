@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Game Changer
-authors: Alexandre Delanoë
-date: "2017-04-25"
+authors: 
+  - Alexandre Delanoë
+date: "2017-09-12"
 slug: "game_changer"
 description: "On parle beaucoup d’intelligence émotionnelle (le QE au lieu du QI), mais il existe de nombreuses autres formes d’intelligences..."
 categories:
-    - GameChangers
+    - Game Changers
 ---
 
 On parle beaucoup d’intelligence émotionnelle (le QE au lieu du QI), mais il existe de nombreuses autres formes d’intelligences aujourd’hui reconnues par les chercheurs (étymologiquement, inter-legere signifie lire entre les lignes, relier) : spatiale (le conducteur de Formule 1 qui mémorise et anticipe les virages du circuit), musicale, kinesthésique, visuelle…

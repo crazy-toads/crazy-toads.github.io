@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Osons prototyper le monde nouveau, courageux et bienveillant que nous savons possible
-authors: Jeronimo Calderon et Michele Grambeau, cohorte de Californie
-date: "2017-04-10"
+authors: 
+  - Jeronimo Calderon
+  - Michele Grambeau
+  - cohorte de Californie
+date: "2017-09-12"
 slug: "monde_nouveau"
 description: Ce qui paraît impossible l’est toujours jusqu’à ce que ce soit fait.
 imagefeature: "{{ site.urlimg }}/posts/it_always_seems_impossible.jpg"
@@ -10,12 +13,9 @@ imagefeature: "{{ site.urlimg }}/posts/it_always_seems_impossible.jpg"
 
 *Ce qui paraît impossible l’est toujours jusqu’à ce que ce soit fait.*
 
+![impossible?]({{ site.urlimg }}/posts/it_always_seems_impossible.jpg)
 
 Il est grand temps de reprendre en main notre avenir et les histoires que nous nous racontons à son sujet. En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Mais bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment leurs systèmes politiques, économiques, environnementaux et culturels.
-
-<!-- more -->
-
-![impossible?]({{ site.urlimg }}/posts/it_always_seems_impossible.jpg)
 
 Dans le cadre de cette histoire naissante, certains de nos amis en France ont pris le risque de publier ce livre, nous offrant un terrain de jeux créatif pour ré-imaginer sérieusement la direction que doit prendre l’humanité. Et c’est là que nous intervenons, vous, lecteurs, et nous. Dans un véritable esprit de co-création, nous vous invitons à nous rejoindre pour explorer les initiatives qui voient le jour un peu partout dans le monde. C’est notre « mission Mars vers la Terre » ! Ce qui nous a paru le plus vivant et vibrant à cet instant précis, a été notre source d’inspiration. Nous vous suggérons d’imaginer votre monde comme une page blanche pour effectuer un prototypage rapide du « saut quantique » que vous, nous, et l’humanité tout entière doit faire. Nous nous sommes réunis en cohorte dans la campagne californienne et avons dégagé trois points de départ pour ce cheminement :
 
@@ -27,4 +27,4 @@ Deuxièmement, nous avons besoin de plus d’espaces sécurisants (safe spaces) 
 
 Troisièmement, nous demandons plus de récits inspirants sur la façon dont des innovateurs et des game changers déraisonnables repoussent déjà les limites de ce qui est possible dans le monde entier. Faisons en sorte de rendre visible et de célébrer la manière dont ils réinventent les leviers que sont les récits, la participation, l’argent, l’infrastructure et le bien-être ! Nous voulons que vous et nous, les citoyens du monde, puissions facilement nous brancher sur ce nouveau mouvement de l’imagination, prometteur et vibrant, pour découvrir comment participer aux initiatives les plus enthousiasmantes œuvrant à cette transition. Nous rêvons de festivals locaux, d’ateliers de fabrication (maker-spaces), de laboratoires de fabrication (fab labs), de dîners de la diversité, de hackatons pour des villes durables et d’autres initiatives originales, partout dans le monde. Nous voulons tester des idées qui permettent à tous, partout et à tout moment, de s’extraire de la matrice actuelle de peur et de pénurie, pour commencer à jouer avec nous sur des bases scientifiques telles que le Gap Frame3, pour nous aider à concentrer nos efforts là où ils seront les plus efficaces ! Par conséquent, nous avons l’intention de prototyper ces opportunités d’engagement pour vous, et avec vous. La première étape consiste à codifier tout ce que nous avons appris jusqu’ici sur la manière d’animer de tels espaces sécurisés pour l’imagination et à élaborer une boîte à outils pour vous permettre de faire de même avec les personnes qui vous sont chères. Si vous souhaitez rejoindre notre mouvement, rendez-vous sur le site du crapaud fou, nous vous y attendons avec impatience ! 
 
-Pour conclure (et nous savons de quoi nous parlons, nous vivons aux États-Unis), qui sont vos dirigeants politiques compte, et en même temps ne compte pas. Au final, nous sommes TOUS responsables4 du type de monde dans lequel nous vivons et TOUS capables d’apporter une réponse, et nous le transmettrons fièrement aux générations futures. Ce faisant, échouons vite, brièvement et à peu de frais, de façon à pouvoir non seulement apprendre de nos erreurs, mais aussi profiter de cette exploration commune de la vie. Car, quoi qu’il en soit, ce processus en lui-même deviendra très probablement « l’histoire » la plus palpitante que nous raconterons à nos petits-enfants : le qui, quoi, comment, quand, où et pourquoi de notre aventure pour changer le monde (voilà, maintenant, c’est dit). Enfin et surtout, un point important : veuillez garder à l’esprit qu’en prototypant ce genre de choses, nous n’aspirons pas à l’exhaustivité, à la perfection ou à la prédiction, nous voulons seulement impulser quelque chose. Organisons cette expérience avec légèreté, osons échouer avec sincérité et grandissons ensemble ! Dans la lignée de la citation de Tom Robbins : « L’humanité a avancé, quand elle a avancé, non parce qu’elle a été sobre, responsable et prudente, mais parce qu’elle a été ludique, rebelle et immature. »  
+Pour conclure (et nous savons de quoi nous parlons, nous vivons aux États-Unis), qui sont vos dirigeants politiques compte, et en même temps ne compte pas. Au final, nous sommes TOUS responsables du type de monde dans lequel nous vivons et TOUS capables d’apporter une réponse, et nous le transmettrons fièrement aux générations futures. Ce faisant, échouons vite, brièvement et à peu de frais, de façon à pouvoir non seulement apprendre de nos erreurs, mais aussi profiter de cette exploration commune de la vie. Car, quoi qu’il en soit, ce processus en lui-même deviendra très probablement « l’histoire » la plus palpitante que nous raconterons à nos petits-enfants : le qui, quoi, comment, quand, où et pourquoi de notre aventure pour changer le monde (voilà, maintenant, c’est dit). Enfin et surtout, un point important : veuillez garder à l’esprit qu’en prototypant ce genre de choses, nous n’aspirons pas à l’exhaustivité, à la perfection ou à la prédiction, nous voulons seulement impulser quelque chose. Organisons cette expérience avec légèreté, osons échouer avec sincérité et grandissons ensemble ! Dans la lignée de la citation de Tom Robbins : « L’humanité a avancé, quand elle a avancé, non parce qu’elle a été sobre, responsable et prudente, mais parce qu’elle a été ludique, rebelle et immature. »  

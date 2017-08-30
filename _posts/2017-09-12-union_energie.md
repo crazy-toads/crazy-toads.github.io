@@ -1,8 +1,9 @@
 ---
 layout: post
 title: L’Union de l’Energie 
-authors: Yamina Saheb
-date: "2017-05-03"
+authors: 
+  - Yamina Saheb
+date: "2017-09-12"
 slug: "union_europe"
 description: "A nous, peuple d’Europe, de choisir la transition énergétique que nous souhaitons."
 categories:

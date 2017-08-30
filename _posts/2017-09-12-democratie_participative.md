@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Démocratie participative : vue d’ensemble"
-authors: Antoine Brachet
-date: "2017-05-22"
+authors: 
+  - Antoine Brachet
+date: "2017-09-12"
 slug: "democratie_participative"
 description: "3 initiatives pour se réapproprier de nouvelles formes de pouvoir."
 categories:
-    - Démocratie
+  - Démocratie
 ---
 
 "On n’hérite pas la terre de nos parents, on la lègue à nos enfants." Cette phrase injustement attribuée à Antoine de Saint-Exupery, en fait la traduction d’un proverbe indien, propose à chaque génération de comprendre le monde dans lequel elle vit. De choisir ses valeurs. Et de prendre la responsabilité d’agir. A son niveau. Pour la génération d’après.

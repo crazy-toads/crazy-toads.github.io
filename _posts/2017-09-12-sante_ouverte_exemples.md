@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Open Santé – start-ups exemplaires
-authors: Olivier de Fresnoye
-date: "2017-05-11"
+authors: 
+  - Olivier de Fresnoye
+date: "2017-09-12"
 slug: "sante_ouverte_exemples"
 description: "Des startups remarquables de l'open santé."
 ---

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Santé ouverte, collaborative et Data-driven
-authors: Olivier de Fresnoye
-date: "2017-05-10"
+authors: 
+  - Olivier de Fresnoye
+date: "2017-09-12"
 slug: "sante_ouverte"
 description: "Il est indispensable de pousser l'écosystème de santé vers une meilleure culture de l'ouverture."
 ---

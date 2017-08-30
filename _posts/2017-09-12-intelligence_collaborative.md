@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Intelligence collaborative en action
-authors: Asmaa Guedira, Laura-Jane Gautier, Francesca Pick
-date: "2017-05-20"
+authors: 
+  - Asmaa Guedira
+  - Laura-Jane Gautier
+  - Francesca Pick
+date: "2017-09-12"
 slug: "intelligence_collaborative"
 description: "Mettre en place des “processus d’engagement” inspirés du biomimétisme, pour favoriser la stigmergie au sein du collectif éphémère."
 categories:

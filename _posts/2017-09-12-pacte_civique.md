@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Pacte Civique, Démocratie et Spiritualité"
-authors: Jean-Baptiste de Foucauld
-date: "2017-05-24"
+authors: 
+  - Jean-Baptiste de Foucauld
+date: "2017-09-12"
 slug: "pacte_civique"
 description: "Comment le politique peut-il interagir avec le spirituel pour résoudre les problèmes de nos sociétés sans repères."
 categories:
-    - Europe
+  - Europe
 ---
 
 Comment le politique peut-il interagir avec le spirituel pour résoudre les problèmes de nos sociétés sans repères ? Voilà le sujet qui me motive en profondeur depuis l’adolescence : ces deux dimensions doivent s’étayer, « s’unir sans se confondre, se distinguer sans se séparer », mais ce n’est pas commode tant sont puissantes les passions simplificatrices.

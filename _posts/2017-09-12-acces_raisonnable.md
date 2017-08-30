@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Le web et les préjugés : pourquoi donner accès à plus d’information ne rend pas les gens plus raisonnables (tout au contraire)"
-authors: Arnaud Chaput
-date: "2017-04-17"
+authors: 
+  - Arnaud Chaput
+date: "2017-09-12"
 slug: "acces_raisonnable"
 description: "Si Internet favorisait non l’information, mais la désinformation ? Et si, pire, Internet ne facilitait en rien la naissance d’une information pure et parfaite, mais au contraire la confrontation stérile de points de vue."
 categories:
-  - BigData
+  - Big Data
 ---
 
 Pour peu que l’on parte du principe simple que le citoyen fait les mauvais choix parce qu’il est mal informé (logique à l’origine de la représentation du rôle de la presse libre dans les démocraties), alors Internet devrait sonner le début d’une ère de connaissance pure, et de triomphe de la vérité scientifique. Et là, apparaissent les fake news, et tout s’effondre.
