@@ -16,7 +16,12 @@ category: base
 <h2 id="{{ this_word }}">{{ this_word }}</h2>
 <ul class="post-list">
   {% for post in site.categories[this_word] %}{% if post.title != null %}
-  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></span></a></li>
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></span></a>
+  <div class="description">
+  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  <a href="{{ site.url }}{{ post.url }}" class="readmore">lire la suite</a>
+  </div>
+  </li>
   {% endif %}{% endfor %}
   </ul>
 {% endunless %}{% endfor %}
