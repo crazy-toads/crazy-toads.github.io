@@ -58,6 +58,11 @@
   float: right;
   margin-left: 10px;
 }
+.sidelogo {
+  position: fixed;
+  right: 0;
+  display: none;
+}
 @media (min-width: 56em) {
   .sidebar {
     visibility: visible;
@@ -67,11 +72,13 @@
   .sidebar-toggle {
     visibility: hidden;
   }
-}
-
-@media (min-width: 56em) {
   .container {
       max-width: 54rem;
       margin-left: 14rem;
+  }
+}
+@media (min-width: 110em) {
+  .sidelogo {
+    display: block;
   }
 }
