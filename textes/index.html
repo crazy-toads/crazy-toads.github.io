@@ -12,7 +12,8 @@ description: "Les ecrits des Crapauds fous"
         {{ post.title }}
       </a>
     </h3>
-  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}<br>
+  {{ post.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  <a href="{{ site.url }}{{ post.url }}" class="readmore">lire la suite</a><br>
 
   {% if post.modified.size > 2 %}
   <span class="post-date" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i> {% if post.category contains "featured" %}<a href="{{ site.url }}/featured" title="Featured posts"><i class="fa fa-paperclip" title="Featured" class="social-icons"></i></a>{% endif %}</span>
