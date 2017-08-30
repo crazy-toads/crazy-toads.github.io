@@ -57,7 +57,7 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-quill"></i> Textes
+  - title: <i class="iconside iconm-quill"></i> Blog
     url: /textes/
   - title: <i class="iconside iconm-user"></i> Cercles
     url: /cercles/
