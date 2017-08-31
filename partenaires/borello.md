@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Jean-Louis Borello – Président du Groupe SOS "
+title: "Jean-Louis Borello"
+description: Président du Groupe SOS
 categories:
   - Partenaire
 ---

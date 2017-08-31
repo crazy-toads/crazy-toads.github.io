@@ -82,10 +82,10 @@
   display: none;
 }
 
-.crapaud {
+.crapaud, .partner {
   margin-top: .8em;
 }
-.crapaud .description {
+.crapaud .description, .partner .description {
   font-size: .9em;
   line-height: 1em;
 }

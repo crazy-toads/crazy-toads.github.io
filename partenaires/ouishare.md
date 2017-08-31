@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OuiShare"
-authors: Asmaa Guedira et Francesca Pick
+description: Asmaa Guedira et Francesca Pick
 categories:
   - Partenaire
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Thierry Brunel – mécène des crapauds fous"
+title: "Thierry Brunel"
+description: mécène des crapauds fous
 categories:
   - Partenaire
 ---

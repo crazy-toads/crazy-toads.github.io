@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Peter Maurer – Président de la Croix Rouge Internationale"
+title: "Peter Maurer"
+description: Président de la Croix Rouge Internationale
 categories:
   - Partenaire
 ---

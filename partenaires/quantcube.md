@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "QuantCube, chevalier blanc de la donnée ?"
+title: "QuantCube"
+description: chevalier blanc de la donnée ?
 categories:
   - Partenaire
 ---
