@@ -27,7 +27,11 @@ layout: default
     {% include meta_info.html %}
   {% endunless %}
   {% if page.authors %}
-  <div class="authors">Par {{ page.authors }}</div>
+  <div class="authors">Par 
+    {% for author in page.authors %}
+      {{ author }}{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </div>
   {% endif %}
 
   {{ content }}
