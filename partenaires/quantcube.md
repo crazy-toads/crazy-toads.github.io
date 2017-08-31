@@ -1,6 +1,7 @@
 ---
 layout: partner
 title: "QuantCube"
+sortkey: quantcube
 description: chevalier blanc de la donnée ?
 categories:
   - Partenaire

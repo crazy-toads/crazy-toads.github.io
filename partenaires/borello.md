@@ -1,6 +1,7 @@
 ---
 layout: partner
 title: "Jean-Louis Borello"
+sortkey: borello
 description: Président du Groupe SOS
 categories:
   - Partenaire

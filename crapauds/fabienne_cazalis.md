@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Fabienne Cazalis
+sortkey: cazalis
 description: Chercheuse en neuroscience au CNRS, casse les frontières
 published: true
 ---

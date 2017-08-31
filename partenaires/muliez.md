@@ -1,6 +1,7 @@
 ---
 layout: partner
 title: "Association Familiale Mulliez"
+sortkey: mulliez
 description: Julien Derville et Augustin Poupard
 categories:
   - Partenaire

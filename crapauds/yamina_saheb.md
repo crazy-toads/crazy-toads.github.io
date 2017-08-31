@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Yamina Saheb
+sortkey: saheb
 description: Fondatrice et dirigeante du réseau OpenExp
 photo: yamina_saheb.jpg
 published: true

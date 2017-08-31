@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Sofia Calcagno et Jean-Batiste Gheraert
+sortkey: calcagno
 description: data scientists
 published: true
 ---

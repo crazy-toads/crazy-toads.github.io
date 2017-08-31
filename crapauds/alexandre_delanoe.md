@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Alexandre Delanoë
+sortkey: delanoe
 description: Game Changer
 published: true
 ---

@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Olivier Lebel
+sortkey: lebel
 description: Proximus, l’ONG virtuelle du 21° siècle ?
 published: true
 ---

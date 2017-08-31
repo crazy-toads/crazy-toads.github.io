@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Augustin Poupard
+sortkey: poupard
 description: Jeune membre de l’AFM, EDHEC BBA
 published: true
 ---

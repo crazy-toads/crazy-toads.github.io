@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Jean-Baptiste de Foucauld
+sortkey: foucauld
 description: Pacte Civique, Démocratie et Spiritualité
 published: true
 ---

@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Asmaa Guédira
+sortkey: guedira
 description: « hyper-connectrice »
 published: true
 ---

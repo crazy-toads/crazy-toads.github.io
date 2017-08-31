@@ -1,5 +1,6 @@
 
-{% for page in site.pages %}
+{% assign pages = site.pages | sort: 'sortkey' %}
+{% for page in pages %}
 {% if page.categories contains "Partenaire" %}
 <div class="partner">
 <div class="name"><a href="{{ page.url }}">{{ page.title }}</a></div>

@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Olivier de Fresnoye
+sortkey: fresnoye
 description: Open Santé
 published: true
 ---

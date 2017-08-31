@@ -1,6 +1,7 @@
 ---
 layout: partner
 title: "OuiShare"
+sortkey: ouishare
 description: Asmaa Guedira et Francesca Pick
 categories:
   - Partenaire

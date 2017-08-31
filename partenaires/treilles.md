@@ -1,6 +1,7 @@
 ---
 layout: partner
 title: "La Fondation des Treilles"
+sortkey: treilles
 description: Les sciences et les arts
 categories:
   - Partenaire

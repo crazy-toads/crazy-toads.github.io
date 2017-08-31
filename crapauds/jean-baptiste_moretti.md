@@ -3,6 +3,7 @@ layout: crapaud
 categories:
   - crapaud
 title: Jean-Baptiste Moretti
+sortkey: moretti
 description: musicien et entrepreneur engagé
 published: true
 ---
