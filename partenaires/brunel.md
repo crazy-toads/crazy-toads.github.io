@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "Thierry Brunel"
 description: mécène des crapauds fous
 categories:

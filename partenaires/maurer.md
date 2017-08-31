@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "Peter Maurer"
 description: Président de la Croix Rouge Internationale
 categories:

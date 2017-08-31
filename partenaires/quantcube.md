@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "QuantCube"
 description: chevalier blanc de la donnée ?
 categories:

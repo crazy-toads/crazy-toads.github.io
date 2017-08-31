@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "OuiShare"
 description: Asmaa Guedira et Francesca Pick
 categories:

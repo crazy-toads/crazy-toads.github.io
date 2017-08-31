@@ -21,7 +21,11 @@ Credits: {{ site.url }}/disclosure
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <!-- <small>{{ site.tagline }}</small> -->
             <div class="headicons">
+              {% if page.linktitle %}
+              <small><a href="{{ site.url }}{{ page.linkurl }}" rel="me">{{ page.linktitle }}</a></small>
+              {% else %}
               <small><a href="{{ site.url }}/cercles" rel="me" title="Textes">Cercles de reflexion <i class="iconm iconm-quill"></i></a></small>
+              {% endif %}
             </div>           
           </h3>
         </div>

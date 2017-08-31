@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "La Fondation des Treilles"
 description: Les sciences et les arts
 categories:

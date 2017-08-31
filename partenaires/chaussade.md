@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: partner
 title: "Jean-Louis Chaussade"
 description: Directeur Général de Suez
 categories:
