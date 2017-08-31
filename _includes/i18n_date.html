@@ -1,0 +1,6 @@
+{% capture i18n_date %}
+{{ page.date | date: "%-d" }}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{{ site.data.fr.months[m] }}
+{{ page.date | date: "%Y" }}
+{% endcapture %}
