@@ -2,7 +2,7 @@
 layout: post
 title: Hypergender
 authors: 
-  - Asmaa Guedira
+  - Asmaa Guédira
 date: "2017-09-12"
 slug: "hypergender"
 description: "Hyper-Gender est un mouvement qui explore le changement de paradigme en cours dans nos sociétés autour du genre, de l’identité, et des interactions sociales au 21ème siècle."

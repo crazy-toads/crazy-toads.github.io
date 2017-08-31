@@ -2,7 +2,7 @@
 layout: post
 title: Intelligence collaborative en action
 authors: 
-  - Asmaa Guedira
+  - Asmaa Guédira
   - Laura-Jane Gautier
   - Francesca Pick
 date: "2017-09-12"

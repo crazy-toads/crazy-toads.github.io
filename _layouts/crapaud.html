@@ -15,7 +15,12 @@ layout: default
   <img src="{{ site.urlimg }}/profiles/crazy-toad-grey-256.png" class="photo" width="256" height="256" />
   {% endif %}
   {{ content }}
+
+  <hr class="">
+  {% include crapaud_posts.html %}
+
 </div>
+
 
 {% unless page.hide_printmsg == true %}
   {% include printmsgpages.html %}
