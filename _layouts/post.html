@@ -28,8 +28,8 @@ layout: default
   {% endunless %}
   {% if page.authors %}
   <div class="authors">Par 
-    {% for author in page.authors %}
-      {{ author }}{% unless forloop.last %}, {% endunless %}
+    {% for author in page.authors %}{% assign found = false %}
+      {% for page in site.pages %}{% if page.title == author %}<a href="{{ page.url }}"><i class=""> </i> {{ author }}</a>{% assign found = true %}{% endif %}{% endfor %}{% unless found %}{{ author }}{% endunless %}{% unless forloop.last %}, {% endunless %}
     {% endfor %}
   </div>
   {% endif %}
