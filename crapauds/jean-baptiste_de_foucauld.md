@@ -5,6 +5,8 @@ categories:
 title: Jean-Baptiste de Foucauld
 sortkey: foucauld
 description: Pacte Civique, Démocratie et Spiritualité
+photo: jeanbaptiste_defoucauld.jpg
+wikipedia: https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Foucauld
 published: true
 ---
 
