@@ -13,8 +13,6 @@ imagefeature: "{{ site.urlimg }}/posts/it_always_seems_impossible.jpg"
 
 *Ce qui paraît impossible l’est toujours jusqu’à ce que ce soit fait.*
 
-![impossible?]({{ site.urlimg }}/posts/it_always_seems_impossible.jpg)
-
 Il est grand temps de reprendre en main notre avenir et les histoires que nous nous racontons à son sujet. En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Mais bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment leurs systèmes politiques, économiques, environnementaux et culturels.
 
 Dans le cadre de cette histoire naissante, certains de nos amis en France ont pris le risque de publier ce livre, nous offrant un terrain de jeux créatif pour ré-imaginer sérieusement la direction que doit prendre l’humanité. Et c’est là que nous intervenons, vous, lecteurs, et nous. Dans un véritable esprit de co-création, nous vous invitons à nous rejoindre pour explorer les initiatives qui voient le jour un peu partout dans le monde. C’est notre « mission Mars vers la Terre » ! Ce qui nous a paru le plus vivant et vibrant à cet instant précis, a été notre source d’inspiration. Nous vous suggérons d’imaginer votre monde comme une page blanche pour effectuer un prototypage rapide du « saut quantique » que vous, nous, et l’humanité tout entière doit faire. Nous nous sommes réunis en cohorte dans la campagne californienne et avons dégagé trois points de départ pour ce cheminement :
