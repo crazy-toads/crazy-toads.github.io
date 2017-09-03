@@ -6,7 +6,7 @@ title: Asmaa Guédira
 sortkey: guedira
 description: « hyper-connectrice »
 photo: Asmaa_guedira.jpg
-twitter: "@@asgued"
+twitter: "@asgued"
 linkedin: "https://www.linkedin.com/in/asmaaguedira/"
 published: true
 ---
