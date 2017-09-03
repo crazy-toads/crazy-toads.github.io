@@ -9,7 +9,7 @@ date: "2017-09-12"
 slug: "intelligence_collaborative"
 description: "Mettre en place des “processus d’engagement” inspirés du biomimétisme, pour favoriser la stigmergie au sein du collectif éphémère."
 categories:
-    - Collaboratif
+    - Diversité culturelle
 ---
 
 L’écriture de ce manifeste n’aurait pas été possible sans la mobilisation et l’action collective de 34 crapauds fous, de 21 à 75 ans, réunies pour s’inspirer mutuellement et co-créer les différents cercles évoqués précédemment. 
