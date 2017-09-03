@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "language commun"
+title: "Language commun"
 authors: 
   - Jean-Baptiste Moretti
 date: "2017-09-12"
