@@ -5,6 +5,9 @@ categories:
 title: Antoine Brachet
 sortkey: brachet
 description: Les 100 Barbares
+photo: antoine_brachet.jpg
+twitter: "@antoinebrachet"
+linkedin: "https://www.linkedin.com/in/brachetantoine/"
 published: true
 ---
 
