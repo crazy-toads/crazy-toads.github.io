@@ -5,6 +5,9 @@ categories:
 title: Matthieu Dardaillon
 sortkey: dardaillon
 description: Ticket for Change
+photo: matthieu_dardaillon.jpg
+twitter: "@MatthieuDard"
+linkedin: "https://www.linkedin.com/in/matthieu-dardaillon-a62b3828/ "
 published: true
 ---
 
