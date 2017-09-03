@@ -5,6 +5,9 @@ categories:
 title: Augustin Poupard
 sortkey: poupard
 description: Jeune membre de l’AFM, EDHEC BBA
+photo: augustin_poupard.jpg
+twitter: @augustinpoup
+linkedin: "https://www.linkedin.com/in/augustin-poupard-15a49a99/"
 published: true
 ---
 
