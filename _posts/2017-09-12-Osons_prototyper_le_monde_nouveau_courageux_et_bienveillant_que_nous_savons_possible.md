@@ -2,7 +2,8 @@
 layout: post
 title: "Osons prototyper le monde nouveau, courageux et bienveillant que nous savons possible"
 authors: 
-  - Jerónimo Calderón et Michelle Grambeau, 
+  - Jerónimo Calderón
+  - Michelle Grambeau, 
 date: "2017-09-12"
 slug: "Monde nouveau"
 description: "Nous avons tous notre pierre à apporter à l’édifice."
