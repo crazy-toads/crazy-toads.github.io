@@ -2,7 +2,7 @@
 layout: post
 title: Pourquoi l'Europe
 authors: 
-  - Yamina Saheb
+  - Yamina Saheb
   - Thanh Nghiem
 date: "2017-09-12"
 slug: "europe"
