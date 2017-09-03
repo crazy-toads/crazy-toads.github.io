@@ -5,8 +5,12 @@ categories:
 title: Alexandre Delanoë
 sortkey: delanoe
 description: Game Changer
+photo: Alexandre_Delanoe.jpg
+twitter: "@adelanoe"
+linkedin: "https://www.linkedin.com/in/alexandredelanoe/?ppe=1"
 published: true
 ---
+
 
 Alexandre Delanoë était initialement formé pour faire du commerce.
 
