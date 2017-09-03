@@ -8,7 +8,7 @@ date: "2017-09-12"
 slug: "monde_nouveau"
 description: "Nous avons tous notre pierre à apporter à l’édifice."
 categories:
-  - Enthousiasme
+  - Enthousiasme
 ---
 
 En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment les systèmes existants.
