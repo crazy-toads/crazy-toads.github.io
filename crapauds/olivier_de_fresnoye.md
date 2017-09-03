@@ -5,6 +5,9 @@ categories:
 title: Olivier de Fresnoye
 sortkey: fresnoye
 description: Open Santé
+photo: olivier_defresnoye.jpg
+twitter: "@OFresnoye"
+linkedin: "https://www.linkedin.com/in/olivier-de-fresnoye-23045934/ "
 published: true
 ---
 
