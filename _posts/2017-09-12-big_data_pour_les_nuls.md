@@ -52,14 +52,14 @@ Soyez conscient des données que vous partagez (et avec qui) :
 
 -	Les moteurs de recherche (Google, Bing) gardent l’historique des recherches et les associent à des utilisateurs (à travers leurs données de navigation ou simplement de leur connexion à leurs comptes utilisateur) : information précieuse pour déterminer vos centres d’intérêt pour du marketing ou du profiling, ainsi que pour améliorer votre expérience client et fluidifier l’utilisation de leurs services. Lorsque vous partagez vos photos, vous rendez accessible sans vous en douter un certain nombre d’informations :
 
- -Pour apprendre à effectuer une tâche d’intelligence artificielle, une machine a besoin d’exemples. Dans le cas d’algorithmes de reconnaissance faciale, elle a besoin d’avoir plusieurs photos du visage d’une même personne pour arriver à définir les caractéristiques qui lui permettront de l’identifier. Ainsi, lorsque vous taguez quelqu’un sur une photo dans un réseau social, vous êtes en fait en train de créer ces exemples (labelliser des données) et rendez possible pour l’entreprise hébergeant ce contenu de faire tourner des algorithmes de reconnaissance faciale sur cette personne.
+-	Pour apprendre à effectuer une tâche d’intelligence artificielle, une machine a besoin d’exemples. Dans le cas d’algorithmes de reconnaissance faciale, elle a besoin d’avoir plusieurs photos du visage d’une même personne pour arriver à définir les caractéristiques qui lui permettront de l’identifier. Ainsi, lorsque vous taguez quelqu’un sur une photo dans un réseau social, vous êtes en fait en train de créer ces exemples (labelliser des données) et rendez possible pour l’entreprise hébergeant ce contenu de faire tourner des algorithmes de reconnaissance faciale sur cette personne.
  
- -Extraire de l’information depuis des photos est facile : un réseau de neurones peut aisément reconnaître certains objets (au sens large de la vision par ordinateur) : présence de chats, chiens, humains, arbres, tables… car il existe des bases de données fournies avec des exemples de ce genre d’objets. Mais des informations moins triviales peuvent être déduites par des organismes disposants de bases d’exemples plus fournies et spécifiques :
+-	Extraire de l’information depuis des photos est facile : un réseau de neurones peut aisément reconnaître certains objets (au sens large de la vision par ordinateur) : présence de chats, chiens, humains, arbres, tables… car il existe des bases de données fournies avec des exemples de ce genre d’objets. Mais des informations moins triviales peuvent être déduites par des organismes disposants de bases d’exemples plus fournies et spécifiques :
  
-    -Détection de lieux (permet de traquer les déplacements).
-	 -Détection de marques (à travers les logos) ou de produits consommés (permet de connaître les habitudes de consommation).
-	 -Informations sur une personne – genre, âge, ethnie… (permet de cibler pour un marketing personnalisé).
-	 -Changements dans la vie d’une personne (mariage, grossesse, enfants, accident…).
+    -	Détection de lieux (permet de traquer les déplacements).
+	 -	Détection de marques (à travers les logos) ou de produits consommés (permet de connaître les habitudes de consommation).
+	 -	Informations sur une personne – genre, âge, ethnie… (permet de cibler pour un marketing personnalisé).
+	 -	Changements dans la vie d’une personne (mariage, grossesse, enfants, accident…).
 
 Il est donc important de vérifier les droits d’accès des photos ou des posts sur les réseaux sociaux – et de choisir le genre de photos que l’on souhaite partager.
 
@@ -69,8 +69,8 @@ Il est donc important de vérifier les droits d’accès des photos ou des posts
 -	Des informations sur vos relations peuvent être déduites par des réseaux sociaux. Les données Facebook pourraient servir par exemple à détecter lorsqu’un couple est en train de se former à partir du volume des échanges par messagerie ou des posts sur le mur de l’autre. <https://www.facebook.com/notes/facebook-data-science/the-formation-of-love/10152064609253859>
 -	Une précaution très particulière doit être prise au sujet des données personnelles biométriques et de santé :
 
-  	-Données biométriques (login à partir des empreintes digitales) : possible de hacker l’identité d’une personne ; il est facile de changer de mot de passe mais pas de changer d’empreinte digitale.
-    -Le partage de données médicales par Internet (ex. : résultats d’analyses biologiques) doit s’accompagner d’une vigilance accrue au sujet de la sécurité des serveurs (données sensibles) – risque de vol de données.
+  -	Données biométriques (login à partir des empreintes digitales) : possible de hacker l’identité d’une personne ; il est facile de changer de mot de passe mais pas de changer d’empreinte digitale.
+ -	Le partage de données médicales par Internet (ex. : résultats d’analyses biologiques) doit s’accompagner d’une vigilance accrue au sujet de la sécurité des serveurs (données sensibles) – risque de vol de données.
 
 
 
