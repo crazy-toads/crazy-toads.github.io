@@ -5,6 +5,8 @@ categories:
 title: Fabienne Cazalis
 sortkey: cazalis
 description: Chercheuse en neuroscience au CNRS, casse les frontières
+photo: fabienne_cazalis.jpg
+Researchgate: "https://www.researchgate.net/profile/Fabienne_Cazalis"
 published: true
 ---
 
