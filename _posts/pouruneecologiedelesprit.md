@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Pour une écologie de l'esprit"
