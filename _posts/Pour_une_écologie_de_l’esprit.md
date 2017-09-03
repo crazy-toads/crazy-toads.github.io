@@ -25,6 +25,7 @@ Les travaux du Mind & Life Institute, au croisement des neurosciences et des cou
 
 Les neurosciences démontrent que tout cela est tangible, et elles sont en route pour bouleverser notre regard sur le monde .
 
+
 ### Le cerveau c’est comme un muscle, il se travaille !
 
 Aujourd’hui, vous avez certainement entendu parler de yoga, de méditation de pleine conscience (mindfulness), de concentration ici et maintenant. Est-ce que ça marche ?
@@ -56,5 +57,6 @@ Il faut en tout premier lieu changer de regard sur soi-même, prendre conscience
 On dit que les meilleurs guérisseurs sont les patients qui ont guéri. Eh bien voilà ! La différence et la souffrance, s’ils la domptent, font d’eux des ambassadeurs authentiques. C’est parce que l’on s’est sorti d’une souffrance et de son tunnel que l’on peut partager, aider ceux qui sont encore en chemin. C’est ainsi que l’on « remonte » la courbe gaussienne par le partage, l’inspiration, le jeu, puis alors on fait cohorte…
 
 ![Theorie de la diffusion des innovations]({{ site.urlimg }}/posts/theorie_de_la_diffusion_des_innovations.png)
+![courbe de normalité]({{ site.urlimg }}/posts/courbe_de_normalite.png)
 
 Connaissez-vous cette courbe ? C’est la fameuse courbe du changement, avec la théorie du Tipping Point (point de bascule). Enseignée dans toutes les écoles de commerce, elle explique comment percer avec des produits innovants et met en exergue ce point de basculement où un phénomène marginal devient commun. Si l’on applique cette courbe à l’idée que « la survie de l’espèce passe par un changement de comportement », le Crapaud fou se situe à la marge à gauche, là où tout commence. Les cohortes favorisent la dynamique de contagion (positive), ainsi faire crapaud fou pourrait sauver l’espèce.
