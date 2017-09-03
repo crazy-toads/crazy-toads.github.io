@@ -35,8 +35,7 @@ Pour les sociétés à but lucratif fournissant des services gratuits, l’explo
 Les algorithmes actuels de machine learning permettent à la fois d’analyser des données dites structurées, utilisées classiquement dans des problèmes économétriques (données économiques, de bases client…) mais également des données dites non structurées, comme l’image et le texte. L’application massive des réseaux de neurones aux problèmes d’analyse de langage naturel et de vision par ordinateur a rendu cette analyse très précise, permettant à un ordinateur de déduire du contenu d’un texte sa thématique et son sentiment, et à partir d’une image de reconnaître les objets présents dans l’image ou d’identifier des personnes... 
 
 
-Ainsi, il est illusoire de penser que nos traces laissées sur Internet (données de navigation, mais également posts sur les réseaux sociaux – texte et images, e-mails, données de géolocalisation et autres) sont « noyées » dans une masse de données et sont inutilisables pour obtenir nos informations personnelles. Il est donc important de savoir quel est le sens du partage et de la publication de nos données sur Internet.
-
+Ainsi, il est illusoire de penser que nos traces laissées sur Internet (données de navigation, mais également posts sur les réseaux sociaux – texte et images, e-mails, données de géolocalisation et autres) sont « noyées » dans une masse de données et sont inutilisables pour obtenir nos informations personnelles. Il est donc important de savoir quel est le sens du partage et de la publication de nos données sur Internet
 Soyez conscient des données que vous partagez (et avec qui) : 
 
 - Votre téléphone portable est une source importante de données personnelles (géolocalisation, contacts, contenu de messages, photos…). Certaines applications mobiles utilisent les autorisations demandées pour « aspirer » le plus de données possible (données = « pétrole du XXIe siècle ») : un jeu n’a pas besoin d’accéder à toutes les photos et à la localisation de l’utilisateur. De plus, ces applications ne sont pas toujours suffisamment sécurisées : vos données risquent de se retrouver dans la nature en cas de faille de sécurité (en règle générale, il vaut mieux ne jamais faire confiance à la sécurité des serveurs sur lesquelles sont stockées les données : une faille est vite arrivée).
@@ -69,7 +68,7 @@ Il est donc important de vérifier les droits d’accès des photos ou des posts
 -	Une précaution très particulière doit être prise au sujet des données personnelles biométriques et de santé :
 
   -	Données biométriques (login à partir des empreintes digitales) : possible de hacker l’identité d’une personne ; il est facile de changer de mot de passe mais pas de changer d’empreinte digitale.
- -	Le partage de données médicales par Internet (ex. : résultats d’analyses biologiques) doit s’accompagner d’une vigilance accrue au sujet de la sécurité des serveurs (données sensibles) – risque de vol de données.
+  -  Le partage de données médicales par Internet (ex. : résultats d’analyses biologiques) doit s’accompagner d’une vigilance accrue au sujet de la sécurité des serveurs (données sensibles) – risque de vol de données.
 
 
 
