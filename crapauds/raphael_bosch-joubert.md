@@ -5,6 +5,9 @@ categories:
 title: Raphaël Bosch-Joubert
 sortkey: bosch
 description: Fondateur de 22EME SIECLE
+photo: raphael_bosch.jpg
+twitter: "@raphael_bosch"
+linkedin: "https://www.linkedin.com/in/raphaelbosch/?ppe=1"
 published: true
 ---
 
