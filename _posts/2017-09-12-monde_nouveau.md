@@ -11,6 +11,8 @@ categories:
   - Enthousiasme
 ---
 
+![mandela]({{ site.urlimg }}/posts/mandela.png)
+
 En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment les systèmes existants.
 
 Ce livre publié par nos amis en France nous offre un terrain de jeux créatif pour réimaginer sérieusement la direction que doit prendre l’humanité. Dans un véritable esprit de co-création, nous vous invitons à nous rejoindre pour explorer les initiatives qui voient le jour un peu partout dans le monde. C’est notre « mission Mars vers la Terre » ! Nous avons dégagé trois points de départ pour ce cheminement :
