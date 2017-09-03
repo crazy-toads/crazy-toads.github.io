@@ -5,6 +5,9 @@ categories:
 title: Francesca Pick
 sortkey: pick
 description: Le collaboratif trans-national
+photo: francesca_pick.jpg
+twitter: "@francescapick"
+linkedin: "https://www.linkedin.com/in/francescapick/"
 published: true
 ---
 
