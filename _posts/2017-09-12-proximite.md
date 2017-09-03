@@ -7,7 +7,7 @@ date: "2017-09-12"
 slug: "proximite"
 description: "Le 21e siècle est celui de la proximité, de la collaboration horizontale, avec ses voisins, avec ses réseaux, dans la confiance."
 categories:
-    - Collabpratif
+    - Collaboratif
 ---
 
 ## Constat
