@@ -10,7 +10,7 @@ date: "2017-09-12"
 slug: "diversite_culturelle"
 description: "L’Autre est souvent plus proche de nous que l’on ne l’imagine."
 categories:
-    - Diversité
+    - Diversité culturelle
 ---
 
 ## L’Autre
