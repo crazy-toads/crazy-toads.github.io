@@ -4,7 +4,7 @@ title: "Pour une écologie de l'esprit"
 authors: 
   - Thanh Nghiem
 date: "2017-09-12"
-slug: "Un si brillant cerveau"
+slug: "brillant_cerveau"
 description: "Le cerveau c’est comme un muscle, il se travaille"
 categories:
     - Neurodiversité
