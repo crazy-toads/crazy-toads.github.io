@@ -57,9 +57,9 @@ Soyez conscient des données que vous partagez (et avec qui) :
 -	Extraire de l’information depuis des photos est facile : un réseau de neurones peut aisément reconnaître certains objets (au sens large de la vision par ordinateur) : présence de chats, chiens, humains, arbres, tables… car il existe des bases de données fournies avec des exemples de ce genre d’objets. Mais des informations moins triviales peuvent être déduites par des organismes disposants de bases d’exemples plus fournies et spécifiques :
  
     -	Détection de lieux (permet de traquer les déplacements).
-	 -	Détection de marques (à travers les logos) ou de produits consommés (permet de connaître les habitudes de consommation).
-	 -	Informations sur une personne – genre, âge, ethnie… (permet de cibler pour un marketing personnalisé).
-	 -	Changements dans la vie d’une personne (mariage, grossesse, enfants, accident…).
+	 - Détection de marques (à travers les logos) ou de produits consommés (permet de connaître les habitudes de consommation).
+	 - Informations sur une personne – genre, âge, ethnie… (permet de cibler pour un marketing personnalisé).
+	 - Changements dans la vie d’une personne (mariage, grossesse, enfants, accident…).
 
 Il est donc important de vérifier les droits d’accès des photos ou des posts sur les réseaux sociaux – et de choisir le genre de photos que l’on souhaite partager.
 
