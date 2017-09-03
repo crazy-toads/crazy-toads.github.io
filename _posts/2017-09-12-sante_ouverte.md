@@ -7,7 +7,7 @@ date: "2017-09-12"
 slug: "sante_ouverte"
 description: "Il est indispensable de pousser l'écosystème de santé vers une meilleure culture de l'ouverture."
 categories:
-   - Collaboratif
+  - Collaboratif
 ---
 
 Jamais notre système n’a produit autant de données. Il est commun d’avancer qu’il a été produit autant de connaissances entre le début de l’anthropocène et 1995, année de naissance de l’internet qu’entre 1995 et aujourd’hui. Ces données sont produites en masse du fait de l’enregistrement des données en format numérique et du suivi de plus en plus systématique de patients via des appareils médicaux connectés.
