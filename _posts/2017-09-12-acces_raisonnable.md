@@ -4,7 +4,7 @@ title: "Le web et les préjugés : pourquoi donner accès à plus d’informati
 authors: 
   - Arnaud Chaput
 date: "2017-09-12"
-slug: "acces_raisonnable"
+slug: "Le web et les préjugés"
 description: "Si Internet favorisait non l’information, mais la désinformation ? Et si, pire, Internet ne facilitait en rien la naissance d’une information pure et parfaite, mais au contraire la confrontation stérile de points de vue."
 categories:
   - Big Data
