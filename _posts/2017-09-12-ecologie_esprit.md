@@ -5,7 +5,7 @@ authors:
   - Thanh Nghiem
 date: "2017-09-12"
 slug: "ecologie_esprit"
-description: "Le cerveau c’est comme un muscle, il se travaille"
+description: "Le cerveau c’est comme un muscle, il se travaille ! "
 categories:
     - Neurodiversité
 ---
