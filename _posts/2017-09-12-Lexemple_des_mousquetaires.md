@@ -8,7 +8,7 @@ authors:
   - Jean-Baptiste Moretti
 date: "2017-09-12"
 slug: "mousquetaires"
-description: "Hyper-Gender est un mouvement qui explore le changement de paradigme en cours dans nos sociétés autour du genre, de l’identité, et des interactions sociales au 21ème siècle."
+description: "La méthode des 4 mousquetaires."
 categories:
     - Generation 2050
 ---
