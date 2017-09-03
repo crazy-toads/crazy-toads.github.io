@@ -6,8 +6,8 @@ authors:
 date: "2017-09-12"
 slug: "sciences_pour_tous"
 description: "La science peut être amusante, étonnante, passionnante, poétique..."
-categorie:
-  Neurodiverssité
+categories:
+ - Neurodiversité
 ---
 
 La science peut être amusante, étonnante, passionnante, poétique ; école de la rigueur et de la créativité, elle donne les clés pour mieux interroger et comprendre le monde. Et aussi les outils pour le transformer, pour le meilleur ou pour le pire. Mais pour la plupart d’entre nous, elle est impénétrable. 
