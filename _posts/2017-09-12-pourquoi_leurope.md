@@ -8,7 +8,7 @@ date: "2017-09-12"
 slug: "europe"
 description: "europe changer de paradigme"
 categories:
-    - Europe
+  - Europe
 ---
 
 ### Pourquoi l’Europe ?
