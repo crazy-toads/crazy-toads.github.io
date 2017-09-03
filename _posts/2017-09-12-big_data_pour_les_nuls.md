@@ -7,7 +7,7 @@ date: "2017-09-12"
 slug: "big_data_pour_les_nuls"
 description: "Les sociétés technologiques du 21ème siècle amassent de grandes quantités de données sur leurs utilisateurs. Ce nouveau business model soulève nombre de questions d’ordre éthique."
 categories:
-  - Big Data
+  - Génie Digital
 ---
 
 ### Règles d’éthiques des big data du point de vue des entreprises
