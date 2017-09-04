@@ -35,7 +35,7 @@ Le fait est que ces pratiques apportent un mieux-être, et elles sont accessible
 
 Exemples :
 
-Sous l’égide de Martin Seligman, la psychologie positive a développé depuis une vingtaine d’années une approche qui prend le contrepied de la psychologie classique. Là où la seconde « répare » les pathologies, la première se fonde sur nos points forts pour tendre vers plus d’équilibre et de bien-être. Les précurseurs de cette discipline[^7] ont mené des recherches approfondies et mis en place un [outil de diagnostic gratuit en ligne][2].
+Sous l’égide de Martin Seligman, la psychologie positive a développé depuis une vingtaine d’années une approche qui prend le contre-pied de la psychologie classique. Là où la seconde « répare » les pathologies, la première se fonde sur nos points forts pour tendre vers plus d’équilibre et de bien-être. Les précurseurs de cette discipline[^7] ont mené des recherches approfondies et mis en place un [outil de diagnostic gratuit en ligne][2].
 
 Pour ma part, je suis passionnée d’apnée profonde. Je pratique aussi le yoga, aime les randonnées en silence en haute montagne, ai testé la méditation intensive[^8]. J’ai constaté que descendre à – 40 mètres dans le Grand Bleu me procure un niveau de calme incomparable, état qui dure bien au-delà des quelques heures de pratique.
 
@@ -85,4 +85,4 @@ Les cohortes favorisent la dynamique de contagion (positive), ainsi faire crapau
 [^5]: Flow: The Psychology of Optimal Experience, Mihaly Cskiszentmihalyi, Ed Harper
 [^6]: <https://abonnes.nouvelobs.com/bibliobs/idees/20170623.OBS1143/pourquoi-la-neuroscience-s-apprete-a-changer-le-monde.html>
 [^7]: Tal Ben Shahar. Professeur à Harvard, il a écrit plusieurs best-sellers sur le sujet et son cours est l’un des plus populaires sur le campus, voir <https://wholebeinginstitute.com>
-[^8]: Méditation de type Vipassana dans laquelle il faut rester immobile, concentré sur son souffle et le calme de l’esprit, de 6h du matin à 22h pendant plusieurs jours d’afffilée
+[^8]: Méditation de type Vipassana dans laquelle il faut rester immobile, concentré sur son souffle et le calme de l’esprit, de 6h du matin à 22h pendant plusieurs jours d’affilée
