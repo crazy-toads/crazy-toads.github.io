@@ -11,7 +11,7 @@ categories:
   - Enthousiasme
 ---
 
-![mandela]({{ site.urlimg }}/posts/mandela.png)
+![mandela]({{ site.urlimg }}/posts/it_always_seems_impossible.jpg)
 
 En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment les systèmes existants.
 
