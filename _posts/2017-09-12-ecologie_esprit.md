@@ -7,7 +7,7 @@ date: "2017-09-12"
 slug: "ecologie_esprit"
 description: "Puisque le cerveau est un muscle, tout le monde peut s’entraîner. Quid des extrêmes, des gens qui souffrent d’atypisme ?"
 categories:
-    - Neurodiversité
+  - Neurodiversité
 ---
 
 ### Un si brillant cerveau
