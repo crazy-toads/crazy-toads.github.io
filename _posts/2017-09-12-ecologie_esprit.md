@@ -10,7 +10,7 @@ categories:
   - Neurodiversité
 ---
 
-### Un si brillant cerveau
+## Un si brillant cerveau
 
 Au CHU de Liège, le docteur Laureys dirige un [laboratoire spécialisé sur le coma][1]. Grâce aux instruments de dernière génération (IRM fonctionnelle, EEG), il est parvenu à détecter ce qui se passe dans la tête de personnes en état végétatif – incapables d’effectuer le moindre mouvement physique. 
 
@@ -20,14 +20,13 @@ Passionné par les états de conscience altérée, il a eu l’idée d’étendr
 
 Les résultats sont frappants. L’apnée et la méditation renforcent leurs circuits neuronaux : en pratique intensive, les connexions se renforcent et les ondes cérébrales se coordonnent. Est-ce le fameux état de flow[^5], cet état de plénitude dans lequel nous entrons lorsque nous sommes immergés dans ce que nous faisons à un tel point que le temps passe sans que nous nous en rendions compte ?
 
-### Au croisement des neurosciences et de la sagesse
+## Au croisement des neurosciences et de la sagesse
 
 Les travaux du Mind & Life Institute, au croisement des neurosciences et des courants de sagesse représentés par le dalaï-lama, confirment ces découvertes. Au tournant des années 2000, ce dernier a accepté de collaborer avec des scientifiques car il perçoit la science comme une manière puissante, peut-être la seule, apte à modifier les croyances des Occidentaux quant à leur rapport au monde, au corps et à l’esprit. Comme il le remarque en souriant, il aura fallu attendre l’avènement des neurosciences pour faire reconnaître par les Occidentaux ce que les sages d’Orient avaient déjà découvert et mis en pratique depuis des millénaires !
 
 Les neurosciences démontrent que tout cela est tangible, et elles sont en route pour bouleverser notre regard sur le monde[^6].
 
-
-### Le cerveau c’est comme un muscle, il se travaille !
+## Le cerveau c’est comme un muscle, il se travaille !
 
 Aujourd’hui, vous avez certainement entendu parler de yoga, de méditation de pleine conscience (mindfulness), de concentration ici et maintenant. Est-ce que ça marche ?
 
@@ -43,7 +42,7 @@ La clé de tout cela ? Le focus, et l’attention portée à ce que l’on fait.
 
 Alors, pourquoi pas vous ? Toutes les activités mentionnées peuvent se pratiquer entre pairs, à moindres frais. L’apnée a le vent en poupe, et de plus en plus de clubs d’amateurs proposent la pratique partout en France.
 
-### Un atypisme moteur ?
+## Un atypisme moteur ?
 
 Puisque le cerveau est un muscle, tout le monde peut s’entraîner. Quid des extrêmes, des gens qui souffrent d’atypisme ?
 
@@ -55,14 +54,13 @@ Fabienne a rédigé un [article sur les femmes autistes qui s’ignorent][4], et
 
 Pas de statistique ni de prêche ici. Ce qui me frappe, c’est que l’atypisme peut être un puissant moteur. Il l’a été pour moi et pour ceux que je connais. C’est parce que l’on souffre d’une différence, d’un trouble irrésolu, que l’on a la motivation pour aller plus loin, pour trouver des solutions qui fonctionnent enfin.
 
-### Conclusion
+## Conclusion
 
 Faire Crapaud fou, c’est valoriser sa (neuro)divergence ! Et ce, quelle que soit la forme d’intelligence considérée.
 
 Il faut en tout premier lieu changer de regard sur soi-même, prendre conscience qu’étant atypique, on n’est pas seul à douter. Ensuite, voir ceci : ce sont les quelques pour cent aux extrêmes de la courbe gaussienne qui peuvent apporter un regard neuf et des solutions originales aux problèmes existants, créés par les systèmes dominants. Étant engoncés dans les normes qu’ils ont créées, ces derniers ne peuvent que tourner en boucle.
 
 On dit que les meilleurs guérisseurs sont les patients qui ont guéri. Eh bien voilà ! La différence et la souffrance, s’ils la domptent, font d’eux des ambassadeurs authentiques. C’est parce que l’on s’est sorti d’une souffrance et de son tunnel que l’on peut partager, aider ceux qui sont encore en chemin. C’est ainsi que l’on « remonte » la courbe gaussienne par le partage, l’inspiration, le jeu, puis alors on fait cohorte…
-
 
 ![THEORIE DE LA DIFFUSION DES INNOVATIONS]({{ site.urlimg }}/posts/theorie_de_la_diffusion_des_innovations.png)
 

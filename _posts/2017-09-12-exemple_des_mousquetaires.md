@@ -27,11 +27,11 @@ Ces principes nous ont permis d’aligner les énergies, envies et intuitions de
 
 Deux de nos quatre mousquetaires partagent avec leurs mots l’expérience inédite de l’organisation du séjour des Treilles.
 
-### Asmaa Guedira, OuiShare connectrice et facilitatrice
+## Asmaa Guedira, OuiShare connectrice et facilitatrice
 
 > « Cela fait 3 ans que j’approfondis l’approche de facilitation non-linéaire, grâce à de nombreux séminaires et ateliers d’innovation, comme le projet POC21 . Grâce au pont fait avec le collectif Amanitas et la cohorte de San Francisco avec Michelle et Jerónimo, et à l’énergie folle impulsée par Thanh et les autres mousquetaires, la retraite des crapauds fous a été une expérience particulièrement réussie et enrichissante ! »
 
-### Jean-Baptiste Moretti, quatrième mousquetaire, qui agissait par Skype
+## Jean-Baptiste Moretti, quatrième mousquetaire, qui agissait par Skype
 
 > « Mettre en contact des agendas et des énergies différentes, afin de les accorder entre eux, comme des instruments de musique, pour que la musique jouée par l’orchestre fasse sens. Et laisser jouer l’orchestre ensuite. En tant que musicien, et ayant été formé par des musiciens férus d’œuvres orchestrales, notamment deux chefs d’orchestre, c’est ce qui fait le plus résonance dans cette histoire de création de cohésion entre personnes. Avec un point de départ, lorsque tout le monde arrive, d’où tout le monde vient, un lieu différent, un temps différent, un moment de leur vie différent, sans compter le mood qui change au jour le jour. »
 
