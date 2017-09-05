@@ -58,7 +58,7 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-quill"></i> Blog
+  - title: <i class="iconside iconm-quill"></i> News
     url: /textes/
   - title: <i class="iconside iconm-location"></i> Cercles
     url: /cercles/
@@ -71,6 +71,7 @@ links:
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
+
 
 # Google Custom Search:
 #google_search: xyz123abc
