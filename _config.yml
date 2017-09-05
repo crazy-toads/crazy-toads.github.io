@@ -66,7 +66,7 @@ links:
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
   - title: <i class="iconside iconm-user"></i> Nous rejoindre
-    url: /Contact/
+    url: /contact/
   - title: <i class="iconside iconm-github2"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
     external: true

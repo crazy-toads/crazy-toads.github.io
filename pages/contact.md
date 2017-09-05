@@ -10,7 +10,6 @@ mathjax: false
 noindex: false
 ---
 
-## Comment nous joindre ?
+## Comment nous rejoindre ?
 
-
-<i class="fa fa-paper-plane"></i> contact at crapaud-fou.org
+Envoyez-nous un mail à <i class="fa fa-paper-plane"></i> contact at crapaud-fou.org

@@ -2,14 +2,19 @@
 ---
 
 /* TEAM */
-Primary Contact: foo
-Site: {{ site.url }}/about/
-Twitter: https://twitter.com/{{ site.owner.twitter }}
+  Project initiative: Thanh Nghiem
+  From: Paris, France
 
-/* THANKS */
-Design Contributors: {{ site.url }}/disclosure/
+  Editorial supervision: Yamina Saheb
+  From: Paris, France
+
+  Technical whatever: mose
+  From: Taipei, Taiwan
+
+  Web things: Shelley Cavaness  
+  From: Paris, France
 
 /* SITE */
-Last Updated: {{ site.time | date:"%Y/%m/%d" }}
-Standards: HTML5, CSS3
-Software: Sublime Text, Chrome, Jekyll, Git, Sass
+  Last Updated: {{ site.time | date:"%Y/%m/%d" }}
+  Standards: HTML5, CSS3
+  Software: Sublime Text, Chrome, Jekyll, Git, Sass

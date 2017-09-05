@@ -60,20 +60,20 @@ links:
     url: /
   - title: <i class="iconside iconm-quill"></i> News
     url: /textes/
-  - title: <i class="iconside iconm-location"></i> Cercles
+  - title: <i class="iconside iconm-user"></i> Cercles
     url: /cercles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
   - title: <i class="iconside iconm-user"></i> Nous rejoindre
-    url: /Contact/
+    url: /contact/
   - title: <i class="iconside iconm-github2"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
-
+  
 
 # Google Custom Search:
 #google_search: xyz123abc
