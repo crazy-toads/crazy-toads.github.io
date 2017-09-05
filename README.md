@@ -22,12 +22,12 @@ Les gens
 ### L'équipe éditoriale
 
 - thanh
-- @yaminasaheb
+- [@yaminasaheb](/yaminasaheb)
 
 ### L'équipe technique
 
-- @mose
-- @shelleycavaness
+- [@mose](/mose)
+- [@shelleycavaness](/shelleycavaness)
 
 ### Les crapauds fous
 
@@ -40,10 +40,14 @@ Les gens
 
 Copyright
 ----------
+
 Les textes publiés, ainsi que le code source utilisé pour produire ce site, sont assujettis a la licence [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][1]
 
-Le copyright est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte.
+Le thème utilisé est dérivé du thème [*lanyon*](https://github.com/poole/lanyon) par [Mark Otto](https://github.com/mdo) sous la même licence.
+
+Chaque article dont l'auteur est indiqué appartient à son ou ses auteurs indivisiblement. Le copyright de ce qui n'est pas article est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte. 
 
 
 
 [1]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[2]: https://github.com/crazy-toads/crazy-toads.github.io/issues
