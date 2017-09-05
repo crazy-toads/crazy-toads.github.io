@@ -1,5 +1,7 @@
-Site web statiique pour les Crapauds Fous
+Site web statique pour les Crapauds Fous
 ==========================================
+
+> http://crapaud-fou.org
 
 Contribuer
 -----------
