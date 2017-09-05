@@ -5,13 +5,12 @@ permalink: /Contact/
 ---
 
 
-titter
-facebook
-linkedin
+
+
 email
 github
 
 
 
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username: crazy-toads 
