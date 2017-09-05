@@ -12,7 +12,7 @@ categories:
 
 On parle beaucoup d’intelligence émotionnelle (le QE au lieu du QI), mais il existe de nombreuses autres formes d’intelligences aujourd’hui reconnues par les chercheurs (étymologiquement, inter-legere signifie lire entre les lignes, relier) : spatiale (le conducteur de Formule 1 qui mémorise et anticipe les virages du circuit), musicale, kinesthésique, visuelle…
 
-### Pour commencer, le jeu
+## Pour commencer, le jeu
 
 Super Tux (<https://supertuxproject.org/>) est un jeu développé au début des années 2000, installable sur un système d'exploitation alternatif développé et édité par des communautés de bénévoles comme Debian GNU/Linux (<https://www.debian.org/social_contract>).
 
@@ -31,7 +31,7 @@ Effectivement, en appuyant sur la touche « Echap », le joueur s’échappe du 
 
 Surtout, le compte à rebours est arrêté, le temps du jeu n’existe plus, l’espace se dilate : le créateur perçoit l’univers dans sa totalité avec ses moindres secrets. Le concepteur peut ainsi gommer la partie inférieure du mur. Le jeu n’est en réalité pas une copie : le jeu consiste à faire le jeu, dans l’esprit du « do-it-yourself ». Le jeu consiste à sortir du mode « jeu » pour changer les règles, hacker le code en quelque sorte. Un jeu ne se consomme donc pas seulement, il est possible d’en devenir créateur et concepteur. Cette expérience fait donc apparaître un autre référentiel par rapport au jeu : casser les codes.
 
-### Passer de l’autre côté de la matrice ?
+## Passer de l’autre côté de la matrice ?
 
 D’autres expériences digitales existent et d’autres manières de passer de l’autre côté de la matrice aussi. Prenons l’exemple de la recherche d’information. Il y a quelques années, nous recherchions quotidiennement dans un dictionnaire la définition d’un mot, plus tard nous avons plutôt utilisé des moteurs de recherche. Prenons l’exemple du dictionnaire pour définir ce qu’est un algorithme.
 
@@ -51,7 +51,7 @@ La  quadrature du Net a mis en place un méta-moteur de recherche, Searx <https:
 
 J’avoue donc ma dépendance cognitive majeure à cette liste hiérarchisée et sponsorisée de résultats orientés selon une formule magique et secrète. J’ai en effet pris plaisir à découvrir le chemin au fur et à mesure que je le parcourais. Cette approche a favorisé la découverte de lieux digitaux. J’ai longtemps pratiqué la balade dans le web avec ces boussoles numériques que sont les moteurs de recherche.
 
-### Construire soi-même sa carte du territoire
+## Construire soi-même sa carte du territoire
 
 Mais n'est-il pas temps de construire la carte des territoires numériques que nous avons parcourus ?
 

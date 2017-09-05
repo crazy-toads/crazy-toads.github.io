@@ -21,7 +21,7 @@ Toutefois, les citoyens ne baissent pas les bras. Animés d’un enthousiasme r�
 
 Parmi les expériences débattues par les participants, trois ont particulièrement retenu notre attention
 
-### Stades citoyens
+## Stades citoyens
 
 Tout a commencé pour Charlotte lorsqu’un jour de 2016 elle a dit à son mari : “C’est scandaleux, sur 200 candidats inscrits sur LaPrimaire.org, il n’y a que 8 femmes !” Il lui rétorqua : “Et toi t’attends quoi ?” C’est donc en se responsabilisant que cette aventure a commencée. Et c’est l’un des buts premiers de cette initiative, encourager les citoyens à reprendre leur place légitime. A passer de spectateur ou commentateur de la vie politique à acteur.
 
@@ -31,11 +31,11 @@ Retrouver l’enthousiasme. La candidature de Charlotte Marchandise en est le me
 
 Sensibiliser les citoyens à leur légitimiCette expérience, à laquelle Raphaël a pris part, est une tentative d’utilisation du Stade de France comme un espace pour la construction et l’expression démocratiques. L’idée étant de rassembler un panel national d’initiatives chargées de sens pour les proposer comme matière principale à l’expérimentation de méthodes de l’intelligence collective, de la co-construction et de l’utilisation des nouvelles technologies comme les #civic tech pour redonner le pouvoir aux citoyens. Plus de 100 structures porteuses d’initiatives concrètes se sont fédérées et des personnalités de la société civile ont apporté leur soutien à l’initiative. Malheureusement, la mise en œuvre de l’initiative n’a pas pu se faire en 2017, par manque de moyens financiers, mais l’idée a essaimé au-delà de nos frontières. À Rio et Bruxelles, les stades sont séduits par l’organisation d’une agora géante par les citoyens et pour les citoyens !té. La plupart des citoyens ne s’impliquent pas car ils pensent qu’ils ne sont pas assez cultivés, qu’ils ne connaissent pas assez le fonctionnement des institutions, de la vie politique, ils se mettent donc tout seul des barrières mentales. Or, le simple fait qu’ils soient citoyens légitime leur implication dans la vie politique, voire qu’ils se présentent à des élections.
 
-### La Primaire citoyenne
+## La Primaire citoyenne
 
 Cette fois, c’est Laura-Jane qui a participé à l’expérience de l’organisation d’une primaire citoyenne (LaPrimaire.org). Sur le modèle de la primaire des partis politiques traditionnels, l’une des premières primaires citoyennes au monde fut organisée à l’occasion de l’élection présidentielle de 2017, en France. Les participants à cette primaire étaient tous issus de la société civile et une citoyenne, Charlotte Marchandise, fut élue à l’issue de la primaire. En deux mois et demi de campagne, près de 3 000 volontaires se sont manifestés d’eux-mêmes partout en France et ont organisé des comités de soutien. Il est vrai que Charlotte n’a pas été élue présidente de la République, mais le seul fait d’organiser la primaire citoyenne a permis de sensibiliser les citoyens au rôle important que les élections jouent dans nos démocraties.
 
-### Julien Letailleur
+## Julien Letailleur
 
 Julien Letailleur est un activateur citoyen. Il est le porte-voix de toutes les volontés citoyennes et a le visage de l’intelligence collective positive. Antoine est l’un des membres de ce projet qui propose de créer un ministère « Citoyen des futurs ». L’objectif étant de remettre les citoyens au centre de la démocratie en animant les initiatives citoyennes existantes. Parmi les motivations des participants au projet, on retrouve cette envie i) de reprendre le pouvoir sur leur avenir, ii) de raconter une histoire optimiste de cette prise de pouvoir, iii) d’inventer et d’expérimenter, dès aujourd’hui, le fonctionnement démocratique de demain, iv) d’être des acteurs du débat public et v) d’avoir des réponses collectives aux enjeux de notre époque. Ce projet est en adéquation avec la réflexion lancée par Barack Obama, il y a dix ans, sur les nouveaux processus démocratiques.
 

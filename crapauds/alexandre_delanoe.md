@@ -5,7 +5,7 @@ categories:
 title: Alexandre Delanoë
 sortkey: delanoe
 description: Game Changer
-photo: Alexandre_Delanoe.jpg
+photo: alexandre_delanoe.jpg
 twitter: "@adelanoe"
 linkedin: "https://www.linkedin.com/in/alexandredelanoe/?ppe=1"
 published: true

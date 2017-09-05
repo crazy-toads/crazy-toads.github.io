@@ -11,7 +11,7 @@ categories:
   - Europe
 ---
 
-### Pourquoi l’Europe ?
+## Pourquoi l’Europe ?
 
 L’Europe est, indéniablement, l’une des plus belles aventures humaines de tous les temps ! En moins d’un siècle, des pays, habitués à conquérir par la guerre des territoires sous l’autorité de leurs voisins, ont décidé de s’associer pour construire un projet de paix, de démocratie, et de prospérité à travers une modernisation sans précédent des moyens de production et une réelle prise en compte de la dimension sociale du développement.
 
@@ -19,7 +19,7 @@ L’adoption de la Déclaration universelle des droits de l’homme par l’asse
 
 Néanmoins, la construction européenne n’a pas été un long fleuve tranquille. Bien au contraire, ce fut et ça continuera d’être un chemin semé d’embûches, comme est venu nous le rappeler le vote du Brexit.
 
-Les anciens, comme Marc Luyckx et Jean-Baptiste de Foucauld nous disent que « nous avons échoué, car avec Delors nous avons essayé de changer les choses par le haut, en parlant aux chefs d’États. S’il y a une leçon à en tirer, c’est qu’il faut faire le changement bottom-up. Aider chacun à oser penser son intuition profonde, et à la mettre en œuvre collectivement ». Selon eux, « un changement de paradigme prend environ 30 ans . Il y a 25 ans que Delors a lancé son cri d'alerte . Nous sommes donc probablement proches du basculement de paradigme ». 
+Les anciens, comme Marc Luyckx et Jean-Baptiste de Foucauld nous disent que « nous avons échoué, car avec Delors nous avons essayé de changer les choses par le haut, en parlant aux chefs d’États. S’il y a une leçon à en tirer, c’est qu’il faut faire le changement bottom-up. Aider chacun à oser penser son intuition profonde, et à la mettre en œuvre collectivement ». Selon eux, « un changement de paradigme prend environ 30 ans. Il y a 25 ans que Delors a lancé son cri d'alerte. Nous sommes donc probablement proches du basculement de paradigme ». 
 
 De leur côté, les quadras nous alertent sur les enjeux de notre époque et du rôle que l’Europe pourrait jouer dans le changement de paradigme, comme l’expliquait si bien Cédric Villani dans sa tribune au Figaro d’avril 2017, « sans but commun, la diversité peut mener au chaos ; mais unie, elle est invincible. Que l’Europe s’entende sur une nouvelle réglementation, et les géants américains du cyberespace s’adapteront, soucieux de ne pas perdre un marché de 500 millions de consommateurs ».
 
@@ -45,7 +45,7 @@ On pourrait s’inspirer des jumelages entre communes, reprendre le cadre régle
 
 3. Un écosystème Internet pour relier les citoyens : « Citizen Link »:
 
-À l’instar des logiciels en open source qui sont sous la vigilance de la communauté des utilisateurs, nous pensons qu’un écosystème Internet sécurisé et transparent rendrait impossible la manipulation et l’exploitation des données des citoyens européens à des fins privées. Ce système, que nous appellerons par exemple « Citizen Link », offrirait les fonctionnalités sociales essentielles, – hashtags sur ses préférences, compétences, lieux de vie – ainsi que des services collaboratifs –logement en couchsurfing, covoiturage, cours de bricolage, de cuisine, etc…
+À l’instar des logiciels en open source qui sont sous la vigilance de la communauté des utilisateurs, nous pensons qu’un écosystème Internet sécurisé et transparent rendrait impossible la manipulation et l’exploitation des données des citoyens européens à des fins privées. Ce système, que nous appellerons par exemple « Citizen Link », offrirait les fonctionnalités sociales essentielles, – hashtags sur ses préférences, compétences, lieux de vie – ainsi que des services collaboratifs – logement en couchsurfing, covoiturage, cours de bricolage, de cuisine, etc …
 
 Citizen Link pourrait devenir une source d’information citoyenne, qui serait alimentée de façon bottom-up par les citoyens, la société civile et les acteurs de proximité. Cet écosystème pourrait accueillir les initiatives des citoyens dans le cadre de la journée d’initiation à l’Europe ainsi que les expériences partagées des jeunes qui participeraient au programme Erasmus pour tous. Citizen Link pourrait utiliser les techniques du big data pour mieux identifier les compétences et goûts à l’échelle individuelle et, par exemple, mettre en relation les jeunes qui bénéficieraient du programme Erasmus pour tous. L’idée étant d’optimiser les rencontres en chair et en os. Un système d’évaluation pourrait encourager les comportements vertueux.
 

@@ -27,7 +27,7 @@ L’Autre est souvent plus proche de nous que l’on ne l’imagine, relégué p
 
 ## Peur et richesses
 
-Le monde actuel multiplie les opportunités de rencontres avec des gens différents (sociétés plus diverses, flux de population croissants, réseaux sociaux) et les richesses culturelles et économiques qu’engendre la diversité sont plus visibles que jamais. Aux Etats Unis, 60% des 25 plus grandes entreprises high tech ont été créées par des immigrés ou des enfants d’immigrés.
+Le monde actuel multiplie les opportunités de rencontres avec des gens différents (sociétés plus diverses, flux de population croissants, réseaux sociaux) et les richesses culturelles et économiques qu’engendre la diversité sont plus visibles que jamais. Aux États Unis, 60% des 25 plus grandes entreprises high tech ont été créées par des immigrés ou des enfants d’immigrés.
 
 Mais la peur de l’Autre demeure. Nourrie par des inégalités profondes, des angoisses économiques et identitaires. Dans un monde en profond bouleversement où la quête de sens est complexe, nous nous réfugions trop souvent dans une vision unidimensionnelle de l’identité. Voir l’autre et en particulier la différence de l’autre à travers un unique prisme effraie et ne révèle que conflit et incompréhension. 
 Même quand on pense « bien faire », le piège reste présent. Si l’on se surprend à ne considérer le réfugié que sous l’angle de « celui à qui l’on donne », on oublie alors que Marcel Mauss nous a appris que l’échange se réalisait par le triptyque « donner, recevoir et rendre ». Omettre l’une de ces trois composantes, c’est aliéner l’autre. 
