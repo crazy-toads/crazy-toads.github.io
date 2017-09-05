@@ -47,7 +47,7 @@ Les textes publiés, ainsi que le code source utilisé pour produire ce site, so
 
 Le thème utilisé est dérivé du thème [*lanyon*](https://github.com/poole/lanyon) par [Mark Otto](https://github.com/mdo) sous la même licence.
 
-Chaque article dont l'auteur est indiqué appartient à son ou ses auteurs indivisiblement. Le copyright de ce qui n'est pas article est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte. 
+Chaque article dont l'auteur est indiqué appartient à son ou ses auteurs indivisiblement. Les illustrations, sauf mention contraire, sont crées par Thanh Nghiem. Le copyright de ce qui n'est pas article ou dessin est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte. 
 
 
 
