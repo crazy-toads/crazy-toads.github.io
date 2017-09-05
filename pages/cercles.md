@@ -2,7 +2,7 @@
 layout: page
 title: "Cercles"
 permalink: "/cercles/"
-description: "Classement par categories"
+description: "Classement par cercles"
 comments: false
 sitemap: false
 category: base
