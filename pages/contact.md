@@ -12,4 +12,4 @@ noindex: false
 
 ## Comment nous rejoindre ?
 
-Envoyez-nous un mail à <i class="fa fa-paper-plane"></i> contact at crapaud-fou.org
+Envoyez-nous un mail à <i class="fa fa-envelope-o"></i> contact at crapaud-fou.org
