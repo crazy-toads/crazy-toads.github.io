@@ -22,12 +22,12 @@ Les gens
 ### L'équipe éditoriale
 
 - thanh
-- [@yaminasaheb](/yaminasaheb)
+- [@yaminasaheb](https://github.com/yaminasaheb)
 
 ### L'équipe technique
 
-- [@mose](/mose)
-- [@shelleycavaness](/shelleycavaness)
+- [@mose](https://github.com/mose)
+- [@shelleycavaness](https://github.com/shelleycavaness)
 
 ### Les crapauds fous
 
