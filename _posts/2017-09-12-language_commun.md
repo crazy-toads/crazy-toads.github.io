@@ -4,7 +4,7 @@ title: "Language commun"
 authors: 
   - Jean-Baptiste Moretti
 date: "2017-09-12"
-slug: "Language commun"
+slug: "language_commun"
 description: "Nous avons tous notre pierre à apporter à l’édifice."
 categories:
   - Enthousiasme

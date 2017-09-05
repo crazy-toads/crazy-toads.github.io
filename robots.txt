@@ -55,4 +55,4 @@ Disallow: /files/
 User-agent: *
 Disallow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: http://crapaud-fou.org/sitemap.xml
