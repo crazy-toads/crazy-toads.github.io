@@ -31,10 +31,5 @@ De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de colla
 Voir: [Compte rendu des rencontres des Treilles](/treilles_cr)
 
 
-
-
-
-
-
 <iframe width="640" height="360" src="https://www.youtube.com/embed/M6xvIaIuNBc?ecver=1" frameborder="0" allowfullscreen></iframe>
-La théorie du crapaud fou -
+
