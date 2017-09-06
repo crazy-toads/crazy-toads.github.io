@@ -7,7 +7,7 @@ description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 
 ## La théorie
 
-<img src="{{ site.urlimg }}/crapauds_fous_logo.png" width="200" align="right" />
+<img src="{{ site.urlimg }}/crapauds_fous_logo.png" width="200" align="right" alt="crapauds fou logo"/>
 Les crapauds vivent dans une zone et se reproduisent dans d’autres. Chaque année, de manière grégaire, tous migrent dans le même sens. Lorsque nous construisons de nouvelles routes en travers, ils se font massivement écraser. Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que des écologistes font creuser pour eux sous les routes. Parce qu’ils s’aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d’avenir et sauvent l’espèce.
 
 Dans le genre humain, on pense à Christophe Colomb, parti à l’Ouest pour trouver les Indes. Ou à Tim Berners-Lee, qui a transformé un réseau à usage militaire en l’Internet que nous utilisons tous aujourd'hui.
@@ -20,7 +20,7 @@ En novembre 2016, 3 crapauds fous se lancent dans l'écriture d'un Manifeste : T
 
 Face au tsunami qui menace de balayer l'espèce, il faut provoquer un déclic. "La survie de l'espèce passe par un changement de comportement." Une quête de 6 mois, racontée dans un livre, et un Manifeste qui commence à percuter.
 
-Voir <a href="{{ site.url }}/pdf/argu-manifeste-crapaud.pdf">Argu Manifeste Crapaud <i class="iconside iconm-file-pdf"> </i></a>
+Voir: <a href="{{ site.url }}/pdf/argu-manifeste-crapaud.pdf">Argu Manifeste Crapaud <i class="iconside iconm-file-pdf"> </i></a>
 
 ## Première cohorte
 
@@ -28,4 +28,13 @@ Voir <a href="{{ site.url }}/pdf/argu-manifeste-crapaud.pdf">Argu Manifeste Crap
 
 De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de collaborer, de faire culture.
 
-[Compte rendu des rencontres des Treilles](/treilles_cr)
+Voir: [Compte rendu des rencontres des Treilles](/treilles_cr)
+
+
+
+
+
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/M6xvIaIuNBc?ecver=1" frameborder="0" allowfullscreen></iframe>
+La théorie du crapaud fou -
