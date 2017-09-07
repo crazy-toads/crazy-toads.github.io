@@ -9,11 +9,11 @@ photo: thanh_nghiem.jpg
 published: true
 twitter: "@thanh_nghiem"
 linkedin: "https://fr.linkedin.com/in/tnghiem"
-videofeature: "https://youtu.be/ZV4zuepujSc" 
+videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
 ---
 
 
-Thanh Nghiem1, est une ingénieure française d'origine vietnamienne2. Titulaire d'un MBA de l'INSEAD3, elle est exploratrice et conceptrice de projets de développement durable.
+Thanh Nghiem, est une ingénieure française d'origine vietnamienne. Titulaire d'un MBA de l'INSEAD, elle est exploratrice et conceptrice de projets de développement durable.
 
 
 Butineuse de savoirs, accélératrice de projets, femme engagée, ancienne businesswoman,… Thanh NGHIEM est inclassable, et c’est ce qui fait sa force. Cette diplômée de l’école des Mines et de l’Institut européen d’administration des affaires a débuté sa carrière dans des grands groupes, en devenant notamment la première femme directrice associée du cabinet McKinsey en France, puis en tant que Directrice stratégique du groupe Suez-Ondeo. En 2002, elle opère un tournant majeur dans sa carrière en quittant le monde de l’entreprise pour mettre ses compétences au service de l’intérêt général. Son objectif : connecter les acteurs de tous horizons pour catalyser les projets novateurs et construire un monde durable.

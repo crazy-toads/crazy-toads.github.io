@@ -30,6 +30,7 @@ summaryfeed: false
 videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
 imagefeature: "http://img.youtube.com/vi/iG9CE55wbtY/0.jpg"
 videocredit: tedtalks
+permalink: "/example_content"
 ---
 
 Howdy! This is an example blog post that shows features supported in **lanyon-plus** theme. See [raw post](https://raw.githubusercontent.com/dyndna/lanyon-plus/master/_posts/2013-01-01-example-content.md) for required YAML header and liquid tag specifications.
