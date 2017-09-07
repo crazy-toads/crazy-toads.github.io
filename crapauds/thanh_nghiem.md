@@ -9,6 +9,7 @@ photo: thanh_nghiem.jpg
 published: true
 twitter: "@thanh_nghiem"
 linkedin: "https://fr.linkedin.com/in/tnghiem"
+videofeature: "https://youtu.be/ZV4zuepujSc" 
 ---
 
 
@@ -21,3 +22,6 @@ Elle fonde alors l’Institut Angenius, un incubateur d’initiatives et d’id�
 
 Ouvrages
 *Des abeilles et des hommes : Passerelles pour un monde libre et durable,* Bayard Jeunesse, 2010
+
+
+{% include youtube.html %}
