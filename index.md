@@ -3,6 +3,7 @@ layout: default
 permalink: index.html
 title: Les Crapauds fous
 description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
+videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
 ---
 
 ## La théorie
@@ -31,5 +32,5 @@ De 21 à 75 ans, découverte, exploration de nouvelles façons d'être, de colla
 Voir: [Compte rendu des rencontres des Treilles](/treilles_cr)
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/M6xvIaIuNBc?ecver=1" frameborder="0" allowfullscreen></iframe>
 
+{% include youtube.html %}
