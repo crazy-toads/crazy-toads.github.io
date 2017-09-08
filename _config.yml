@@ -57,12 +57,12 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-quill"></i> News
-    url: /textes/
   - title: <i class="iconside iconm-user"></i> Cercles
     url: /cercles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
+  - title: <i class="iconside iconm-quill"></i> Mare à crapauds
+    url: /textes/
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
   - title: <i class="iconside iconm-user"></i> Nous rejoindre
