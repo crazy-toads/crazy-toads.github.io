@@ -13,7 +13,12 @@ category: base
 
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ categories_list[item] | strip_newlines }}{% endcapture %}
+
 <h2 id="{{ this_word }}">{{ this_word }}</h2>
+{% if site.data.categories[this_word] %}
+<div class="categorytext">{{ site.data.categories[this_word] }}</div>
+{% endif %}
+
 <ul class="post-list">
   {% for post in site.categories[this_word] %}{% if post.title != null %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span></a>
