@@ -34,7 +34,7 @@ Et enfin, l’Union de l’Énergie, tout comme l’était le projet de Schuman,
 
 Pour terminer, je dirai que l’Europe ne pourra jouer pleinement le rôle qui est le sien dans le XXIe siècle sans une construction collaborative et bottom-up de l’Union de l’Énergie. À nous peuple d’Europe de nous saisir des enjeux de notre époque et de construire ensemble cette Europe moderne, juste et solidaire que nous devons aux enfants qui naissent aujourd’hui. On pourrait, par exemple, nous approprier l’Union de l’Énergie en lançant une initiative citoyenne pour intégrer dans les textes existants le concept de « justice énergétique », et pourquoi pas d’étendre ce concept à nos politiques de coopération avec les pays du Sud. Réunir un million de signatures dans au moins sept pays membres, pour que l’initiative soit prise en compte par les décideurs, comme le prévoit le traité de Lisbonne, ne me semble pas être un défi insurmontable à l’heure d’Internet et des réseaux sociaux. À nous citoyens européens de prendre notre destin en main et d’utiliser les nouvelles technologies pour les bonnes causes !
 
-[1]:Il est important de noter que le Parlement européen est le seul parlement dans les grandes démocraties à ne pas être autorisé à faire des propositions de loi.
-[2]:Robert Ayres : The Economic Growth Engine: How Energy and Work Drive Material Prosperity
-[3]:Idriss Aberkane : L’économie de la connaissance. 
+[^1]:Il est important de noter que le Parlement européen est le seul parlement dans les grandes démocraties à ne pas être autorisé à faire des propositions de loi.
+[^2]:Robert Ayres : The Economic Growth Engine: How Energy and Work Drive Material Prosperity
+[^3]:Idriss Aberkane : L’économie de la connaissance. 
 
