@@ -12,6 +12,7 @@ categories:
 ---
 
 ![mandela]({{ site.urlimg }}/posts/it_always_seems_impossible.jpg)
+Ce qui paraît impossible l’est toujours jusqu’à ce que ce soit fait.
 
 En ces temps de tumulte global, le monde aspire à une nouvelle réalité, interrogeant notre identité et nos aspirations en tant qu’humanité. Bonne nouvelle, cette nouvelle réalité est déjà en marche ! De Taipei à Barcelone, en passant par Bogota, des initiatives citoyennes novatrices puisant dans les technologies numériques, l’auto-organisation et beaucoup de courage, transforment les systèmes existants.
 
