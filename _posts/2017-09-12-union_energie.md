@@ -37,4 +37,4 @@ Pour terminer, je dirai que l’Europe ne pourra jouer pleinement le rôle qui e
 [1]:Il est important de noter que le Parlement européen est le seul parlement dans les grandes démocraties à ne pas être autorisé à faire des propositions de loi.
 [2]:Robert Ayres : The Economic Growth Engine: How Energy and Work Drive Material Prosperity
 [3]:Idriss Aberkane : L’économie de la connaissance. 
-[1]:
+
