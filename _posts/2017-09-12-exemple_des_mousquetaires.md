@@ -21,6 +21,9 @@ Nos quatre mousquetaires ne se connaissaient pas non plus. Nourris par leur enth
 
 La clé a été pour nos mousquetaires de créer un univers qui permette l’expression de notre intellect, de nos corps et de nos émotions. C’est l’articulation et la valorisation de ces 3 éléments qui est fondamentale pour l’émergence de ces safe spaces et d’une créativité nourrie par des liens intimes et authentiques entre les participants.
 
+
+<img src="{{ site.urlimg }}/profiles/quatre_mousquetaires.png" />
+
 Notre routine pendant cette semaine de création était guidée par des principes majeurs, comme l’importance du bien-être et des moments de partage collectifs en début et fin de chaque journée, des sessions d’intelligence collective, la place à la spontanéité, la flexibilité, la connexion à la nature et le jeu.
 
 Ces principes nous ont permis d’aligner les énergies, envies et intuitions de nos 34, en favorisant un climat de partage, de sincérité, de confiance parfois déroutant pour nos crapauds fous peu habitués à cette philosophie, mais toujours ludiques et bienveillants.
