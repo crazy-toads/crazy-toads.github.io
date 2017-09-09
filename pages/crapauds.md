@@ -7,6 +7,6 @@ permalink: /crapauds/
 ---
 
 ## Les Crapauds Fous
-<img src="{{ site.urlimg }}/crapauds_fous_logo.png" width="200" align="right" alt="crapauds fous "/>
+<img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous "/>
 
 {% include crapauds.html %}
