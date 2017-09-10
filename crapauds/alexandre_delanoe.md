@@ -9,6 +9,8 @@ photo: alexandre_delanoe.jpg
 twitter: "@adelanoe"
 linkedin: "https://www.linkedin.com/in/alexandredelanoe/?ppe=1"
 illus: profiles/alexandre_delanoe_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 
