@@ -32,7 +32,11 @@ Credits: {{ site.url }}/disclosure
       </div>
 
       <div class="sidelogo">
-      <img src="{{ site.urlimg }}/crapauds_fous_logo.png" />
+      {% if post.illus %}
+      <img src="{{ site.urlimg }}/{{ page.illus }}" />
+      {% else %}
+      <img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" />
+      {% endif %}
       </div>
       <div class="container content">
         {{ content }}
