@@ -9,7 +9,7 @@ videofeature: "https://www.youtube.com/embed/ZV4zuepujSc"
 ## Le Manifeste du Crapaud fou
 
 Dérèglement climatique, crises en tous genre, terrorisme, maladies de civilisation … nous sommes submergés par un tsunami d’angoisse. Que faire ? Comment devenir acteur de ce nouveau monde qui se profile à l’horizon ?
-<img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo"/>
+<img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
 
 
 ### Théorie du crapaud fou
