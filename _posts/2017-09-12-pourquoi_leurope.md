@@ -6,7 +6,7 @@ authors:
   - Thanh Nghiem
 date: "2017-09-12"
 slug: "europe"
-description: "europe changer de paradigme"
+description: "Changer de paradigme"
 categories:
   - Europe
 ---
