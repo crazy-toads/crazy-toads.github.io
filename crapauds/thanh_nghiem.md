@@ -24,5 +24,5 @@ Elle fonde alors l’Institut Angenius, un incubateur d’initiatives et d’id�
 Ouvrages
 *Des abeilles et des hommes : Passerelles pour un monde libre et durable,* Bayard Jeunesse, 2010
 
-
+Source : http://up-conferences.fr/personnalites/thanh-nghiem
 {% include youtube.html %}
