@@ -8,6 +8,8 @@ description: Chercheuse en neuroscience au CNRS, casse les frontières
 photo: fabienne_cazalis.jpg
 Researchgate: "https://www.researchgate.net/profile/Fabienne_Cazalis"
 illus: profiles/fabienne_cazalis_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Fabienne est chercheur en sciences cognitives au Centre d’Analyse et de Mathématique Sociales (CNRS – EHESS) et résidente à l’Institut des Systèmes Complexes.

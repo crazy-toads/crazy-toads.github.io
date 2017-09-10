@@ -8,6 +8,8 @@ description: Open Santé
 photo: olivier_defresnoye.jpg
 twitter: "@OFresnoye"
 linkedin: "https://www.linkedin.com/in/olivier-de-fresnoye-23045934/ "
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Après des études scientifiques et économiques, à découvrir ceux qui hier ont pensé le monde d'aujourd'hui, Olivier fait un bref passage dans l'industrie avant de décoller pour l'Asie où il y restera 7 ans à conduire des projets de développement humanitaire en agissant aujourd'hui pour penser demain. 

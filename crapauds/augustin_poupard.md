@@ -8,6 +8,8 @@ description: Jeune membre de l’AFM, EDHEC BBA
 photo: augustin_poupard.jpg
 twitter: "@augustinpoup"
 linkedin: "https://www.linkedin.com/in/augustin-poupard-15a49a99/"
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 « Dépouiller le vieux monde de ses certitudes ! »

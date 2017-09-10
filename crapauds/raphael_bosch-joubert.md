@@ -8,6 +8,8 @@ description: Fondateur de 22EME SIECLE
 photo: raphael_bosch.jpg
 twitter: "@raphael_bosch"
 linkedin: "https://www.linkedin.com/in/raphaelbosch/?ppe=1"
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Raphaël est une personne enthousiaste. Il est profondément ancré dans l’humain avec lequel il échange de mille manières pour construire des bulles du mieux vivre. Raphaël c’est cinq ans de droit et tout le reste de manière transversale. Dans l’action en permanence, il a laissé les tribunaux pour accompagner et créer de nombreux projets environnementaux, culturels, sportifs et politiques.

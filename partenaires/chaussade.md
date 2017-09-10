@@ -5,6 +5,8 @@ sortkey: chaussade
 description: Directeur Général de Suez
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 Mobilisons-nous pour relever le défi de la raréfaction des ressources naturelles en nous engageant avec et pour les générations futures
 

@@ -9,6 +9,8 @@ photo: antoine_brachet.jpg
 twitter: "@antoinebrachet"
 linkedin: "https://www.linkedin.com/in/brachetantoine/"
 illus: profiles/antoine_brachet_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 A longtemps eu une forme de handicap que partagent sans doute certains lecteurs, il est un bon élève.

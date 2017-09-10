@@ -5,6 +5,8 @@ categories:
 title: Laura-Jane Gautier
 sortkey: gautier
 description: Journaliste TV et indépendante et Ouishare connector
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Laura-Jane est une journaliste en quête de sens. C’est cette quête qui l’a menée à rentrer dans le monde des changemakers, d’abord en les filmant puis en en devenant une elle-même. Elle a rejoint le collectif international Ouishare et travaille avec différentes associations de l’écosystème de l’entrepreneuriat social et solidaire comme Ticket for Change. 

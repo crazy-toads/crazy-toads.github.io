@@ -9,6 +9,8 @@ photo: yamina_saheb.jpg
 twitter: "@ysaheb"
 linkedin: "https://www.linkedin.com/in/yamina-saheb-9b805a6?ppe=1"
 illus: profiles/yamina_saheb_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Ses admirateurs la décrivent comme “une force de la nature”, alors que ses détracteurs disent qu’elle est plutôt « un tsunami ». Qu’importe ! Des surnoms, elle en a depuis sa plus tendre enfance. 

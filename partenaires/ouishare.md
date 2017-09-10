@@ -5,6 +5,8 @@ sortkey: ouishare
 description: Asmaa Guedira et Francesca Pick
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 Ce qui était à l'origine un blog et une poignée de fans de l'économie collaborative à Paris est aujourd'hui devenu une association et un collectif international : depuis ses débuts fin 2011, OuiShare s'est rapidement transformé en organisation internationale, avec plus de 200 événements organisés en Europe, Amérique du Nord et du Sud, Moyen Orient et Afrique du Nord, 4000 contributeurs dans 7 langues et des communautés locales dans plus de 25 pays, animées par 80 connecteurs (membres actifs).
 

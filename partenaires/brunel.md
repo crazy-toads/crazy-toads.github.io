@@ -5,6 +5,8 @@ sortkey: brunel
 description: mécène des crapauds fous
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 Au regard des richesses, connaissances, compétences, et découvertes scientifiques à notre disposition, il est impératif d’agir MAINTENANT … 
 

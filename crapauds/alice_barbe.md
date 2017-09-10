@@ -6,6 +6,8 @@ title: Alice Barbe
 sortkey: barbe
 description: Directrice Générale de Singa
 illus: profiles/alice_barbe_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Après des études européennes où elle a l’opportunité d’apprendre Machiavel, le polonais et comment faire un bon risotto, Alice démarre sa carrière à Montréal aux Nations Unies, au contact des organisations internationales et représentations étatiques. En 2012, elle rejoint les fondateurs de Singa, persuadée que l’accueil des personnes réfugiées est au cœur de nombreux enjeux sociétaux occidentaux. 

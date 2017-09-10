@@ -5,6 +5,8 @@ sortkey: maurer
 description: Président de la Croix Rouge Internationale
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 La vérité ne m’est jamais apparue de manière aussi évidente : la responsabilité de créer le monde dans lequel nous vivons nous incombe à tous.
 

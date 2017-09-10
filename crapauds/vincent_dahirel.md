@@ -6,6 +6,8 @@ title: Vincent Dahirel
 sortkey: dahirel
 description: Université Pierre &amp; Marie Curie, CRI
 illus: profiles/vincent_dahirel_illus.png
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Crapaud chimiste, sa curiosité transdisciplinaire l'a conduit loin des éprouvettes, comme dans un projet de design de vaccin contre le VIH (Comment attaquer un virus sans que celui-ci ne mute pour parer l’attaque ?), ou une étude sur la recherche de gènes sur l'ADN par des protéines qui régulent l'activité génétique (Comment "scanner" l'ADN sans le lire "mot à mot" ?).

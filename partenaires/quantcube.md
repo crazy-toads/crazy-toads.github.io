@@ -5,6 +5,8 @@ sortkey: quantcube
 description: chevalier blanc de la donnée ?
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 QuantCube Technology est une société spécialisée dans l’intelligence artificielle et dont l’activité consiste à analyser les données dites « Big Data » pour en extraire de l’information et de la valeur. 
 

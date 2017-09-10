@@ -5,6 +5,8 @@ categories:
 title: Olivier Lebel
 sortkey: lebel
 description: Proximus, l’ONG virtuelle du 21° siècle ?
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 Le 21e siècle sera celui de la 3e révolution industrielle. Progressivement, tous les champs de l’économie sont transformés par le collaboratif. Après l’hôtellerie, les transports, l’énergie, à quand l’action sociale ?

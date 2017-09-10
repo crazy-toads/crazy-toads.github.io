@@ -5,6 +5,8 @@ sortkey: borello
 description: Président du Groupe SOS
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 Première entreprise sociale européenne, le Groupe SOS pèse aujourd’hui 1 milliard d’euros de chiffre d’affaires, compte 15 000 salariés, est présent dans 35 pays et double de taille tous les quatre ans.
 

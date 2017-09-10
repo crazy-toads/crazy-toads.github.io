@@ -5,6 +5,8 @@ sortkey: mulliez
 description: Julien Derville et Augustin Poupard
 categories:
   - Partenaire
+linktitle: "Partenaires <i class=\"iconside iconm-user-tie\"> </i>"
+linkurl: /partenaires/
 ---
 Louis Mulliez et ses enfants créent leurs premières entreprises au début du XXème siècle. Ils sont très influencés par ce qu’on appelle le « capitalisme social », issu de la pensée sociale chrétienne, que l’on qualifierait aujourd’hui de « capitalisme éthique ». Le profit y est considéré non pas comme un but, mais comme un moyen à disposition des entrepreneurs, pour créer puis pérenniser richesse et emplois. Un principe et une conviction guident l'ensemble :
 

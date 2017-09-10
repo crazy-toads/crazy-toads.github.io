@@ -9,6 +9,8 @@ photo: thanh_nghiem.jpg
 twitter: "@thanh_nghiem"
 linkedin: "https://fr.linkedin.com/in/tnghiem"
 videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
+linktitle: "Crapauds  <i class=\"iconm iconm-user\"> </i>"
+linkurl: /crapauds/
 ---
 
 
