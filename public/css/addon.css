@@ -90,6 +90,34 @@
   line-height: 1em;
 }
 
+
+.contact-form {
+  font-size: .9em;  
+  padding-bottom: 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+.contact-form div {
+  margin-top: .2em;
+}
+.contact-box {
+  font-size: .9em;
+  border: 2px solid #90a959;
+  border-radius: 4px;
+  padding-bottom: 15px;
+  width: 50%;
+}
+
+
+#contact-button{
+  background-color:#90a959;
+  border-radius: 4px;
+  font-size: .9em;
+  padding: .5em 2em;
+  width: 50%;
+}
+
+
 @media (min-width: 56em) {
   .sidebar {
     visibility: visible;
@@ -113,23 +141,3 @@
     display: none;
   }
 }
-
-.contact-form {
-    font-size: .9em;
-    
-    padding-bottom: 15px;   
-}
-
-.contact-box {
-    font-size: .9em;
-    border: 2px solid #90a959;
-    border-radius: 4px;
-    padding-bottom: 15px;
-}
-
-#contact-button{
-background-color:#90a959;
-border-radius: 4px;
-font-size: .9em;
-}
-

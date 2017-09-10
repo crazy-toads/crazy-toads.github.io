@@ -10,18 +10,23 @@ mathjax: false
 noindex: false
 ---
 
-Envoyez-nous un mail à <i class="fa fa-envelope-o"></i> contact at crapaud-fou.org
+Envoyez-nous un mail à <a href="mailto:contact@crapaud-fou.org"><i class="fa fa-envelope-o"></i> contact@crapaud-fou.org</a> ou remplissez ce formulaire:
 
 
-<form method="POST" action="http://formspree.io/shelley@crapaud-fou.org">
-<div class="contact-form">
-  <input type="email" class="contact-box" name="email" placeholder="Votre email">
+<form method="POST" action="http://formspree.io/contact@crapaud-fou.org" class="contact-form">
+<input type="hidden" name="_next" value="{{ site.url }}/merci/" />
+<input type="hidden" name="_language" value="fr" />
+<input type="hidden" name="_format" value="plain" />
+<input type="hidden" name="_subject" value="Contact crapaud-fou.org" />
+
+<div>
+  <input type="email" class="contact-box" name="_replyto" placeholder="Votre email">
 </div>
 
-<div class="contact-form">
-  <textarea class="contact-box" name="message" placeholder="Écrire votre message"></textarea>
+<div>
+  <textarea class="contact-box" name="message" placeholder="Votre message" rows="15"></textarea>
 </div>
 
-  <button type="submit" id="contact-button">Send</button>
+  <input type="submit" value="Envoyer" id="contact-button">
 </form>
 
