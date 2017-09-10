@@ -10,8 +10,15 @@ mathjax: false
 noindex: false
 ---
 
-
 Envoyez-nous un mail à <i class="fa fa-envelope-o"></i> contact at crapaud-fou.org
+
+<form method="POST" action="http://formspree.io/shelley@crapaud-fou.org">
+  <input type="email" name="email" placeholder="Votre email">
+  <br>
+  <textarea name="message" placeholder="Votre message"></textarea>
+  <button type="submit">Send</button>
+</form>
+
 
 <img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fou logo"/>
 <br>
