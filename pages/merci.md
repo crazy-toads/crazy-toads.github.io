@@ -9,4 +9,4 @@ mathjax: false
 noindex: false
 ---
 
-Merci pour votre message. Si tout se passe bien nous vous réponbdrons le plus vite possible.
+Merci pour votre message. Si tout se passe bien nous vous répondrons le plus vite possible.
