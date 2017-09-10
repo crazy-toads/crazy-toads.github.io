@@ -38,8 +38,8 @@ Nous vous proposons d’y participer : il vous suffit de vous connecter au profi
 Les expériences partagées par Raphaël, Laura-Jane et Antoine montrent que les initiatives de réappropriation de la démocratie par les citoyens se multiplient en France et ailleurs. Les participants à ce type de projets sont de plus en plus nombreux. Ils apprennent à se connaître et se nourrissent des expériences des uns et des autres, qu’elles soient concluantes ou pas. Le chemin parcouru ensemble compte plus que le résultat final. L’important étant de partager, chaque participant apporte un nouvel angle, une nouvelle perspective qui complète celle des autres.
 
 Conscients des enjeux de notre époque et de la responsabilité des adultes d’aujourd’hui vis-à-vis des générations futures, les citoyens utilisent les nouvelles technologies pour une répartition citoyenne du pouvoir. Raphaël, Laura-Jane et Antoine nous ont confié que de ce bouillonnement émergera petit à petit une autre façon de faire les choses.
+
+
 Nous vous invitons à rejoindre ces mouvements !
-
-
 
 [1]: https://www.facebook.com/profile.php?id=100011421813904
