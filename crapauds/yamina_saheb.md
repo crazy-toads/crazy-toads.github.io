@@ -6,9 +6,9 @@ title: Yamina Saheb
 sortkey: saheb
 description: Fondatrice et dirigeante du réseau OpenExp
 photo: yamina_saheb.jpg
-published: true
 twitter: "@ysaheb"
 linkedin: "https://www.linkedin.com/in/yamina-saheb-9b805a6?ppe=1"
+illus: profiles/yamina_saheb_illus.png
 ---
 
 Ses admirateurs la décrivent comme “une force de la nature”, alors que ses détracteurs disent qu’elle est plutôt « un tsunami ». Qu’importe ! Des surnoms, elle en a depuis sa plus tendre enfance. 
@@ -19,7 +19,7 @@ Avide de savoir et de connaissances, elle passe des études de mathématiques à
 
 Elle a commencé par hacker les logiciels de calcul. Pour elle, le copyright sur les logiciels et travaux scientifiques est une forme d’apartheid qui maintient les écarts entre le Nord et le Sud. Ce qui explique son investissement dans le libre.
 
-<img src="{{ site.urlimg }}/profiles/yamina_saheb_illus.png" />
+<img src="{{ site.urlimg }}/{{ page.illus }}" class="illus" />
 
 En 2013, alors analyste des politiques énergétiques à l’OCDE, elle publie un post intitulé « [I have a dream][1] ». Elle reprend la formule de Martin Luther King pour parler de son rêve d’un monde basé sur la frugalité énergétique. 
 

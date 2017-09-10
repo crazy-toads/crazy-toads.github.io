@@ -8,7 +8,6 @@ description: Le collaboratif trans-national
 photo: francesca_pick.jpg
 twitter: "@francescapick"
 linkedin: "https://www.linkedin.com/in/francescapick/"
-published: true
 ---
 
 Francesca Pick est un membre clé des réseaux internationaux [OuiShare][1] et [Enspiral][2] (Nouvelle-Zélande). 

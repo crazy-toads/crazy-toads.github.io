@@ -5,7 +5,6 @@ categories:
 title: Pierrick Judéaux
 sortkey: judeaux
 description: Justice et citoyenneté sur tous les fronts
-published: true
 ---
 
 Après des études supérieures en management puis en économie, avec des incursions vers l'histoire et la sociologie, je m’intéresse depuis plus de dix ans aux moments de disruptions et à la manière dont organisations et systèmes économiques et politiques se transforment sous la pression de forces économiques et sociétales. 

@@ -6,7 +6,6 @@ title: Arnaud Chaput
 sortkey: chaput
 description: Co-Fondateur de l'Agence Flamel & The Stones
 photo: arnaud_chaput.jpg
-published: true
 twitter: "@ArnoChaput"
 linkedin: "https://www.linkedin.com/in/arnaud-chaput-06645932/?ppe=1"
 ---

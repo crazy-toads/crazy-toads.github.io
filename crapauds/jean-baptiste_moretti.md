@@ -8,7 +8,6 @@ description: musicien et entrepreneur engagé
 photo: jeanbaptiste_moretti.jpg
 twitter: "@ysaheb"
 linkedin: "https://www.linkedin.com/in/jean-baptiste-moretti-5a8790a3/?ppe=1"
-published: true
 ---
 
 Le parcours de Jean-Baptiste est ‘’un voyage inattendu’’.

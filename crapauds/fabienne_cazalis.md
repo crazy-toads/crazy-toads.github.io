@@ -7,7 +7,7 @@ sortkey: cazalis
 description: Chercheuse en neuroscience au CNRS, casse les frontières
 photo: fabienne_cazalis.jpg
 Researchgate: "https://www.researchgate.net/profile/Fabienne_Cazalis"
-published: true
+illus: profiles/fabienne_cazalis_illus.png
 ---
 
 Fabienne est chercheur en sciences cognitives au Centre d’Analyse et de Mathématique Sociales (CNRS – EHESS) et résidente à l’Institut des Systèmes Complexes.
@@ -20,4 +20,4 @@ C’est dans cet atelier qu’elle rencontrera ensuite Cédric, et qu’ils déc
 
 En effet, Fabienne consacre ses travaux à l’étude de l’intelligence autiste. Elle travaille notamment au développement d’un dispositif gratuit, ouvert et mutualisé permettant d’étudier les intelligences atypiques.
 
-<img src="{{ site.urlimg }}/profiles/fabienne_cazalis_illus.png" />
+<img src="{{ site.urlimg }}/{{ page.illus }}" class="illus" />

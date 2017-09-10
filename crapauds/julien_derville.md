@@ -8,7 +8,6 @@ description: jeune membre de l’AFM et co-fondateur de ZTP (Ze Twelfth Player)
 photo: julien_derville.jpg
 twitter: "@julienderville"
 linkedin: "https://www.linkedin.com/in/julien-derville-5260577a"
-published: true
 ---
 
 4 mots qui le caractérisent ? 

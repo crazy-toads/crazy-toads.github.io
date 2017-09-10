@@ -6,7 +6,6 @@ title: Thanh Nghiem
 sortkey: nghiem
 description: Ingénieure et fondatrice de l’Institut Angenius
 photo: thanh_nghiem.jpg
-published: true
 twitter: "@thanh_nghiem"
 linkedin: "https://fr.linkedin.com/in/tnghiem"
 videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 

@@ -7,7 +7,6 @@ sortkey: foucauld
 description: Pacte Civique, Démocratie et Spiritualité
 photo: jeanbaptiste_defoucauld.jpg
 wikipedia: https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Foucauld
-published: true
 ---
 
 Jean-Baptiste de Foucauld est un haut fonctionnaire Français diplômé de l’Ecole Nationale d’Administration. 

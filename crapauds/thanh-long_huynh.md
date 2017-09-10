@@ -5,7 +5,6 @@ categories:
 title: Thanh-Long Huynh
 sortkey: huynh
 description: Fondateur et DG de QuantCube
-published: true
 ---
 
 Long a toujours été passionné par le monde de la statistique et de l'analyse de la donnée. Le monde actuel ouvre un champs d'applications et d'innovation grâce à ce pétrole digital qu'est la donnée. 

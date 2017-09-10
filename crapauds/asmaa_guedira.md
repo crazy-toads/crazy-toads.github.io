@@ -8,7 +8,6 @@ description: « hyper-connectrice »
 photo: asmaa_guedira.jpg
 twitter: "@asgued"
 linkedin: "https://www.linkedin.com/in/asmaaguedira/"
-published: true
 ---
 
 Asmaa est une « hyper-connectrice »1, qui porte plusieurs casquettes : activiste du genre, spécialiste des nouveaux modes de travails collaboratifs, digital nomade. Elle s'évertue à construire des ponts entre différents univers et cultures afin de les décloisonner et casser les frontières. 

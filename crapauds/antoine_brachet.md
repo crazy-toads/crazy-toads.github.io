@@ -8,7 +8,7 @@ description: Les 100 Barbares
 photo: antoine_brachet.jpg
 twitter: "@antoinebrachet"
 linkedin: "https://www.linkedin.com/in/brachetantoine/"
-published: true
+illus: profiles/antoine_brachet_illus.png
 ---
 
 A longtemps eu une forme de handicap que partagent sans doute certains lecteurs, il est un bon élève.
@@ -35,7 +35,7 @@ Réfléchir c’est bien. Agir avec d’autres c’est mieux.
 
 Mais pour agir vraiment, il faut oublier plein de réflexes pré-acquis, surtout lorsque l’on est un bon élève.
 
-<img src="{{ site.urlimg }}/profiles/antoine_brachet_illus.png" />
+<img src="{{ site.urlimg }}/{{ page.illus }}" class="illus" />
 
 Par exemple, dans le cas de notre barbare bienveillant, s’irriter il y a 3 ans d’un classement public (Choiseul) proposant 100 énarques ou polytechniciens comme reflet de la France en changement. Et décider de proposer à tous d’identifier au moins une personne susceptible de porter un changement réel et positif.
 

@@ -89,6 +89,7 @@
   font-size: .9em;
   line-height: 1em;
 }
+
 @media (min-width: 56em) {
   .sidebar {
     visibility: visible;
@@ -106,6 +107,7 @@
 @media (min-width: 117em) {
   .sidelogo {
     display: block;
+    max-width: 580px;
   }
   .illus {
     display: none;

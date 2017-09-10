@@ -5,7 +5,6 @@ categories:
 title: Mathieu Baudin
 sortkey: baudin
 description: Les conspirateurs positifs
-published: true
 ---
 
 « Un monde se meurt et un autre tarde à apparaître », et si comme le dit le poète Antonio Gramsci « dans ce clair-obscur apparaissent des monstres » force est de constater également que des explorateurs y prennent le large. Car c’est justement le moment de partir. Le moment de s’extraire des contingences d’un monde qui finit pour explorer les réalités d’un monde qui s’annonce.

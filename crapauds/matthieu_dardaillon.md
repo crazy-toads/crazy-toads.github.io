@@ -8,7 +8,6 @@ description: Ticket for Change
 photo: matthieu_dardaillon.jpg
 twitter: "@MatthieuDard"
 linkedin: "https://www.linkedin.com/in/matthieu-dardaillon-a62b3828/ "
-published: true
 ---
 
 Sensibilisé très jeune aux problèmes de société, Matthieu Dardaillon décide d'étudier en école de commerce car il a l'intuition que les entreprises ont une responsabilité et une capacité inédite pour changer les choses à grande échelle. Au milieu de ses études à l'ESCP Europe et à HEC Paris, il découvre les concepts d'entrepreneuriat social et de social business. 

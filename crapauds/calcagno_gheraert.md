@@ -5,7 +5,6 @@ categories:
 title: Sofia Calcagno et Jean-Batiste Gheraert
 sortkey: calcagno
 description: data scientists
-published: true
 ---
 
 ofía et Jean-Baptiste sont deux jeunes experts en Intelligence Artificielle. Ils possèdent tous les deux un Master en mathématiques appliquées et travaillent dans le domaine de la Data Science.
