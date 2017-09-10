@@ -15,7 +15,7 @@ categories:
 
 L’Europe est, indéniablement, l’une des plus belles aventures humaines de tous les temps ! En moins d’un siècle, des pays, habitués à conquérir par la guerre des territoires sous l’autorité de leurs voisins, ont décidé de s’associer pour construire un projet de paix, de démocratie, et de prospérité à travers une modernisation sans précédent des moyens de production et une réelle prise en compte de la dimension sociale du développement.
 
-L’adoption de la Déclaration universelle des droits de l’homme par l’assemblée générale des Nations unies en 1948, à Paris, n’est pas le fruit du hasard. De la même façon, la signature du premier accord universel sur le climat à Paris, lors de la COP21, en 2015, est elle aussi loin d’être le fruit du hasard. Si l’Accord de Paris est l’aboutissement de plusieurs années de diplomatie européenne et française, sa signature est venue nous rappeler le rôle de l’Europe dans le monde. Cet accord historique, en plus d’avoir été signé à Paris, est très largement inspiré par les valeurs universelles de justice, d’égalité et de solidarité entre les peuples que l’Europe porte haut et fort partout dans le monde depuis longtemps.
+L’adoption de la Déclaration universelle des droits de l’homme par l’Assemblée Générale des Nations Unies en 1948, à Paris, n’est pas le fruit du hasard. De la même façon, la signature du premier accord universel sur le climat à Paris, lors de la COP21, en 2015, est elle aussi loin d’être le fruit du hasard. Si l’Accord de Paris est l’aboutissement de plusieurs années de diplomatie européenne et française, sa signature est venue nous rappeler le rôle de l’Europe dans le monde. Cet accord historique, en plus d’avoir été signé à Paris, est très largement inspiré par les valeurs universelles de justice, d’égalité et de solidarité entre les peuples que l’Europe porte haut et fort partout dans le monde depuis longtemps.
 
 Néanmoins, la construction européenne n’a pas été un long fleuve tranquille. Bien au contraire, ce fut et ça continuera d’être un chemin semé d’embûches, comme est venu nous le rappeler le vote du Brexit.
 
@@ -31,19 +31,19 @@ Toutefois, la mise en œuvre de la RPGD nécessitera l’émergence en Europe d�
 
 Trois idées principales ont émergé lors des débats aux Treilles :
 
-1. Sensibilisation à l’Europe
+# Sensibilisation à l’Europe
 
 À l’instar de la journée du service civique pour les jeunes, nous pensons qu’une journée d’initiation à l’Europe permettrait à tous les citoyens de l’Union de mieux s’approprier leur citoyenneté européenne. On pourrait imaginer que ce soit un jour férié dans tous les États membres, pourquoi pas le 9 mai, qui est la journée de l’Europe. À cette occasion, les citoyens pourraient présenter les initiatives réalisées à côté de chez eux dans une ville ou un village de leur choix. 
 
 Cela garantirait que chaque citoyen voyage ne serait-ce qu’une fois dans sa vie en Europe. Ce type de voyages permettrait de célébrer le partage d’expériences réelles, l’art de vivre, la diversité culturelle et linguistique, l’Europe des sciences et surtout de prendre conscience de la dimension européenne de notre citoyenneté. On pourrait lancer, comme le traité de Lisbonne nous le permet, une pétition en ligne, pour rassembler un million de signatures dans au moins sept États membres, afin de demander à la Commission européenne d’évaluer notre proposition de la journée de sensibilisation à l’Europe et de proposer des pistes pour sa mise en œuvre.
 
-2. Un Erasmus pour tous
+# Un Erasmus pour tous
 
-Notre pari est que nous pouvons co-construire la citoyenneté européenne par le voyage, la mobilité et la rencontre avec l’autre, comme le montre si bien le film de Cédric Klapisch L’Auberge espagnole, sorti en 2002. L’expérience du brassage culturel et linguistique vécue par les sept étudiants du film n’aurait pas pu avoir lieu sans le programme Erasmus. C’est pourquoi nous pensons qu’un Erasmus pour tous, dès le jeune âge, contribuerait à la construction de la citoyenneté européenne. 
+Notre pari est que nous pouvons co-construire la citoyenneté européenne par le voyage, la mobilité et la rencontre avec l’autre, comme le montre si bien le film de Cédric Klapisch, l’Auberge espagnole, sorti en 2002. L’expérience du brassage culturel et linguistique vécue par les sept étudiants du film n’aurait pas pu avoir lieu sans le programme Erasmus. C’est pourquoi nous pensons qu’un Erasmus pour tous, dès le jeune âge, contribuerait à la construction de la citoyenneté européenne. 
 
 On pourrait s’inspirer des jumelages entre communes, reprendre le cadre réglementaire qui permet déjà les échanges entre jeunes aux alentours de 14 ans et d’étendre ce dispositif dans le cadre d’un programme Erasmus pour tous. Cela garantirait l’accès à Erasmus également à ceux qui ne poursuivraient pas des études universitaires. En effet, malgré des tentatives récentes d’élargissement , Erasmus ne continue à bénéficier qu’à une minorité de jeunes. Processus complexes, méconnaissance du public cible, manque de moyens financiers… les raisons invoquées sont nombreuses. Nous demandons que le programme soit réévalué, de manière à garantir l’accès à tous les jeunes, notamment aux publics les plus défavorisés, en travaillant auprès des acteurs de proximité  avec des moyens d’information adaptés.
 
-3. Un écosystème Internet pour relier les citoyens : « Citizen Link »:
+# Un écosystème Internet pour relier les citoyens : « Citizen Link »:
 
 À l’instar des logiciels en open source qui sont sous la vigilance de la communauté des utilisateurs, nous pensons qu’un écosystème Internet sécurisé et transparent rendrait impossible la manipulation et l’exploitation des données des citoyens européens à des fins privées. Ce système, que nous appellerons par exemple « Citizen Link », offrirait les fonctionnalités sociales essentielles, – hashtags sur ses préférences, compétences, lieux de vie – ainsi que des services collaboratifs – logement en couchsurfing, covoiturage, cours de bricolage, de cuisine, etc …
 
