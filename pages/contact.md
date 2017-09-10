@@ -25,25 +25,3 @@ Envoyez-nous un mail à <i class="fa fa-envelope-o"></i> contact at crapaud-fou.
   <button type="submit" id="contact-button">Send</button>
 </form>
 
-<style>
-
-.contact-form {
-    font-size: .9em;
-    
-    padding-bottom: 15px;   
-}
-
-.contact-box {
-    font-size: .9em;
-    border: 2px solid #90a959;
-    border-radius: 4px;
-    padding-bottom: 15px;
-}
-
-#contact-button{
-background-color:#90a959;
-border-radius: 4px;
-font-size: .9em;
-}
-
-</style>
