@@ -103,8 +103,11 @@
       margin-left: 14rem;
   }
 }
-@media (min-width: 110em) {
+@media (min-width: 117em) {
   .sidelogo {
     display: block;
+  }
+  .illus {
+    display: none;
   }
 }
