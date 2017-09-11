@@ -11,7 +11,7 @@ noindex: false
 ---
 
 ### Vous aussi, vous pouvez participer !
- 
+
 Dites-nous ce qui vous passe par la tête. Par exemple : faire Crapaud fou,
 pour vous, ce serait quoi ? Vous avez des idées de communauté, de projet,
 de conférence près de chez vous ? Envie d'agir dans l'éducation, organiser
