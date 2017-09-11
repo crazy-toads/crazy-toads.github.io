@@ -58,7 +58,7 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-user"></i> Cercles & Principles
+  - title: <i class="iconside iconm-user"></i> Cercles & Principes
     url: /cercles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
