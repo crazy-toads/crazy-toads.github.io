@@ -7,6 +7,7 @@ videofeature: "https://www.youtube.com/embed/ZV4zuepujSc"
 ---
 
 
+<<<<<<< HEAD
 
 ## Histoire d’une quête
 
@@ -19,6 +20,19 @@ Notre pari : l’addition de ces lames de fond offre une opportunité historique
 ## Le Manifeste du Crapaud fou
 Aux Treilles, avril 2017. Première cohorte qui ouvre la voie pour inviter à l’aventure collective. 34 crapauds fous mixant les tranches d’âges, les compétences, les personnalités s’isolent pendant 10 jours et jettent les bases du Manifeste. Un fil conducteur, 9 cercles d’entraînement, 3 principes. Voir le Manifeste du Crapaud fou et les Cercles & Principes. 
 Tout ceci est imparfait, bien sûr. C’est un ours, conçu pour inviter à entrer dans la danse. Si vous voulez en savoir plus, plongez dans [la Mare à Crapaud.](/textes)
+=======
+## Histoire d'une quête
+#### "Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement" 
+En octobre 2016, Thanh Nghiem, Cédric Villani et Florent Massot, décident d’écrire le Manifeste du Crapaud fou. Face au tsunami planétaire, il faut provoquer un déclic, provoquer une prise de conscience et donner des clés pour que chacun puisse devenir acteur de ce nouveau monde qui arrive. Le travail est intérieur autant qu’extérieur.
+Après quelques mois de quête, nous découvrons qu’il n’y a pas un mais trois tsunamis. Post-vérité, fake news, promesses de l’intelligence artificielle et du big data, mais aussi fracture sociale, repli identitaire, montée des discours populistes simplificateurs. 
+Notre pari : l’addition de ces lames de fond offre une opportunité historique pour réussir le changement de phase tant invoqué. 
+
+<img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
+
+## Le Manifeste du Crapaud fou
+Aux Treilles, avril 2017. Première cohorte qui ouvre la voie pour inviter à l’aventure collective. 34 crapauds fous mixant les tranches d’âges, les compétences, les personnalités s’isolent pendant 10 jours et jettent les bases du Manifeste. Un fil conducteur, 9 cercles d’entraînement, 3 principes. Voir le [Manifeste du Crapaud fou](/manifeste_du_crapaud) et les [Cercles & Principes](/cercles). 
+Tout ceci est imparfait, bien sûr. C’est un ours, conçu pour inviter à entrer dans la danse. Si vous voulez en savoir plus, plongez dans [la Mare à Crapaud.](/Mare_a_Crapaud)
+>>>>>>> 7e94d43b3ee1afc10a0f7c5f816c4a72726ad627
 
 ## Lâcher de Crapauds fous
 Au lendemain des Treilles, Cédric est parti en croisade politique dans un contexte d’élections présidentielles sous haute tension. 
