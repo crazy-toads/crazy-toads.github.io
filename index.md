@@ -13,11 +13,10 @@ En octobre 2016, Thanh Nghiem, Cédric Villani et Florent Massot, décident d’
 Après quelques mois de quête, nous découvrons qu’il n’y a pas un mais trois tsunamis. Post-vérité, fake news, promesses de l’intelligence artificielle et du big data, mais aussi fracture sociale, repli identitaire, montée des discours populistes simplificateurs. 
 Notre pari : l’addition de ces lames de fond offre une opportunité historique pour réussir le changement de phase tant invoqué. 
 
-{% include youtube.html %}
-
 ## Le Manifeste du Crapaud fou
 Aux Treilles, avril 2017. Première cohorte qui ouvre la voie pour inviter à l’aventure collective. 34 crapauds fous mixant les tranches d’âges, les compétences, les personnalités s’isolent pendant 10 jours et jettent les bases du Manifeste. Un fil conducteur, 9 cercles d’entraînement, 3 principes. Voir le Manifeste du Crapaud fou et les Cercles & Principes. 
 Tout ceci est imparfait, bien sûr. C’est un ours, conçu pour inviter à entrer dans la danse. Si vous voulez en savoir plus, plongez dans [la Mare à Crapaud.](/textes)
+{% include youtube.html %}
 
 ## Lâcher de Crapauds fous
 Au lendemain des Treilles, Cédric est parti en croisade politique dans un contexte d’élections présidentielles sous haute tension. 
