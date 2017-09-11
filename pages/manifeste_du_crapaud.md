@@ -1,11 +1,9 @@
 ---
 layout: page
-title: manifeste du crapaud fou
+title: Le manifeste du crapaud fou
 permalink: /manifeste_du_crapaud/
 description: "manifeste du crapaud fou"
 ---
-
-## Le Manifeste du Crapaud fou
 
 Dérèglement climatique, crises en tous genre, terrorisme, maladies de civilisation … nous sommes submergés par un tsunami d’angoisse. Que faire ? Comment devenir acteur de ce nouveau monde qui se profile à l’horizon ?
 
