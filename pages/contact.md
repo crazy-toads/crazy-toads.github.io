@@ -15,7 +15,7 @@ noindex: false
 Dites-nous ce qui vous passe par la tête. Par exemple : faire Crapaud fou,
 pour vous, ce serait quoi ? Vous avez des idées de communauté, de projet,
 de conférence près de chez vous ? Envie d'agir dans l'éducation, organiser
-des conférences ? Besoin d'information ?
+des rencontres ? Besoin d'information ?
 
 Et puis, si vous êtes intéressés par une ou plusieurs copies du livre, merci de nous
 le dire et d'en parler autour de vous !
