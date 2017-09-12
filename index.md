@@ -5,14 +5,16 @@ title: Les Crapauds fous
 description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
 ---
-{% include youtube.html width=50 height=50 %}
 
 ## Histoire d’une quête
+
 #### Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement.
 
 <img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
 
 En octobre 2016, Thanh Nghiem, Cédric Villani et Florent Massot, décident d’écrire le Manifeste du Crapaud fou. Face au tsunami planétaire, il faut provoquer un déclic, provoquer une prise de conscience et donner des clés pour que chacun puisse devenir acteur de ce nouveau monde qui arrive. Le travail est intérieur autant qu’extérieur.
+
+{% include youtube_50.html %}
 
 Après quelques mois de quête, nous découvrons qu’il n’y a pas un mais trois tsunamis. Post-vérité, fake news, promesses de l’intelligence artificielle et du big data, mais aussi fracture sociale, repli identitaire, montée des discours populistes simplificateurs. 
 

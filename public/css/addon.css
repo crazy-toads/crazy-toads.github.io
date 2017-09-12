@@ -117,6 +117,11 @@
   width: 50%;
 }
 
+.ytube-video-container-50 {
+  float: right;
+  width: 50%;
+  margin-left: 2em;
+}
 
 @media (min-width: 56em) {
   .sidebar {
