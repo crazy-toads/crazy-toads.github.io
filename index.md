@@ -6,11 +6,11 @@ description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
 ---
 
-{% include youtube.html width=50 height=50 %}
+#### Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement. 
+ « …Un nom gentiment fou comme tout le projet : les Crapauds fous. Car on a étudié, très sérieusement, les effets bénéfiques de quelques déviants parmi les populations de crapauds. Ces crapauds fous peuvent parfois montrer le chemin et sauver l’espèce.  Et montrent bien, combien il est illusoire de vouloir normer toutes les intelligences, et combien le groupe a besoin de sa diversité. » Cédric Villani
+
 
 ## Histoire d’une quête
-
-#### Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement. 
 
 <img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
 
@@ -19,6 +19,7 @@ En octobre 2016, Thanh Nghiem, Cédric Villani et Florent Massot, décident d’
 Après quelques mois de quête, nous découvrons qu’il n’y a pas un mais trois tsunamis. Post-vérité, fake news, promesses de l’intelligence artificielle et du big data, mais aussi fracture sociale, repli identitaire, montée des discours populistes simplificateurs. 
 
 Notre pari : l’addition de ces lames de fond offre une opportunité historique pour réussir le changement de phase tant invoqué. 
+{% include youtube.html width=50 height=50 %}
 
 ## Le Manifeste du Crapaud fou
 
