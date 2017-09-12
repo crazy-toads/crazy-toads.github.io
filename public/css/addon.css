@@ -116,7 +116,10 @@
   padding: .5em 2em;
   width: 50%;
 }
-
+.centered {
+  text-align: center;
+  margin: 0 auto;
+}
 
 @media (min-width: 56em) {
   .sidebar {

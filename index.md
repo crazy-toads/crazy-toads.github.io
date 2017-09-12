@@ -51,3 +51,5 @@ Les crapauds vivent dans une zone et se reproduisent dans d’autres. Chaque ann
 Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que des écologistes font creuser pour eux sous les routes. Parce qu’ils s’aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d’avenir et sauvent l’espèce. Dans le genre humain, on pense à Darwin, qui a mis au point la théorie de l’évolution des espèces en observant des oiseaux, alors qu’il était parti sur un bateau comme géologue. Ou à Tim Berners-Lee, qui a transformé un réseau militaire en l’Internet que nous utilisons aujourd’hui. 
 
 Les crapauds fous, ce sont ces individus qui « hackent » l’avenir. Guidés par leur seul instinct, ils partent dans des directions absurdes et reviennent ouvrir aux autres les tunnels qu’ils ont trouvés. Nombreux meurent écrasés, mais sans eux, pas d’évolution possible de l’espèce.
+
+<img src="{{ site.urlimg }}/projet_fou.png" class="centered" alt="Un_nom_gentiment_fou_comme_tout_le_projet" />
