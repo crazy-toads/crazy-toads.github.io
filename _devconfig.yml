@@ -58,9 +58,9 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
-  - title: <i class="iconside iconm-user"></i> Manifeste du crapaud
+  - title: <i class="iconside iconm-compass2"></i> Manifeste du crapaud
     url: /manifeste_du_crapaud/ 
-  - title: <i class="iconside iconm-user"></i> Cercles & Principes
+  - title: <i class="iconside iconm-blog"></i> Cercles & Principes
     url: /cercles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
