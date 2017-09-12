@@ -20,7 +20,7 @@ Notre pari : l’addition de ces lames de fond offre une opportunité historique
 
 ## Le Manifeste du Crapaud fou
 
-Aux Treilles, avril 2017. Première cohorte qui ouvre la voie pour inviter à l’aventure collective. 34 crapauds fous mixant les tranches d’âges, les compétences, les personnalités s’isolent pendant 10 jours et jettent les bases du Manifeste. Un fil conducteur, 9 cercles d’entraînement, 3 principes. Voir le Manifeste du Crapaud fou et les Cercles & Principes. 
+Aux Treilles, avril 2017. Première cohorte qui ouvre la voie pour inviter à l’aventure collective. 34 crapauds fous mixant les tranches d’âges, les compétences, les personnalités s’isolent pendant 10 jours et jettent les bases du Manifeste. Un fil conducteur, 9 cercles d’entraînement, 3 principes. Voir le [Manifeste du Crapaud fou](/manifeste_du_crapaud) et les [Cercles & Principes](/Cercles). 
 
 Tout ceci est imparfait, bien sûr. C’est un ours, conçu pour inviter à entrer dans la danse. Si vous voulez en savoir plus, plongez dans [la Mare à Crapaud.](/textes)
 
