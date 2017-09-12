@@ -50,5 +50,6 @@ Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que d
 
 Les crapauds fous, ce sont ces individus qui « hackent » l’avenir. Guidés par leur seul instinct, ils partent dans des directions absurdes et reviennent ouvrir aux autres les tunnels qu’ils ont trouvés. Nombreux meurent écrasés, mais sans eux, pas d’évolution possible de l’espèce.
 
+<img src="{{ site.urlimg }}/Un_nom_gentiment_fou_comme_tout_le_projet.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
 
-
+https://github.com/crazy-toads/crazy-toads.github.io/blob/master/images/Un%20nom%20gentiment%20fou%20comme%20tout%20le%20projet.png
