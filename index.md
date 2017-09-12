@@ -5,12 +5,10 @@ title: Les Crapauds fous
 description: "La Fable Moderne d'un Monde Libre et juste un peu Fou"
 videofeature: "https://www.youtube.com/embed/ZV4zuepujSc" 
 ---
-
-#### Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement. 
- « …Un nom gentiment fou comme tout le projet : les Crapauds fous. Car on a étudié, très sérieusement, les effets bénéfiques de quelques déviants parmi les populations de crapauds. Ces crapauds fous peuvent parfois montrer le chemin et sauver l’espèce.  Et montrent bien, combien il est illusoire de vouloir normer toutes les intelligences, et combien le groupe a besoin de sa diversité. » Cédric Villani
-
+{% include youtube.html width=50 height=50 %}
 
 ## Histoire d’une quête
+#### Le crapaud fou, c’est l’idée que la survie de l’espèce passe par un changement de comportement.
 
 <img src="{{ site.urlimg }}/crapaud_fou_sourire.jpg" width="200" align="right" alt="crapauds fous logo" class="illus" />
 
@@ -19,7 +17,6 @@ En octobre 2016, Thanh Nghiem, Cédric Villani et Florent Massot, décident d’
 Après quelques mois de quête, nous découvrons qu’il n’y a pas un mais trois tsunamis. Post-vérité, fake news, promesses de l’intelligence artificielle et du big data, mais aussi fracture sociale, repli identitaire, montée des discours populistes simplificateurs. 
 
 Notre pari : l’addition de ces lames de fond offre une opportunité historique pour réussir le changement de phase tant invoqué. 
-{% include youtube.html width=50 height=50 %}
 
 ## Le Manifeste du Crapaud fou
 
@@ -52,5 +49,6 @@ Les crapauds vivent dans une zone et se reproduisent dans d’autres. Chaque ann
 Sauf que… quelques-uns vont dans l’autre sens, ou trouvent les tunnels que des écologistes font creuser pour eux sous les routes. Parce qu’ils s’aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d’avenir et sauvent l’espèce. Dans le genre humain, on pense à Darwin, qui a mis au point la théorie de l’évolution des espèces en observant des oiseaux, alors qu’il était parti sur un bateau comme géologue. Ou à Tim Berners-Lee, qui a transformé un réseau militaire en l’Internet que nous utilisons aujourd’hui. 
 
 Les crapauds fous, ce sont ces individus qui « hackent » l’avenir. Guidés par leur seul instinct, ils partent dans des directions absurdes et reviennent ouvrir aux autres les tunnels qu’ils ont trouvés. Nombreux meurent écrasés, mais sans eux, pas d’évolution possible de l’espèce.
+
 
 
