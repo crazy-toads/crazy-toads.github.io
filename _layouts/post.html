@@ -5,14 +5,14 @@ layout: default
 <div class="post">
   <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
   <span class="post-date" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
-    <i class="fa fa-calendar" title="Date published">
-    <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Permanent link to this post">{{ page.date | date_to_string }}</a> </i>
+    <i class="fa fa-calendar" title="Date de publication">
+    <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Lien permanent vers ce texte">{{ page.date | date_to_string }}</a> </i>
   </span>
   {% if page.modified.size > 2 %}
   {% assign moddate = page.modified | date_to_string %}
   {% assign pgdate = page.date | date_to_string %}
   {% unless moddate == pgdate | date_to_string %}
-  <span class="post-date" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ page.modified | date_to_string }}</i></span>
+  <span class="post-date" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Date de modification"> {{ page.modified | date_to_string }}</i></span>
   {% endunless %}
   {% endif %}
   <span class="post-tags" itemprop="keywords" content="{{ page.tags | array_to_sentence_string }}">
