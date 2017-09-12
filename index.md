@@ -36,8 +36,6 @@ Des conférences, un bouche-à-oreille qui commence à percuter un peu partout.
 Des cohortes qui se sont créées pour contribuer au Manifeste à San Francisco, Berne, Berlin.
 Une présentation en avant-première du Manifeste, organisée par l’un de nos mécènes Crapaud fou, se tient au Cercle Interallié le 12 septembre 2017.
 
-{% include youtube.html %}
-
 ## Et maintenant ?
 
 Le Manifeste n’est pas un livre, ou pas seulement. C’est un processus vivant, qui se nourrit des apports de chaque nouveau venu. Vous aussi, vous pouvez participer au jeu ! 
