@@ -6,6 +6,12 @@ linkurl: /nouvelles/
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.date %}
+  <span class="post-date" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
+    <i class="fa fa-calendar" title="Date de publication">
+    <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Lien permanent vers ce texte">{{ page.date }}</a> </i>
+  </span>
+  {% endif %}
   {% if page.authors %}
   <div class="authors">par {{ page.authors }}</div>
   {% endif %}

@@ -17,4 +17,6 @@ Il est disponible chez Massot, 17, rue dupin a Paris 6e.
 
 <http://massot.com/>
 
+Ou bien sur [amazon](http://amzn.eu/iErVzvl), si vraiment y'a pas d'autre moyen.
+
 <br clear="both">
