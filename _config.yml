@@ -63,12 +63,12 @@ links:
     url: /cercles/
   - title: <i class="iconside iconm-quill"></i> Mare à crapauds
     url: /textes/
+  - title: <i class="iconside iconm-bullhorn"></i> Les Nouvelles
+    url: /nouvelles/
   - title: <i class="iconside iconm-user"></i> Crapauds
     url: /crapauds/
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
-  - title: <i class="iconside iconm-bullhorn"></i> Les Nouvelles
-    url: /nouvelles/
   - title: <i class="iconside iconm-users"></i> Nous rejoindre
     url: /contact/
   - title: <i class="iconside iconm-git-square"></i> Source
