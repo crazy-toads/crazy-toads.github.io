@@ -62,18 +62,20 @@ links:
     url: /manifeste_du_crapaud/ 
   - title: <i class="iconside iconm-blog"></i> Cercles & Principes
     url: /cercles/
-  - title: <i class="iconside iconm-user"></i> Crapauds
-    url: /crapauds/
   - title: <i class="iconside iconm-quill"></i> Mare à crapauds
     url: /textes/
+  - title: <i class="iconside iconm-user"></i> Crapauds
+    url: /crapauds/
   - title: <i class="iconside iconm-user-tie"></i> Partenaires
     url: /partenaires/
-  - title: <i class="iconside iconm-user"></i> Nous rejoindre
+  - title: <i class="iconside iconm-bullhorn"></i> Les Nouvelles
+    url: /nouvelles/
+  - title: <i class="iconside iconm-users"></i> Nous rejoindre
     url: /contact/
-  - title: <i class="iconside iconm-github2"></i> Source
+  - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
     external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
+  - title: <i class="iconside iconm-rss"></i> Feed
     url: /feed.xml
   
 

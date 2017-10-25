@@ -10,6 +10,29 @@
   background-image: linear-gradient(to bottom,#fff,#fff 20%,#90a959 20%,#90a959 40%,#fff 40%,#fff 60%,#90a959 60%,#90a959 80%,#fff 80%,#fff 100%);
 }
 
+.headicons {
+    display: inline-block;
+    margin-left: 20px;
+}
+.masthead-title .headicons a {
+  color: #505050; 
+  text-decoration: none;
+}
+.iconm {
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition: .5s;
+  background-color: #ffffff;
+}
+.iconm:hover {
+  background-color: #999999;
+  border-radius: 30px;
+  color: white;
+}
+
+
 .page.crapaud .photo {
   float: right;
   margin-left: 20px;

@@ -1,131 +1,119 @@
 @font-face {
-    font-family: 'icomoon';
-    src:    url('../fonts/icomoon.eot?o6nkuq');
-    src:    url('../fonts/icomoon.eot?o6nkuq#iefix') format('embedded-opentype'),
-        url('../fonts/icomoon.ttf?o6nkuq') format('truetype'),
-        url('../fonts/icomoon.woff?o6nkuq') format('woff'),
-        url('../fonts/icomoon.svg?o6nkuq#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?gd3efx');
+  src:  url('../fonts/icomoon.eot?gd3efx#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?gd3efx') format('truetype'),
+    url('../fonts/icomoon.woff?gd3efx') format('woff'),
+    url('../fonts/icomoon.svg?gd3efx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-.headicons {
-    display: inline-block;
-    margin-left: 20px;
+[class^="iconm-"], [class*=" iconm-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.masthead-title .headicons a {
-  color: #505050; 
-  text-decoration: none;
+.iconm-git-square:before {
+  content: "\f1d2";
 }
-
-i.iconm {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-    padding: 0px 4px 0px 4px;
-
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.iconm-creative-commons:before {
+  content: "\e900";
 }
-
-i.iconside {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 1.0rem;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+.iconm-envelope-o:before {
+  content: "\e901";
 }
-
-.iconm {
-  -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #ffffff;    
+.iconm-print:before {
+  content: "\e902";
 }
-
-.iconm:hover {
-  background-color: #999999;
-  border-radius: 30px;
-  color: white;
+.iconm-tags:before {
+  content: "\e903";
 }
-
+.iconm-calendar:before {
+  content: "\e904";
+}
+.iconm-github-alt:before {
+  content: "\e905";
+}
 .iconm-home:before {
-    content: "\e900";
+  content: "\e906";
 }
-.iconm-pencil2:before {
-    content: "\e906";
+.iconm-newspaper:before {
+  content: "\e907";
 }
 .iconm-quill:before {
-    content: "\e907";
+  content: "\e908";
 }
 .iconm-blog:before {
-    content: "\e909";
+  content: "\e909";
 }
-.iconm-profile:before {
-    content: "\e923";
+.iconm-image:before {
+  content: "\e90d";
 }
-.iconm-envelop:before {
-    content: "\e945";
+.iconm-camera:before {
+  content: "\e90f";
 }
-.iconm-location:before {
-    content: "\e947";
+.iconm-play:before {
+  content: "\e912";
+}
+.iconm-bullhorn:before {
+  content: "\e91a";
 }
 .iconm-compass2:before {
-    content: "\e94a";
+  content: "\e94a";
 }
-
 .iconm-user:before {
-    content: "\e971";
+  content: "\e971";
+}
+.iconm-users:before {
+  content: "\e972";
 }
 .iconm-user-tie:before {
-    content: "\e976";
+  content: "\e976";
+}
+.iconm-arrow-right:before {
+  content: "\ea34";
+}
+.iconm-arrow-left:before {
+  content: "\ea38";
 }
 .iconm-embed2:before {
-    content: "\ea80";
+  content: "\ea80";
 }
-.iconm-terminal:before {
-    content: "\ea81";
+.iconm-share2:before {
+  content: "\ea82";
 }
 .iconm-google-plus:before {
-    content: "\ea88";
+  content: "\ea8b";
+}
+.iconm-facebook2:before {
+  content: "\ea91";
 }
 .iconm-twitter:before {
-    content: "\ea91";
+  content: "\ea96";
 }
-.iconm-feed2:before {
-    content: "\ea94";
+.iconm-rss:before {
+  content: "\ea9b";
 }
-.iconm-github2:before {
-    content: "\eab2";
+.iconm-github:before {
+  content: "\eab0";
 }
-.iconm-wordpress:before {
-    content: "\eab6";
-}
-.iconm-linkedin2:before {
-    content: "\eac9";
+.iconm-skype:before {
+  content: "\eac5";
 }
 .iconm-file-pdf:before {
-    content: "\eada";
+  content: "\eadf";
 }
-.iconm-html5:before {
-    content: "\eadf";
+.iconm-html-five:before {
+  content: "\eae4";
 }
-
-/*END*/

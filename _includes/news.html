@@ -1,0 +1,12 @@
+
+{% assign pages = site.pages | sort: 'sortkey' %}
+{% for page in pages %}
+{% if page.categories contains "news" %}
+<div class="partner">
+<div class="name"><a href="{{ page.url }}">{{ page.title }}</a></div>
+<div class="description">{{ page.html }}</div>
+</div>
+{% endif %}
+{% endfor %}
+
+
