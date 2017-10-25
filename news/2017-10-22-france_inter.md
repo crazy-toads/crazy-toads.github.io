@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Les crapauds fous sur France Inter
 authors: 
   - le crapaud reporter 

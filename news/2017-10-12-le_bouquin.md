@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Le livre est disponible
 authors: 
   - le crapaud reporter 
