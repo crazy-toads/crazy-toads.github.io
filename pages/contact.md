@@ -12,6 +12,10 @@ noindex: false
 
 ### Vous aussi, vous pouvez participer !
 
+Le mieux c'est de rejoindre notre plate-forme de discussion (à base de [rocketchat](https://rocket.chat/) pour les curieux) sur <https://croa.crapaud-fou.org>
+
+### Mais sinon, par mail, c'est aussi possible ...
+
 Dites-nous ce qui vous passe par la tête. Par exemple : faire Crapaud fou,
 pour vous, ce serait quoi ? Vous avez des idées de communauté, de projet,
 de conférence près de chez vous ? Envie d'agir dans l'éducation, organiser
