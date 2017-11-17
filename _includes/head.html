@@ -43,8 +43,8 @@
   {% else %}
     {% assign domain = site.urlimg %}
   {% endif %}
-<meta property="og:image" content="{{ domain }}{{ page.imagefeature }}">{% else %}
-<meta property="og:image" content="{% if page.imagesummary %}{{ site.urlimg }}{{ page.imagesummary }}{% else %}{{ site.urlimg }}/{{ site.default_bg }}{% endif %}">{% endif %}
+<meta property="og:image" content="{{ domain }}/{{ page.imagefeature }}">{% else %}
+<meta property="og:image" content="{% if page.imagesummary %}{{ site.urlimg }}/{{ page.imagesummary }}{% else %}{{ site.urlimg }}/{{ site.default_bg }}{% endif %}">{% endif %}
 {% if page.videofeature %}<meta property="og:video" content="{{ page.videofeature }}">{% endif %}
 <meta property="fb:app_id" content="1003108156422006">
 <meta property="fb:admins" content="817465054">
