@@ -17,7 +17,7 @@ markdown: kramdown
 paginate: 10
 paginate_path: "/textes/page:num"
 excerpt_separator: <!--more-->
-default_bg: sitelogo.png 
+default_bg: crapaud_fou_sourire.jpg 
 safe: false
 #timezone:    America/Chicago
 future:      true
