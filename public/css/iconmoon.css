@@ -72,6 +72,9 @@
 .iconm-compass2:before {
   content: "\e94a";
 }
+.iconm-bubbles:before {
+  content: "\e96c";
+}
 .iconm-user:before {
   content: "\e971";
 }
