@@ -4,7 +4,7 @@ title: Neurodivergence
 authors: 
   - Fabienne Cazalis
 date: "2017-09-12"
-slug: "neurodivegrence"
+slug: "neurodivergence"
 description: "Ces contraintes que nos sens et nos émotions imposent à notre intelligence peuvent entrainer des complications… imperceptibles."
 categories:
   - Neurodiversité
