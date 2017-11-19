@@ -12,7 +12,9 @@ noindex: false
 
 ### Vous aussi, vous pouvez participer !
 
-Le mieux c'est de rejoindre notre plate-forme de discussion (à base de [rocketchat](https://rocket.chat/) pour les curieux) sur <https://coa.crapaud-fou.org> (en créant votre compte sur la plate-forme, vous vous engagez à respecter les [règles de contribution](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) du « Contributor Convenant » créé par [Coraline Ada Ehmke](https://where.coraline.codes/) sous licence   [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md)).  
+Le mieux c'est de rejoindre notre plate-forme de discussion (à base de [rocketchat](https://rocket.chat/) pour les curieux) sur <https://coa.crapaud-fou.org>
+
+En créant votre compte sur la plate-forme, vous vous engagez à respecter les [règles de contribution](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) du « Contributor Convenant » créé par [Coraline Ada Ehmke](https://where.coraline.codes/) sous licence [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md)).  
 
 ### Mais sinon, par mail, c'est aussi possible ...
 
