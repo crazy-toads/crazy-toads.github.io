@@ -9,4 +9,4 @@ categories:
   - news
 ---
 
-il y a quelques jours Thanh a donné un interview a Usbek & Rica, allez donc jeter un oeil sur <https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde>
+Il y a quelques jours Thanh a donné une interview à Usbek & Rica, allez donc jeter un oeil sur <https://usbeketrica.com/article/comment-les-crapauds-fous-veulent-sauver-le-monde>
