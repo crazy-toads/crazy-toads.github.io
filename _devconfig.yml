@@ -73,7 +73,7 @@ links:
   - title: <i class="iconside iconm-users"></i> Nous rejoindre
     url: /contact/
   - title: <i class="iconside iconm-bubbles"></i> Discuter
-    url: https://croa.crapaud-fou.org
+    url: https://coa.crapaud-fou.org
     external: true
   - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
