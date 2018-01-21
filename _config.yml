@@ -71,6 +71,8 @@ links:
     url: /partenaires/
   - title: <i class="iconside iconm-users"></i> Nous rejoindre
     url: /contact/
+  - title: <i class="iconside iconm-users"></i> Carte des Crapauds
+    url: /carte/
   - title: <i class="iconside iconm-bubbles"></i> Discuter
     url: https://coa.crapaud-fou.org
     external: true
