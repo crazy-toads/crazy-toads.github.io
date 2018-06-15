@@ -14,17 +14,15 @@ noindex: false
 
 Le mieux c'est de rejoindre notre plate-forme de discussion (à base de [rocketchat](https://rocket.chat/) pour les curieux) sur <https://coa.crapaud-fou.org>
 
-En créant votre compte sur la plate-forme, vous vous engagez à respecter les [règles de contribution](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) du « Contributor Convenant » créé par [Coraline Ada Ehmke](https://where.coraline.codes/) sous licence [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md)).  
+En créant votre compte sur la plate-forme, vous vous engagez à respecter les [règles de contribution](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html) du « Contributor Convenant » créé par [Coraline Ada Ehmke](https://where.coraline.codes/) sous licence [CC BY 4.0](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md)).
+
+### Restez au courant par mail
+
+Nous avons une liste de diffusion modérée, ou nous diffusons les nouvelles, des liens, des dates de rencontres physiques et autres. Vous pouvez vous y inscrire sur <https://framalistes.org/sympa/info/crapauds-fous> (merci [Framasoft](https://framasoft.org)!).
 
 ### Mais sinon, par mail, c'est aussi possible ...
 
-Dites-nous ce qui vous passe par la tête. Par exemple : faire Crapaud fou,
-pour vous, ce serait quoi ? Vous avez des idées de communauté, de projet,
-de conférence près de chez vous ? Envie d'agir dans l'éducation, organiser
-des rencontres ? Besoin d'information ?
-
-Et puis, si vous êtes intéressés par une ou plusieurs copies du livre, merci de nous
-le dire et d'en parler autour de vous !
+Vous pouvez aussi envoyer un mail pour quelque raison que ce soit, mais n'attendez pas forcement de réponse, le volume des mails que nous recevons dépasse notre capacité a les traiter (pour le moment).
 
 Envoyez-nous un mail à <a href="mailto:contact@crapaud-fou.org"><i class="fa fa-envelope-o"></i> contact@crapaud-fou.org</a> ou utilisez ce formulaire:
 
