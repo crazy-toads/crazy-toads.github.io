@@ -29,7 +29,7 @@ Les gens
 ### L'équipe technique
 
 - [@mose](https://github.com/mose)
-- [@shelleycavaness](https://github.com/shelleycavaness)
+- [@mckmonster](https://github.com/mckmonster)
 
 ### Les crapauds fous
 
