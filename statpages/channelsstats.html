@@ -3,6 +3,7 @@
 <script type="text/javascript" src="./channelsstats.js"></script>
 <canvas id="byChannel"></canvas>
 <canvas id="byTsunamy"></canvas>
+<canvas id="usersByTsunamy"></canvas>
 <script>
     var ctx = document.getElementById('byChannel').getContext('2d');
     var chart = new Chart(ctx, {
@@ -69,6 +70,41 @@
                     stacked: true,
                     ticks: {
                         stepSize: 500
+                    }
+                }]
+            }
+        }
+    });
+    var ctx3 = document.getElementById('usersByTsunamy').getContext('2d');
+    var chart3 = new Chart(ctx3, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: ['Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Aout', 'Septembre', 'Octobre', 'Novembre'],
+            datasets: activeUsersByChannel,
+        },
+
+        // Configuration options go here
+        options: {
+            legend: {
+                display: false
+            },
+            title: {
+                display: true,
+                text: "Nombre d'utilisateur actifs par canaux (" + updated +")",
+                position: "bottom"
+            },
+            responsive: true,
+            scales: {
+                xAxes: [{
+                    stacked: true
+                }],
+                yAxes: [{
+                    stacked: true,
+                    ticks: {
+                        stepSize: 50
                     }
                 }]
             }
