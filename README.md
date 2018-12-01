@@ -17,6 +17,14 @@ Si vous voyez des typos, voulez ajouter des articles, retoucher un texte dont vo
 
 Vous pouvez aussi utiliser les [issues][2] pour signaler vos remarques et suggestions si ce charabia juste au dessous vous rend perplexe.
 
+Developer
+-----------
+
+Le plus simple pour lancer jekyll quand on a pas un environnement ruby tout prtet, c'est de lancer 
+
+    docker-compose up
+
+et le site sera disponsible sur http://localhost:4000 et mis a jour a chaque modification des pages.
 
 Les gens
 ----------
