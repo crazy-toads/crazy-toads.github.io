@@ -76,11 +76,11 @@ links:
   - title: <i class="iconside iconm-bubbles"></i> Discuter
     url: https://coa.crapaud-fou.org
     external: true
+  - title: <i class="iconside iconm-bubbles"></i> Statistiques du chat
+    url: /channelsstats/
   - title: <i class="iconside iconm-play"></i> Wiki
     url: https://wiki.crapaud-fou.org
     external: true
-  - title: Statistiques du chat
-    url: /channelsstats/
   - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
     external: true
