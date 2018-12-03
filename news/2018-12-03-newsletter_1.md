@@ -8,6 +8,8 @@ slug: "newsletter-1"
 permalink: /newsletter-001/
 categories:
   - news
+linktitle: "Nouvelles <i class=\"iconside iconm-bullhorn\"> </i>"
+linkurl: /nouvelles/
 ---
 BONJOUR LES CRAPAUDS
 

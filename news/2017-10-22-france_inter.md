@@ -7,6 +7,8 @@ date: "2017-10-22"
 slug: "france_inter"
 categories:
   - news
+linktitle: "Nouvelles <i class=\"iconside iconm-bullhorn\"> </i>"
+linkurl: /nouvelles/
 ---
 
 Lors de la soirée de lancement du manifeste, nous avons eu la visite de Pochon, qui a diffusé quelques minutes lors de notre rencontre de lancement du livre.

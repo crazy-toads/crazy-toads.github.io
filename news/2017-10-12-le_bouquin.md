@@ -7,6 +7,8 @@ date: "2017-10-12"
 slug: "le_bouquin"
 categories:
   - news
+linktitle: "Nouvelles <i class=\"iconside iconm-bullhorn\"> </i>"
+linkurl: /nouvelles/
 ---
 
 <a href="http://massot.com/"><img src="{{ site.urlimg }}/manifeste-crapaud-fou-cover.png" width="200" align="right" /></a>
