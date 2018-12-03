@@ -2,7 +2,7 @@
 layout: news
 title: "Newsletter #1"
 authors: 
-  - Flo Cuvelier 
+  - Flo Cuvellier 
 date: "2018-12-03"
 slug: "newsletter-1"
 permalink: /newsletter-001/
