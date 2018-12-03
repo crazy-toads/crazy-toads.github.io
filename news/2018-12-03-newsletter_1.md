@@ -60,7 +60,7 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis janvier 2018 
 
 * En mai 2018, Thanh a donné une Thinkerview visionnable [ICI](https://www.youtube-nocookie.com/embed/Gun2ez6kzIk).
 
-* Force est de constater, dans les graphiques consultables [ICI](http://crapaud-fou.org/statpages/channelsstats), que cette interview a inspiré de nombreux crapauds qui n'ont pas hésité, après l'avoir vue, à se mouiller les doigts de pieds en faisant le plongeon dans le chat.
+* Force est de constater, dans les graphiques consultables [ICI](http://crapaud-fou.org/channelsstats/), que cette interview a inspiré de nombreux crapauds qui n'ont pas hésité, après l'avoir vue, à se mouiller les doigts de pieds en faisant le plongeon dans le chat.
 
   En effet, qu'il s'agisse du nombre de messages par canaux ou par tsunami ou du nombre d'utilisateurs actifs par canaux, on y voit une recrudescence depuis mai 2018, avec un pic phénoménal en mai/juin et de la constance, depuis, dans les interactions.
   En aparté : merci à @dEve, car sans lui nous n'aurions pas eu de Thinkerview.
