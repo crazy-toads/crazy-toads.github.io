@@ -144,6 +144,11 @@
   margin: 0 auto;
 }
 
+.sidebar hr {
+  margin: 0;
+  border-top: 1px solid #90a959;
+}
+
 @media (min-width: 56em) {
   .sidebar {
     visibility: visible;
