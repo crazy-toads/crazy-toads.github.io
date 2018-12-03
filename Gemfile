@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'json', github: 'flori/json', branch: 'v1.8'
+gem 'json'
 
-group :jekyll_plugins do
+group :plugins do
   gem 'jekyll'
   gem 'jekyll-sitemap'
   gem 'jemoji'

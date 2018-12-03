@@ -17,7 +17,7 @@ Si vous voyez des typos, voulez ajouter des articles, retoucher un texte dont vo
 
 Vous pouvez aussi utiliser les [issues][2] pour signaler vos remarques et suggestions si ce charabia juste au dessous vous rend perplexe.
 
-Developer
+Developper
 -----------
 
 Le plus simple pour lancer jekyll quand on a pas un environnement ruby tout prtet, c'est de lancer 
@@ -47,7 +47,6 @@ Les gens
 
 - voir http://crapaud-fou.org/partenaires/
 
-
 Copyright
 ----------
 
@@ -55,9 +54,7 @@ Les textes publiés, ainsi que le code source utilisé pour produire ce site, so
 
 Le thème utilisé est dérivé du thème [*lanyon*](https://github.com/poole/lanyon) par [Mark Otto](https://github.com/mdo) sous la même licence.
 
-Chaque article dont l'auteur est indiqué appartient à son ou ses auteurs indivisiblement. Les illustrations, sauf mention contraire, sont crées par Thanh Nghiem. Le copyright de ce qui n'est pas article ou dessin est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte. 
-
-
+Chaque article dont l'auteur est indiqué appartient à son ou ses auteurs indivisiblement. Les illustrations, sauf mention contraire, sont crées par Thanh Nghiem. Le copyright de ce qui n'est pas article ou dessin est détenu collectivement par les crapauds fous, l'équipe éditoriale et l'équipe technique qui les supporte.
 
 [1]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [2]: https://github.com/crazy-toads/crazy-toads.github.io/issues

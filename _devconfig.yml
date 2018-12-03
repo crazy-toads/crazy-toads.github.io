@@ -23,7 +23,7 @@ safe: false
 future:      true
 github: https://github.com/crazy-toads/crazy-toads.github.io
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
   - font-awesome-sass

@@ -11,7 +11,7 @@ layout: default
   {% if page.modified.size > 2 %}
   {% assign moddate = page.modified | date_to_string %}
   {% assign pgdate = page.date | date_to_string %}
-  {% unless moddate == pgdate | date_to_string %}
+  {% unless moddate == pgdate %}
   <span class="post-date" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Date de modification"> {{ page.modified | date_to_string }}</i></span>
   {% endunless %}
   {% endif %}
@@ -46,12 +46,12 @@ layout: default
 
 <div class="prevnext">
   {% if page.previous.url %}
-    <a class="prevnext-item older" href="{{ site.url }}{{page.previous.url}}" title="{{ page.previous.title }}">Older</a>
+    <a class="prevnext-item older" href="{{site.url}}{{page.previous.url}}" title="{{ page.previous.title }}">Older</a>
   {% else %}
     <span class="prevnext-item older">Older</span>
   {% endif %}
   {% if page.next.url %}
-    <a class="prevnext-item older" href="{{ site.url }}{{page.next.url}}" title="{{ page.next.title }}">Newer</a>
+    <a class="prevnext-item older" href="{{site.url}}{{page.next.url}}" title="{{ page.next.title }}">Newer</a>
   {% else %}
     <span class="prevnext-item older">Newer</span>
   {% endif %}
