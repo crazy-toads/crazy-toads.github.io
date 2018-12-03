@@ -5,6 +5,7 @@ authors:
   - Flo Cuvelier 
 date: "2018-12-03"
 slug: "newsletter-1"
+permalink: /newsletter-001/
 categories:
   - news
 ---
