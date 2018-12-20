@@ -1361,13 +1361,26 @@ zetetique_et_outils_epistemologiques : { Name : "zetetique-et-outils-epistemolog
                 })
             }
         });
+        colors = {'fr':'green', 're': 'green', 'ch': 'green', 'be': 'green',
+        'fr-21':'green', 'fr-58':'green', 'fr-71':'green', 'fr-89':'green',
+        'fr-22':'green', 'fr-29':'green', 'fr-35':'green', 'fr-56':'green',
+        'fr-18':'green', 'fr-28':'green', 'fr-36':'green', 'fr-37':'green', 'fr-41':'green', 'fr-45':'green',
+        'fr-04':'green', 'fr-05':'green', 'fr-06':'green', 'fr-13':'green', 'fr-83':'green', 'fr-84':'green',
+        'fr-08':'green', 'fr-10':'green', 'fr-51':'green', 'fr-52':'green', 'fr-54':'green', 'fr-55':'green', 'fr-57':'green', 'fr-67':'green', 'fr-68':'green', 'fr-88':'green',
+        'fr-38':'green',
+        'fr-07':'green', 'fr-26':'green',
+        'fr-34':'green',
+        'fr-59':'green', 'fr-62':'green',
+        'fr-73':'green', 'fr-74':'green',
+        'fr-75':'green', 'fr-77':'green', 'fr-78':'green', 'fr-91':'green', 'fr-92':'green', 'fr-93':'green', 'fr-94':'green', 'fr-95':'green',
+        'fr-09':'green', 'fr-12':'green', 'fr-24':'green', 'fr-31':'green', 'fr-32':'green', 'fr-33':'green', 'fr-40':'green', 'fr-46':'green', 'fr-47':'green', 'fr-64':'green', 'fr-65':'green','fr-81':'green','fr-82':'green'}
 
         function UpdateMap(mapChoosen) {
             $('#vmap').replaceWith('<div id="vmap"></div>');
             $('#vmap').width('100%').height('800px').vectorMap({
                 map: mapChoosen,
                 backgroundColor: null,
-                color: 'green',
+                colors: colors,
                 hoverColor: 'yellowgreen',
                 selectedColor: 'green',
                 enableZoom: false,
