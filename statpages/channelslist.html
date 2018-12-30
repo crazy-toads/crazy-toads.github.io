@@ -17,6 +17,13 @@ description: "Liste des canaux du Chat https://coa.crapaud-fou.org"
         .notvisible {
             visibility: collapse;
         }
+
+        .tooltip {
+            z-index: 1;
+            position: absolute;
+            width: 70%;
+            background-color: white;
+        }
     </style>
     <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/public/js/jquery.vmap.js"></script>
@@ -24,10 +31,12 @@ description: "Liste des canaux du Chat https://coa.crapaud-fou.org"
     <script src="{{ site.baseurl }}/public/js/maps/jquery.vmap.france.js"></script>
 </head>
 <body>
-    <p>Listes des canaux du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous le nom de mare aux crapauds) :</p>
+    <p>Listes des canaux du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous le nom de mare aux crapauds), rejoignez <a href="https://coa.crapaud-fou.org">nous</a></p>
     <h1>Cohorte crapaud-fou en France</h1>
+    <p>Les cohortes sont des groupements de crapauds dans une région<br />Cliquez sur votre région</p>
     <div id="vmap"></div>
     <h1>Canaux de la mare</h1>
+    <p>Les canaux permettent des discussions sur différent sujet<br />Cliquez sur les canaux qui vous intéresse</p>
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -35,1201 +44,1216 @@ description: "Liste des canaux du Chat https://coa.crapaud-fou.org"
  -->
 <!-- Title: G Pages: 1 -->
 <svg width="100%" height="100%"
- viewBox="0.00 0.00 1483.00 1259.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1255)">
+ viewBox="0.00 0.00 1619.00 1367.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1363)">
 <title>G</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-1255 1479,-1255 1479,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1363 1615,-1363 1615,4 -4,4"/>
 <!-- Chat -->
 <g id="node1" class="node"><title>Chat</title>
 <g id="a_node1"><a xlink:title="Chat">
-<polygon fill="none" stroke="aqua" points="824.86,-617.855 785.312,-599.855 824.86,-581.855 864.407,-599.855 824.86,-617.855"/>
-<text text-anchor="middle" x="824.86" y="-596.155" font-family="Times New Roman,serif" font-size="14.00">Chat</text>
+<polygon fill="none" stroke="aqua" points="724.226,-740.562 684.679,-722.562 724.226,-704.562 763.774,-722.562 724.226,-740.562"/>
+<text text-anchor="middle" x="724.226" y="-718.862" font-family="Times New Roman,serif" font-size="14.00">Chat</text>
 </a>
 </g>
 </g>
 <!-- Democratie -->
 <g id="node2" class="node"><title>Democratie</title>
 <g id="a_node2"><a xlink:title="Democratie">
-<ellipse fill="none" stroke="red" cx="813.376" cy="-287.953" rx="85.5853" ry="18"/>
-<text text-anchor="start" x="755.376" y="-284.253" font-family="Times New Roman,serif" font-size="14.00">Tsunami Democratie</text>
+<ellipse fill="none" stroke="red" cx="798.347" cy="-310.003" rx="85.5853" ry="18"/>
+<text text-anchor="start" x="740.347" y="-306.303" font-family="Times New Roman,serif" font-size="14.00">Tsunami Democratie</text>
 </a>
 </g>
 </g>
 <!-- Chat&#45;&gt;Democratie -->
 <g id="edge1" class="edge"><title>Chat&#45;&gt;Democratie</title>
-<path fill="none" stroke="black" d="M824.193,-581.738C822.274,-529.627 816.731,-379.064 814.413,-316.128"/>
-<polygon fill="black" stroke="black" points="817.911,-315.985 814.045,-306.121 810.915,-316.243 817.911,-315.985"/>
+<path fill="none" stroke="black" d="M727.224,-705.878C738.553,-642.816 778.848,-418.534 793.213,-338.576"/>
+<polygon fill="black" stroke="black" points="796.739,-338.744 795.062,-328.283 789.849,-337.506 796.739,-338.744"/>
 </g>
 <!-- Ecologie -->
 <g id="node3" class="node"><title>Ecologie</title>
 <g id="a_node3"><a xlink:title="Ecologie">
-<ellipse fill="none" stroke="limegreen" cx="544.905" cy="-535.791" rx="76.0865" ry="18"/>
-<text text-anchor="start" x="494.405" y="-532.091" font-family="Times New Roman,serif" font-size="14.00">Tsunami Ecologie</text>
+<ellipse fill="none" stroke="limegreen" cx="491.549" cy="-440.96" rx="76.0865" ry="18"/>
+<text text-anchor="start" x="441.049" y="-437.26" font-family="Times New Roman,serif" font-size="14.00">Tsunami Ecologie</text>
 </a>
 </g>
 </g>
 <!-- Chat&#45;&gt;Ecologie -->
 <g id="edge2" class="edge"><title>Chat&#45;&gt;Ecologie</title>
-<path fill="none" stroke="black" d="M798.522,-593.828C755.586,-584.003 669.29,-564.255 609.358,-550.54"/>
-<polygon fill="black" stroke="black" points="610.135,-547.127 599.606,-548.308 608.573,-553.951 610.135,-547.127"/>
+<path fill="none" stroke="black" d="M713.316,-709.357C677.178,-665.621 560.958,-524.962 512.78,-466.654"/>
+<polygon fill="black" stroke="black" points="515.251,-464.15 506.183,-458.67 509.854,-468.609 515.251,-464.15"/>
 </g>
 <!-- Technologie -->
 <g id="node4" class="node"><title>Technologie</title>
 <g id="a_node4"><a xlink:title="Technologie">
-<ellipse fill="none" stroke="dimgrey" cx="1036.77" cy="-551.84" rx="89.0842" ry="18"/>
-<text text-anchor="start" x="976.265" y="-548.14" font-family="Times New Roman,serif" font-size="14.00">Tsunami Technologie</text>
+<ellipse fill="none" stroke="dimgrey" cx="424.497" cy="-910.022" rx="89.0842" ry="18"/>
+<text text-anchor="start" x="363.997" y="-906.322" font-family="Times New Roman,serif" font-size="14.00">Tsunami Technologie</text>
 </a>
 </g>
 </g>
 <!-- Chat&#45;&gt;Technologie -->
 <g id="edge3" class="edge"><title>Chat&#45;&gt;Technologie</title>
-<path fill="none" stroke="black" d="M851.269,-593.871C880.214,-587.313 927.824,-576.525 967.562,-567.521"/>
-<polygon fill="black" stroke="black" points="968.5,-570.897 977.479,-565.274 966.953,-564.07 968.5,-570.897"/>
+<path fill="none" stroke="black" d="M707.253,-733.177C659.942,-762.767 525.81,-846.657 460.761,-887.341"/>
+<polygon fill="black" stroke="black" points="458.679,-884.515 452.057,-892.785 462.391,-890.449 458.679,-884.515"/>
 </g>
 <!-- Global -->
 <g id="node5" class="node"><title>Global</title>
 <g id="a_node5"><a xlink:title="Global">
-<ellipse fill="none" stroke="darkorange" cx="874.991" cy="-964.908" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="874.991" y="-961.208" font-family="Times New Roman,serif" font-size="14.00">Global</text>
+<ellipse fill="none" stroke="darkorange" cx="1003.32" cy="-1070.86" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="1003.32" y="-1067.16" font-family="Times New Roman,serif" font-size="14.00">Global</text>
 </a>
 </g>
 </g>
 <!-- Chat&#45;&gt;Global -->
 <g id="edge4" class="edge"><title>Chat&#45;&gt;Global</title>
-<path fill="none" stroke="black" d="M827.21,-616.973C835.165,-674.895 861.126,-863.947 871.069,-936.345"/>
-<polygon fill="black" stroke="black" points="867.64,-937.108 872.469,-946.539 874.575,-936.155 867.64,-937.108"/>
+<path fill="none" stroke="black" d="M734.826,-735.79C776.363,-787.627 928.451,-977.428 983.37,-1045.97"/>
+<polygon fill="black" stroke="black" points="980.883,-1048.46 989.867,-1054.08 986.346,-1044.08 980.883,-1048.46"/>
 </g>
 <!-- cadeaux_ibf -->
 <g id="node11" class="node"><title>cadeaux_ibf</title>
-<g id="a_node11"><a xlink:href="http://coa.crapaud-fou.org/channel/cadeaux-ibf" xlink:title="cadeaux_ibf" target="_blank">
-<text text-anchor="start" x="672.58" y="-403.576" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cadeaux&#45;ibf</text>
+<g id="a_node11"><a xlink:title="cadeaux_ibf">
+<text text-anchor="start" x="634.219" y="-392.839" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cadeaux&#45;ibf</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cadeaux_ibf -->
 <g id="edge10" class="edge"><title>Democratie&#45;&gt;cadeaux_ibf</title>
-<path fill="none" stroke="red" d="M797.612,-305.667C779.958,-325.506 751.184,-357.839 731.033,-380.483"/>
-<polygon fill="red" stroke="red" points="728.331,-378.254 724.298,-388.051 733.561,-382.908 728.331,-378.254"/>
+<path fill="none" stroke="red" d="M772.317,-327.312C753.09,-340.098 726.686,-357.656 705.479,-371.758"/>
+<polygon fill="red" stroke="red" points="703.431,-368.917 697.042,-377.369 707.307,-374.746 703.431,-368.917"/>
 </g>
 <!-- cercle_collaboratif -->
 <g id="node15" class="node"><title>cercle_collaboratif</title>
-<g id="a_node15"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-collaboratif" xlink:title="cercle_collaboratif" target="_blank">
-<text text-anchor="start" x="957.971" y="-137.027" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;collaboratif</text>
+<g id="a_node15"><a xlink:title="cercle_collaboratif">
+<text text-anchor="start" x="925.981" y="-141.356" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;collaboratif</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_collaboratif -->
 <g id="edge15" class="edge"><title>Democratie&#45;&gt;cercle_collaboratif</title>
-<path fill="none" stroke="red" d="M837.175,-270.368C873.023,-243.878 940.973,-193.668 981.392,-163.801"/>
-<polygon fill="red" stroke="red" points="983.615,-166.51 989.577,-157.752 979.455,-160.88 983.615,-166.51"/>
+<path fill="none" stroke="red" d="M817.999,-292.243C850.823,-262.581 916.89,-202.878 954.372,-169.006"/>
+<polygon fill="red" stroke="red" points="956.841,-171.492 961.914,-162.191 952.148,-166.299 956.841,-171.492"/>
 </g>
 <!-- cercle_diversite_culturelle -->
 <g id="node17" class="node"><title>cercle_diversite_culturelle</title>
-<g id="a_node17"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-diversit&#233;-culturelle" xlink:title="cercle_diversite_culturelle" target="_blank">
-<text text-anchor="start" x="868.416" y="-48.9853" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;diversité&#45;culturelle</text>
+<g id="a_node17"><a xlink:title="cercle_diversite_culturelle">
+<text text-anchor="start" x="928.106" y="-89.2041" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;diversité&#45;culturelle</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_diversite_culturelle -->
 <g id="edge17" class="edge"><title>Democratie&#45;&gt;cercle_diversite_culturelle</title>
-<path fill="none" stroke="red" d="M823.556,-269.806C846.685,-228.576 903.297,-127.658 930.641,-78.9143"/>
-<polygon fill="red" stroke="red" points="933.861,-80.3282 935.701,-69.8944 927.756,-76.9035 933.861,-80.3282"/>
+<path fill="none" stroke="red" d="M815.307,-292.155C852.047,-253.494 939.082,-161.907 981.513,-117.257"/>
+<polygon fill="red" stroke="red" points="984.059,-119.659 988.41,-109.999 978.985,-114.837 984.059,-119.659"/>
 </g>
 <!-- cercle_democratie -->
 <g id="node18" class="node"><title>cercle_democratie</title>
-<g id="a_node18"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-d&#233;mocratie" xlink:title="cercle_democratie" target="_blank">
-<text text-anchor="start" x="409.059" y="-148.567" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;démocratie</text>
+<g id="a_node18"><a xlink:title="cercle_democratie">
+<text text-anchor="start" x="946.711" y="-391.35" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;démocratie</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_democratie -->
 <g id="edge18" class="edge"><title>Democratie&#45;&gt;cercle_democratie</title>
-<path fill="none" stroke="red" d="M772.621,-272.006C710.054,-247.524 590.193,-200.623 519.689,-173.035"/>
-<polygon fill="red" stroke="red" points="520.667,-169.66 510.079,-169.275 518.116,-176.178 520.667,-169.66"/>
+<path fill="none" stroke="red" d="M837.557,-326.208C869.102,-339.245 913.744,-357.694 948.512,-372.063"/>
+<polygon fill="red" stroke="red" points="947.458,-375.415 958.037,-376 950.132,-368.946 947.458,-375.415"/>
 </g>
 <!-- cercle_education -->
 <g id="node19" class="node"><title>cercle_education</title>
-<g id="a_node19"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-education" xlink:title="cercle_education" target="_blank">
-<text text-anchor="start" x="919.121" y="-315.364" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;education</text>
+<g id="a_node19"><a xlink:title="cercle_education">
+<text text-anchor="start" x="567.699" y="-165.85" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;education</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_education -->
 <g id="edge19" class="edge"><title>Democratie&#45;&gt;cercle_education</title>
-<path fill="none" stroke="red" d="M876.927,-300.2C884.828,-301.723 892.935,-303.285 900.909,-304.822"/>
-<polygon fill="red" stroke="red" points="900.431,-308.294 910.913,-306.75 901.756,-301.421 900.431,-308.294"/>
+<path fill="none" stroke="red" d="M775.895,-292.374C744.023,-267.348 685.533,-221.421 649.441,-193.082"/>
+<polygon fill="red" stroke="red" points="651.245,-190.048 641.218,-186.625 646.922,-195.554 651.245,-190.048"/>
 </g>
 <!-- cercle_enthousiasme -->
 <g id="node21" class="node"><title>cercle_enthousiasme</title>
-<g id="a_node21"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-enthousiasme" xlink:title="cercle_enthousiasme" target="_blank">
-<text text-anchor="start" x="381.828" y="-192.595" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;enthousiasme</text>
+<g id="a_node21"><a xlink:title="cercle_enthousiasme">
+<text text-anchor="start" x="993.517" y="-344.032" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;enthousiasme</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_enthousiasme -->
 <g id="edge21" class="edge"><title>Democratie&#45;&gt;cercle_enthousiasme</title>
-<path fill="none" stroke="red" d="M758.051,-274.082C695.936,-258.507 594.6,-233.099 523.855,-215.361"/>
-<polygon fill="red" stroke="red" points="524.634,-211.948 514.083,-212.911 522.932,-218.738 524.634,-211.948"/>
+<path fill="none" stroke="red" d="M869.3,-320.136C902.041,-324.812 941.067,-330.386 974.915,-335.22"/>
+<polygon fill="red" stroke="red" points="974.846,-338.746 985.24,-336.695 975.836,-331.816 974.846,-338.746"/>
 </g>
 <!-- cercle_europe -->
 <g id="node22" class="node"><title>cercle_europe</title>
-<g id="a_node22"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-europe" xlink:title="cercle_europe" target="_blank">
-<text text-anchor="start" x="847.422" y="-152.305" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;europe</text>
+<g id="a_node22"><a xlink:title="cercle_europe">
+<text text-anchor="start" x="900.166" y="-279.112" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;europe</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_europe -->
 <g id="edge22" class="edge"><title>Democratie&#45;&gt;cercle_europe</title>
-<path fill="none" stroke="red" d="M823.632,-270.023C836.615,-247.325 859.095,-208.024 874.113,-181.769"/>
-<polygon fill="red" stroke="red" points="877.159,-183.493 879.086,-173.075 871.082,-180.018 877.159,-183.493"/>
+<path fill="none" stroke="red" d="M861.428,-297.638C868.324,-296.286 875.331,-294.912 882.188,-293.568"/>
+<polygon fill="red" stroke="red" points="882.958,-296.984 892.098,-291.626 881.612,-290.115 882.958,-296.984"/>
 </g>
 <!-- cercle_permaculture -->
 <g id="node28" class="node"><title>cercle_permaculture</title>
-<g id="a_node28"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-permaculture" xlink:title="cercle_permaculture" target="_blank">
-<text text-anchor="start" x="655.115" y="-329.294" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;permaculture</text>
+<g id="a_node28"><a xlink:title="cercle_permaculture">
+<text text-anchor="start" x="572.495" y="-303.686" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;permaculture</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cercle_permaculture -->
 <g id="edge28" class="edge"><title>Democratie&#45;&gt;cercle_permaculture</title>
-<path fill="none" stroke="red" d="M777.532,-304.352C773.683,-306.113 769.722,-307.925 765.757,-309.74"/>
-<polygon fill="red" stroke="red" points="764.183,-306.611 756.546,-313.954 767.095,-312.976 764.183,-306.611"/>
+<path fill="none" stroke="red" d="M712.582,-308.11C712.417,-308.106 712.253,-308.102 712.088,-308.099"/>
+<polygon fill="red" stroke="red" points="714.786,-304.658 704.711,-307.936 714.631,-311.656 714.786,-304.658"/>
 </g>
 <!-- changer_de_paradigme -->
 <g id="node30" class="node"><title>changer_de_paradigme</title>
-<g id="a_node30"><a xlink:href="http://coa.crapaud-fou.org/channel/changer-de-paradigme" xlink:title="changer_de_paradigme" target="_blank">
-<text text-anchor="start" x="492.089" y="-308.434" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">changer&#45;de&#45;paradigme</text>
+<g id="a_node30"><a xlink:title="changer_de_paradigme">
+<text text-anchor="start" x="602.791" y="-253.555" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">changer&#45;de&#45;paradigme</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;changer_de_paradigme -->
 <g id="edge31" class="edge"><title>Democratie&#45;&gt;changer_de_paradigme</title>
-<path fill="none" stroke="red" d="M734.745,-295.193C707.629,-297.689 677.092,-300.5 649.297,-303.059"/>
-<polygon fill="red" stroke="red" points="648.83,-299.588 639.193,-303.99 649.472,-306.558 648.83,-299.588"/>
+<path fill="none" stroke="red" d="M760.184,-293.731C748.862,-288.903 736.266,-283.533 724.228,-278.4"/>
+<polygon fill="red" stroke="red" points="725.299,-275.052 714.727,-274.349 722.553,-281.491 725.299,-275.052"/>
 </g>
 <!-- cnv -->
 <g id="node33" class="node"><title>cnv</title>
-<g id="a_node33"><a xlink:href="http://coa.crapaud-fou.org/channel/cnv" xlink:title="cnv" target="_blank">
-<text text-anchor="start" x="618.36" y="-373.305" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cnv</text>
+<g id="a_node33"><a xlink:title="cnv">
+<text text-anchor="start" x="640.981" y="-348.21" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cnv</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cnv -->
 <g id="edge35" class="edge"><title>Democratie&#45;&gt;cnv</title>
-<path fill="none" stroke="red" d="M778.764,-304.515C746.546,-319.931 698.696,-342.828 665.879,-358.531"/>
-<polygon fill="red" stroke="red" points="664.139,-355.483 656.629,-362.957 667.161,-361.798 664.139,-355.483"/>
+<path fill="none" stroke="red" d="M746.743,-324.425C727.754,-329.732 706.637,-335.634 689.164,-340.517"/>
+<polygon fill="red" stroke="red" points="688.031,-337.2 679.342,-343.262 689.915,-343.942 688.031,-337.2"/>
 </g>
 <!-- compagnon_du_devoir_educatif -->
 <g id="node34" class="node"><title>compagnon_du_devoir_educatif</title>
-<g id="a_node34"><a xlink:href="http://coa.crapaud-fou.org/channel/compagnon-du-devoir-educatif" xlink:title="compagnon_du_devoir_educatif" target="_blank">
-<text text-anchor="start" x="397.04" y="-25.1117" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">compagnon&#45;du&#45;devoir&#45;educatif (projet)</text>
+<g id="a_node34"><a xlink:title="compagnon_du_devoir_educatif">
+<text text-anchor="start" x="826.841" y="-15.2851" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">compagnon&#45;du&#45;devoir&#45;educatif (projet)</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;compagnon_du_devoir_educatif -->
 <g id="edge37" class="edge"><title>Democratie&#45;&gt;compagnon_du_devoir_educatif</title>
-<path fill="none" stroke="red" d="M792.87,-270.073C740.711,-224.591 602.902,-104.425 543.238,-52.3998"/>
-<polygon fill="red" stroke="red" points="545.526,-49.7516 535.689,-45.8174 540.926,-55.0275 545.526,-49.7516"/>
+<path fill="none" stroke="red" d="M807.51,-291.736C832.432,-242.059 901.545,-104.291 931.123,-45.3306"/>
+<polygon fill="red" stroke="red" points="934.325,-46.7529 935.681,-36.2452 928.068,-43.6141 934.325,-46.7529"/>
 </g>
 <!-- conf_inter_g -->
 <g id="node35" class="node"><title>conf_inter_g</title>
-<g id="a_node35"><a xlink:href="http://coa.crapaud-fou.org/channel/conf-inter-g" xlink:title="conf_inter_g" target="_blank">
-<text text-anchor="start" x="683.054" y="-447.602" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">conf&#45;inter&#45;g (projet)</text>
+<g id="a_node35"><a xlink:title="conf_inter_g">
+<text text-anchor="start" x="625.7" y="-437.043" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">conf&#45;inter&#45;g (projet)</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;conf_inter_g -->
 <g id="edge38" class="edge"><title>Democratie&#45;&gt;conf_inter_g</title>
-<path fill="none" stroke="red" d="M805.637,-305.948C793.474,-334.229 769.795,-389.286 755.455,-422.63"/>
-<polygon fill="red" stroke="red" points="752.063,-421.658 751.327,-432.227 758.493,-424.423 752.063,-421.658"/>
+<path fill="none" stroke="red" d="M782.988,-327.77C763.826,-349.939 730.901,-388.03 708.844,-413.547"/>
+<polygon fill="red" stroke="red" points="705.987,-411.499 702.096,-421.354 711.283,-416.077 705.987,-411.499"/>
 </g>
 <!-- cooperatives -->
 <g id="node36" class="node"><title>cooperatives</title>
-<g id="a_node36"><a xlink:href="http://coa.crapaud-fou.org/channel/cooperatives" xlink:title="cooperatives" target="_blank">
-<text text-anchor="start" x="646.267" y="-69.2543" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cooperatives</text>
+<g id="a_node36"><a xlink:title="cooperatives">
+<text text-anchor="start" x="823.787" y="-106.258" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cooperatives</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;cooperatives -->
 <g id="edge40" class="edge"><title>Democratie&#45;&gt;cooperatives</title>
-<path fill="none" stroke="red" d="M802.674,-269.909C780.161,-231.95 727.8,-143.667 701.276,-98.947"/>
-<polygon fill="red" stroke="red" points="704.14,-96.9149 696.029,-90.0993 698.12,-100.486 704.14,-96.9149"/>
+<path fill="none" stroke="red" d="M804.179,-291.807C815.513,-256.446 840.573,-178.265 853.956,-136.51"/>
+<polygon fill="red" stroke="red" points="857.295,-137.559 857.015,-126.968 850.629,-135.423 857.295,-137.559"/>
 </g>
 <!-- economie_connaissance -->
 <g id="node37" class="node"><title>economie_connaissance</title>
-<g id="a_node37"><a xlink:href="http://coa.crapaud-fou.org/channel/economie-connaissance" xlink:title="economie_connaissance" target="_blank">
-<text text-anchor="start" x="961.402" y="-181.035" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">economie&#45;connaissance</text>
+<g id="a_node37"><a xlink:title="economie_connaissance">
+<text text-anchor="start" x="1062.35" y="-167.919" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">economie&#45;connaissance</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;economie_connaissance -->
 <g id="edge41" class="edge"><title>Democratie&#45;&gt;economie_connaissance</title>
-<path fill="none" stroke="red" d="M848.24,-271.44C885.529,-253.777 944.881,-225.664 986.306,-206.043"/>
-<polygon fill="red" stroke="red" points="987.841,-209.188 995.38,-201.745 984.844,-202.862 987.841,-209.188"/>
+<path fill="none" stroke="red" d="M837.218,-293.877C897.52,-268.862 1013.71,-220.661 1081.55,-192.518"/>
+<polygon fill="red" stroke="red" points="1082.9,-195.75 1090.8,-188.685 1080.22,-189.284 1082.9,-195.75"/>
 </g>
 <!-- geopolitique -->
 <g id="node47" class="node"><title>geopolitique</title>
-<g id="a_node47"><a xlink:href="http://coa.crapaud-fou.org/channel/geopolitique" xlink:title="geopolitique" target="_blank">
-<text text-anchor="start" x="915.19" y="-269.128" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">geopolitique</text>
+<g id="a_node47"><a xlink:title="geopolitique">
+<text text-anchor="start" x="724.68" y="-103.397" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">geopolitique</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;geopolitique -->
 <g id="edge51" class="edge"><title>Democratie&#45;&gt;geopolitique</title>
-<path fill="none" stroke="red" d="M888.741,-279.23C891.434,-278.918 894.115,-278.608 896.769,-278.301"/>
-<polygon fill="red" stroke="red" points="897.301,-281.762 906.832,-277.136 896.496,-274.809 897.301,-281.762"/>
+<path fill="none" stroke="red" d="M795.137,-291.907C788.81,-256.236 774.689,-176.62 767.149,-134.11"/>
+<polygon fill="red" stroke="red" points="770.575,-133.387 765.382,-124.152 763.683,-134.609 770.575,-133.387"/>
 </g>
 <!-- gilets_jaunes -->
 <g id="node49" class="node"><title>gilets_jaunes</title>
-<g id="a_node49"><a xlink:href="http://coa.crapaud-fou.org/channel/gilets-jaunes" xlink:title="gilets_jaunes" target="_blank">
-<text text-anchor="start" x="906.741" y="-225.078" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">gilets&#45;jaunes</text>
+<g id="a_node49"><a xlink:title="gilets_jaunes">
+<text text-anchor="start" x="623.202" y="-121.778" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">gilets&#45;jaunes</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;gilets_jaunes -->
 <g id="edge53" class="edge"><title>Democratie&#45;&gt;gilets_jaunes</title>
-<path fill="none" stroke="red" d="M849.409,-271.51C863.807,-264.94 880.618,-257.268 896.105,-250.201"/>
-<polygon fill="red" stroke="red" points="897.899,-253.23 905.543,-245.894 894.992,-246.862 897.899,-253.23"/>
+<path fill="none" stroke="red" d="M785.245,-292.214C761.025,-259.33 709.152,-188.902 680.938,-150.596"/>
+<polygon fill="red" stroke="red" points="683.713,-148.462 674.965,-142.486 678.077,-152.613 683.713,-148.462"/>
 </g>
 <!-- info_desintox -->
 <g id="node54" class="node"><title>info_desintox</title>
-<g id="a_node54"><a xlink:href="http://coa.crapaud-fou.org/channel/info-desintox" xlink:title="info_desintox" target="_blank">
-<text text-anchor="start" x="543.247" y="-106.332" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">info&#45;desintox</text>
+<g id="a_node54"><a xlink:title="info_desintox">
+<text text-anchor="start" x="910.602" y="-227.251" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">info&#45;desintox</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;info_desintox -->
 <g id="edge58" class="edge"><title>Democratie&#45;&gt;info_desintox</title>
-<path fill="none" stroke="red" d="M790.842,-270.472C749.463,-238.369 661.291,-169.966 614.096,-133.352"/>
-<polygon fill="red" stroke="red" points="616.104,-130.48 606.057,-127.116 611.813,-136.011 616.104,-130.48"/>
+<path fill="none" stroke="red" d="M830.159,-293.221C852.432,-281.472 882.456,-265.634 906.893,-252.744"/>
+<polygon fill="red" stroke="red" points="908.745,-255.724 915.957,-247.963 905.479,-249.533 908.745,-255.724"/>
 </g>
 <!-- lobbying -->
 <g id="node58" class="node"><title>lobbying</title>
-<g id="a_node58"><a xlink:href="http://coa.crapaud-fou.org/channel/lobbying" xlink:title="lobbying" target="_blank">
-<text text-anchor="start" x="747.33" y="-166.582" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">lobbying</text>
+<g id="a_node58"><a xlink:title="lobbying">
+<text text-anchor="start" x="849.913" y="-183.21" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">lobbying</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;lobbying -->
 <g id="edge62" class="edge"><title>Democratie&#45;&gt;lobbying</title>
-<path fill="none" stroke="red" d="M807.294,-269.93C800.767,-250.587 790.316,-219.617 782.729,-197.135"/>
-<polygon fill="red" stroke="red" points="785.983,-195.831 779.469,-187.476 779.35,-198.07 785.983,-195.831"/>
+<path fill="none" stroke="red" d="M809.625,-291.958C822.666,-271.096 844.253,-236.561 859.234,-212.593"/>
+<polygon fill="red" stroke="red" points="862.288,-214.31 864.621,-203.976 856.352,-210.6 862.288,-214.31"/>
 </g>
 <!-- mutuelle_sociale_solidaire -->
-<g id="node65" class="node"><title>mutuelle_sociale_solidaire</title>
-<g id="a_node65"><a xlink:href="http://coa.crapaud-fou.org/channel/mutuelle-sociale-solidaire" xlink:title="mutuelle_sociale_solidaire" target="_blank">
-<text text-anchor="start" x="228.701" y="-236.626" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">mutuelle&#45;sociale&#45;solidaire (projet)</text>
+<g id="node66" class="node"><title>mutuelle_sociale_solidaire</title>
+<g id="a_node66"><a xlink:title="mutuelle_sociale_solidaire">
+<text text-anchor="start" x="597.2" y="-15.057" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">mutuelle&#45;sociale&#45;solidaire (projet)</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;mutuelle_sociale_solidaire -->
-<g id="edge69" class="edge"><title>Democratie&#45;&gt;mutuelle_sociale_solidaire</title>
-<path fill="none" stroke="red" d="M735.906,-280.141C659.263,-272.411 540.849,-260.469 451.874,-251.496"/>
-<polygon fill="red" stroke="red" points="452.023,-247.993 441.722,-250.472 451.321,-254.958 452.023,-247.993"/>
+<g id="edge70" class="edge"><title>Democratie&#45;&gt;mutuelle_sociale_solidaire</title>
+<path fill="none" stroke="red" d="M792.176,-291.721C775.464,-242.211 729.238,-105.266 709.185,-45.8579"/>
+<polygon fill="red" stroke="red" points="712.383,-44.3868 705.869,-36.0314 705.751,-46.6256 712.383,-44.3868"/>
 </g>
 <!-- nature_simplicite_bienveillance -->
-<g id="node67" class="node"><title>nature_simplicite_bienveillance</title>
-<g id="a_node67"><a xlink:href="http://coa.crapaud-fou.org/channel/nature-simplicite-bienveillance" xlink:title="nature_simplicite_bienveillance" target="_blank">
-<text text-anchor="start" x="657.642" y="-15.7595" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">nature&#45;simplicite&#45;bienveillance</text>
+<g id="node68" class="node"><title>nature_simplicite_bienveillance</title>
+<g id="a_node68"><a xlink:title="nature_simplicite_bienveillance">
+<text text-anchor="start" x="1008.22" y="-299.994" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">nature&#45;simplicite&#45;bienveillance</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;nature_simplicite_bienveillance -->
-<g id="edge71" class="edge"><title>Democratie&#45;&gt;nature_simplicite_bienveillance</title>
-<path fill="none" stroke="red" d="M809.162,-269.853C798.426,-223.731 769.984,-101.549 757.121,-46.2927"/>
-<polygon fill="red" stroke="red" points="760.513,-45.4275 754.837,-36.4814 753.695,-47.0146 760.513,-45.4275"/>
+<g id="edge72" class="edge"><title>Democratie&#45;&gt;nature_simplicite_bienveillance</title>
+<path fill="none" stroke="red" d="M883.923,-307.937C916.801,-307.144 954.821,-306.226 989.779,-305.383"/>
+<polygon fill="red" stroke="red" points="990.121,-308.876 1000.03,-305.135 989.952,-301.878 990.121,-308.876"/>
 </g>
 <!-- philosophie -->
-<g id="node71" class="node"><title>philosophie</title>
-<g id="a_node71"><a xlink:href="http://coa.crapaud-fou.org/channel/philosophie" xlink:title="philosophie" target="_blank">
-<text text-anchor="start" x="572.845" y="-168.046" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">philosophie</text>
+<g id="node72" class="node"><title>philosophie</title>
+<g id="a_node72"><a xlink:title="philosophie">
+<text text-anchor="start" x="726.6" y="-155.977" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">philosophie</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;philosophie -->
-<g id="edge75" class="edge"><title>Democratie&#45;&gt;philosophie</title>
-<path fill="none" stroke="red" d="M783.49,-270.91C747.855,-250.589 688.133,-216.531 648.365,-193.853"/>
-<polygon fill="red" stroke="red" points="649.876,-190.686 639.455,-188.772 646.408,-196.767 649.876,-190.686"/>
+<g id="edge76" class="edge"><title>Democratie&#45;&gt;philosophie</title>
+<path fill="none" stroke="red" d="M793.914,-291.749C787.596,-265.731 775.943,-217.743 768.493,-187.062"/>
+<polygon fill="red" stroke="red" points="771.809,-185.887 766.048,-176.996 765.007,-187.539 771.809,-185.887"/>
 </g>
 <!-- reflexion_sur_l_argent -->
-<g id="node79" class="node"><title>reflexion_sur_l_argent</title>
-<g id="a_node79"><a xlink:href="http://coa.crapaud-fou.org/channel/reflexion-sur-l-argent" xlink:title="reflexion_sur_l_argent" target="_blank">
-<text text-anchor="start" x="486.699" y="-236.62" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">reflexion&#45;sur&#45;l&#45;argent</text>
+<g id="node80" class="node"><title>reflexion_sur_l_argent</title>
+<g id="a_node80"><a xlink:title="reflexion_sur_l_argent">
+<text text-anchor="start" x="564.899" y="-63.0962" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">reflexion&#45;sur&#45;l&#45;argent</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;reflexion_sur_l_argent -->
-<g id="edge83" class="edge"><title>Democratie&#45;&gt;reflexion_sur_l_argent</title>
-<path fill="none" stroke="red" d="M749.028,-275.994C714.723,-269.619 672.114,-261.7 635.278,-254.854"/>
-<polygon fill="red" stroke="red" points="635.524,-251.339 625.053,-252.953 634.245,-258.222 635.524,-251.339"/>
+<g id="edge84" class="edge"><title>Democratie&#45;&gt;reflexion_sur_l_argent</title>
+<path fill="none" stroke="red" d="M785.96,-292.045C756.645,-249.546 682.888,-142.617 648.317,-92.4984"/>
+<polygon fill="red" stroke="red" points="651.091,-90.3559 642.532,-84.1116 645.329,-94.3306 651.091,-90.3559"/>
 </g>
 <!-- sociologie_de_l_effondrement -->
-<g id="node81" class="node"><title>sociologie_de_l_effondrement</title>
-<g id="a_node81"><a xlink:href="http://coa.crapaud-fou.org/channel/sociologie-de-l-effondrement" xlink:title="sociologie_de_l_effondrement" target="_blank">
-<text text-anchor="start" x="822.862" y="-93.0046" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">sociologie&#45;de&#45;l&#45;effondrement</text>
+<g id="node82" class="node"><title>sociologie_de_l_effondrement</title>
+<g id="a_node82"><a xlink:title="sociologie_de_l_effondrement">
+<text text-anchor="start" x="1036.92" y="-211.961" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">sociologie&#45;de&#45;l&#45;effondrement</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;sociologie_de_l_effondrement -->
-<g id="edge85" class="edge"><title>Democratie&#45;&gt;sociologie_de_l_effondrement</title>
-<path fill="none" stroke="red" d="M822.453,-269.867C839.442,-236.017 876.127,-162.921 896.147,-123.032"/>
-<polygon fill="red" stroke="red" points="899.381,-124.39 900.739,-113.883 893.125,-121.25 899.381,-124.39"/>
+<g id="edge86" class="edge"><title>Democratie&#45;&gt;sociologie_de_l_effondrement</title>
+<path fill="none" stroke="red" d="M848.504,-295.314C903.108,-279.324 990.874,-253.623 1052.63,-235.539"/>
+<polygon fill="red" stroke="red" points="1053.69,-238.874 1062.3,-232.705 1051.72,-232.156 1053.69,-238.874"/>
 </g>
 <!-- solucracy -->
-<g id="node82" class="node"><title>solucracy</title>
-<g id="a_node82"><a xlink:href="http://coa.crapaud-fou.org/channel/solucracy" xlink:title="solucracy" target="_blank">
-<text text-anchor="start" x="654.006" y="-118.35" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">solucracy (projet)</text>
+<g id="node83" class="node"><title>solucracy</title>
+<g id="a_node83"><a xlink:title="solucracy">
+<text text-anchor="start" x="772.496" y="-59.3165" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">solucracy (projet)</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;solucracy -->
-<g id="edge86" class="edge"><title>Democratie&#45;&gt;solucracy</title>
-<path fill="none" stroke="red" d="M802.153,-270.092C783.721,-240.757 746.936,-182.213 725.361,-147.876"/>
-<polygon fill="red" stroke="red" points="728.25,-145.894 719.966,-139.289 722.323,-149.619 728.25,-145.894"/>
+<g id="edge87" class="edge"><title>Democratie&#45;&gt;solucracy</title>
+<path fill="none" stroke="red" d="M800.453,-291.768C805.4,-248.953 817.785,-141.744 823.722,-90.3539"/>
+<polygon fill="red" stroke="red" points="827.216,-90.6138 824.886,-80.2782 820.262,-89.8104 827.216,-90.6138"/>
 </g>
 <!-- zetetique_et_outils_epistemologiques -->
-<g id="node93" class="node"><title>zetetique_et_outils_epistemologiques</title>
-<g id="a_node93"><a xlink:href="http://coa.crapaud-fou.org/channel/zetetique-et-outils-epistemologiques" xlink:title="zetetique_et_outils_epistemologiques" target="_blank">
-<text text-anchor="start" x="1012.13" y="-225.103" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">zetetique&#45;et&#45;outils&#45;epistemologiques</text>
+<g id="node94" class="node"><title>zetetique_et_outils_epistemologiques</title>
+<g id="a_node94"><a xlink:title="zetetique_et_outils_epistemologiques">
+<text text-anchor="start" x="1071.55" y="-255.981" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">zetetique&#45;et&#45;outils&#45;epistemologiques</text>
 </a>
 </g>
 </g>
 <!-- Democratie&#45;&gt;zetetique_et_outils_epistemologiques -->
-<g id="edge97" class="edge"><title>Democratie&#45;&gt;zetetique_et_outils_epistemologiques</title>
-<path fill="none" stroke="red" d="M876.295,-275.636C917.273,-267.614 971.665,-256.966 1018.73,-247.753"/>
-<polygon fill="red" stroke="red" points="1019.51,-251.166 1028.65,-245.81 1018.16,-244.297 1019.51,-251.166"/>
+<g id="edge98" class="edge"><title>Democratie&#45;&gt;zetetique_et_outils_epistemologiques</title>
+<path fill="none" stroke="red" d="M870.592,-300.289C922.083,-293.366 992.658,-283.877 1053.41,-275.709"/>
+<polygon fill="red" stroke="red" points="1054.01,-279.159 1063.46,-274.358 1053.08,-272.222 1054.01,-279.159"/>
 </g>
 <!-- burn_out -->
 <g id="node10" class="node"><title>burn_out</title>
-<g id="a_node10"><a xlink:href="http://coa.crapaud-fou.org/channel/burn-out" xlink:title="burn_out" target="_blank">
-<text text-anchor="start" x="391.322" y="-420.106" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">burn&#45;out</text>
+<g id="a_node10"><a xlink:title="burn_out">
+<text text-anchor="start" x="349.774" y="-554.789" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">burn&#45;out</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;burn_out -->
 <g id="edge9" class="edge"><title>Ecologie&#45;&gt;burn_out</title>
-<path fill="none" stroke="limegreen" d="M525.327,-518.384C504.184,-499.587 470.303,-469.465 446.232,-448.065"/>
-<polygon fill="limegreen" stroke="limegreen" points="448.276,-445.199 438.477,-441.17 443.625,-450.43 448.276,-445.199"/>
+<path fill="none" stroke="limegreen" d="M474.041,-458.658C454.689,-478.221 423.353,-509.898 401.387,-532.103"/>
+<polygon fill="limegreen" stroke="limegreen" points="398.872,-529.668 394.327,-539.239 403.848,-534.591 398.872,-529.668"/>
 </g>
 <!-- Ecologie&#45;&gt;cadeaux_ibf -->
 <g id="edge11" class="edge"><title>Ecologie&#45;&gt;cadeaux_ibf</title>
-<path fill="none" stroke="limegreen" d="M566.911,-518.324C595.34,-495.759 644.989,-456.352 677.189,-430.795"/>
-<polygon fill="limegreen" stroke="limegreen" points="679.718,-433.255 685.375,-424.297 675.366,-427.773 679.718,-433.255"/>
+<path fill="none" stroke="limegreen" d="M543.562,-427.7C566.378,-421.884 593.142,-415.06 616.135,-409.199"/>
+<polygon fill="limegreen" stroke="limegreen" points="617.244,-412.528 626.069,-406.666 615.514,-405.745 617.244,-412.528"/>
 </g>
 <!-- cause_animale -->
 <g id="node12" class="node"><title>cause_animale</title>
-<g id="a_node12"><a xlink:href="http://coa.crapaud-fou.org/channel/cause-animale" xlink:title="cause_animale" target="_blank">
-<text text-anchor="start" x="380.036" y="-332.059" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cause&#45;animale</text>
+<g id="a_node12"><a xlink:title="cause_animale">
+<text text-anchor="start" x="216.329" y="-354.837" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cause&#45;animale</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;cause_animale -->
 <g id="edge12" class="edge"><title>Ecologie&#45;&gt;cause_animale</title>
-<path fill="none" stroke="limegreen" d="M534.179,-517.95C512.908,-482.573 465.279,-403.354 440.195,-361.635"/>
-<polygon fill="limegreen" stroke="limegreen" points="443.065,-359.615 434.912,-352.848 437.065,-363.222 443.065,-359.615"/>
+<path fill="none" stroke="limegreen" d="M449.677,-425.853C413.412,-412.769 360.534,-393.691 319.869,-379.019"/>
+<polygon fill="limegreen" stroke="limegreen" points="320.933,-375.682 310.339,-375.581 318.557,-382.267 320.933,-375.682"/>
 </g>
 <!-- cercle_autonomie_energetique -->
 <g id="node13" class="node"><title>cercle_autonomie_energetique</title>
-<g id="a_node13"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-autonomie-energetique" xlink:title="cercle_autonomie_energetique" target="_blank">
-<text text-anchor="start" x="7.53357" y="-465.166" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;autonomie&#45;energetique</text>
+<g id="a_node13"><a xlink:title="cercle_autonomie_energetique">
+<text text-anchor="start" x="61.9579" y="-486.919" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;autonomie&#45;energetique</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;cercle_autonomie_energetique -->
 <g id="edge13" class="edge"><title>Ecologie&#45;&gt;cercle_autonomie_energetique</title>
-<path fill="none" stroke="limegreen" d="M480.879,-526.059C409.495,-515.208 292.814,-497.473 206.999,-484.428"/>
-<polygon fill="limegreen" stroke="limegreen" points="207.368,-480.944 196.955,-482.902 206.316,-487.865 207.368,-480.944"/>
+<path fill="none" stroke="limegreen" d="M426.169,-450.342C379.426,-457.05 315.435,-466.232 261.08,-474.032"/>
+<polygon fill="limegreen" stroke="limegreen" points="260.451,-470.586 251.05,-475.471 261.445,-477.515 260.451,-470.586"/>
 </g>
 <!-- Ecologie&#45;&gt;cercle_permaculture -->
 <g id="edge29" class="edge"><title>Ecologie&#45;&gt;cercle_permaculture</title>
-<path fill="none" stroke="limegreen" d="M559.886,-518.062C590.343,-482.019 659.603,-400.054 695.159,-357.977"/>
-<polygon fill="limegreen" stroke="limegreen" points="698.018,-360.017 701.799,-350.119 692.671,-355.498 698.018,-360.017"/>
+<path fill="none" stroke="limegreen" d="M510.237,-423.367C535.14,-399.922 579.359,-358.293 607.779,-331.538"/>
+<polygon fill="limegreen" stroke="limegreen" points="610.465,-333.816 615.347,-324.413 605.666,-328.72 610.465,-333.816"/>
 </g>
 <!-- cercle_sante -->
 <g id="node29" class="node"><title>cercle_sante</title>
-<g id="a_node29"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-sante" xlink:title="cercle_sante" target="_blank">
-<text text-anchor="start" x="292.727" y="-464.13" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;sante</text>
+<g id="a_node29"><a xlink:title="cercle_sante">
+<text text-anchor="start" x="361.693" y="-236.861" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;sante</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;cercle_sante -->
 <g id="edge30" class="edge"><title>Ecologie&#45;&gt;cercle_sante</title>
-<path fill="none" stroke="limegreen" d="M499.534,-521.25C466.061,-510.522 420.345,-495.871 384.779,-484.473"/>
-<polygon fill="limegreen" stroke="limegreen" points="385.627,-481.069 375.036,-481.35 383.491,-487.735 385.627,-481.069"/>
+<path fill="none" stroke="limegreen" d="M483.145,-422.732C466.778,-387.234 430.551,-308.659 411.296,-266.896"/>
+<polygon fill="limegreen" stroke="limegreen" points="414.376,-265.219 407.011,-257.603 408.019,-268.15 414.376,-265.219"/>
 </g>
 <!-- Ecologie&#45;&gt;changer_de_paradigme -->
 <g id="edge32" class="edge"><title>Ecologie&#45;&gt;changer_de_paradigme</title>
-<path fill="none" stroke="limegreen" d="M546.242,-517.786C549.14,-478.761 556.02,-386.13 559.498,-339.29"/>
-<polygon fill="limegreen" stroke="limegreen" points="562.995,-339.457 560.246,-329.225 556.015,-338.938 562.995,-339.457"/>
+<path fill="none" stroke="limegreen" d="M508.88,-423.25C540.968,-390.458 609.751,-320.166 647.028,-282.071"/>
+<polygon fill="limegreen" stroke="limegreen" points="649.988,-284.051 654.48,-274.456 644.985,-279.156 649.988,-284.051"/>
 </g>
 <!-- chanvre -->
 <g id="node31" class="node"><title>chanvre</title>
-<g id="a_node31"><a xlink:href="http://coa.crapaud-fou.org/channel/chanvre" xlink:title="chanvre" target="_blank">
-<text text-anchor="start" x="409.282" y="-596.165" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">chanvre</text>
+<g id="a_node31"><a xlink:title="chanvre">
+<text text-anchor="start" x="529.76" y="-256.183" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">chanvre</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;chanvre -->
 <g id="edge33" class="edge"><title>Ecologie&#45;&gt;chanvre</title>
-<path fill="none" stroke="limegreen" d="M515.418,-552.528C502.984,-559.585 488.298,-567.922 474.833,-575.564"/>
-<polygon fill="limegreen" stroke="limegreen" points="472.719,-572.74 465.75,-580.72 476.175,-578.827 472.719,-572.74"/>
+<path fill="none" stroke="limegreen" d="M497.791,-422.836C508.779,-390.935 531.639,-324.561 544.652,-286.779"/>
+<polygon fill="limegreen" stroke="limegreen" points="548.095,-287.528 548.043,-276.933 541.477,-285.248 548.095,-287.528"/>
 </g>
 <!-- Ecologie&#45;&gt;cnv -->
 <g id="edge36" class="edge"><title>Ecologie&#45;&gt;cnv</title>
-<path fill="none" stroke="limegreen" d="M554.429,-517.772C569.192,-489.841 597.695,-435.913 614.976,-403.219"/>
-<polygon fill="limegreen" stroke="limegreen" points="618.162,-404.68 619.741,-394.204 611.974,-401.409 618.162,-404.68"/>
+<path fill="none" stroke="limegreen" d="M521.349,-424.233C548.087,-409.225 587.393,-387.163 615.9,-371.162"/>
+<polygon fill="limegreen" stroke="limegreen" points="617.739,-374.143 624.747,-366.196 614.313,-368.039 617.739,-374.143"/>
 </g>
 <!-- Ecologie&#45;&gt;conf_inter_g -->
 <g id="edge39" class="edge"><title>Ecologie&#45;&gt;conf_inter_g</title>
-<path fill="none" stroke="limegreen" d="M581.804,-519.911C612.879,-506.538 657.666,-487.264 692.236,-472.387"/>
-<polygon fill="limegreen" stroke="limegreen" points="693.894,-475.484 701.696,-468.316 691.126,-469.054 693.894,-475.484"/>
+<path fill="none" stroke="limegreen" d="M567.643,-440.484C580.6,-440.403 594.084,-440.319 607.117,-440.238"/>
+<polygon fill="limegreen" stroke="limegreen" points="607.475,-443.736 617.453,-440.173 607.431,-436.736 607.475,-443.736"/>
 </g>
 <!-- energie -->
 <g id="node38" class="node"><title>energie</title>
-<g id="a_node38"><a xlink:href="http://coa.crapaud-fou.org/channel/energie" xlink:title="energie" target="_blank">
-<text text-anchor="start" x="558.627" y="-658.12" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">energie</text>
+<g id="a_node38"><a xlink:title="energie">
+<text text-anchor="start" x="459.753" y="-225.661" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">energie</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;energie -->
 <g id="edge42" class="edge"><title>Ecologie&#45;&gt;energie</title>
-<path fill="none" stroke="limegreen" d="M550.245,-553.971C556.337,-574.713 566.369,-608.869 573.448,-632.972"/>
-<polygon fill="limegreen" stroke="limegreen" points="570.105,-634.009 576.281,-642.618 576.821,-632.037 570.105,-634.009"/>
+<path fill="none" stroke="limegreen" d="M490.799,-422.834C489.264,-385.727 485.753,-300.881 483.919,-256.535"/>
+<polygon fill="limegreen" stroke="limegreen" points="487.412,-256.288 483.501,-246.441 480.418,-256.577 487.412,-256.288"/>
 </g>
 <!-- energies_agiles -->
 <g id="node39" class="node"><title>energies_agiles</title>
-<g id="a_node39"><a xlink:href="http://coa.crapaud-fou.org/channel/energies-agiles" xlink:title="energies_agiles" target="_blank">
-<text text-anchor="start" x="241.068" y="-596.164" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">energies&#45;agiles</text>
+<g id="a_node39"><a xlink:title="energies_agiles">
+<text text-anchor="start" x="255.866" y="-398.882" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">energies&#45;agiles</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;energies_agiles -->
 <g id="edge43" class="edge"><title>Ecologie&#45;&gt;energies_agiles</title>
-<path fill="none" stroke="limegreen" d="M491.691,-548.783C450.581,-558.82 393.553,-572.744 350.06,-583.362"/>
-<polygon fill="limegreen" stroke="limegreen" points="349.041,-580.008 340.157,-585.78 350.702,-586.809 349.041,-580.008"/>
+<path fill="none" stroke="limegreen" d="M434.23,-429.092C412.416,-424.575 387.434,-419.402 365.064,-414.771"/>
+<polygon fill="limegreen" stroke="limegreen" points="365.492,-411.285 354.99,-412.685 364.073,-418.14 365.492,-411.285"/>
 </g>
 <!-- ferme_pedagogique_albi -->
 <g id="node44" class="node"><title>ferme_pedagogique_albi</title>
-<g id="a_node44"><a xlink:href="http://coa.crapaud-fou.org/channel/ferme-pedagogique-albi" xlink:title="ferme_pedagogique_albi" target="_blank">
-<text text-anchor="start" x="132.684" y="-552.161" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">ferme&#45;pedagogique&#45;albi</text>
+<g id="a_node44"><a xlink:title="ferme_pedagogique_albi">
+<text text-anchor="start" x="86.6816" y="-398.882" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">ferme&#45;pedagogique&#45;albi</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;ferme_pedagogique_albi -->
 <g id="edge48" class="edge"><title>Ecologie&#45;&gt;ferme_pedagogique_albi</title>
-<path fill="none" stroke="limegreen" d="M470.772,-539.952C419.309,-542.841 350.441,-546.707 295.73,-549.778"/>
-<polygon fill="limegreen" stroke="limegreen" points="295.474,-546.287 285.686,-550.342 295.867,-553.276 295.474,-546.287"/>
+<path fill="none" stroke="limegreen" d="M423.488,-432.896C373.337,-426.954 304.612,-418.812 249.811,-412.32"/>
+<polygon fill="limegreen" stroke="limegreen" points="250.091,-408.828 239.749,-411.127 249.267,-415.78 250.091,-408.828"/>
 </g>
 <!-- gestion_de_l_eau -->
 <g id="node48" class="node"><title>gestion_de_l_eau</title>
-<g id="a_node48"><a xlink:href="http://coa.crapaud-fou.org/channel/gestion-de-l-eau" xlink:title="gestion_de_l_eau" target="_blank">
-<text text-anchor="start" x="246.145" y="-508.13" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">gestion&#45;de&#45;l&#45;eau</text>
+<g id="a_node48"><a xlink:title="gestion_de_l_eau">
+<text text-anchor="start" x="210.872" y="-442.91" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">gestion&#45;de&#45;l&#45;eau</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;gestion_de_l_eau -->
 <g id="edge52" class="edge"><title>Ecologie&#45;&gt;gestion_de_l_eau</title>
-<path fill="none" stroke="limegreen" d="M474.528,-528.771C439.132,-525.241 396.455,-520.984 361.555,-517.503"/>
-<polygon fill="limegreen" stroke="limegreen" points="361.759,-514.007 351.461,-516.497 361.064,-520.972 361.759,-514.007"/>
+<path fill="none" stroke="limegreen" d="M415.526,-442.482C386.668,-443.06 354.046,-443.714 326.109,-444.273"/>
+<polygon fill="limegreen" stroke="limegreen" points="325.971,-440.775 316.044,-444.475 326.112,-447.774 325.971,-440.775"/>
 </g>
 <!-- habitat_durable -->
 <g id="node50" class="node"><title>habitat_durable</title>
-<g id="a_node50"><a xlink:href="http://coa.crapaud-fou.org/channel/habitat-durable" xlink:title="habitat_durable" target="_blank">
-<text text-anchor="start" x="336.263" y="-376.07" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">habitat&#45;durable</text>
+<g id="a_node50"><a xlink:title="habitat_durable">
+<text text-anchor="start" x="231.674" y="-530.952" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">habitat&#45;durable</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;habitat_durable -->
 <g id="edge54" class="edge"><title>Ecologie&#45;&gt;habitat_durable</title>
-<path fill="none" stroke="limegreen" d="M526.677,-518.084C498.013,-490.239 442.284,-436.103 409.372,-404.132"/>
-<polygon fill="limegreen" stroke="limegreen" points="411.534,-401.353 401.922,-396.896 406.656,-406.374 411.534,-401.353"/>
+<path fill="none" stroke="limegreen" d="M454.955,-456.894C420.435,-471.925 368.366,-494.598 329.759,-511.408"/>
+<polygon fill="limegreen" stroke="limegreen" points="328.024,-508.347 320.253,-515.548 330.819,-514.764 328.024,-508.347"/>
 </g>
 <!-- meditation -->
 <g id="node61" class="node"><title>meditation</title>
-<g id="a_node61"><a xlink:href="http://coa.crapaud-fou.org/channel/meditation" xlink:title="meditation" target="_blank">
-<text text-anchor="start" x="437.186" y="-670.033" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">meditation</text>
+<g id="a_node61"><a xlink:title="meditation">
+<text text-anchor="start" x="320.921" y="-310.732" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">meditation</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;meditation -->
 <g id="edge65" class="edge"><title>Ecologie&#45;&gt;meditation</title>
-<path fill="none" stroke="limegreen" d="M535.071,-553.693C522.247,-577.041 499.689,-618.111 484.714,-645.373"/>
-<polygon fill="limegreen" stroke="limegreen" points="481.509,-643.939 479.762,-654.389 487.644,-647.309 481.509,-643.939"/>
+<path fill="none" stroke="limegreen" d="M472.633,-423.495C448.827,-401.516 407.774,-363.614 380.609,-338.533"/>
+<polygon fill="limegreen" stroke="limegreen" points="382.721,-335.72 373,-331.508 377.973,-340.863 382.721,-335.72"/>
 </g>
 <!-- pnl -->
-<g id="node73" class="node"><title>pnl</title>
-<g id="a_node73"><a xlink:href="http://coa.crapaud-fou.org/channel/pnl" xlink:title="pnl" target="_blank">
-<text text-anchor="start" x="505.499" y="-622.006" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pnl</text>
+<g id="node74" class="node"><title>pnl</title>
+<g id="a_node74"><a xlink:title="pnl">
+<text text-anchor="start" x="419.488" y="-310.818" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pnl</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;pnl -->
-<g id="edge77" class="edge"><title>Ecologie&#45;&gt;pnl</title>
-<path fill="none" stroke="limegreen" d="M538.853,-553.784C534.705,-566.116 529.121,-582.719 524.398,-596.76"/>
-<polygon fill="limegreen" stroke="limegreen" points="521.015,-595.84 521.145,-606.434 527.65,-598.072 521.015,-595.84"/>
+<g id="edge78" class="edge"><title>Ecologie&#45;&gt;pnl</title>
+<path fill="none" stroke="limegreen" d="M482.719,-422.971C472.252,-401.65 454.698,-365.89 442.515,-341.073"/>
+<polygon fill="limegreen" stroke="limegreen" points="445.525,-339.262 437.977,-331.828 439.241,-342.347 445.525,-339.262"/>
 </g>
 <!-- psycho -->
-<g id="node76" class="node"><title>psycho</title>
-<g id="a_node76"><a xlink:href="http://coa.crapaud-fou.org/channel/psycho" xlink:title="psycho" target="_blank">
-<text text-anchor="start" x="454.343" y="-376.089" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">psycho</text>
+<g id="node77" class="node"><title>psycho</title>
+<g id="a_node77"><a xlink:title="psycho">
+<text text-anchor="start" x="426.815" y="-584.058" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">psycho</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;psycho -->
-<g id="edge80" class="edge"><title>Ecologie&#45;&gt;psycho</title>
-<path fill="none" stroke="limegreen" d="M536.983,-517.781C524.974,-490.481 502.072,-438.415 487.961,-406.337"/>
-<polygon fill="limegreen" stroke="limegreen" points="491.116,-404.817 483.886,-397.072 484.709,-407.635 491.116,-404.817"/>
+<g id="edge81" class="edge"><title>Ecologie&#45;&gt;psycho</title>
+<path fill="none" stroke="limegreen" d="M486.161,-459.13C478.75,-484.123 465.342,-529.339 456.636,-558.695"/>
+<polygon fill="limegreen" stroke="limegreen" points="453.258,-557.776 453.771,-568.358 459.97,-559.766 453.258,-557.776"/>
 </g>
 <!-- recherches_biologie -->
-<g id="node78" class="node"><title>recherches_biologie</title>
-<g id="a_node78"><a xlink:href="http://coa.crapaud-fou.org/channel/recherches-biologie" xlink:title="recherches_biologie" target="_blank">
-<text text-anchor="start" x="280.055" y="-640.367" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">recherches&#45;biologie</text>
+<g id="node79" class="node"><title>recherches_biologie</title>
+<g id="a_node79"><a xlink:title="recherches_biologie">
+<text text-anchor="start" x="217.683" y="-266.692" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">recherches&#45;biologie</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;recherches_biologie -->
-<g id="edge82" class="edge"><title>Ecologie&#45;&gt;recherches_biologie</title>
-<path fill="none" stroke="limegreen" d="M513.346,-552.317C478.643,-570.491 422.652,-599.812 383.743,-620.188"/>
-<polygon fill="limegreen" stroke="limegreen" points="381.969,-617.166 374.734,-624.906 385.217,-623.367 381.969,-617.166"/>
+<g id="edge83" class="edge"><title>Ecologie&#45;&gt;recherches_biologie</title>
+<path fill="none" stroke="limegreen" d="M469.866,-423.565C431.656,-392.912 352.238,-329.202 308.401,-294.035"/>
+<polygon fill="limegreen" stroke="limegreen" points="310.38,-291.135 300.389,-287.607 305.999,-296.595 310.38,-291.135"/>
 </g>
 <!-- survivalismes_et_resiliences -->
-<g id="node85" class="node"><title>survivalismes_et_resiliences</title>
-<g id="a_node85"><a xlink:href="http://coa.crapaud-fou.org/channel/survivalismes-et-resiliences" xlink:title="survivalismes_et_resiliences" target="_blank">
-<text text-anchor="start" x="201.178" y="-420.1" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">survivalismes&#45;et&#45;resiliences</text>
+<g id="node86" class="node"><title>survivalismes_et_resiliences</title>
+<g id="a_node86"><a xlink:title="survivalismes_et_resiliences">
+<text text-anchor="start" x="262.159" y="-191.913" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">survivalismes&#45;et&#45;resiliences</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;survivalismes_et_resiliences -->
-<g id="edge89" class="edge"><title>Ecologie&#45;&gt;survivalismes_et_resiliences</title>
-<path fill="none" stroke="limegreen" d="M508.377,-519.961C463.255,-500.406 386.227,-467.025 335.262,-444.938"/>
-<polygon fill="limegreen" stroke="limegreen" points="336.629,-441.716 326.062,-440.951 333.846,-448.139 336.629,-441.716"/>
+<g id="edge90" class="edge"><title>Ecologie&#45;&gt;survivalismes_et_resiliences</title>
+<path fill="none" stroke="limegreen" d="M480.785,-422.845C455.299,-379.958 391.162,-272.027 361.132,-221.493"/>
+<polygon fill="limegreen" stroke="limegreen" points="364.056,-219.562 355.939,-212.754 358.039,-223.138 364.056,-219.562"/>
 </g>
 <!-- zero_dechet -->
-<g id="node92" class="node"><title>zero_dechet</title>
-<g id="a_node92"><a xlink:href="http://coa.crapaud-fou.org/channel/zero-dechet" xlink:title="zero_dechet" target="_blank">
-<text text-anchor="start" x="358.288" y="-552.162" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">zero&#45;dechet</text>
+<g id="node93" class="node"><title>zero_dechet</title>
+<g id="a_node93"><a xlink:title="zero_dechet">
+<text text-anchor="start" x="302.453" y="-486.919" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">zero&#45;dechet</text>
 </a>
 </g>
 </g>
 <!-- Ecologie&#45;&gt;zero_dechet -->
-<g id="edge96" class="edge"><title>Ecologie&#45;&gt;zero_dechet</title>
-<path fill="none" stroke="limegreen" d="M477.743,-544.267C467.563,-545.552 457.177,-546.862 447.337,-548.104"/>
-<polygon fill="limegreen" stroke="limegreen" points="446.795,-544.645 437.312,-549.37 447.671,-551.59 446.795,-544.645"/>
+<g id="edge97" class="edge"><title>Ecologie&#45;&gt;zero_dechet</title>
+<path fill="none" stroke="limegreen" d="M445.881,-455.427C428.72,-460.864 409.063,-467.091 391.267,-472.729"/>
+<polygon fill="limegreen" stroke="limegreen" points="390.076,-469.435 381.6,-475.791 392.19,-476.108 390.076,-469.435"/>
 </g>
 <!-- cercle_blockchain_crypto -->
 <g id="node14" class="node"><title>cercle_blockchain_crypto</title>
-<g id="a_node14"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-blockchain-crypto" xlink:title="cercle_blockchain_crypto" target="_blank">
-<text text-anchor="start" x="1173.46" y="-370.794" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;blockchain&#45;crypto</text>
+<g id="a_node14"><a xlink:title="cercle_blockchain_crypto">
+<text text-anchor="start" x="102.933" y="-1060.78" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;blockchain&#45;crypto</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;cercle_blockchain_crypto -->
 <g id="edge14" class="edge"><title>Technologie&#45;&gt;cercle_blockchain_crypto</title>
-<path fill="none" stroke="dimgrey" d="M1057.94,-534.088C1096.12,-502.071 1176.57,-434.607 1220.07,-398.139"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1222.32,-400.813 1227.74,-391.706 1217.83,-395.449 1222.32,-400.813"/>
+<path fill="none" stroke="dimgrey" d="M396.805,-927.327C352.669,-954.909 266.294,-1008.89 216.583,-1039.95"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="214.668,-1037.02 208.043,-1045.29 218.378,-1042.96 214.668,-1037.02"/>
 </g>
 <!-- cercle_electronique -->
 <g id="node20" class="node"><title>cercle_electronique</title>
-<g id="a_node20"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-electronique" xlink:title="cercle_electronique" target="_blank">
-<text text-anchor="start" x="1349.75" y="-392.162" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;electronique</text>
+<g id="a_node20"><a xlink:title="cercle_electronique">
+<text text-anchor="start" x="163.322" y="-979.913" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;electronique</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;cercle_electronique -->
 <g id="edge20" class="edge"><title>Technologie&#45;&gt;cercle_electronique</title>
-<path fill="none" stroke="dimgrey" d="M1075.47,-535.485C1142.56,-507.132 1280.52,-448.837 1356.03,-416.929"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1357.51,-420.101 1365.36,-412.984 1354.79,-413.653 1357.51,-420.101"/>
+<path fill="none" stroke="dimgrey" d="M380.519,-925.773C351.61,-936.127 313.415,-949.808 281.74,-961.152"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="280.371,-957.925 272.137,-964.592 282.731,-964.515 280.371,-957.925"/>
 </g>
 <!-- cercle_genie_digital -->
 <g id="node25" class="node"><title>cercle_genie_digital</title>
-<g id="a_node25"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-genie-digital" xlink:title="cercle_genie_digital" target="_blank">
-<text text-anchor="start" x="1141.96" y="-505.171" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;genie&#45;digital</text>
+<g id="a_node25"><a xlink:title="cercle_genie_digital">
+<text text-anchor="start" x="151.625" y="-891.871" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;genie&#45;digital</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;cercle_genie_digital -->
 <g id="edge25" class="edge"><title>Technologie&#45;&gt;cercle_genie_digital</title>
-<path fill="none" stroke="dimgrey" d="M1090.37,-537.443C1101.11,-534.557 1112.6,-531.472 1123.95,-528.424"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1125.11,-531.735 1133.86,-525.76 1123.3,-524.974 1125.11,-531.735"/>
+<path fill="none" stroke="dimgrey" d="M340.387,-903.96C322.737,-902.688 304.211,-901.352 286.847,-900.101"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="287,-896.603 276.774,-899.375 286.497,-903.585 287,-896.603"/>
 </g>
 <!-- hackerspace_angers -->
 <g id="node52" class="node"><title>hackerspace_angers</title>
-<g id="a_node52"><a xlink:href="http://coa.crapaud-fou.org/channel/hackerspace-angers" xlink:title="hackerspace_angers" target="_blank">
-<text text-anchor="start" x="1283.09" y="-524.247" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">hackerspace&#45;angers (projet)</text>
+<g id="a_node52"><a xlink:title="hackerspace_angers">
+<text text-anchor="start" x="28.5695" y="-935.9" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">hackerspace&#45;angers (projet)</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;hackerspace_angers -->
 <g id="edge56" class="edge"><title>Technologie&#45;&gt;hackerspace_angers</title>
-<path fill="none" stroke="dimgrey" d="M1120.32,-545.591C1164.09,-542.317 1218.13,-538.275 1264.69,-534.792"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1265.1,-538.272 1274.82,-534.035 1264.58,-531.291 1265.1,-538.272"/>
+<path fill="none" stroke="dimgrey" d="M343.198,-917.53C305.48,-921.014 260.183,-925.197 219.928,-928.915"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="219.445,-925.445 209.81,-929.85 220.089,-932.415 219.445,-925.445"/>
 </g>
 <!-- how_to_low_tech -->
 <g id="node53" class="node"><title>how_to_low_tech</title>
-<g id="a_node53"><a xlink:href="http://coa.crapaud-fou.org/channel/how-to-low-tech" xlink:title="how_to_low_tech" target="_blank">
-<text text-anchor="start" x="1164.4" y="-326.744" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">how&#45;to&#45;low&#45;tech</text>
+<g id="a_node53"><a xlink:title="how_to_low_tech">
+<text text-anchor="start" x="282.247" y="-1024.04" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">how&#45;to&#45;low&#45;tech</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;how_to_low_tech -->
 <g id="edge57" class="edge"><title>Technologie&#45;&gt;how_to_low_tech</title>
-<path fill="none" stroke="dimgrey" d="M1050.96,-534.017C1082.11,-494.912 1156.56,-401.436 1193.04,-355.637"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1195.9,-357.666 1199.39,-347.664 1190.42,-353.305 1195.9,-357.666"/>
+<path fill="none" stroke="dimgrey" d="M410.208,-928.004C394.798,-947.396 370.117,-978.455 352.554,-1000.56"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="349.686,-998.541 346.205,-1008.55 355.167,-1002.9 349.686,-998.541"/>
 </g>
 <!-- intelligence_artificielle -->
 <g id="node55" class="node"><title>intelligence_artificielle</title>
-<g id="a_node55"><a xlink:href="http://coa.crapaud-fou.org/channel/intelligence-artificielle" xlink:title="intelligence_artificielle" target="_blank">
-<text text-anchor="start" x="1254.89" y="-612.281" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">intelligence&#45;artificielle</text>
+<g id="a_node55"><a xlink:title="intelligence_artificielle">
+<text text-anchor="start" x="296.687" y="-1068.08" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">intelligence&#45;artificielle</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;intelligence_artificielle -->
 <g id="edge59" class="edge"><title>Technologie&#45;&gt;intelligence_artificielle</title>
-<path fill="none" stroke="dimgrey" d="M1097.1,-565.154C1137.73,-574.12 1191.93,-586.08 1237.04,-596.034"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1236.29,-599.454 1246.81,-598.191 1237.8,-592.619 1236.29,-599.454"/>
+<path fill="none" stroke="dimgrey" d="M417.752,-928.15C407.342,-956.131 387.285,-1010.04 375.032,-1042.98"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="371.706,-1041.88 371.499,-1052.47 378.266,-1044.32 371.706,-1041.88"/>
 </g>
 <!-- logiciel_libre -->
 <g id="node59" class="node"><title>logiciel_libre</title>
-<g id="a_node59"><a xlink:href="http://coa.crapaud-fou.org/channel/logiciel-libre" xlink:title="logiciel_libre" target="_blank">
-<text text-anchor="start" x="1175.45" y="-656.308" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">logiciel&#45;libre</text>
+<g id="a_node59"><a xlink:title="logiciel_libre">
+<text text-anchor="start" x="340.552" y="-1121.29" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">logiciel&#45;libre</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;logiciel_libre -->
 <g id="edge63" class="edge"><title>Technologie&#45;&gt;logiciel_libre</title>
-<path fill="none" stroke="dimgrey" d="M1065.15,-569.059C1094.84,-587.068 1141.64,-615.455 1174.72,-635.516"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1173.29,-638.744 1183.65,-640.938 1176.92,-632.759 1173.29,-638.744"/>
+<path fill="none" stroke="dimgrey" d="M420.579,-928.264C412.543,-965.689 394.147,-1051.36 384.58,-1095.92"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="381.137,-1095.28 382.459,-1105.79 387.981,-1096.75 381.137,-1095.28"/>
 </g>
 <!-- no_gafam -->
-<g id="node68" class="node"><title>no_gafam</title>
-<g id="a_node68"><a xlink:href="http://coa.crapaud-fou.org/channel/no-gafam" xlink:title="no_gafam" target="_blank">
-<text text-anchor="start" x="1087.09" y="-370.793" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">no&#45;gafam</text>
+<g id="node69" class="node"><title>no_gafam</title>
+<g id="a_node69"><a xlink:title="no_gafam">
+<text text-anchor="start" x="456.756" y="-1088.76" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">no&#45;gafam</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;no_gafam -->
-<g id="edge72" class="edge"><title>Technologie&#45;&gt;no_gafam</title>
-<path fill="none" stroke="dimgrey" d="M1044.81,-533.758C1058.77,-502.379 1087.55,-437.674 1103.95,-400.798"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1107.16,-402.183 1108.03,-391.623 1100.77,-399.338 1107.16,-402.183"/>
+<g id="edge73" class="edge"><title>Technologie&#45;&gt;no_gafam</title>
+<path fill="none" stroke="dimgrey" d="M430.594,-928.082C441.3,-959.79 463.544,-1025.67 476.272,-1063.37"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="473.077,-1064.85 479.592,-1073.2 479.709,-1062.61 473.077,-1064.85"/>
 </g>
 <!-- partage_dessins_et_techniques -->
-<g id="node70" class="node"><title>partage_dessins_et_techniques</title>
-<g id="a_node70"><a xlink:href="http://coa.crapaud-fou.org/channel/partage-dessins-et-techniques" xlink:title="partage_dessins_et_techniques" target="_blank">
-<text text-anchor="start" x="1283.8" y="-568.265" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">partage&#45;dessins&#45;et&#45;techniques</text>
+<g id="node71" class="node"><title>partage_dessins_et_techniques</title>
+<g id="a_node71"><a xlink:title="partage_dessins_et_techniques">
+<text text-anchor="start" x="8.24399" y="-847.816" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">partage&#45;dessins&#45;et&#45;techniques</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;partage_dessins_et_techniques -->
-<g id="edge74" class="edge"><title>Technologie&#45;&gt;partage_dessins_et_techniques</title>
-<path fill="none" stroke="dimgrey" d="M1122.81,-556.716C1166.21,-559.175 1219.31,-562.183 1265.51,-564.801"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1265.38,-568.299 1275.56,-565.37 1265.78,-561.31 1265.38,-568.299"/>
+<g id="edge75" class="edge"><title>Technologie&#45;&gt;partage_dessins_et_techniques</title>
+<path fill="none" stroke="dimgrey" d="M358.183,-897.908C314.845,-889.991 257.231,-879.467 207.307,-870.347"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="207.897,-866.897 197.431,-868.543 206.639,-873.783 207.897,-866.897"/>
 </g>
 <!-- projet_transceiver_laser -->
-<g id="node75" class="node"><title>projet_transceiver_laser</title>
-<g id="a_node75"><a xlink:href="http://coa.crapaud-fou.org/channel/projet-transceiver-laser" xlink:title="projet_transceiver_laser" target="_blank">
-<text text-anchor="start" x="1286.29" y="-480.209" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">projet&#45;transceiver&#45;laser</text>
+<g id="node76" class="node"><title>projet_transceiver_laser</title>
+<g id="a_node76"><a xlink:title="projet_transceiver_laser">
+<text text-anchor="start" x="118.128" y="-803.794" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">projet&#45;transceiver&#45;laser</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;projet_transceiver_laser -->
-<g id="edge79" class="edge"><title>Technologie&#45;&gt;projet_transceiver_laser</title>
-<path fill="none" stroke="dimgrey" d="M1098.09,-538.713C1146.19,-528.416 1213.87,-513.931 1268.21,-502.299"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1269.14,-505.677 1278.19,-500.161 1267.68,-498.832 1269.14,-505.677"/>
+<g id="edge80" class="edge"><title>Technologie&#45;&gt;projet_transceiver_laser</title>
+<path fill="none" stroke="dimgrey" d="M387.439,-893.617C347.841,-876.088 284.835,-848.197 240.81,-828.708"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="242.003,-825.409 231.442,-824.561 239.169,-831.809 242.003,-825.409"/>
 </g>
 <!-- team_hacker_debutant -->
-<g id="node86" class="node"><title>team_hacker_debutant</title>
-<g id="a_node86"><a xlink:href="http://coa.crapaud-fou.org/channel/team-hacker-debutant" xlink:title="team_hacker_debutant" target="_blank">
-<text text-anchor="start" x="1214.7" y="-436.178" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">team&#45;hacker&#45;debutant</text>
+<g id="node87" class="node"><title>team_hacker_debutant</title>
+<g id="a_node87"><a xlink:title="team_hacker_debutant">
+<text text-anchor="start" x="157.774" y="-1112.09" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">team&#45;hacker&#45;debutant</text>
 </a>
 </g>
 </g>
 <!-- Technologie&#45;&gt;team_hacker_debutant -->
-<g id="edge90" class="edge"><title>Technologie&#45;&gt;team_hacker_debutant</title>
-<path fill="none" stroke="dimgrey" d="M1072.79,-535.294C1115.44,-515.703 1186.67,-482.987 1234.15,-461.175"/>
-<polygon fill="dimgrey" stroke="dimgrey" points="1235.69,-464.32 1243.32,-456.965 1232.77,-457.959 1235.69,-464.32"/>
+<g id="edge91" class="edge"><title>Technologie&#45;&gt;team_hacker_debutant</title>
+<path fill="none" stroke="dimgrey" d="M407.209,-927.836C371.917,-964.201 291.473,-1047.09 250.6,-1089.21"/>
+<polygon fill="dimgrey" stroke="dimgrey" points="247.901,-1086.97 243.448,-1096.58 252.924,-1091.84 247.901,-1086.97"/>
 </g>
 <!-- accueil -->
 <g id="node6" class="node"><title>accueil</title>
-<g id="a_node6"><a xlink:href="http://coa.crapaud-fou.org/channel/accueil" xlink:title="accueil" target="_blank">
-<text text-anchor="start" x="713.187" y="-1104.2" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">accueil</text>
+<g id="a_node6"><a xlink:title="accueil">
+<text text-anchor="start" x="1057.49" y="-950.979" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">accueil</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;accueil -->
 <g id="edge5" class="edge"><title>Global&#45;&gt;accueil</title>
-<path fill="none" stroke="darkorange" d="M858.896,-981.196C834.713,-1005.67 788.783,-1052.16 760.06,-1081.23"/>
-<polygon fill="darkorange" stroke="darkorange" points="757.339,-1079 752.8,-1088.57 762.318,-1083.92 757.339,-1079"/>
+<path fill="none" stroke="darkorange" d="M1014.48,-1053.57C1026.97,-1034.24 1047.34,-1002.7 1061.84,-980.23"/>
+<polygon fill="darkorange" stroke="darkorange" points="1064.79,-982.112 1067.28,-971.812 1058.91,-978.315 1064.79,-982.112"/>
 </g>
 <!-- agenda -->
 <g id="node7" class="node"><title>agenda</title>
-<g id="a_node7"><a xlink:href="http://coa.crapaud-fou.org/channel/agenda" xlink:title="agenda" target="_blank">
-<text text-anchor="start" x="924.343" y="-1077.39" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">agenda</text>
+<g id="a_node7"><a xlink:title="agenda">
+<text text-anchor="start" x="1126.23" y="-1167.77" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">agenda</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;agenda -->
 <g id="edge6" class="edge"><title>Global&#45;&gt;agenda</title>
-<path fill="none" stroke="darkorange" d="M885.904,-982.402C897.704,-1001.32 916.653,-1031.69 930.289,-1053.55"/>
-<polygon fill="darkorange" stroke="darkorange" points="927.328,-1055.42 935.59,-1062.05 933.267,-1051.72 927.328,-1055.42"/>
+<path fill="none" stroke="darkorange" d="M1024.46,-1085.35C1047.95,-1101.43 1086.22,-1127.65 1114.1,-1146.74"/>
+<polygon fill="darkorange" stroke="darkorange" points="1112.16,-1149.66 1122.39,-1152.42 1116.11,-1143.88 1112.16,-1149.66"/>
 </g>
 <!-- animation_crapauds -->
 <g id="node8" class="node"><title>animation_crapauds</title>
-<g id="a_node8"><a xlink:href="http://coa.crapaud-fou.org/channel/animation-crapauds" xlink:title="animation_crapauds" target="_blank">
-<text text-anchor="start" x="1055.55" y="-866.164" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">animation&#45;crapauds</text>
+<g id="a_node8"><a xlink:title="animation_crapauds">
+<text text-anchor="start" x="965.735" y="-1338.46" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">animation&#45;crapauds</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;animation_crapauds -->
 <g id="edge7" class="edge"><title>Global&#45;&gt;animation_crapauds</title>
-<path fill="none" stroke="darkorange" d="M903.173,-953.702C941.792,-938.347 1011.98,-910.441 1061.28,-890.838"/>
-<polygon fill="darkorange" stroke="darkorange" points="1062.85,-893.982 1070.85,-887.035 1060.26,-887.477 1062.85,-893.982"/>
+<path fill="none" stroke="darkorange" d="M1004.89,-1089.02C1008.89,-1135.18 1019.47,-1257.31 1024.29,-1312.9"/>
+<polygon fill="darkorange" stroke="darkorange" points="1020.82,-1313.42 1025.17,-1323.08 1027.79,-1312.82 1020.82,-1313.42"/>
 </g>
 <!-- auberge_des_crapauds -->
 <g id="node9" class="node"><title>auberge_des_crapauds</title>
-<g id="a_node9"><a xlink:href="http://coa.crapaud-fou.org/channel/auberge-des-crapauds" xlink:title="auberge_des_crapauds" target="_blank">
-<text text-anchor="start" x="523.995" y="-969.036" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">auberge&#45;des&#45;crapauds</text>
+<g id="a_node9"><a xlink:title="auberge_des_crapauds">
+<text text-anchor="start" x="1202.04" y="-1163.5" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">auberge&#45;des&#45;crapauds</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;auberge_des_crapauds -->
 <g id="edge8" class="edge"><title>Global&#45;&gt;auberge_des_crapauds</title>
-<path fill="none" stroke="darkorange" d="M839.722,-965.759C799.633,-966.726 732.735,-968.34 678.558,-969.648"/>
-<polygon fill="darkorange" stroke="darkorange" points="678.164,-966.156 668.252,-969.896 678.333,-973.154 678.164,-966.156"/>
+<path fill="none" stroke="darkorange" d="M1032.12,-1081.16C1074.43,-1096.28 1154.39,-1124.86 1209.87,-1144.69"/>
+<polygon fill="darkorange" stroke="darkorange" points="1208.99,-1148.09 1219.58,-1148.16 1211.34,-1141.5 1208.99,-1148.09"/>
 </g>
 <!-- cercle_des_arts -->
 <g id="node16" class="node"><title>cercle_des_arts</title>
-<g id="a_node16"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-des-arts" xlink:title="cercle_des_arts" target="_blank">
-<text text-anchor="start" x="823.737" y="-781.716" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;des&#45;arts</text>
+<g id="a_node16"><a xlink:title="cercle_des_arts">
+<text text-anchor="start" x="823.397" y="-1284.39" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;des&#45;arts</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;cercle_des_arts -->
 <g id="edge16" class="edge"><title>Global&#45;&gt;cercle_des_arts</title>
-<path fill="none" stroke="darkorange" d="M874.408,-946.608C873.401,-915.04 871.332,-850.145 870.139,-812.718"/>
-<polygon fill="darkorange" stroke="darkorange" points="873.63,-812.379 869.813,-802.496 866.634,-812.602 873.63,-812.379"/>
+<path fill="none" stroke="darkorange" d="M992.547,-1088.19C969.116,-1125.88 913.391,-1215.52 885.457,-1260.45"/>
+<polygon fill="darkorange" stroke="darkorange" points="882.407,-1258.73 880.099,-1269.07 888.351,-1262.42 882.407,-1258.73"/>
 </g>
 <!-- cercle_game_changers -->
 <g id="node23" class="node"><title>cercle_game_changers</title>
-<g id="a_node23"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-game-changers" xlink:title="cercle_game_changers" target="_blank">
-<text text-anchor="start" x="620.024" y="-1184.21" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;game&#45;changers</text>
+<g id="a_node23"><a xlink:title="cercle_game_changers">
+<text text-anchor="start" x="747.491" y="-1192.16" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;game&#45;changers</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;cercle_game_changers -->
 <g id="edge23" class="edge"><title>Global&#45;&gt;cercle_game_changers</title>
-<path fill="none" stroke="darkorange" d="M860.901,-981.594C828.448,-1020.02 748.243,-1115 709.359,-1161.05"/>
-<polygon fill="darkorange" stroke="darkorange" points="706.598,-1158.89 702.821,-1168.79 711.947,-1163.41 706.598,-1158.89"/>
+<path fill="none" stroke="darkorange" d="M981.716,-1085.09C949.739,-1106.14 889.435,-1145.84 850.789,-1171.29"/>
+<polygon fill="darkorange" stroke="darkorange" points="848.841,-1168.38 842.414,-1176.8 852.691,-1174.23 848.841,-1168.38"/>
 </g>
 <!-- cercle_generation_2050 -->
 <g id="node24" class="node"><title>cercle_generation_2050</title>
-<g id="a_node24"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-generation-2050" xlink:title="cercle_generation_2050" target="_blank">
-<text text-anchor="start" x="993.354" y="-1043.95" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;generation&#45;2050</text>
+<g id="a_node24"><a xlink:title="cercle_generation_2050">
+<text text-anchor="start" x="751.106" y="-1239.81" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;generation&#45;2050</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;cercle_generation_2050 -->
 <g id="edge24" class="edge"><title>Global&#45;&gt;cercle_generation_2050</title>
-<path fill="none" stroke="darkorange" d="M902.122,-976.619C931.037,-989.1 977.488,-1009.15 1013.29,-1024.61"/>
-<polygon fill="darkorange" stroke="darkorange" points="1012.05,-1027.88 1022.61,-1028.63 1014.82,-1021.45 1012.05,-1027.88"/>
+<path fill="none" stroke="darkorange" d="M986.597,-1086.7C955.103,-1116.53 886.762,-1181.27 848.829,-1217.2"/>
+<polygon fill="darkorange" stroke="darkorange" points="846.074,-1214.98 841.221,-1224.4 850.888,-1220.07 846.074,-1214.98"/>
 </g>
 <!-- cercle_intergenerationnel -->
 <g id="node26" class="node"><title>cercle_intergenerationnel</title>
-<g id="a_node26"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-intergenerationnel" xlink:title="cercle_intergenerationnel" target="_blank">
-<text text-anchor="start" x="1120.37" y="-1161.9" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;intergenerationnel</text>
+<g id="a_node26"><a xlink:title="cercle_intergenerationnel">
+<text text-anchor="start" x="1283.75" y="-987.398" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;intergenerationnel</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;cercle_intergenerationnel -->
 <g id="edge26" class="edge"><title>Global&#45;&gt;cercle_intergenerationnel</title>
-<path fill="none" stroke="darkorange" d="M897.404,-978.791C951.929,-1012.57 1091.98,-1099.31 1159.65,-1141.23"/>
-<polygon fill="darkorange" stroke="darkorange" points="1157.97,-1144.31 1168.31,-1146.6 1161.65,-1138.36 1157.97,-1144.31"/>
+<path fill="none" stroke="darkorange" d="M1035.67,-1063.55C1088.21,-1051.68 1193.94,-1027.79 1270.59,-1010.47"/>
+<polygon fill="darkorange" stroke="darkorange" points="1271.75,-1013.8 1280.73,-1008.18 1270.2,-1006.97 1271.75,-1013.8"/>
 </g>
 <!-- cercle_neurodiversite -->
 <g id="node27" class="node"><title>cercle_neurodiversite</title>
-<g id="a_node27"><a xlink:href="http://coa.crapaud-fou.org/channel/cercle-neurodiversit&#233;" xlink:title="cercle_neurodiversite" target="_blank">
-<text text-anchor="start" x="723.025" y="-1230.34" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;neurodiversité</text>
+<g id="a_node27"><a xlink:title="cercle_neurodiversite">
+<text text-anchor="start" x="1211.26" y="-1075.45" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">cercle&#45;neurodiversité</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;cercle_neurodiversite -->
 <g id="edge27" class="edge"><title>Global&#45;&gt;cercle_neurodiversite</title>
-<path fill="none" stroke="darkorange" d="M869.116,-982.917C854.183,-1028.7 814.683,-1149.79 796.688,-1204.95"/>
-<polygon fill="darkorange" stroke="darkorange" points="793.263,-1204.16 793.489,-1214.75 799.918,-1206.33 793.263,-1204.16"/>
+<path fill="none" stroke="darkorange" d="M1038.38,-1071.8C1077.25,-1072.84 1141.29,-1074.55 1193.07,-1075.94"/>
+<polygon fill="darkorange" stroke="darkorange" points="1193.16,-1079.44 1203.25,-1076.21 1193.35,-1072.44 1193.16,-1079.44"/>
 </g>
 <!-- christin -->
 <g id="node32" class="node"><title>christin</title>
-<g id="a_node32"><a xlink:href="http://coa.crapaud-fou.org/channel/christin" xlink:title="christin" target="_blank">
-<text text-anchor="start" x="796.872" y="-829.582" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">christin</text>
+<g id="a_node32"><a xlink:title="christin">
+<text text-anchor="start" x="1141.2" y="-1116.48" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">christin</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;christin -->
 <g id="edge34" class="edge"><title>Global&#45;&gt;christin</title>
-<path fill="none" stroke="darkorange" d="M867.672,-947.296C858.376,-924.928 842.232,-886.084 831.306,-859.793"/>
-<polygon fill="darkorange" stroke="darkorange" points="834.468,-858.283 827.399,-850.392 828.004,-860.969 834.468,-858.283"/>
+<path fill="none" stroke="darkorange" d="M1033.96,-1080.07C1059.29,-1087.67 1095.49,-1098.55 1123.3,-1106.9"/>
+<polygon fill="darkorange" stroke="darkorange" points="1122.55,-1110.32 1133.13,-1109.85 1124.56,-1103.62 1122.55,-1110.32"/>
 </g>
 <!-- essaimage -->
 <g id="node40" class="node"><title>essaimage</title>
-<g id="a_node40"><a xlink:href="http://coa.crapaud-fou.org/channel/essaimage" xlink:title="essaimage" target="_blank">
-<text text-anchor="start" x="1051.56" y="-911.858" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">essaimage (projet)</text>
+<g id="a_node40"><a xlink:title="essaimage">
+<text text-anchor="start" x="775.088" y="-1144.49" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">essaimage (projet)</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;essaimage -->
 <g id="edge44" class="edge"><title>Global&#45;&gt;essaimage</title>
-<path fill="none" stroke="darkorange" d="M907.398,-957.907C939.821,-950.902 990.847,-939.879 1033.33,-930.701"/>
-<polygon fill="darkorange" stroke="darkorange" points="1034.33,-934.065 1043.37,-928.533 1032.85,-927.223 1034.33,-934.065"/>
+<path fill="none" stroke="darkorange" d="M976.487,-1082.79C951.181,-1094.04 912.618,-1111.18 881.635,-1124.95"/>
+<polygon fill="darkorange" stroke="darkorange" points="880.002,-1121.84 872.286,-1129.1 882.845,-1128.24 880.002,-1121.84"/>
 </g>
 <!-- exemples_low_tech_habiter -->
 <g id="node41" class="node"><title>exemples_low_tech_habiter</title>
-<g id="a_node41"><a xlink:href="http://coa.crapaud-fou.org/channel/exemples-low-tech-habiter" xlink:title="exemples_low_tech_habiter" target="_blank">
-<text text-anchor="start" x="1005.61" y="-999.91" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">exemples&#45;low&#45;tech&#45;habiter</text>
+<g id="a_node41"><a xlink:title="exemples_low_tech_habiter">
+<text text-anchor="start" x="563.349" y="-1223.8" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">exemples&#45;low&#45;tech&#45;habiter</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;exemples_low_tech_habiter -->
 <g id="edge45" class="edge"><title>Global&#45;&gt;exemples_low_tech_habiter</title>
-<path fill="none" stroke="darkorange" d="M908.364,-970.882C929.842,-974.726 958.968,-979.94 987.4,-985.03"/>
-<polygon fill="darkorange" stroke="darkorange" points="986.954,-988.505 997.415,-986.822 988.188,-981.615 986.954,-988.505"/>
+<path fill="none" stroke="darkorange" d="M976.264,-1082.56C916.444,-1108.43 772.13,-1170.82 694.617,-1204.34"/>
+<polygon fill="darkorange" stroke="darkorange" points="692.84,-1201.29 685.05,-1208.47 695.618,-1207.72 692.84,-1201.29"/>
 </g>
 <!-- faire -->
 <g id="node42" class="node"><title>faire</title>
-<g id="a_node42"><a xlink:href="http://coa.crapaud-fou.org/channel/faire" xlink:title="faire" target="_blank">
-<text text-anchor="start" x="858.904" y="-1115.14" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">faire</text>
+<g id="a_node42"><a xlink:title="faire">
+<text text-anchor="start" x="908.44" y="-958.304" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">faire</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;faire -->
 <g id="edge46" class="edge"><title>Global&#45;&gt;faire</title>
-<path fill="none" stroke="darkorange" d="M874.803,-983.051C874.529,-1009.38 874.02,-1058.42 873.697,-1089.53"/>
-<polygon fill="darkorange" stroke="darkorange" points="870.196,-1089.68 873.592,-1099.72 877.195,-1089.75 870.196,-1089.68"/>
+<path fill="none" stroke="darkorange" d="M990.761,-1053.7C977.779,-1035.96 957.344,-1008.03 942.296,-987.458"/>
+<polygon fill="darkorange" stroke="darkorange" points="944.943,-985.149 936.213,-979.145 939.294,-989.283 944.943,-985.149"/>
 </g>
 <!-- faire_avancer_le_schmilblick_ecologique -->
 <g id="node43" class="node"><title>faire_avancer_le_schmilblick_ecologique</title>
-<g id="a_node43"><a xlink:href="http://coa.crapaud-fou.org/channel/faire-avancer-le-schmilblick-ecologique" xlink:title="faire_avancer_le_schmilblick_ecologique" target="_blank">
-<text text-anchor="start" x="659.189" y="-1060.17" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">faire&#45;avancer&#45;le&#45;schmilblick&#45;ecologique</text>
+<g id="a_node43"><a xlink:title="faire_avancer_le_schmilblick_ecologique">
+<text text-anchor="start" x="1362.43" y="-1163.47" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">faire&#45;avancer&#45;le&#45;schmilblick&#45;ecologique</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;faire_avancer_le_schmilblick_ecologique -->
 <g id="edge47" class="edge"><title>Global&#45;&gt;faire_avancer_le_schmilblick_ecologique</title>
-<path fill="none" stroke="darkorange" d="M859.254,-981.084C844.358,-996.395 821.763,-1019.62 804.452,-1037.42"/>
-<polygon fill="darkorange" stroke="darkorange" points="801.859,-1035.06 797.395,-1044.67 806.877,-1039.94 801.859,-1035.06"/>
+<path fill="none" stroke="darkorange" d="M1036.29,-1077.41C1106.58,-1091.38 1273.62,-1124.58 1382.31,-1146.18"/>
+<polygon fill="darkorange" stroke="darkorange" points="1381.83,-1149.65 1392.32,-1148.17 1383.19,-1142.78 1381.83,-1149.65"/>
 </g>
 <!-- fou_a_lier -->
 <g id="node45" class="node"><title>fou_a_lier</title>
-<g id="a_node45"><a xlink:href="http://coa.crapaud-fou.org/channel/fou-a-lier" xlink:title="fou_a_lier" target="_blank">
-<text text-anchor="start" x="1004.08" y="-1116.59" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">fou&#45;a&#45;lier</text>
+<g id="a_node45"><a xlink:title="fou_a_lier">
+<text text-anchor="start" x="1075.68" y="-1211.99" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">fou&#45;a&#45;lier</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;fou_a_lier -->
 <g id="edge49" class="edge"><title>Global&#45;&gt;fou_a_lier</title>
-<path fill="none" stroke="darkorange" d="M891.558,-981.137C918.992,-1008.01 974.059,-1061.96 1006.67,-1093.91"/>
-<polygon fill="darkorange" stroke="darkorange" points="1004.46,-1096.64 1014.06,-1101.14 1009.36,-1091.64 1004.46,-1096.64"/>
+<path fill="none" stroke="darkorange" d="M1015.29,-1087.93C1032.59,-1112.61 1064.79,-1158.51 1085.31,-1187.78"/>
+<polygon fill="darkorange" stroke="darkorange" points="1082.67,-1190.11 1091.28,-1196.29 1088.4,-1186.09 1082.67,-1190.11"/>
 </g>
 <!-- general -->
 <g id="node46" class="node"><title>general</title>
-<g id="a_node46"><a xlink:href="http://coa.crapaud-fou.org/channel/general" xlink:title="general" target="_blank">
-<text text-anchor="start" x="782.454" y="-1140.28" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">general</text>
+<g id="a_node46"><a xlink:title="general">
+<text text-anchor="start" x="875.509" y="-1056.41" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">general</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;general -->
 <g id="edge50" class="edge"><title>Global&#45;&gt;general</title>
-<path fill="none" stroke="darkorange" d="M868.069,-982.632C855.949,-1013.67 830.798,-1078.07 816.332,-1115.12"/>
-<polygon fill="darkorange" stroke="darkorange" points="812.932,-1114.2 812.555,-1124.79 819.453,-1116.75 812.932,-1114.2"/>
+<path fill="none" stroke="darkorange" d="M969.001,-1067.01C959.706,-1065.97 949.546,-1064.83 939.906,-1063.75"/>
+<polygon fill="darkorange" stroke="darkorange" points="940.044,-1060.24 929.716,-1062.61 939.264,-1067.2 940.044,-1060.24"/>
 </g>
 <!-- hackathon_distribue -->
 <g id="node51" class="node"><title>hackathon_distribue</title>
-<g id="a_node51"><a xlink:href="http://coa.crapaud-fou.org/channel/hackathon-distribue" xlink:title="hackathon_distribue" target="_blank">
-<text text-anchor="start" x="463.139" y="-1026.3" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">hackathon&#45;distribue (projet)</text>
+<g id="a_node51"><a xlink:title="hackathon_distribue">
+<text text-anchor="start" x="690.053" y="-1100.45" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">hackathon&#45;distribue (projet)</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;hackathon_distribue -->
 <g id="edge55" class="edge"><title>Global&#45;&gt;hackathon_distribue</title>
-<path fill="none" stroke="darkorange" d="M841.953,-971.405C797.477,-980.153 716.354,-996.108 650.755,-1009.01"/>
-<polygon fill="darkorange" stroke="darkorange" points="649.919,-1005.61 640.782,-1010.97 651.27,-1012.48 649.919,-1005.61"/>
+<path fill="none" stroke="darkorange" d="M969.296,-1075.7C945.505,-1079.08 912.359,-1083.78 880.229,-1088.35"/>
+<polygon fill="darkorange" stroke="darkorange" points="879.709,-1084.89 870.301,-1089.76 880.694,-1091.82 879.709,-1084.89"/>
 </g>
 <!-- libre -->
 <g id="node56" class="node"><title>libre</title>
-<g id="a_node56"><a xlink:href="http://coa.crapaud-fou.org/channel/libre" xlink:title="libre" target="_blank">
-<text text-anchor="start" x="991.589" y="-955.892" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">libre</text>
+<g id="a_node56"><a xlink:title="libre">
+<text text-anchor="start" x="971.045" y="-950.1" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">libre</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;libre -->
 <g id="edge60" class="edge"><title>Global&#45;&gt;libre</title>
-<path fill="none" stroke="darkorange" d="M909.989,-963.215C928.01,-962.344 949.988,-961.281 968.325,-960.394"/>
-<polygon fill="darkorange" stroke="darkorange" points="968.546,-963.888 978.366,-959.909 968.208,-956.896 968.546,-963.888"/>
+<path fill="none" stroke="darkorange" d="M1000.5,-1052.67C997.545,-1033.55 992.849,-1003.22 989.408,-980.99"/>
+<polygon fill="darkorange" stroke="darkorange" points="992.822,-980.162 987.833,-970.815 985.904,-981.233 992.822,-980.162"/>
 </g>
 <!-- lieux_soutien_creation -->
 <g id="node57" class="node"><title>lieux_soutien_creation</title>
-<g id="a_node57"><a xlink:href="http://coa.crapaud-fou.org/channel/lieux-soutien-creation" xlink:title="lieux_soutien_creation" target="_blank">
-<text text-anchor="start" x="1068.59" y="-955.89" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">lieux&#45;soutien&#45;creation</text>
+<g id="a_node57"><a xlink:title="lieux_soutien_creation">
+<text text-anchor="start" x="1215.28" y="-1031.45" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">lieux&#45;soutien&#45;creation</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;lieux_soutien_creation -->
 <g id="edge61" class="edge"><title>Global&#45;&gt;lieux_soutien_creation</title>
-<path fill="none" stroke="darkorange" d="M910.272,-964.049C946.049,-963.178 1002.75,-961.798 1050.19,-960.644"/>
-<polygon fill="darkorange" stroke="darkorange" points="1050.56,-964.136 1060.47,-960.394 1050.39,-957.138 1050.56,-964.136"/>
+<path fill="none" stroke="darkorange" d="M1037.4,-1066.36C1076.9,-1061.14 1143.41,-1052.36 1197.01,-1045.28"/>
+<polygon fill="darkorange" stroke="darkorange" points="1197.75,-1048.71 1207.2,-1043.93 1196.83,-1041.77 1197.75,-1048.71"/>
 </g>
 <!-- manuel_terrien -->
 <g id="node60" class="node"><title>manuel_terrien</title>
-<g id="a_node60"><a xlink:href="http://coa.crapaud-fou.org/channel/manuel-terrien" xlink:title="manuel_terrien" target="_blank">
-<text text-anchor="start" x="1089.84" y="-1117.88" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">manuel&#45;terrien (projet)</text>
+<g id="a_node60"><a xlink:title="manuel_terrien">
+<text text-anchor="start" x="1231.72" y="-1251.52" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">manuel&#45;terrien (projet)</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;manuel_terrien -->
 <g id="edge64" class="edge"><title>Global&#45;&gt;manuel_terrien</title>
-<path fill="none" stroke="darkorange" d="M899.277,-978.18C947.779,-1004.69 1057.15,-1064.46 1117.64,-1097.52"/>
-<polygon fill="darkorange" stroke="darkorange" points="1116.1,-1100.66 1126.55,-1102.39 1119.46,-1094.52 1116.1,-1100.66"/>
+<path fill="none" stroke="darkorange" d="M1026.24,-1084.95C1077.23,-1116.28 1200.5,-1192.02 1263.4,-1230.67"/>
+<polygon fill="darkorange" stroke="darkorange" points="1261.88,-1233.84 1272.23,-1236.1 1265.54,-1227.88 1261.88,-1233.84"/>
 </g>
 <!-- medusa -->
 <g id="node62" class="node"><title>medusa</title>
-<g id="a_node62"><a xlink:href="http://coa.crapaud-fou.org/channel/medusa" xlink:title="medusa" target="_blank">
-<text text-anchor="start" x="584.932" y="-1117.37" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">medusa (projet)</text>
+<g id="a_node62"><a xlink:title="medusa">
+<text text-anchor="start" x="1162.47" y="-945.17" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">medusa (projet)</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;medusa -->
 <g id="edge66" class="edge"><title>Global&#45;&gt;medusa</title>
-<path fill="none" stroke="darkorange" d="M852.699,-979.227C811.05,-1005.98 721.057,-1063.79 670.262,-1096.41"/>
-<polygon fill="darkorange" stroke="darkorange" points="668.077,-1093.66 661.555,-1102.01 671.861,-1099.55 668.077,-1093.66"/>
+<path fill="none" stroke="darkorange" d="M1026.34,-1057.23C1061.43,-1036.44 1128.77,-996.561 1171.7,-971.134"/>
+<polygon fill="darkorange" stroke="darkorange" points="1173.65,-974.047 1180.47,-965.94 1170.08,-968.024 1173.65,-974.047"/>
+</g>
+<!-- meta -->
+<g id="node63" class="node"><title>meta</title>
+<g id="a_node63"><a xlink:title="meta">
+<text text-anchor="start" x="878.506" y="-1002.96" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">meta</text>
+</a>
+</g>
+</g>
+<!-- Global&#45;&gt;meta -->
+<g id="edge67" class="edge"><title>Global&#45;&gt;meta</title>
+<path fill="none" stroke="darkorange" d="M980.404,-1057.19C965.825,-1048.5 946.634,-1037.05 930.043,-1027.16"/>
+<polygon fill="darkorange" stroke="darkorange" points="931.52,-1023.96 921.139,-1021.84 927.934,-1029.97 931.52,-1023.96"/>
 </g>
 <!-- meta_communication -->
-<g id="node63" class="node"><title>meta_communication</title>
-<g id="a_node63"><a xlink:href="http://coa.crapaud-fou.org/channel/meta-communication" xlink:title="meta_communication" target="_blank">
-<text text-anchor="start" x="1231.6" y="-985.555" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">meta&#45;communication</text>
+<g id="node64" class="node"><title>meta_communication</title>
+<g id="a_node64"><a xlink:title="meta_communication">
+<text text-anchor="start" x="1112.54" y="-1301.73" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">meta&#45;communication</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;meta_communication -->
-<g id="edge67" class="edge"><title>Global&#45;&gt;meta_communication</title>
-<path fill="none" stroke="darkorange" d="M910.129,-966.858C976.355,-970.534 1121.25,-978.577 1213.31,-983.688"/>
-<polygon fill="darkorange" stroke="darkorange" points="1213.26,-987.19 1223.44,-984.249 1213.65,-980.201 1213.26,-987.19"/>
+<g id="edge68" class="edge"><title>Global&#45;&gt;meta_communication</title>
+<path fill="none" stroke="darkorange" d="M1016.06,-1088.04C1046.06,-1128.49 1121.31,-1229.96 1157.08,-1278.19"/>
+<polygon fill="darkorange" stroke="darkorange" points="1154.31,-1280.33 1163.07,-1286.27 1159.93,-1276.16 1154.31,-1280.33"/>
 </g>
 <!-- metacognition -->
-<g id="node64" class="node"><title>metacognition</title>
-<g id="a_node64"><a xlink:href="http://coa.crapaud-fou.org/channel/metacognition" xlink:title="metacognition" target="_blank">
-<text text-anchor="start" x="638.571" y="-908.851" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">metacognition</text>
+<g id="node65" class="node"><title>metacognition</title>
+<g id="a_node65"><a xlink:title="metacognition">
+<text text-anchor="start" x="1092.71" y="-901.156" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">metacognition</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;metacognition -->
-<g id="edge68" class="edge"><title>Global&#45;&gt;metacognition</title>
-<path fill="none" stroke="darkorange" d="M843.995,-956.335C816.948,-948.855 776.9,-937.778 743.399,-928.513"/>
-<polygon fill="darkorange" stroke="darkorange" points="744.26,-925.12 733.689,-925.827 742.394,-931.866 744.26,-925.12"/>
+<g id="edge69" class="edge"><title>Global&#45;&gt;metacognition</title>
+<path fill="none" stroke="darkorange" d="M1016.79,-1053.93C1039.97,-1024.8 1087.54,-965.014 1115.14,-930.338"/>
+<polygon fill="darkorange" stroke="darkorange" points="1118.21,-932.101 1121.69,-922.097 1112.73,-927.743 1118.21,-932.101"/>
 </g>
 <!-- myhappy -->
-<g id="node66" class="node"><title>myhappy</title>
-<g id="a_node66"><a xlink:href="http://coa.crapaud-fou.org/channel/myhappy" xlink:title="myhappy" target="_blank">
-<text text-anchor="start" x="838.434" y="-1186.3" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">myhappy</text>
+<g id="node67" class="node"><title>myhappy</title>
+<g id="a_node67"><a xlink:title="myhappy">
+<text text-anchor="start" x="1034.53" y="-1256.88" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">myhappy</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;myhappy -->
-<g id="edge70" class="edge"><title>Global&#45;&gt;myhappy</title>
-<path fill="none" stroke="darkorange" d="M874.25,-983.246C872.67,-1022.33 868.964,-1114.05 867.079,-1160.69"/>
-<polygon fill="darkorange" stroke="darkorange" points="863.58,-1160.59 866.673,-1170.72 870.574,-1160.87 863.58,-1160.59"/>
+<g id="edge71" class="edge"><title>Global&#45;&gt;myhappy</title>
+<path fill="none" stroke="darkorange" d="M1008.95,-1088.96C1019.25,-1122.07 1041.19,-1192.61 1053.39,-1231.83"/>
+<polygon fill="darkorange" stroke="darkorange" points="1050.1,-1233.03 1056.41,-1241.54 1056.79,-1230.95 1050.1,-1233.03"/>
 </g>
 <!-- open_hardware -->
-<g id="node69" class="node"><title>open_hardware</title>
-<g id="a_node69"><a xlink:href="http://coa.crapaud-fou.org/channel/open-hardware" xlink:title="open_hardware" target="_blank">
-<text text-anchor="start" x="1002.25" y="-1196.23" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">open&#45;hardware</text>
+<g id="node70" class="node"><title>open_hardware</title>
+<g id="a_node70"><a xlink:title="open_hardware">
+<text text-anchor="start" x="1113.6" y="-1257.7" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">open&#45;hardware</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;open_hardware -->
-<g id="edge73" class="edge"><title>Global&#45;&gt;open_hardware</title>
-<path fill="none" stroke="darkorange" d="M887.523,-981.738C917.485,-1021.98 993.454,-1124 1029.58,-1172.52"/>
-<polygon fill="darkorange" stroke="darkorange" points="1026.86,-1174.72 1035.64,-1180.65 1032.47,-1170.54 1026.86,-1174.72"/>
+<g id="edge74" class="edge"><title>Global&#45;&gt;open_hardware</title>
+<path fill="none" stroke="darkorange" d="M1017.28,-1087.68C1044.79,-1120.84 1106.2,-1194.84 1138.98,-1234.36"/>
+<polygon fill="darkorange" stroke="darkorange" points="1136.45,-1236.78 1145.52,-1242.24 1141.83,-1232.31 1136.45,-1236.78"/>
 </g>
 <!-- piano_bar -->
-<g id="node72" class="node"><title>piano_bar</title>
-<g id="a_node72"><a xlink:href="http://coa.crapaud-fou.org/channel/piano-bar" xlink:title="piano_bar" target="_blank">
-<text text-anchor="start" x="918.235" y="-1157.47" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">piano&#45;bar</text>
+<g id="node73" class="node"><title>piano_bar</title>
+<g id="a_node73"><a xlink:title="piano_bar">
+<text text-anchor="start" x="1121.58" y="-1045.39" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">piano&#45;bar</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;piano_bar -->
-<g id="edge76" class="edge"><title>Global&#45;&gt;piano_bar</title>
-<path fill="none" stroke="darkorange" d="M881.75,-982.927C894.581,-1017.13 922.543,-1091.68 937.798,-1132.34"/>
-<polygon fill="darkorange" stroke="darkorange" points="934.596,-1133.78 941.386,-1141.91 941.15,-1131.32 934.596,-1133.78"/>
+<g id="edge77" class="edge"><title>Global&#45;&gt;piano_bar</title>
+<path fill="none" stroke="darkorange" d="M1036.96,-1065.7C1056.58,-1062.68 1081.66,-1058.83 1103.35,-1055.5"/>
+<polygon fill="darkorange" stroke="darkorange" points="1104.01,-1058.94 1113.36,-1053.96 1102.95,-1052.02 1104.01,-1058.94"/>
 </g>
 <!-- pratiques_artistiques -->
-<g id="node74" class="node"><title>pratiques_artistiques</title>
-<g id="a_node74"><a xlink:href="http://coa.crapaud-fou.org/channel/pratiques-artistiques" xlink:title="pratiques_artistiques" target="_blank">
-<text text-anchor="start" x="1196.95" y="-1073.65" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pratiques&#45;artistiques</text>
+<g id="node75" class="node"><title>pratiques_artistiques</title>
+<g id="a_node75"><a xlink:title="pratiques_artistiques">
+<text text-anchor="start" x="612.73" y="-1148.14" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pratiques&#45;artistiques</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;pratiques_artistiques -->
-<g id="edge78" class="edge"><title>Global&#45;&gt;pratiques_artistiques</title>
-<path fill="none" stroke="darkorange" d="M905.843,-973.839C966.596,-991.427 1103.17,-1030.96 1187.83,-1055.48"/>
-<polygon fill="darkorange" stroke="darkorange" points="1187.06,-1058.9 1197.64,-1058.31 1189.01,-1052.17 1187.06,-1058.9"/>
+<g id="edge79" class="edge"><title>Global&#45;&gt;pratiques_artistiques</title>
+<path fill="none" stroke="darkorange" d="M971.612,-1078.6C922.484,-1090.6 826.416,-1114.05 757.05,-1130.99"/>
+<polygon fill="darkorange" stroke="darkorange" points="755.903,-1127.66 747.018,-1133.44 757.563,-1134.46 755.903,-1127.66"/>
 </g>
 <!-- pub_canaux -->
-<g id="node77" class="node"><title>pub_canaux</title>
-<g id="a_node77"><a xlink:href="http://coa.crapaud-fou.org/channel/pub-canaux" xlink:title="pub_canaux" target="_blank">
-<text text-anchor="start" x="958.489" y="-867.847" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pub&#45;canaux</text>
+<g id="node78" class="node"><title>pub_canaux</title>
+<g id="a_node78"><a xlink:title="pub_canaux">
+<text text-anchor="start" x="939.454" y="-1292.95" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">pub&#45;canaux</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;pub_canaux -->
-<g id="edge81" class="edge"><title>Global&#45;&gt;pub_canaux</title>
-<path fill="none" stroke="darkorange" d="M894.11,-949.747C912.752,-934.965 941.408,-912.242 963.253,-894.92"/>
-<polygon fill="darkorange" stroke="darkorange" points="965.595,-897.529 971.256,-888.574 961.246,-892.044 965.595,-897.529"/>
+<g id="edge82" class="edge"><title>Global&#45;&gt;pub_canaux</title>
+<path fill="none" stroke="darkorange" d="M1001.05,-1088.88C996.119,-1127.93 984.423,-1220.61 978.509,-1267.48"/>
+<polygon fill="darkorange" stroke="darkorange" points="975.018,-1267.19 977.238,-1277.55 981.963,-1268.07 975.018,-1267.19"/>
 </g>
 <!-- siteweb -->
-<g id="node80" class="node"><title>siteweb</title>
-<g id="a_node80"><a xlink:href="http://coa.crapaud-fou.org/channel/siteweb" xlink:title="siteweb" target="_blank">
-<text text-anchor="start" x="715.202" y="-953.214" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">siteweb</text>
+<g id="node81" class="node"><title>siteweb</title>
+<g id="a_node81"><a xlink:title="siteweb">
+<text text-anchor="start" x="907.941" y="-1195.29" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">siteweb</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;siteweb -->
-<g id="edge84" class="edge"><title>Global&#45;&gt;siteweb</title>
-<path fill="none" stroke="darkorange" d="M840.119,-962.615C821.601,-961.397 798.726,-959.893 779.343,-958.619"/>
-<polygon fill="darkorange" stroke="darkorange" points="779.484,-955.121 769.276,-957.957 779.025,-962.106 779.484,-955.121"/>
+<g id="edge85" class="edge"><title>Global&#45;&gt;siteweb</title>
+<path fill="none" stroke="darkorange" d="M993.408,-1088.27C981.255,-1109.62 960.524,-1146.03 946.301,-1171.01"/>
+<polygon fill="darkorange" stroke="darkorange" points="943.107,-1169.55 941.2,-1179.97 949.19,-1173.01 943.107,-1169.55"/>
 </g>
 <!-- solucracy_dev -->
-<g id="node83" class="node"><title>solucracy_dev</title>
-<g id="a_node83"><a xlink:href="http://coa.crapaud-fou.org/channel/solucracy-dev" xlink:title="solucracy_dev" target="_blank">
-<text text-anchor="start" x="880.284" y="-1230.38" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">solucracy&#45;dev</text>
+<g id="node84" class="node"><title>solucracy_dev</title>
+<g id="a_node84"><a xlink:title="solucracy_dev">
+<text text-anchor="start" x="917.218" y="-1240.13" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">solucracy&#45;dev</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;solucracy_dev -->
-<g id="edge87" class="edge"><title>Global&#45;&gt;solucracy_dev</title>
-<path fill="none" stroke="darkorange" d="M878.201,-982.92C886.344,-1028.61 907.855,-1149.31 917.716,-1204.64"/>
-<polygon fill="darkorange" stroke="darkorange" points="914.325,-1205.57 919.525,-1214.8 921.216,-1204.34 914.325,-1205.57"/>
+<g id="edge88" class="edge"><title>Global&#45;&gt;solucracy_dev</title>
+<path fill="none" stroke="darkorange" d="M998.736,-1088.94C991.114,-1119 975.784,-1179.47 966.775,-1215"/>
+<polygon fill="darkorange" stroke="darkorange" points="963.371,-1214.19 964.306,-1224.74 970.156,-1215.91 963.371,-1214.19"/>
 </g>
 <!-- suggestion -->
-<g id="node84" class="node"><title>suggestion</title>
-<g id="a_node84"><a xlink:href="http://coa.crapaud-fou.org/channel/suggestion" xlink:title="suggestion" target="_blank">
-<text text-anchor="start" x="941.73" y="-823.828" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">suggestion</text>
+<g id="node85" class="node"><title>suggestion</title>
+<g id="a_node85"><a xlink:title="suggestion">
+<text text-anchor="start" x="1126.15" y="-992.185" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">suggestion</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;suggestion -->
-<g id="edge88" class="edge"><title>Global&#45;&gt;suggestion</title>
-<path fill="none" stroke="darkorange" d="M887.16,-947.94C904.139,-924.263 935.107,-881.082 955.166,-853.111"/>
-<polygon fill="darkorange" stroke="darkorange" points="958.03,-855.124 961.014,-844.958 952.342,-851.044 958.03,-855.124"/>
+<g id="edge89" class="edge"><title>Global&#45;&gt;suggestion</title>
+<path fill="none" stroke="darkorange" d="M1028.97,-1058.32C1051.65,-1047.22 1085.29,-1030.77 1112.62,-1017.4"/>
+<polygon fill="darkorange" stroke="darkorange" points="1114.18,-1020.53 1121.63,-1012.99 1111.1,-1014.24 1114.18,-1020.53"/>
 </g>
 <!-- tests -->
-<g id="node87" class="node"><title>tests</title>
-<g id="a_node87"><a xlink:href="http://coa.crapaud-fou.org/channel/tests" xlink:title="tests" target="_blank">
-<text text-anchor="start" x="683.538" y="-1014.6" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">tests</text>
+<g id="node88" class="node"><title>tests</title>
+<g id="a_node88"><a xlink:title="tests">
+<text text-anchor="start" x="991.991" y="-1193.94" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">tests</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;tests -->
-<g id="edge91" class="edge"><title>Global&#45;&gt;tests</title>
-<path fill="none" stroke="darkorange" d="M844.486,-973.914C813.952,-982.929 766.949,-996.807 734.357,-1006.43"/>
-<polygon fill="darkorange" stroke="darkorange" points="733.339,-1003.08 724.74,-1009.27 735.322,-1009.79 733.339,-1003.08"/>
+<g id="edge92" class="edge"><title>Global&#45;&gt;tests</title>
+<path fill="none" stroke="darkorange" d="M1003.7,-1088.88C1004.14,-1109.59 1004.87,-1143.85 1005.39,-1168.17"/>
+<polygon fill="darkorange" stroke="darkorange" points="1001.89,-1168.32 1005.6,-1178.24 1008.89,-1168.17 1001.89,-1168.32"/>
 </g>
 <!-- transhumanisme_et_eugenisme -->
-<g id="node88" class="node"><title>transhumanisme_et_eugenisme</title>
-<g id="a_node88"><a xlink:href="http://coa.crapaud-fou.org/channel/transhumanisme-et-eugenisme" xlink:title="transhumanisme_et_eugenisme" target="_blank">
-<text text-anchor="start" x="253.98" y="-983.317" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">transhumanisme&#45;et&#45;eugenisme</text>
+<g id="node89" class="node"><title>transhumanisme_et_eugenisme</title>
+<g id="a_node89"><a xlink:title="transhumanisme_et_eugenisme">
+<text text-anchor="start" x="665.612" y="-1022.6" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">transhumanisme&#45;et&#45;eugenisme</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;transhumanisme_et_eugenisme -->
-<g id="edge92" class="edge"><title>Global&#45;&gt;transhumanisme_et_eugenisme</title>
-<path fill="none" stroke="darkorange" d="M839.905,-966.309C763.157,-969.374 577.622,-976.785 457.206,-981.594"/>
-<polygon fill="darkorange" stroke="darkorange" points="457.061,-978.097 447.208,-981.993 457.34,-985.091 457.061,-978.097"/>
+<g id="edge93" class="edge"><title>Global&#45;&gt;transhumanisme_et_eugenisme</title>
+<path fill="none" stroke="darkorange" d="M970.25,-1064.72C943.13,-1059.68 903.158,-1052.25 865.202,-1045.2"/>
+<polygon fill="darkorange" stroke="darkorange" points="865.556,-1041.71 855.085,-1043.32 864.278,-1048.59 865.556,-1041.71"/>
 </g>
 <!-- tsunamis -->
-<g id="node89" class="node"><title>tsunamis</title>
-<g id="a_node89"><a xlink:href="http://coa.crapaud-fou.org/channel/tsunamis" xlink:title="tsunamis" target="_blank">
-<text text-anchor="start" x="715.877" y="-864.807" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">tsunamis</text>
+<g id="node90" class="node"><title>tsunamis</title>
+<g id="a_node90"><a xlink:title="tsunamis">
+<text text-anchor="start" x="1013.54" y="-895.104" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">tsunamis</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;tsunamis -->
-<g id="edge93" class="edge"><title>Global&#45;&gt;tsunamis</title>
-<path fill="none" stroke="darkorange" d="M854.715,-949.902C833.816,-934.436 800.901,-910.077 776.271,-891.85"/>
-<polygon fill="darkorange" stroke="darkorange" points="778.058,-888.818 767.937,-885.682 773.894,-894.445 778.058,-888.818"/>
+<g id="edge94" class="edge"><title>Global&#45;&gt;tsunamis</title>
+<path fill="none" stroke="darkorange" d="M1007.29,-1052.67C1013.88,-1022.42 1027.14,-961.573 1034.94,-925.815"/>
+<polygon fill="darkorange" stroke="darkorange" points="1038.36,-926.529 1037.07,-916.013 1031.52,-925.038 1038.36,-926.529"/>
 </g>
 <!-- une_revolution_pourquoi_comment -->
-<g id="node90" class="node"><title>une_revolution_pourquoi_comment</title>
-<g id="a_node90"><a xlink:href="http://coa.crapaud-fou.org/channel/une-revolution-pourquoi-comment" xlink:title="une_revolution_pourquoi_comment" target="_blank">
-<text text-anchor="start" x="420.63" y="-1073.29" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">une&#45;revolution&#45;pourquoi&#45;comment</text>
+<g id="node91" class="node"><title>une_revolution_pourquoi_comment</title>
+<g id="a_node91"><a xlink:title="une_revolution_pourquoi_comment">
+<text text-anchor="start" x="1259.82" y="-1119.47" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">une&#45;revolution&#45;pourquoi&#45;comment</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;une_revolution_pourquoi_comment -->
-<g id="edge94" class="edge"><title>Global&#45;&gt;une_revolution_pourquoi_comment</title>
-<path fill="none" stroke="darkorange" d="M845.119,-974.379C789.293,-992.079 667.896,-1030.57 591.574,-1054.77"/>
-<polygon fill="darkorange" stroke="darkorange" points="590.05,-1051.58 581.576,-1057.94 592.166,-1058.25 590.05,-1051.58"/>
+<g id="edge95" class="edge"><title>Global&#45;&gt;une_revolution_pourquoi_comment</title>
+<path fill="none" stroke="darkorange" d="M1037.23,-1075.69C1083.69,-1082.3 1169.56,-1094.52 1241.59,-1104.77"/>
+<polygon fill="darkorange" stroke="darkorange" points="1241.26,-1108.26 1251.66,-1106.2 1242.25,-1101.33 1241.26,-1108.26"/>
 </g>
 <!-- vers_une_nouvelle_civilisation -->
-<g id="node91" class="node"><title>vers_une_nouvelle_civilisation</title>
-<g id="a_node91"><a xlink:href="http://coa.crapaud-fou.org/channel/vers-une-nouvelle-civilisation" xlink:title="vers_une_nouvelle_civilisation" target="_blank">
-<text text-anchor="start" x="1204.43" y="-1029.58" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">vers&#45;une&#45;nouvelle&#45;civilisation</text>
+<g id="node92" class="node"><title>vers_une_nouvelle_civilisation</title>
+<g id="a_node92"><a xlink:title="vers_une_nouvelle_civilisation">
+<text text-anchor="start" x="1224.41" y="-1207.52" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00">vers&#45;une&#45;nouvelle&#45;civilisation</text>
 </a>
 </g>
 </g>
 <!-- Global&#45;&gt;vers_une_nouvelle_civilisation -->
-<g id="edge95" class="edge"><title>Global&#45;&gt;vers_une_nouvelle_civilisation</title>
-<path fill="none" stroke="darkorange" d="M908.486,-970.307C968.011,-979.902 1094.57,-1000.3 1186.26,-1015.08"/>
-<polygon fill="darkorange" stroke="darkorange" points="1185.71,-1018.54 1196.14,-1016.68 1186.82,-1011.63 1185.71,-1018.54"/>
+<g id="edge96" class="edge"><title>Global&#45;&gt;vers_une_nouvelle_civilisation</title>
+<path fill="none" stroke="darkorange" d="M1029.72,-1082.74C1081.49,-1106.05 1197.1,-1158.09 1263.49,-1187.97"/>
+<polygon fill="darkorange" stroke="darkorange" points="1262.35,-1191.3 1272.91,-1192.21 1265.23,-1184.91 1262.35,-1191.3"/>
 </g>
 </g>
 </svg>
 
-    <table width="100%" id="channelDetail" class="notvisible">
-        <tr>
-            <th colspan="2">
-                <h2 id="title"><a href="http://coa.crapaud-fou.org/channel/agenda"></a></h2>
-            </th>
-        </tr>
-        <tr>
-            <th>Date de création</th>
-            <td id="creationDate"></td>
-        </tr>
-        <tr>
-            <th>Createur</th>
-            <td id="creator"></td>
-        </tr>
-        <tr>
-            <th>Nombre de crapauds</th>
-            <td id="nbToad"></td>
-        </tr>
-        <tr id="line_topic">
-            <th>Topic</th>
-            <td id="topic"></td>
-        </tr>
-        <tr id="line_announcement">
-            <th>Announcement</th>
-            <td id="announcement"></td>
-        </tr>
-        <tr id="line_description">
-            <th>Description</th>
-            <td id="description"></td>
-        </tr>
-    </table>
+    <div id="channelDetail" class="notvisible">
+        <div id="channelDetailClose" style='position: absolute; top: 8px; right: 8px'>X</div>
+        <table>
+            <tr>
+                <th colspan="2">
+                    <h2 id="title"><a href="http://coa.crapaud-fou.org/channel/agenda"></a></h2>
+                </th>
+            </tr>
+            <tr>
+                <th>Date de création</th>
+                <td id="creationDate"></td>
+            </tr>
+            <tr>
+                <th>Createur</th>
+                <td id="creator"></td>
+            </tr>
+            <tr>
+                <th>Nombre de crapauds</th>
+                <td id="nbToad"></td>
+            </tr>
+            <tr id="line_topic">
+                <th>Topic</th>
+                <td id="topic"></td>
+            </tr>
+            <tr id="line_announcement">
+                <th>Announcement</th>
+                <td id="announcement"></td>
+            </tr>
+            <tr id="line_description">
+                <th>Description</th>
+                <td id="description"></td>
+            </tr>
+        </table>
+    </div>
     <script>
 
-        datas = { accueil : { Name : "accueil", Url : "http://coa.crapaud-fou.org/channel/accueil", Creation : "16/10/2018 22:00:31", NbToad: 157, Creator: "mose", Topic: "La Mare aux Crapauds -  passez donc aussi sur : <a href=&quot;http://crapaud-fou.org&quot;>le site web</a>, <a href=&quot;https://wiki.crapaud-fou.org&quot;>le wiki</a> et <a href=&quot;https://idees.crapaud-fou.org&quot;>la boite à idées</a>", Announcement: "Bienvenue ! Parlez-nous un peu de vous. Ce canal est dédiée à l'accueil des crapauds", Description: "" },
-agenda : { Name : "agenda", Url : "http://coa.crapaud-fou.org/channel/agenda", Creation : "03/09/2018 09:21:54", NbToad: 43, Creator: "guggl", Topic: "Tous les évènements autour des trois tsunamis: écologie, post-vérité, IA", Announcement: "Pour une visibilité synthétique merci d'inscrire aussi vos événements dans le <a href=&quot;https://wiki.crapaud-fou.org/tiki-calendar.php&quot;>calendrier WIKI ici</a>", Description: "Agenda des festivals, conférences, ateliers, rencontres, ciné-débats, colloques, séminaires, stage etc.. Ecriture de l'évènement souhaitée: #[type d'évènement]- [lieu] - [date] [lien URL]" },
-animation_crapauds : { Name : "animation-crapauds", Url : "http://coa.crapaud-fou.org/channel/animation-crapauds", Creation : "17/11/2017 22:58:28", NbToad: 62, Creator: "olivier", Topic: "Chaine dédiée à l animation de la mare aux crapauds", Announcement: "Quelles sont nos outils et nos procédure d accueil des crapauds ?", Description: "Chaine dédiée à l animation de la mare aux crapauds : Ici on discute outils numérique pour permettre aux crapauds de s exprimer et procedures d accueil et d animation de la mare." },
+        datas = { accueil : { Name : "accueil", Url : "http://coa.crapaud-fou.org/channel/accueil", Creation : "16/10/2018 22:00:31", NbToad: 170, Creator: "mose", Topic: "La Mare aux Crapauds -  passez donc aussi sur : <a href=&quot;http://crapaud-fou.org&quot;>le site web</a>, <a href=&quot;https://wiki.crapaud-fou.org&quot;>le wiki</a> et <a href=&quot;https://idees.crapaud-fou.org&quot;>la boite à idées</a>", Announcement: "Bienvenue ! Parlez-nous un peu de vous. Ce canal est dédiée à l'accueil des crapauds", Description: "" },
+agenda : { Name : "agenda", Url : "http://coa.crapaud-fou.org/channel/agenda", Creation : "03/09/2018 09:21:54", NbToad: 45, Creator: "guggl", Topic: "Tous les évènements autour des trois tsunamis: écologie, post-vérité, IA", Announcement: "Pour une visibilité synthétique merci d'inscrire aussi vos événements dans le <a href=&quot;https://wiki.crapaud-fou.org/tiki-calendar.php&quot;>calendrier WIKI ici</a>", Description: "Agenda des festivals, conférences, ateliers, rencontres, ciné-débats, colloques, séminaires, stage etc.. Ecriture de l'évènement souhaitée: #[type d'évènement]- [lieu] - [date] [lien URL]" },
+animation_crapauds : { Name : "animation-crapauds", Url : "http://coa.crapaud-fou.org/channel/animation-crapauds", Creation : "17/11/2017 22:58:28", NbToad: 63, Creator: "olivier", Topic: "Chaine dédiée à l animation de la mare aux crapauds", Announcement: "Quelles sont nos outils et nos procédure d accueil des crapauds ?", Description: "Chaine dédiée à l animation de la mare aux crapauds : Ici on discute outils numérique pour permettre aux crapauds de s exprimer et procedures d accueil et d animation de la mare." },
 auberge_des_crapauds : { Name : "auberge-des-crapauds", Url : "http://coa.crapaud-fou.org/channel/auberge-des-crapauds", Creation : "05/12/2018 23:36:09", NbToad: 21, Creator: "alain.le.coq", Topic: "", Announcement: "", Description: "Ici on partage des recettes, des astuces autour de la bouffe, et de la concervation des produits" },
 burn_out : { Name : "burn-out", Url : "http://coa.crapaud-fou.org/channel/burn-out", Creation : "11/06/2018 22:26:04", NbToad: 26, Creator: "sandra.effervescience", Topic: "", Announcement: "", Description: "" },
 cadeaux_ibf : { Name : "cadeaux-ibf", Url : "http://coa.crapaud-fou.org/channel/cadeaux-ibf", Creation : "08/11/2018 07:23:50", NbToad: 8, Creator: "Flo.Cuvellier", Topic: "Afin d'échanger sur les cadeaux issus de notre Intelligence du Bout de Ficelle (de notre capacité créative coa !)", Announcement: "", Description: " " },
 cause_animale : { Name : "cause-animale", Url : "http://coa.crapaud-fou.org/channel/cause-animale", Creation : "07/09/2018 10:44:33", NbToad: 16, Creator: "Flo.Cuvellier", Topic: "Comment créer un écosystème respectueux de la cause animale ?", Announcement: "", Description: "" },
-cercle_autonomie_energetique : { Name : "cercle-autonomie-energetique", Url : "http://coa.crapaud-fou.org/channel/cercle-autonomie-energetique", Creation : "12/06/2018 22:46:08", NbToad: 57, Creator: "azerty", Topic: "Comment peut-on se rendre indépendant énergétiquement ? à l&#39;échelle individuelle mais pourquoi pas en groupe.", Announcement: "", Description: "Echanger sur les techniques d autonomie énergétique pour trouver des solutions applicables par tout un chacun " },
+cercle_autonomie_energetique : { Name : "cercle-autonomie-energetique", Url : "http://coa.crapaud-fou.org/channel/cercle-autonomie-energetique", Creation : "12/06/2018 22:46:08", NbToad: 56, Creator: "azerty", Topic: "Comment peut-on se rendre indépendant énergétiquement ? à l&#39;échelle individuelle mais pourquoi pas en groupe.", Announcement: "", Description: "Echanger sur les techniques d autonomie énergétique pour trouver des solutions applicables par tout un chacun " },
 cercle_blockchain_crypto : { Name : "cercle-blockchain-crypto", Url : "http://coa.crapaud-fou.org/channel/cercle-blockchain-crypto", Creation : "24/06/2018 19:11:40", NbToad: 38, Creator: "Yves93", Topic: "", Announcement: "", Description: "" },
-cercle_collaboratif : { Name : "cercle-collaboratif", Url : "http://coa.crapaud-fou.org/channel/cercle-collaboratif", Creation : "20/11/2017 12:59:20", NbToad: 103, Creator: "mose", Topic: "", Announcement: "", Description: "" },
+cercle_collaboratif : { Name : "cercle-collaboratif", Url : "http://coa.crapaud-fou.org/channel/cercle-collaboratif", Creation : "20/11/2017 12:59:20", NbToad: 104, Creator: "mose", Topic: "", Announcement: "", Description: "" },
 cercle_des_arts : { Name : "cercle-des-arts", Url : "http://coa.crapaud-fou.org/channel/cercle-des-arts", Creation : "15/06/2018 21:20:19", NbToad: 53, Creator: "Trenty", Topic: "Pour parler et partager sur la culture artistique", Announcement: "", Description: "Partage et débat autour de l art : peinture, livre, film, exposition, jeux video, musique, etc..." },
 cercle_diversite_culturelle : { Name : "cercle-diversité-culturelle", Url : "http://coa.crapaud-fou.org/channel/cercle-diversit&#233;-culturelle", Creation : "20/11/2017 12:57:15", NbToad: 62, Creator: "mose", Topic: "anthropologie, ethnologie, sciences sociales, humanisme", Announcement: "", Description: "" },
-cercle_democratie : { Name : "cercle-démocratie", Url : "http://coa.crapaud-fou.org/channel/cercle-d&#233;mocratie", Creation : "20/11/2017 13:00:15", NbToad: 109, Creator: "mose", Topic: "Lien vers une video sur la Democratie : <a href=&quot;https://www.youtube.com/watch?v=RAvW7LIML60&quot;>Démocratie(s)</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/D%C3%A9mocratie&quot;>N hésitez pas à enrichir la page Wiki Démocratie</a>", Description: "" },
-cercle_education : { Name : "cercle-education", Url : "http://coa.crapaud-fou.org/channel/cercle-education", Creation : "22/12/2017 11:14:53", NbToad: 136, Creator: "olivier", Topic: "<a href=&quot;https://wiki.crapaud-fou.org/%C3%89ducation&quot;>Pour parler nouveaux systèmes éducatifs</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/%C3%89ducation&quot;>N hésitez pas à enrichir la page Wiki Education</a>", Description: "Montessory, Ecole Démocratique, Etc... " },
+cercle_democratie : { Name : "cercle-démocratie", Url : "http://coa.crapaud-fou.org/channel/cercle-d&#233;mocratie", Creation : "20/11/2017 13:00:15", NbToad: 112, Creator: "mose", Topic: "Lien vers une video sur la Democratie : <a href=&quot;https://www.youtube.com/watch?v=RAvW7LIML60&quot;>Démocratie(s)</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/D%C3%A9mocratie&quot;>N hésitez pas à enrichir la page Wiki Démocratie</a>", Description: "" },
+cercle_education : { Name : "cercle-education", Url : "http://coa.crapaud-fou.org/channel/cercle-education", Creation : "22/12/2017 11:14:53", NbToad: 137, Creator: "olivier", Topic: "<a href=&quot;https://wiki.crapaud-fou.org/%C3%89ducation&quot;>Pour parler nouveaux systèmes éducatifs</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/%C3%89ducation&quot;>N hésitez pas à enrichir la page Wiki Education</a>", Description: "Montessory, Ecole Démocratique, Etc... " },
 cercle_electronique : { Name : "cercle-electronique", Url : "http://coa.crapaud-fou.org/channel/cercle-electronique", Creation : "08/06/2018 22:21:02", NbToad: 30, Creator: "chris", Topic: "Electronique pratique pour débutants ou confirmés", Announcement: "", Description: "Electronique pratique pour débutants ou confirmés. Découverte, entraide et partage de connaissances : schémas, montages, conseils… " },
 cercle_enthousiasme : { Name : "cercle-enthousiasme", Url : "http://coa.crapaud-fou.org/channel/cercle-enthousiasme", Creation : "20/11/2017 12:58:05", NbToad: 56, Creator: "mose", Topic: "", Announcement: "", Description: "" },
 cercle_europe : { Name : "cercle-europe", Url : "http://coa.crapaud-fou.org/channel/cercle-europe", Creation : "20/11/2017 12:58:15", NbToad: 40, Creator: "mose", Topic: "", Announcement: "", Description: "" },
@@ -1238,67 +1262,68 @@ cercle_generation_2050 : { Name : "cercle-generation-2050", Url : "http://coa.cr
 cercle_genie_digital : { Name : "cercle-genie-digital", Url : "http://coa.crapaud-fou.org/channel/cercle-genie-digital", Creation : "20/11/2017 12:59:59", NbToad: 56, Creator: "mose", Topic: "", Announcement: "", Description: "" },
 cercle_intergenerationnel : { Name : "cercle-intergenerationnel", Url : "http://coa.crapaud-fou.org/channel/cercle-intergenerationnel", Creation : "06/09/2018 12:24:52", NbToad: 12, Creator: "belette", Topic: "Faire société tous ensemble", Announcement: "", Description: "#global" },
 cercle_neurodiversite : { Name : "cercle-neurodiversité", Url : "http://coa.crapaud-fou.org/channel/cercle-neurodiversit&#233;", Creation : "20/11/2017 12:57:32", NbToad: 96, Creator: "mose", Topic: "Pour parler de neuro-diversité <a href=&quot;http://crapaud-fou.org/neurodivergence&quot;>http://crapaud-fou.org/neurodivergence</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Neurodiversit%C3%A9&quot;>N hésitez pas à enrichir la page Wiki Neurodiversité</a>", Description: "Trouble Autistique, Haut Potentiel, TDA-H, Hyper Sensibilité, Dys..., T.A.C, T.O.C, Borderline, Etc..." },
-cercle_permaculture : { Name : "cercle-permaculture", Url : "http://coa.crapaud-fou.org/channel/cercle-permaculture", Creation : "24/05/2018 22:03:28", NbToad: 103, Creator: "agatheb", Topic: "Pour echanger sur la permaculture", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Permaculture&quot;>N hésitez pas à enrichir la page Wiki Permaculture</a>", Description: "La permaculture est une methode systemique et globale qui vise a concevoir des systèmes en s inspirant de l ecologie naturelle et de la tradition.  " },
-cercle_sante : { Name : "cercle-sante", Url : "http://coa.crapaud-fou.org/channel/cercle-sante", Creation : "17/11/2017 23:08:09", NbToad: 46, Creator: "olivier", Topic: "pour les discussions autour du sujet santé.", Announcement: "", Description: "Dans cet espace on discute le future de la santé, les grands enjeux de la santé de demain et les solutions qui pourraient être apportées. " },
+cercle_permaculture : { Name : "cercle-permaculture", Url : "http://coa.crapaud-fou.org/channel/cercle-permaculture", Creation : "24/05/2018 22:03:28", NbToad: 104, Creator: "agatheb", Topic: "Pour echanger sur la permaculture", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Permaculture&quot;>N hésitez pas à enrichir la page Wiki Permaculture</a>", Description: "La permaculture est une methode systemique et globale qui vise a concevoir des systèmes en s inspirant de l ecologie naturelle et de la tradition.  " },
+cercle_sante : { Name : "cercle-sante", Url : "http://coa.crapaud-fou.org/channel/cercle-sante", Creation : "17/11/2017 23:08:09", NbToad: 45, Creator: "olivier", Topic: "pour les discussions autour du sujet santé.", Announcement: "", Description: "Dans cet espace on discute le future de la santé, les grands enjeux de la santé de demain et les solutions qui pourraient être apportées. " },
 changer_de_paradigme : { Name : "changer-de-paradigme", Url : "http://coa.crapaud-fou.org/channel/changer-de-paradigme", Creation : "23/08/2018 16:16:11", NbToad: 47, Creator: "cissote", Topic: "", Announcement: "Tu as changé de paradigme? <a href=&quot;https://framaforms.org/changer-de-paradigme-1535482985&quot;>viens remplir le formulaire</a> pour aider les autres", Description: "Ce canal a pour but de réfléchir à un changement de paradigme et qui soit résilient et qui puisse atténuer les effets de quelques crises qui soit économique climatique social politique ou autres. Il permettra aussi de faire le lien entre différents canaux , réflexion sur l'argent permaculture géopolitique éducation ect.... Et il pourrait également avoir comme objectif de créer des lieux resiliant et de faire le lien entre des lieux déjà existant et pourquoi à terme un véritable changement de paradigme  " },
 chanvre : { Name : "chanvre", Url : "http://coa.crapaud-fou.org/channel/chanvre", Creation : "13/12/2018 23:55:56", NbToad: 10, Creator: "mose", Topic: "", Announcement: "", Description: "" },
 christin : { Name : "christin", Url : "http://coa.crapaud-fou.org/channel/christin", Creation : "03/09/2018 13:54:47", NbToad: 3, Creator: "christin", Topic: "Logique du projet &quot;Terre&quot;", Announcement: "Discussions sur les deux projets présentés", Description: "Les deux projets sont décrits dans les pages wiki https://wiki.crapaud-fou.org/Projet-Manuel-d'Instruction-terrienne et https://wiki.crapaud-fou.org/Faire-avancer-le-schmilblick-écologique" },
-cnv : { Name : "cnv", Url : "http://coa.crapaud-fou.org/channel/cnv", Creation : "05/10/2018 10:45:19", NbToad: 12, Creator: "guggl", Topic: "Communication non violente ", Announcement: "Selon Marshall B. Rosenberg, ce sont « le langage et les interactions qui renforcent notre aptitude à donner avec bienveillance et à inspirer aux autres le désir d'en faire autant »", Description: " Ce canal permet d'échanger sur la Communication non violente.  Nous pourrons partager nos expériences, nos observations et tout ce qui vous nourrit de ce &quot;langage&quot;  " },
+cnv : { Name : "cnv", Url : "http://coa.crapaud-fou.org/channel/cnv", Creation : "05/10/2018 10:45:19", NbToad: 14, Creator: "guggl", Topic: "Communication non violente ", Announcement: "Selon Marshall B. Rosenberg, ce sont « le langage et les interactions qui renforcent notre aptitude à donner avec bienveillance et à inspirer aux autres le désir d'en faire autant »", Description: " Ce canal permet d'échanger sur la Communication non violente.  Nous pourrons partager nos expériences, nos observations et tout ce qui vous nourrit de ce &quot;langage&quot;  " },
 cohorte_2607 : { Name : "cohorte-2607", Url : "http://coa.crapaud-fou.org/channel/cohorte-2607", Creation : "14/12/2017 14:24:14", NbToad: 28, Creator: "mose", Topic: "Canal branché sur les acteurs de la Drôme et de l Ardèche pour faciliter les actions et les rencontres locales ! Ici on prend le temps de se connaître et de discuter avant de se rencontrer près de chez nous !", Announcement: "échange et se rencontre physiquement via <a href=&quot;https://www.loomio.org/g/mWnxpriY/crapauds-fous-07-26&quot;>un site collaboratif</a>", Description: "#fr-07 #fr-26" },
 cohorte_34 : { Name : "cohorte-34", Url : "http://coa.crapaud-fou.org/channel/cohorte-34", Creation : "24/05/2018 00:41:53", NbToad: 6, Creator: "agatheb", Topic: "Ici se retrouve la cohorte de l&#39;Herault", Announcement: "", Description: "#fr-34" },
 cohorte_5962 : { Name : "cohorte-5962", Url : "http://coa.crapaud-fou.org/channel/cohorte-5962", Creation : "27/12/2017 14:55:19", NbToad: 18, Creator: "mose", Topic: "", Announcement: "", Description: "" },
-cohorte_belgique : { Name : "cohorte-belgique", Url : "http://coa.crapaud-fou.org/channel/cohorte-belgique", Creation : "27/05/2018 01:24:00", NbToad: 18, Creator: "madleomajor", Topic: "", Announcement: "", Description: "#be" },
+cohorte_belgique : { Name : "cohorte-belgique", Url : "http://coa.crapaud-fou.org/channel/cohorte-belgique", Creation : "27/05/2018 01:24:00", NbToad: 17, Creator: "madleomajor", Topic: "", Announcement: "", Description: "#be" },
 cohorte_bourgogne : { Name : "cohorte-bourgogne", Url : "http://coa.crapaud-fou.org/channel/cohorte-bourgogne", Creation : "25/05/2018 00:41:29", NbToad: 9, Creator: "aquagena", Topic: "", Announcement: "", Description: "#fr-21 #fr-58 #fr-71 #fr-89" },
 cohorte_bretagne : { Name : "cohorte-bretagne", Url : "http://coa.crapaud-fou.org/channel/cohorte-bretagne", Creation : "08/07/2018 23:52:55", NbToad: 19, Creator: "Flo.Cuvellier", Topic: "", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Cohortes&quot;>N hésitez pas à enrichir la page Wiki Cohortes</a>", Description: "#fr-22 #fr-29 #fr-35 #fr-56" },
 cohorte_centre : { Name : "cohorte-centre", Url : "http://coa.crapaud-fou.org/channel/cohorte-centre", Creation : "18/10/2018 08:46:25", NbToad: 11, Creator: "Pruls", Topic: "Cliquez moi : <a href=&quot;https://coa.crapaud-fou.org/channel/conf-inter-g&quot;>Conf interGénérationnelle</a>, <a href=&quot;https://coa.crapaud-fou.org/channel/compagnon-du-devoir-educatif&quot;>Compagnon éducateurs</a>", Announcement: "Ci-dessus les actions crapauds en Région et alentours", Description: "#fr-18 #fr-28 #fr-36 #fr-37 #fr-41 #fr-45" },
-cohorte_geek : { Name : "cohorte-geek", Url : "http://coa.crapaud-fou.org/channel/cohorte-geek", Creation : "25/05/2018 01:26:15", NbToad: 82, Creator: "aquagena", Topic: "Regroupement de tous les crapauds geek", Announcement: "", Description: "" },
+cohorte_geek : { Name : "cohorte-geek", Url : "http://coa.crapaud-fou.org/channel/cohorte-geek", Creation : "25/05/2018 01:26:15", NbToad: 83, Creator: "aquagena", Topic: "Regroupement de tous les crapauds geek", Announcement: "", Description: "" },
 cohorte_grand_est : { Name : "cohorte-grand-est", Url : "http://coa.crapaud-fou.org/channel/cohorte-grand-est", Creation : "07/06/2018 19:47:59", NbToad: 9, Creator: "HeuDiN", Topic: "Alsace Champagne Ardenne Lorraine", Announcement: "", Description: "Regroupe les personnes de la region Grand Est #fr-08 #fr-10 #fr-51 #fr-52 #fr-54 #fr-55 #fr-57 #fr-67 #fr-68 #fr-88" },
 cohorte_grenoble : { Name : "cohorte-grenoble", Url : "http://coa.crapaud-fou.org/channel/cohorte-grenoble", Creation : "26/05/2018 19:56:16", NbToad: 15, Creator: "LaPainche", Topic: "Channel regroupant des Crapauds Fous dans le coin de Grenoble", Announcement: "", Description: "Channel pour que les crapauds fous autoproclamés situés dans le coin de Grenoble puissent commencer à échanger ici, dans le but de réussir à suivre les activités ou les événements organisés par ces Crapauds fous #fr-38" },
 cohorte_la_reunion : { Name : "cohorte-la-reunion", Url : "http://coa.crapaud-fou.org/channel/cohorte-la-reunion", Creation : "05/12/2018 08:06:58", NbToad: 7, Creator: "alain.le.coq", Topic: "", Announcement: "", Description: "#re" },
-cohorte_lille : { Name : "cohorte-lille", Url : "http://coa.crapaud-fou.org/channel/cohorte-lille", Creation : "24/05/2018 22:34:01", NbToad: 24, Creator: "julien.lecaille", Topic: "Regroupe les crapauds de Lille", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Cohortes&quot;>N hésitez pas à enrichir la page Wiki Cohortes</a>", Description: "#fr-59 #fr-62" },
+cohorte_lille : { Name : "cohorte-lille", Url : "http://coa.crapaud-fou.org/channel/cohorte-lille", Creation : "24/05/2018 22:34:01", NbToad: 23, Creator: "julien.lecaille", Topic: "Regroupe les crapauds de Lille", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Cohortes&quot;>N hésitez pas à enrichir la page Wiki Cohortes</a>", Description: "#fr-59 #fr-62" },
 cohorte_normandie : { Name : "cohorte-normandie", Url : "http://coa.crapaud-fou.org/channel/cohorte-normandie", Creation : "21/06/2018 22:32:53", NbToad: 8, Creator: "Alias", Topic: "Regroupe les crapauds de Normandie", Announcement: "", Description: "" },
 cohorte_paca : { Name : "cohorte-paca", Url : "http://coa.crapaud-fou.org/channel/cohorte-paca", Creation : "27/05/2018 20:04:30", NbToad: 17, Creator: "marianwalczak", Topic: "Provence-Alpes-Côte d Azur", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/Cohortes&quot;>N hésitez pas à enrichir la page Wiki Cohortes</a>", Description: "#fr-04 #fr-05 #fr-06 #fr-13 #fr-83 #fr-84" },
-cohorte_paris : { Name : "cohorte-paris", Url : "http://coa.crapaud-fou.org/channel/cohorte-paris", Creation : "24/05/2018 00:43:05", NbToad: 45, Creator: "lio.bro", Topic: "", Announcement: "", Description: "#fr-75 #fr-77 #fr-78 #fr-91 #fr-92 #fr-93 #fr-94 #fr-95" },
-cohorte_paysdesavoie : { Name : "cohorte-paysdesavoie", Url : "http://coa.crapaud-fou.org/channel/cohorte-paysdesavoie", Creation : "23/07/2018 14:51:23", NbToad: 15, Creator: "Trenty", Topic: "Regroupe les crapauds des pays de savoies", Announcement: "", Description: "Histoire qu'on puisse se regrouper et s'organiser des rencontres #fr-74 #fr-73" },
+cohorte_paris : { Name : "cohorte-paris", Url : "http://coa.crapaud-fou.org/channel/cohorte-paris", Creation : "24/05/2018 00:43:05", NbToad: 47, Creator: "lio.bro", Topic: "", Announcement: "", Description: "#fr-75 #fr-77 #fr-78 #fr-91 #fr-92 #fr-93 #fr-94 #fr-95" },
+cohorte_paysdesavoie : { Name : "cohorte-paysdesavoie", Url : "http://coa.crapaud-fou.org/channel/cohorte-paysdesavoie", Creation : "23/07/2018 14:51:23", NbToad: 16, Creator: "Trenty", Topic: "Regroupe les crapauds des pays de savoies", Announcement: "", Description: "Histoire qu'on puisse se regrouper et s'organiser des rencontres #fr-74 #fr-73" },
 cohorte_scientifque : { Name : "cohorte-scientifque", Url : "http://coa.crapaud-fou.org/channel/cohorte-scientifque", Creation : "26/05/2018 03:40:08", NbToad: 38, Creator: "aquagena", Topic: "", Announcement: "", Description: "" },
 cohorte_sud_ouest : { Name : "cohorte-sud-ouest", Url : "http://coa.crapaud-fou.org/channel/cohorte-sud-ouest", Creation : "19/06/2018 11:11:08", NbToad: 20, Creator: "Trenty", Topic: "Regroupe les crapauds du Grand Sud Ouest", Announcement: "", Description: "Gironde, Dordogne, Lot, Lot et Garonne, Tarn Et Garonne, Gers, Haute Garonne, Landes, Hautes Pyrennes, Pyrenees Atlantiques, Tarn #fr-09 #fr-12 #fr-24 #fr-31 #fr-32 #fr-33 #fr-40 #fr-46 #fr-47 #fr-64 #fr-65 #fr-81 #fr-82" },
-cohorte_suisse : { Name : "cohorte-suisse", Url : "http://coa.crapaud-fou.org/channel/cohorte-suisse", Creation : "02/10/2018 15:33:22", NbToad: 7, Creator: "xhtml", Topic: "Pour les fans des montres, du chocolat, des montagnes et des votations, du système démocatique Suisse et tout ce qui touche la Suisse", Announcement: "La Suisse, les suisses, la Romandie, l'Helvetie, ces habitants et ces crapauds suisses", Description: "Au centre de l'Europe mais pas dans l'EU..... #ch" },
+cohorte_suisse : { Name : "cohorte-suisse", Url : "http://coa.crapaud-fou.org/channel/cohorte-suisse", Creation : "02/10/2018 15:33:22", NbToad: 8, Creator: "xhtml", Topic: "Pour les fans des montres, du chocolat, des montagnes et des votations, du système démocatique Suisse et tout ce qui touche la Suisse", Announcement: "La Suisse, les suisses, la Romandie, l'Helvetie, ces habitants et ces crapauds suisses", Description: "Au centre de l'Europe mais pas dans l'EU..... #ch" },
 compagnon_du_devoir_educatif : { Name : "compagnon-du-devoir-educatif", Url : "http://coa.crapaud-fou.org/channel/compagnon-du-devoir-educatif", Creation : "18/09/2018 12:46:56", NbToad: 14, Creator: "Pruls", Topic: "<a href=&quot;https://idees.crapaud-fou.org/1083/les-compagnons-du-devoirs-educatifs&quot;>Présentation dans la boite à idées</a>", Announcement: "Comment s'y prend on?", Description: " #projet" },
 conf_inter_g : { Name : "conf-inter-g", Url : "http://coa.crapaud-fou.org/channel/conf-inter-g", Creation : "22/09/2018 20:27:35", NbToad: 11, Creator: "Pruls", Topic: "<a href=&quot;https://bimestriel.framapad.org/p/ZaIbRSVbGp&quot;>Cliquez moi! PAD organisation</a>", Announcement: "Voir le lien ci-dessus pour participer à l'organisation d'une conf", Description: "  #projet" },
 cooperatives : { Name : "cooperatives", Url : "http://coa.crapaud-fou.org/channel/cooperatives", Creation : "26/06/2018 08:02:41", NbToad: 17, Creator: "mose", Topic: "", Announcement: "", Description: "" },
-economie_connaissance : { Name : "economie-connaissance", Url : "http://coa.crapaud-fou.org/channel/economie-connaissance", Creation : "26/05/2018 18:37:54", NbToad: 59, Creator: "aquagena", Topic: "", Announcement: "", Description: "" },
-energie : { Name : "energie", Url : "http://coa.crapaud-fou.org/channel/energie", Creation : "26/05/2018 09:37:16", NbToad: 26, Creator: "dugros", Topic: "", Announcement: "", Description: "" },
+economie_connaissance : { Name : "economie-connaissance", Url : "http://coa.crapaud-fou.org/channel/economie-connaissance", Creation : "26/05/2018 18:37:54", NbToad: 62, Creator: "aquagena", Topic: "", Announcement: "", Description: "" },
+energie : { Name : "energie", Url : "http://coa.crapaud-fou.org/channel/energie", Creation : "26/05/2018 09:37:16", NbToad: 25, Creator: "dugros", Topic: "", Announcement: "", Description: "" },
 energies_agiles : { Name : "energies-agiles", Url : "http://coa.crapaud-fou.org/channel/energies-agiles", Creation : "03/11/2018 14:12:13", NbToad: 13, Creator: "mose", Topic: "De la recherche de solutions énergétiques agiles, optimisés par niches", Announcement: "", Description: "Les débats sur les énergies et sur leur impacts font souvent usages de grandeurs brutes qui ne capturent que grossièrement la réalité. De la même façon qu'avec le PIB en économie, on applati des phénomènes multidimentionnels et on échoue à distinguer des phénomènes qui peuvent être très variés suivant les échelles. En y regardant plus finement on a des chances de mettre en lumière des bribes de réalité, invisibles dans la masse, mais dont l'effêt cumulé pourra être énorme. L'avantage des petites échelles c'est qu'elles donnent prise à l'action individuelle. Autre avantage, en ne mettant pas tout dans le même sac on pourra s'épargner d'appliquer des contraintes douloureuses là où elles n'apportent rien, sinon du rejet. " },
-essaimage : { Name : "essaimage", Url : "http://coa.crapaud-fou.org/channel/essaimage", Creation : "08/11/2018 20:21:10", NbToad: 11, Creator: "Flo.Cuvellier", Topic: "Afin d'organiser des événements Librairie et ailleurs autour du Manifeste des crapauds", Announcement: "", Description: "Faire des *évènements* crapaud-fou chez les libraires intéressés : une pile de bouquins + l'un d'entre nous pour le présenter tout en branchant les gens sur le sujet #projet" },
+essaimage : { Name : "essaimage", Url : "http://coa.crapaud-fou.org/channel/essaimage", Creation : "08/11/2018 20:21:10", NbToad: 14, Creator: "Flo.Cuvellier", Topic: "Afin d'organiser des événements Librairie et ailleurs autour du Manifeste des crapauds", Announcement: "", Description: "Faire des *évènements* crapaud-fou chez les libraires intéressés : une pile de bouquins + l'un d'entre nous pour le présenter tout en branchant les gens sur le sujet #projet" },
 exemples_low_tech_habiter : { Name : "exemples-low-tech-habiter", Url : "http://coa.crapaud-fou.org/channel/exemples-low-tech-habiter", Creation : "04/12/2018 19:30:52", NbToad: 9, Creator: "Ljl", Topic: "", Announcement: "", Description: "" },
 faire : { Name : "faire", Url : "http://coa.crapaud-fou.org/channel/faire", Creation : "29/05/2018 00:43:28", NbToad: 14, Creator: "bergier", Topic: "", Announcement: "", Description: "" },
 faire_avancer_le_schmilblick_ecologique : { Name : "faire-avancer-le-schmilblick-ecologique", Url : "http://coa.crapaud-fou.org/channel/faire-avancer-le-schmilblick-ecologique", Creation : "30/08/2018 18:42:17", NbToad: 7, Creator: "christin", Topic: "", Announcement: "Vous trouverez tous les détails sur la page wiki https://wiki.crapaud-fou.org/Faire-avancer-le-schmilblick-écologique", Description: "" },
 ferme_pedagogique_albi : { Name : "ferme-pedagogique-albi", Url : "http://coa.crapaud-fou.org/channel/ferme-pedagogique-albi", Creation : "23/06/2018 21:08:34", NbToad: 4, Creator: "barbarossa", Topic: "permaculture , élevage ver de terre , coccinelle , production d&#39;énergie , projet écosolidaire ", Announcement: "", Description: "" },
 fou_a_lier : { Name : "fou-a-lier", Url : "http://coa.crapaud-fou.org/channel/fou-a-lier", Creation : "03/06/2018 22:24:04", NbToad: 31, Creator: "tony_21", Topic: "", Announcement: "", Description: "" },
-general : { Name : "general", Url : "http://coa.crapaud-fou.org/channel/general", Creation : "17/11/2017 13:16:19", NbToad: 1449, Creator: "", Topic: "La Mare aux Crapauds -  passez donc aussi sur : <a href=&quot;http://crapaud-fou.org&quot;>le site web</a>, <a href=&quot;https://wiki.crapaud-fou.org&quot;>le wiki</a> et <a href=&quot;https://idees.crapaud-fou.org&quot;>la boite à idées</a>", Announcement: "", Description: "" },
+general : { Name : "general", Url : "http://coa.crapaud-fou.org/channel/general", Creation : "17/11/2017 13:16:19", NbToad: 1462, Creator: "", Topic: "La Mare aux Crapauds -  passez donc aussi sur : <a href=&quot;http://crapaud-fou.org&quot;>le site web</a>, <a href=&quot;https://wiki.crapaud-fou.org&quot;>le wiki</a> et <a href=&quot;https://idees.crapaud-fou.org&quot;>la boite à idées</a>", Announcement: "", Description: "" },
 geopolitique : { Name : "geopolitique", Url : "http://coa.crapaud-fou.org/channel/geopolitique", Creation : "25/05/2018 23:20:38", NbToad: 35, Creator: "aquagena", Topic: "", Announcement: "", Description: "" },
 gestion_de_l_eau : { Name : "gestion-de-l-eau", Url : "http://coa.crapaud-fou.org/channel/gestion-de-l-eau", Creation : "06/06/2018 12:45:18", NbToad: 14, Creator: "Bixive", Topic: "", Announcement: "", Description: "" },
-gilets_jaunes : { Name : "gilets-jaunes", Url : "http://coa.crapaud-fou.org/channel/gilets-jaunes", Creation : "01/12/2018 20:21:41", NbToad: 34, Creator: "Pruls", Topic: "Commentaire et partage sur le mouvement", Announcement: "Attention aux passions, on parle en &quot;je&quot; et on qualifie ses sources", Description: "" },
+gilets_jaunes : { Name : "gilets-jaunes", Url : "http://coa.crapaud-fou.org/channel/gilets-jaunes", Creation : "01/12/2018 20:21:41", NbToad: 37, Creator: "Pruls", Topic: "Commentaire et partage sur le mouvement", Announcement: "Attention aux passions, on parle en &quot;je&quot; et on qualifie ses sources", Description: "" },
 habitat_durable : { Name : "habitat-durable", Url : "http://coa.crapaud-fou.org/channel/habitat-durable", Creation : "17/09/2018 17:47:49", NbToad: 19, Creator: "Flo.Cuvellier", Topic: "Faire un pas de côté dans le secteur de la construction/rénovation", Announcement: "Bâtir des éco-quartiers/villages respectueux et proches de la nature, favorisant le lien social", Description: "   Dans un contexte de parc immobilier vieillissant, les ménages souhaitent des logements, anciens ou neufs, suffisamment spacieux, écologiques et à prix raisonnables. Face à ces défis, les acteurs du secteur (bailleurs, particuliers, artisans, etc.) s’organisent pour bâtir des éco-quartiers et des éco-villages répondant à de nouvelles normes d’isolation et d’économie d’énergie, accordant une place plus importante à la nature et favorisant le lien social" },
 hackathon_distribue : { Name : "hackathon-distribue", Url : "http://coa.crapaud-fou.org/channel/hackathon-distribue", Creation : "27/06/2018 07:34:21", NbToad: 34, Creator: "guy.sinnig", Topic: "Description du projet sur <a href=&quot;https://wiki.crapaud-fou.org/Hackathon-distribu%C3%A9&quot;>la page wiki</a>", Announcement: "", Description: "#projet" },
 hackerspace_angers : { Name : "hackerspace-angers", Url : "http://coa.crapaud-fou.org/channel/hackerspace-angers", Creation : "13/11/2018 10:47:01", NbToad: 13, Creator: "loizo", Topic: "Création d'un hackerspace à Angers", Announcement: "l'objectif de ce canal est d'avoir un lieu de communication centralisé dans un espace de confiance pour échanger à propos de la création d'un hackerspace à Angers (49) via l'association HackRaw.", Description: " #projet" },
-how_to_low_tech : { Name : "how-to-low-tech", Url : "http://coa.crapaud-fou.org/channel/how-to-low-tech", Creation : "27/06/2018 18:51:53", NbToad: 52, Creator: "Ljl", Topic: "Exemples illustrant pour idée Encyclopédie How-To Low-Tech <a href=&quot;https://wiki.crapaud-fou.org/Encyclop%C3%A9die-du-How-to-low-tech&quot;>voir la page wiki</a> ", Announcement: "", Description: "dans un premier temps un comparatif des ACV ( après récolte sur le Net) pour la production de protéines à consommation humaine.voir àhttps://idees.crapaud-fou.org/802/encyclopedie-du-how-to-low-tech " },
+how_to_low_tech : { Name : "how-to-low-tech", Url : "http://coa.crapaud-fou.org/channel/how-to-low-tech", Creation : "27/06/2018 18:51:53", NbToad: 51, Creator: "Ljl", Topic: "Exemples illustrant pour idée Encyclopédie How-To Low-Tech <a href=&quot;https://wiki.crapaud-fou.org/Encyclop%C3%A9die-du-How-to-low-tech&quot;>voir la page wiki</a> ", Announcement: "", Description: "dans un premier temps un comparatif des ACV ( après récolte sur le Net) pour la production de protéines à consommation humaine.voir àhttps://idees.crapaud-fou.org/802/encyclopedie-du-how-to-low-tech " },
 info_desintox : { Name : "info-desintox", Url : "http://coa.crapaud-fou.org/channel/info-desintox", Creation : "29/05/2018 22:02:57", NbToad: 35, Creator: "ganakel", Topic: "Debunkage de l&#39;info", Announcement: "", Description: "" },
-intelligence_artificielle : { Name : "intelligence-artificielle", Url : "http://coa.crapaud-fou.org/channel/intelligence-artificielle", Creation : "24/05/2018 08:07:48", NbToad: 54, Creator: "yvanhoe", Topic: "Pour parler d`IA, poser des questions, émettre des critiques, rêver, expliquer...", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/IA&quot;>N hésitez pas à enrichir la page Wiki IA</a>", Description: "" },
+intelligence_artificielle : { Name : "intelligence-artificielle", Url : "http://coa.crapaud-fou.org/channel/intelligence-artificielle", Creation : "24/05/2018 08:07:48", NbToad: 56, Creator: "yvanhoe", Topic: "Pour parler d`IA, poser des questions, émettre des critiques, rêver, expliquer...", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/IA&quot;>N hésitez pas à enrichir la page Wiki IA</a>", Description: "" },
 libre : { Name : "libre", Url : "http://coa.crapaud-fou.org/channel/libre", Creation : "29/05/2018 16:17:05", NbToad: 39, Creator: "igwadaa", Topic: "Ce canal est dedié a l'expression libre, sur tous sujets, sans contrainte.", Announcement: "", Description: "" },
-lieux_soutien_creation : { Name : "lieux-soutien-creation", Url : "http://coa.crapaud-fou.org/channel/lieux-soutien-creation", Creation : "26/05/2018 21:19:11", NbToad: 45, Creator: "cissote", Topic: "<a href=&quot;https://wiki.crapaud-fou.org/Lieux%3A-soutien-et-cr%C3%A9ation&quot;>Cliquez moi! Présentation et retours d expériences</a>", Announcement: "Présentez votre lieu (même embryonnaire!) <a href=&quot;https://weserve.io/projects/la-mare-in-real-life/taskstab?tab=plan&quot;>ici</a>", Description: "Soutien et création de lieux physiques pour les crapauds." },
+lieux_soutien_creation : { Name : "lieux-soutien-creation", Url : "http://coa.crapaud-fou.org/channel/lieux-soutien-creation", Creation : "26/05/2018 21:19:11", NbToad: 47, Creator: "cissote", Topic: "<a href=&quot;https://wiki.crapaud-fou.org/Lieux%3A-soutien-et-cr%C3%A9ation&quot;>Cliquez moi! Présentation et retours d expériences</a>", Announcement: "Présentez votre lieu (même embryonnaire!) <a href=&quot;https://weserve.io/projects/la-mare-in-real-life/taskstab?tab=plan&quot;>ici</a>", Description: "Soutien et création de lieux physiques pour les crapauds." },
 lobbying : { Name : "lobbying", Url : "http://coa.crapaud-fou.org/channel/lobbying", Creation : "13/09/2018 10:56:49", NbToad: 10, Creator: "Flo.Cuvellier", Topic: "Echanger sur les stratégies menées par des groupes de pression (appelés lobby-ies) cherchant à défendre leurs propres intérêts auprès des décideurs politiques.", Announcement: "", Description: "" },
-logiciel_libre : { Name : "logiciel-libre", Url : "http://coa.crapaud-fou.org/channel/logiciel-libre", Creation : "26/09/2018 01:00:44", NbToad: 21, Creator: "mose", Topic: "Ou l'on parle de logiciel libre.", Announcement: "", Description: "" },
+logiciel_libre : { Name : "logiciel-libre", Url : "http://coa.crapaud-fou.org/channel/logiciel-libre", Creation : "26/09/2018 01:00:44", NbToad: 22, Creator: "mose", Topic: "Ou l'on parle de logiciel libre.", Announcement: "", Description: "" },
 manuel_terrien : { Name : "manuel-terrien", Url : "http://coa.crapaud-fou.org/channel/manuel-terrien", Creation : "03/08/2018 08:32:49", NbToad: 19, Creator: "christin", Topic: "<a href=&quot;https://wiki.crapaud-fou.org/Projet-Manuel-d&#39;Instruction-terrienne&quot;>Projet Manuel d Instruction terrienne</a>", Announcement: "Ce salon ouvert à tous ceux qui sont intéressés par ce projet. Il est principalement destiné aux discussions concernant tel ou tel point du projet", Description: "#projet" },
 meditation : { Name : "meditation", Url : "http://coa.crapaud-fou.org/channel/meditation", Creation : "08/07/2018 17:40:45", NbToad: 8, Creator: "pr4x1s", Topic: "", Announcement: "", Description: "" },
 medusa : { Name : "medusa", Url : "http://coa.crapaud-fou.org/channel/medusa", Creation : "06/08/2018 20:51:55", NbToad: 22, Creator: "Ghiome", Topic: "Conception des villes du futur de manière ludique et collaborative grâce à un jeu Smartphone.", Announcement: "<a href=&quot;https://drive.google.com/open?id=1jS_FV7-lfx1eZce_4ixpG5wJtOxdQW1t&quot;>Lien de la présentation du concept</a>", Description: "#projet" },
+meta : { Name : "meta", Url : "http://coa.crapaud-fou.org/channel/meta", Creation : "23/12/2018 06:50:38", NbToad: 2, Creator: "metatron", Topic: "", Announcement: "", Description: "" },
 meta_communication : { Name : "meta-communication", Url : "http://coa.crapaud-fou.org/channel/meta-communication", Creation : "06/10/2018 15:47:49", NbToad: 7, Creator: "peggyboursin", Topic: "", Announcement: "", Description: "" },
 metacognition : { Name : "metacognition", Url : "http://coa.crapaud-fou.org/channel/metacognition", Creation : "19/10/2018 10:30:01", NbToad: 19, Creator: "dEve", Topic: "", Announcement: "", Description: "" },
 mutuelle_sociale_solidaire : { Name : "mutuelle-sociale-solidaire", Url : "http://coa.crapaud-fou.org/channel/mutuelle-sociale-solidaire", Creation : "16/09/2018 22:34:34", NbToad: 37, Creator: "Flo.Cuvellier", Topic: "Comment développer l'économie du don (partage de compétences, de ressources matérielles) dans la mare ?", Announcement: "<a href=&quot;https://bimestriel.framapad.org/p/mutuellecrapaud&quot;>N hésitez pas à remplir ici la future page Wiki Economie du don</a>", Description: " #projet" },
 myhappy : { Name : "myhappy", Url : "http://coa.crapaud-fou.org/channel/myhappy", Creation : "28/09/2018 19:53:50", NbToad: 12, Creator: "Flo.Cuvellier", Topic: "bonheur - félicité - joie - bien-etre - sérendipité - happy - happyness", Announcement: "<a href=&quot;https://myhappy.ch/myhappy_fr.pdf&quot;>Bienvenue à tous dans My Happy. La description de ce projet est ICI</a>", Description: "bonheur - félicité - joie - bien-etre - sérendipité - happy - happyness #démocratie, #liberté, #opinions, #choix, #neutralité, #comportement, #connaissance de soi, #humeur, #santé, #activité, #humain, #humainité " },
 nature_simplicite_bienveillance : { Name : "nature-simplicite-bienveillance", Url : "http://coa.crapaud-fou.org/channel/nature-simplicite-bienveillance", Creation : "05/06/2018 18:34:58", NbToad: 28, Creator: "cecilefakarava", Topic: "", Announcement: "", Description: "" },
 no_gafam : { Name : "no-gafam", Url : "http://coa.crapaud-fou.org/channel/no-gafam", Creation : "02/07/2018 08:45:29", NbToad: 44, Creator: "mose", Topic: "Discussions pour trouver des alternatives aux GAFAM - voir <a href=&quot;https://degooglisons-internet.org&quot;>https://degooglisons-internet.org</a>", Announcement: "<a href=&quot;https://wiki.crapaud-fou.org/NO-GAFAM&quot;>N hésitez pas à enrichir la page Wiki NO GAFAM</a>", Description: "" },
-open_hardware : { Name : "open-hardware", Url : "http://coa.crapaud-fou.org/channel/open-hardware", Creation : "19/11/2018 12:29:46", NbToad: 2, Creator: "mose", Topic: "Tout ce qui permet de construire ses propres trucs a partir de schemas open sources", Announcement: "", Description: "" },
+open_hardware : { Name : "open-hardware", Url : "http://coa.crapaud-fou.org/channel/open-hardware", Creation : "19/11/2018 12:29:46", NbToad: 3, Creator: "mose", Topic: "Tout ce qui permet de construire ses propres trucs a partir de schemas open sources", Announcement: "", Description: "" },
 partage_dessins_et_techniques : { Name : "partage-dessins-et-techniques", Url : "http://coa.crapaud-fou.org/channel/partage-dessins-et-techniques", Creation : "27/05/2018 09:39:10", NbToad: 7, Creator: "ganakel", Topic: "", Announcement: "", Description: "" },
 philosophie : { Name : "philosophie", Url : "http://coa.crapaud-fou.org/channel/philosophie", Creation : "12/07/2018 21:06:13", NbToad: 31, Creator: "aquagena", Topic: "", Announcement: "", Description: "" },
 piano_bar : { Name : "piano-bar", Url : "http://coa.crapaud-fou.org/channel/piano-bar", Creation : "06/06/2018 21:39:41", NbToad: 18, Creator: "chris", Topic: "Ici Chris propose de la musique instrumentale avec son piano", Announcement: "", Description: "Le but est de retrouver les titres et les artistes. Bonne écoute..." },
@@ -1308,14 +1333,14 @@ projet_transceiver_laser : { Name : "projet-transceiver-laser", Url : "http://co
 psycho : { Name : "psycho", Url : "http://coa.crapaud-fou.org/channel/psycho", Creation : "03/07/2018 21:00:34", NbToad: 32, Creator: "belette", Topic: "", Announcement: "", Description: "Psycho sociale, interculturelle, cognitive, clinique (soins et thérapies), du développement de l&#39;enfant etc... " },
 pub_canaux : { Name : "pub-canaux", Url : "http://coa.crapaud-fou.org/channel/pub-canaux", Creation : "29/05/2018 23:59:31", NbToad: 20, Creator: "igwadaa", Topic: "", Announcement: "", Description: "" },
 recherches_biologie : { Name : "recherches-biologie", Url : "http://coa.crapaud-fou.org/channel/recherches-biologie", Creation : "28/05/2018 05:13:06", NbToad: 22, Creator: "Eweek", Topic: "", Announcement: "", Description: "" },
-reflexion_sur_l_argent : { Name : "reflexion-sur-l-argent", Url : "http://coa.crapaud-fou.org/channel/reflexion-sur-l-argent", Creation : "24/05/2018 21:52:27", NbToad: 69, Creator: "Donato", Topic: "", Announcement: "", Description: "" },
+reflexion_sur_l_argent : { Name : "reflexion-sur-l-argent", Url : "http://coa.crapaud-fou.org/channel/reflexion-sur-l-argent", Creation : "24/05/2018 21:52:27", NbToad: 70, Creator: "Donato", Topic: "", Announcement: "", Description: "" },
 siteweb : { Name : "siteweb", Url : "http://coa.crapaud-fou.org/channel/siteweb", Creation : "19/11/2017 10:06:04", NbToad: 14, Creator: "mose", Topic: "Discussion autour du site web http://crapaud-fou.org voir https://github.com/crazy-toads/crazy-toads.github.io", Announcement: "", Description: "" },
 sociologie_de_l_effondrement : { Name : "sociologie-de-l-effondrement", Url : "http://coa.crapaud-fou.org/channel/sociologie-de-l-effondrement", Creation : "29/05/2018 09:50:45", NbToad: 65, Creator: "Valentin", Topic: "", Announcement: "", Description: "" },
-solucracy : { Name : "solucracy", Url : "http://coa.crapaud-fou.org/channel/solucracy", Creation : "28/11/2018 18:34:20", NbToad: 22, Creator: "yannick.solucracy", Topic: "Discussions autour de Solucracy (auteur: @yannick.solucracy) et de la liberation de son code (opensourcing) <a href=&quot;https://www.solucracy.com/&quot;>https://www.solucracy.com/</a>", Announcement: "<a href=&quot;https://solucracy.com/blog/raison-detre-vision-et-mission-de-solucracy/&quot;>Raison d être, vision et mission de Solucracy ICI</a>", Description: "#projet " },
-solucracy_dev : { Name : "solucracy-dev", Url : "http://coa.crapaud-fou.org/channel/solucracy-dev", Creation : "10/12/2018 13:21:53", NbToad: 7, Creator: "yannick.solucracy", Topic: "Le côté technique de Solucracy", Announcement: "", Description: "Pour utiliser des mots comme repo, pull request et docker sans choquer personne" },
+solucracy : { Name : "solucracy", Url : "http://coa.crapaud-fou.org/channel/solucracy", Creation : "28/11/2018 18:34:20", NbToad: 24, Creator: "yannick.solucracy", Topic: "Discussions autour de Solucracy (auteur: @yannick.solucracy) et de la liberation de son code (opensourcing) <a href=&quot;https://www.solucracy.com/&quot;>https://www.solucracy.com/</a>", Announcement: "<a href=&quot;https://solucracy.com/blog/raison-detre-vision-et-mission-de-solucracy/&quot;>Raison d être, vision et mission de Solucracy ICI</a>", Description: "#projet " },
+solucracy_dev : { Name : "solucracy-dev", Url : "http://coa.crapaud-fou.org/channel/solucracy-dev", Creation : "10/12/2018 13:21:53", NbToad: 8, Creator: "yannick.solucracy", Topic: "Le côté technique de Solucracy", Announcement: "", Description: "Pour utiliser des mots comme repo, pull request et docker sans choquer personne" },
 suggestion : { Name : "suggestion", Url : "http://coa.crapaud-fou.org/channel/suggestion", Creation : "05/06/2018 00:43:06", NbToad: 2, Creator: "Embuscad2", Topic: "", Announcement: "", Description: "" },
 survivalismes_et_resiliences : { Name : "survivalismes-et-resiliences", Url : "http://coa.crapaud-fou.org/channel/survivalismes-et-resiliences", Creation : "20/06/2018 20:46:56", NbToad: 36, Creator: "SébastienV", Topic: "Débats sur le survivalisme et la résilience", Announcement: "", Description: "Débats sur le survivalsme et la résilience qu’elle soit économique, politique, scientifique, sociale, énergétique, des savoirs etc " },
-team_hacker_debutant : { Name : "team-hacker-debutant", Url : "http://coa.crapaud-fou.org/channel/team-hacker-debutant", Creation : "05/06/2018 12:32:18", NbToad: 64, Creator: "thierry.eyraud", Topic: "", Announcement: "", Description: "" },
+team_hacker_debutant : { Name : "team-hacker-debutant", Url : "http://coa.crapaud-fou.org/channel/team-hacker-debutant", Creation : "05/06/2018 12:32:18", NbToad: 67, Creator: "thierry.eyraud", Topic: "", Announcement: "", Description: "" },
 tests : { Name : "tests", Url : "http://coa.crapaud-fou.org/channel/tests", Creation : "17/11/2017 21:40:59", NbToad: 6, Creator: "mose", Topic: "La Mare Aux Crapauds -  passez donc aussi sur : <a href=&quot;http://crapaud-fou.org&quot;>le site web</a>, <a href=&quot;https://wiki.crapaud-fou.org&quot;>le wiki</a> et <a href=&quot;https://idees.crapaud-fou.org&quot;>la boite à idées</a>", Announcement: "&lt;http://crapaud-fou.org&gt;", Description: "test l&#39;etang" },
 transhumanisme_et_eugenisme : { Name : "transhumanisme-et-eugenisme", Url : "http://coa.crapaud-fou.org/channel/transhumanisme-et-eugenisme", Creation : "28/05/2018 20:54:32", NbToad: 11, Creator: "Liss", Topic: "", Announcement: "", Description: "" },
 tsunamis : { Name : "tsunamis", Url : "http://coa.crapaud-fou.org/channel/tsunamis", Creation : "13/08/2018 18:10:18", NbToad: 13, Creator: "Flo.Cuvellier", Topic: "Canal dédié aux tsunamis (écologique, démocratique, technologique)", Announcement: "Discuter de leur pertinence et évolution, faire un point sur la situation de chacun des tsunamis afin de ne pas perdre de vue l'urgence d'agir", Description: "" },
@@ -1325,15 +1350,18 @@ zero_dechet : { Name : "zero-dechet", Url : "http://coa.crapaud-fou.org/channel/
 zetetique_et_outils_epistemologiques : { Name : "zetetique-et-outils-epistemologiques", Url : "http://coa.crapaud-fou.org/channel/zetetique-et-outils-epistemologiques", Creation : "03/10/2018 22:19:20", NbToad: 17, Creator: "lebruit", Topic: "", Announcement: "", Description: "" },
  };
 
+        var mousePos;
         document.addEventListener('DOMContentLoaded', function () {
 
             graph = this.getElementById('graph0');
             nodes = graph.getElementsByClassName('node');
 
             for (var i = 0; i < nodes.length; i++) {
-                nodes[i].addEventListener("mouseover", function (e) {
+                nodes[i].addEventListener("click", function (e) {
                     elem = e.currentTarget.children[0].innerHTML;
-                    document.getElementById('channelDetail').className = '';
+                    channelDetail = document.getElementById('channelDetail');
+                    channelDetail.style.top = mousePos.y + "px";
+                    channelDetail.className = 'tooltip';
                     console.log(elem);
                     data = datas[elem];
                     document.getElementById('title').innerHTML = "<a href='" + data.Url + "'>" + data.Name + "</a>";
@@ -1358,8 +1386,14 @@ zetetique_et_outils_epistemologiques : { Name : "zetetique-et-outils-epistemolog
                         document.getElementById('line_description').className = '';
                         document.getElementById('description').innerHTML = data.Description;
                     }
-                })
+                });
             }
+
+            close = this.getElementById('channelDetailClose');
+            close.addEventListener("click", function (e) {
+                channelDetail = document.getElementById('channelDetail');
+                channelDetail.className = 'notvisible';
+            });
         });
 
         regionsClick = { 'fr': function() { UpdateMap('france_fr'); },'fr-07': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-2607', '_blank') },'fr-26': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-2607', '_blank') },'fr-34': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-34', '_blank') },'be': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-belgique', '_blank') },'fr-21': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bourgogne', '_blank') },'fr-58': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bourgogne', '_blank') },'fr-71': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bourgogne', '_blank') },'fr-89': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bourgogne', '_blank') },'fr-22': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bretagne', '_blank') },'fr-29': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bretagne', '_blank') },'fr-35': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bretagne', '_blank') },'fr-56': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-bretagne', '_blank') },'fr-18': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-28': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-36': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-37': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-41': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-45': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-centre', '_blank') },'fr-08': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-10': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-51': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-52': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-54': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-55': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-57': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-67': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-68': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-88': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grand-est', '_blank') },'fr-38': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-grenoble', '_blank') },'re': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-la-reunion', '_blank') },'fr-59': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-lille', '_blank') },'fr-62': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-lille', '_blank') },'fr-04': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-05': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-06': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-13': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-83': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-84': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paca', '_blank') },'fr-75': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-77': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-78': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-91': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-92': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-93': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-94': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-95': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paris', '_blank') },'fr-74': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paysdesavoie', '_blank') },'fr-73': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-paysdesavoie', '_blank') },'fr-09': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-12': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-24': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-31': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-32': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-33': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-40': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-46': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-47': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-64': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-65': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-81': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'fr-82': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-sud-ouest', '_blank') },'ch': function() { window.open('https://coa.crapaud-fou.org/channel/cohorte-suisse', '_blank') }, };
@@ -1379,6 +1413,13 @@ zetetique_et_outils_epistemologiques : { Name : "zetetique-et-outils-epistemolog
         }
 
         UpdateMap('world_en');
+        
+        document.addEventListener('mousemove', function(e) {
+            mousePos = {
+                x: e.pageX,
+                y: e.pageY
+            }
+        });
     </script>
 </body>
 </html>
