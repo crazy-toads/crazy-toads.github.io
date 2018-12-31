@@ -73,8 +73,7 @@ links:
     url: /channelsstats/
   - separator: true
   - title: <i class="iconside iconm-bubbles"></i> Discuter
-    url: https://coa.crapaud-fou.org
-    external: true
+    url: /channelslist/
   - title: <i class="iconside iconm-play"></i> Wiki
     url: https://wiki.crapaud-fou.org
     external: true
