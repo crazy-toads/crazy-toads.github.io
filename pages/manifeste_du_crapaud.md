@@ -79,7 +79,8 @@ En une semaine, création de 9 cercles pour permettre aux autres d’entrer dans
 7.	« Game changers »
 8.	L’intelligence collaborative en action
 9.	L’enthousiasme
-Lire la synthèse des 9 cercles
+
+[Lire la synthèse des 9 cercles](/cercles)
 
 3 principes 
 
