@@ -35,9 +35,9 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembr
 
 Pour celles et ceux qui ne seraient pas encore inscrits dans la mare virtuelle et qui le souhaiteraient, il suffit de vous créer un compte ici :
 
-* pour le chat :  https://coa.crapaud-fou.org
-* pour le wiki : https://wiki.crapaud-fou.org/Accueil
-* pour la boîte à idées : https://idees.crapaud-fou.org/id%C3%A9es
+* pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org)
+* pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil)
+* pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
 * Les **graphiques sur l'activité du chat** sont toujours [consultables ICI](https://crapaud-fou.org/channelsstats/).
 * Des **canaux projets** ont vu le jour dans le chat depuis décembre 2018, notamment :
 
