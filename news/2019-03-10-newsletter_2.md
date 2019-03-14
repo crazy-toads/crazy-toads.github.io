@@ -24,7 +24,7 @@ En outre, les pages WIKI, dont l'enjeu est de garder et de mettre en open source
 @Flo.Cuvellier, Paris le 10 mars 2019
 
 ---
-Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembre 2018 (cf Newsletter #1) concernant :
+Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembre 2018 (cf [Newsletter #1](https://crapaud-fou.org/newsletter-001/)) concernant :
 1. La mare virtuelle
 2. Les cohortes 
 3. Les événements et conférences
