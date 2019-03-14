@@ -15,13 +15,13 @@ BONJOUR LES CRAPAUDS
 
 Cette seconde Newsletter afin de vous informer des nouvelles concernant la mare virtuelle et la mare réelle.
 
-Ainsi, en ce 10 mars 2019 :
+**Ainsi, en ce 10 mars 2019 :**
 
-La mare virtuelle est désormais constituée de 1864 crapauds inscrits dans le chat (soit, + 218 crapauds depuis la Newsletter #1 du 2 décembre 2018)  et de 127 canaux de discussion (soit + 25 canaux).
+La mare virtuelle est désormais constituée de **1864 crapauds** inscrits dans le chat (soit, + 218 crapauds depuis la Newsletter #1 du 2 décembre 2018)  et de [127 canaux de discussion](https://crapaud-fou.org/channelslist/) (soit + 25 canaux).
 
-En outre, les pages WIKI, dont l'enjeu est de garder et de mettre en open source les contenus durables issus des canaux de discussion, continuent de se multiplier et de s'enrichir elles aussi, tout comme les idées dans la Boîte à idées. 
+En outre, les [pages WIKI](https://wiki.crapaud-fou.org/Accueil), dont l'enjeu est de garder et de mettre en open source les contenus durables issus des canaux de discussion, continuent de se multiplier et de s'enrichir elles aussi, tout comme les idées dans la [Boîte à idées](https://idees.crapaud-fou.org/id%C3%A9es). 
 
-@Flo.Cuvellier, Paris le 10 mars 2019
+**@Flo.Cuvellier, Paris le 10 mars 2019**
 
 ---
 Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembre 2018 (cf [Newsletter #1](https://crapaud-fou.org/newsletter-001/)) concernant :
