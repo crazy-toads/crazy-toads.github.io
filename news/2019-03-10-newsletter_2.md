@@ -31,32 +31,32 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembr
 4. Les perspectives et horizons
 
 ---
-# L'activité dans la mare virtuelle (chat, wiki et boîte à idées) :
+# 1. L' activité dans la mare virtuelle (chat, wiki et boîte à idées) :
 
 Pour celles et ceux qui ne seraient pas encore inscrits dans la mare virtuelle et qui le souhaiteraient, il suffit de vous créer un compte ici :
-
 * pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org)
 * pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil)
 * pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
 * Les **graphiques sur l'activité du chat** sont toujours [consultables ICI](https://crapaud-fou.org/channelsstats/).
 * Des **canaux projets** ont vu le jour dans le chat depuis décembre 2018, notamment :
 
-## [Solucracy](https://coa.crapaud-fou.org/channel/solucracy)
+**[Solucracy](https://coa.crapaud-fou.org/channel/solucracy)**
 plateforme collaborative créée par @yannick.solucracy permettant de répertorier et prioriser les problèmes rencontrés par toute communauté, afin de faciliter le partage de solutions. 
 
 Raison d'être, vision et mission de Solucracy [consultables  ICI](https://solucracy.com/blog/raison-detre-vision-et-mission/)
 
-## [ecovillages-ecoquartiers](https://coa.crapaud-fou.org/channel/ecovillages-ecoquartiers)
+**[ecovillages-ecoquartiers](https://coa.crapaud-fou.org/channel/ecovillages-ecoquartiers)**
 road-trip de @Stouf et @12b en France en vue de la création d'éco-lieux.
 
-## [Algoculture](https://coa.crapaud-fou.org/channel/algoculture)
+**[Algoculture](https://coa.crapaud-fou.org/channel/algoculture)**
 projet de @mathieu.jim.
 
-## Divers
+**Divers**
 @mose a enrichi la mare d'un **vidéo chat** pour chaque canal et d'un **pad crapaud**. Un pas de plus vers la dégafamisation. Merci @mose !
+
 Une **page Wiki sur la rencontre des Treilles**, première cohorte ayant posé les bases du Manifeste du Crapaud Fou, a été créée. Merci @fabien.rouire pour les photos ! Cette page est [consultable ici](https://wiki.crapaud-fou.org/Rencontre-des-Treilles). 
 
-# Les cohortes :
+# 2. Les cohortes :
 
 En cliquant sur votre département/région sur cette [carte des cohortes](https://crapaud-fou.org/channelslist/) créée par @Trenty vous plongerez dans le canal du chat afférent.
 
@@ -96,7 +96,7 @@ Pour plus d'info, plongez dans son canal : [#cohorte-ile-de-france](https://coa.
 
 > Et pour plus d'infos sur les cohortes : [consultez la page Wiki Cohortes ICI](https://wiki.crapaud-fou.org/Cohortes).
 
-# Les événements et conférences :
+# 3. Les événements et conférences :
 
 ## Création d'une playlist youtube :
 
@@ -120,7 +120,7 @@ L'enjeu : que les CF aident [CEETRUS](https://fr.wikipedia.org/wiki/Ceetrus) à 
 
 > Et pour plus d'info, n'hésitez pas à consulter la page WIKI Nouvelles, [consultable ICI](https://wiki.crapaud-fou.org/Nouvelles).
 
-# Les perspectives et horizons :
+# 4. Les perspectives et horizons :
 
 * **Rédiger un bilan** après 18 mois d'existence des Crapauds Fous et **ouvrir l'horizon** avec une mise en perspective en rapport avec les mutations que traverse notre société actuellement (Gilets Jaunes, RIC, etc). Avec @thanh et les Jardiniers, des penseurs et des acteurs du changement.
 * **Education** : donner la parole aux jeunes, apprendre la liberté, la démocratie, faire un pas de côté. Avec le CRI, des pionniers actifs sur le terrain ([Ramin Faranghi](https://www.youtube.com/watch?v=Mi59UJYV9jU) et l'[Ecole Dynamique](http://www.ecole-dynamique.org/), l'[Ecole de Marie Gervais](http://lecole.info/)), des acteurs de la société civile ([Fabrique Spinoza](http://fabriquespinoza.fr/), [Printemps de l'éducation](https://printemps-education.org/), [EUDEC](http://www.eudec.fr/)...)
