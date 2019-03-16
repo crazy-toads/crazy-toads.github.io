@@ -42,8 +42,7 @@ pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://id
 
 **[#Solucracy](https://coa.crapaud-fou.org/channel/solucracy)**
 plateforme collaborative créée par @yannick.solucracy permettant de répertorier et prioriser les problèmes rencontrés par toute communauté, afin de faciliter le partage de solutions. 
-
-Raison d'être, vision et mission de Solucracy [consultables  ICI](https://solucracy.com/blog/raison-detre-vision-et-mission/)
+Raison d'être, vision et mission de Solucracy [consultables  ICI](https://solucracy.com/blog/raison-detre-vision-et-mission/).
 
 **[#ecovillages-ecoquartiers](https://coa.crapaud-fou.org/channel/ecovillages-ecoquartiers)**
 road-trip de @Stouf et @12b en France en vue de la création d'éco-lieux.
@@ -79,9 +78,9 @@ Pour plus d'info, plongez dans son canal  : [#cohorte-HDF](https://coa.crapaud-f
 
 Cette cohorte a organisé le 17 janvier 2019  une conférence sur le thème **des écrans et des enfants** en présence de Flore Guattari-Michaux, psychologue pour enfants et membre de l’[association de Serge Tisseron 3-6-9-12](https://sergetisseron.com/). 
 
-Le compte-rendu est consultable sur son site collaboratif [Crapauds fous 0726](https://www.loomio.org/g/mWnxpriY/crapauds-fous-07-26 )
+Le compte-rendu est consultable sur son site collaboratif [Crapauds fous 0726](https://www.loomio.org/g/mWnxpriY/crapauds-fous-07-26 ).
 
-Pour plus d'info, plongez dans son canal : [#cohorte-2607](https://coa.crapaud-fou.org/channel/cohorte-2607)
+Pour plus d'info, plongez dans son canal : [#cohorte-2607](https://coa.crapaud-fou.org/channel/cohorte-2607).
 
 ## La cohorte Ile de France :
 
@@ -89,9 +88,9 @@ Le 21 février 2019 des crapauds fous du sud de la France et d'Ile de France son
 
 Ainsi, @alain.le.coq, @Flo.Cuvellier, @12b, @maba, @fernandez.helio, @Victor.Bellaich, @Stouf, @Jules1 et Elia se sont retrouvés dans ce lieu atypique qui, en plein bitume et dans les anciens rails désaffectés de la petite ceinture parisienne, fait émerger un écosystème insolite.
 
-Le compte-rendu de [cette expédition est consultable ICI](https://wiki.crapaud-fou.org/Visite-de-la-REcyclerie---Paris-18e)
+Le compte-rendu de [cette expédition est consultable ICI](https://wiki.crapaud-fou.org/Visite-de-la-REcyclerie---Paris-18e).
 
-Pour plus d'info, plongez dans son canal : [#cohorte-ile-de-france](https://coa.crapaud-fou.org/channel/cohorte-ile-de-france)
+Pour plus d'info, plongez dans son canal : [#cohorte-ile-de-france](https://coa.crapaud-fou.org/channel/cohorte-ile-de-france).
 
 > Et pour plus d'info sur les cohortes : [consultez la page Wiki Cohortes ICI](https://wiki.crapaud-fou.org/Cohortes).
 
@@ -109,27 +108,27 @@ Des "**Rencontres de la Fondation des Treilles**" ont eu lieu à Paris, du 11 au
 
 Au **CRI** ([Centre de recherches interdisciplinaires](https://cri-paris.org/)) le 10 janvier 2019, afin de présenter les crapauds fous aux étudiants du [Diplôme Universitaire CREER](https://cri-paris.org/du/diplome-universitaire-creer/), avec @Thanh, @Flo.Cuvellier, @dEve et @alain.le.coq.
 
-## Conférence de @thanh à l'ESSEC Imagination Week 
+## Conférence de @thanh à l'ESSEC iMagination Week 
 
-A l'ESSEC Imagination Week (du 7 au 11 janvier 2019) sur le thème “**Living together in 2050**”, avec au complet les 800 étudiants + profs, intervention de Thanh avec Naim Zriouel ([Synergy Family](http://www.synergiefamily.com/)). Lien de présentation [ESSEC learning center](http://learningcenter.essec.fr/toutes-les-actualitees/imagination-week-2019-vivre-ensemble-en-2050), [teaser iMagination Week](https://drive.google.com/file/d/1eYo5JhpVHL3deY1kMZZwuwwQCYQS8BSc/view) et la [vidéo de Thanh en 4 minutes](https://www.youtube.com/watch?v=u9APkb1-Gcw&index=9&list=PLhlmrcwXrxY1vt_6TplpQijrOABFQXSyr).
+A l'ESSEC iMagination Week (du 7 au 11 janvier 2019) sur le thème “**Living together in 2050**”, avec au complet les 800 étudiants + profs, intervention de Thanh avec Naim Zriouel ([Synergy Family](http://www.synergiefamily.com/)). Lien de présentation [ESSEC learning center](http://learningcenter.essec.fr/toutes-les-actualitees/imagination-week-2019-vivre-ensemble-en-2050), [teaser iMagination Week](https://drive.google.com/file/d/1eYo5JhpVHL3deY1kMZZwuwwQCYQS8BSc/view) et la [vidéo de Thanh en 4 minutes](https://www.youtube.com/watch?v=u9APkb1-Gcw&index=9&list=PLhlmrcwXrxY1vt_6TplpQijrOABFQXSyr).
 
 ## Evénement CEETRUS-Day à Loos en Gohelle sur le thème "Imaginer la ville et ses commerces dans le futur"
 
-Le 7 février 2019 @thanh, @alain.le.coq, Audrey du LICA ( [Laboratoire d'Intelligence Collective et Artificielle](https://lica-europe.org/)) et Emmanuel Delannoy (qui a lancé l'écologie circulaire en France avec l'[Institut Inspire](https://www.economiecirculaire.org/company/h/institut-inspire.html)) ont participé au CEETRUS-Day.
+Le 7 février 2019 @thanh, @alain.le.coq, Audrey du LICA ( [Laboratoire d'Intelligence Collective et Artificielle](https://lica-europe.org/)) et Emmanuel Delannoy (qui a lancé l'économie circulaire en France avec l'[Institut Inspire](https://www.economiecirculaire.org/company/h/institut-inspire.html)) ont participé au CEETRUS-Day.
 
-Le lieu : Loos en Gohelle est emblématique au point d'être devenue une ville pilote de reconversion réussie depuis 15 ans par/pour les habitants. Cf ce [TEDx de @thanh](https://www.tedxalsace.com/thanh-nghiem-pailettes-a-letre/) 
+Le lieu : Loos en Gohelle est emblématique au point d'être devenue une ville pilote de reconversion réussie depuis 15 ans par/pour les habitants. Cf ce [TEDx de @thanh](https://www.tedxalsace.com/thanh-nghiem-pailettes-a-letre/).
 
-L'enjeu : que les CF aident [CEETRUS](https://fr.wikipedia.org/wiki/Ceetrus) à trouver de nouvelles sources d'inspiration afin d'ouvrir les horizons du possible sur les villes du futur.
+L'enjeu : que les crapauds fous aident [CEETRUS](https://fr.wikipedia.org/wiki/Ceetrus) à trouver de nouvelles sources d'inspiration afin d'ouvrir les horizons du possible sur les villes du futur.
 
 > Et pour plus d'info, n'hésitez pas à consulter la page WIKI Nouvelles, [consultable ICI](https://wiki.crapaud-fou.org/Nouvelles).
 
 # 4. Les perspectives et horizons :
 
-* **Rédiger un bilan** après 18 mois d'existence des Crapauds Fous et **ouvrir l'horizon** avec une mise en perspective en rapport avec les mutations que traverse notre société actuellement (Gilets Jaunes, RIC, etc). Avec @thanh et les Jardiniers, des penseurs et des acteurs du changement
+* **Rédiger un bilan** après 18 mois d'existence des Crapauds Fous et **ouvrir l'horizon** avec une mise en perspective en rapport avec les mutations que traverse notre société actuellement (Gilets Jaunes, RIC, etc). Avec @thanh et les Jardiniers, des penseurs et des acteurs du changement.
 
-* **Education** : donner la parole aux jeunes, apprendre la liberté, la démocratie, faire un pas de côté. Avec le CRI, des pionniers actifs sur le terrain ([Ramin Faranghi](https://www.youtube.com/watch?v=Mi59UJYV9jU) et l'[Ecole Dynamique](http://www.ecole-dynamique.org/), l'[Ecole de Marie Gervais](http://lecole.info/)), des acteurs de la société civile ([Fabrique Spinoza](http://fabriquespinoza.fr/), [Printemps de l'éducation](https://printemps-education.org/), [EUDEC](http://www.eudec.fr/)...)
+* **Education** : donner la parole aux jeunes, apprendre la liberté, la démocratie, faire un pas de côté. Avec le CRI, des pionniers actifs sur le terrain ([Ramin Faranghi](https://www.youtube.com/watch?v=Mi59UJYV9jU) et l'[Ecole Dynamique](http://www.ecole-dynamique.org/), l'[Ecole de Marie Gervais](http://lecole.info/)), des acteurs de la société civile ([Fabrique Spinoza](http://fabriquespinoza.fr/), [Printemps de l'éducation](https://printemps-education.org/), [EUDEC](http://www.eudec.fr/)...).
 
-* **Crapauds reporters / makers / conteurs** : réaliser des vidéos, des portraits ou toute forme d'expression artistique, afin de donner à voir la vie des Crapauds Fous. Action initiée par plusieurs batraciens ici et là (qui se reconnaîtront ;-))
+* **Crapauds reporters / makers / conteurs** : réaliser des vidéos, des portraits ou toute forme d'expression artistique, afin de donner à voir la vie des Crapauds Fous. Action initiée par plusieurs batraciens ici et là (qui se reconnaîtront ;-)).
 
 * **Le projet Right to Repair** : Le dossier a été déposé à la mi-janvier au Ministère du Travail. Nous sommes en plein dans les oraux devant le jury, réponse attendue dans le mois. Pour plus de détails sur ce projet voir la [Newsletter #1](https://crapaud-fou.org/newsletter-001/). Au-delà de l'appel à projet, nous avons constitué une équipe forte et diverse d'une vingtaine d'acteurs du changement. L'envie de faire ensemble et de bousculer le statu quo, la méthode, les outils et les projets sont là. Donc on y va de toutes façons, quels que soient les résultats de l'appel d'offres pour obtenir un financement !​
 
