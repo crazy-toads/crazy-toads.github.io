@@ -104,7 +104,7 @@ Cette playlist youtube, [consultable ici](https://www.youtube.com/playlist?list=
 
 Des "**Rencontres de la Fondation des Treilles**" ont eu lieu à Paris, du 11 au 20 mai 2018, à l’Hôtel de Sauroy, 58 rue Charlot - 75003. A cette occasion des crapauds ont été invités à y donner une conférence sur le thème "**Innovation et société, le Manifeste des crapauds fous**". Cette conférence est désormais [consultable ICI](https://www.youtube.com/watch?v=ZIEEX_0L4Jw&t=5s). En présence de @thanh, @Flo.Cuvellier, @Marie.Gervais, @Antoine.Brachet, @Florent.Massot...
 
-## Conférence de @Thanh au CRI avec des [jardiniers](https://wiki.crapaud-fou.org/Jardiniers
+## Conférence de @Thanh au CRI avec des {jardiniers](https://wiki.crapaud-fou.org/Jardiniers)
 
 Au **CRI** ([Centre de recherches interdisciplinaires](https://cri-paris.org/)) le 10 janvier 2019, afin de présenter les crapauds fous aux étudiants du [Diplôme Universitaire CREER](https://cri-paris.org/du/diplome-universitaire-creer/), avec @Thanh, @Flo.Cuvellier, @dEve et @alain.le.coq.
 
