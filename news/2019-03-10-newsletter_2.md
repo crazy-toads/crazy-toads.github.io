@@ -17,7 +17,7 @@ Cette seconde Newsletter afin de vous informer des nouvelles concernant la mare 
 
 **Ainsi, en ce 10 mars 2019 :**
 
-La mare virtuelle est désormais constituée de **1864 crapauds** inscrits dans le chat (soit, + 218 crapauds depuis la Newsletter #1 du 2 décembre 2018)  et de [127 canaux de discussion](https://crapaud-fou.org/channelslist/) (soit + 25 canaux).
+La mare virtuelle est désormais constituée de **1864 crapauds** inscrits dans le chat (soit + 218 crapauds depuis la Newsletter #1 du 2 décembre 2018)  et de [127 canaux de discussion](https://crapaud-fou.org/channelslist/) (soit + 25 canaux).
 
 En outre, les [pages WIKI](https://wiki.crapaud-fou.org/Accueil), dont l'enjeu est de garder et de mettre en open source les contenus durables issus des canaux de discussion, continuent de se multiplier et de s'enrichir elles aussi, tout comme les idées dans la [Boîte à idées](https://idees.crapaud-fou.org/id%C3%A9es). 
 
@@ -34,7 +34,7 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembr
 Pour celles et ceux qui ne seraient pas encore inscrits dans la mare virtuelle et qui le souhaiteraient, il suffit de vous créer un compte ici :
 pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org) ,
 pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil) ,
-pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
+pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es).
 
 * Les **graphiques sur l'activité du chat** sont toujours [consultables ICI](https://crapaud-fou.org/channelsstats/).
 
