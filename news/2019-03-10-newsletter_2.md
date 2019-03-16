@@ -32,23 +32,23 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembr
 # 1. L' activité dans la mare virtuelle (chat, wiki et boîte à idées) :
 
 Pour celles et ceux qui ne seraient pas encore inscrits dans la mare virtuelle et qui le souhaiteraient, il suffit de vous créer un compte ici :
-pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org)
-pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil)
+pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org) ,
+pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil) ,
 pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
 
 * Les **graphiques sur l'activité du chat** sont toujours [consultables ICI](https://crapaud-fou.org/channelsstats/).
 
 * Des **canaux projets** ont vu le jour dans le chat depuis décembre 2018, notamment :
 
-**[Solucracy](https://coa.crapaud-fou.org/channel/solucracy)**
+**[#Solucracy](https://coa.crapaud-fou.org/channel/solucracy)**
 plateforme collaborative créée par @yannick.solucracy permettant de répertorier et prioriser les problèmes rencontrés par toute communauté, afin de faciliter le partage de solutions. 
 
 Raison d'être, vision et mission de Solucracy [consultables  ICI](https://solucracy.com/blog/raison-detre-vision-et-mission/)
 
-**[ecovillages-ecoquartiers](https://coa.crapaud-fou.org/channel/ecovillages-ecoquartiers)**
+**[#ecovillages-ecoquartiers](https://coa.crapaud-fou.org/channel/ecovillages-ecoquartiers)**
 road-trip de @Stouf et @12b en France en vue de la création d'éco-lieux.
 
-**[Algoculture](https://coa.crapaud-fou.org/channel/algoculture)**
+**[#Algoculture](https://coa.crapaud-fou.org/channel/algoculture)**
 projet de @mathieu.jim.
 
 * @mose a enrichi la mare d'un **vidéo chat** pour chaque canal et d'un **pad crapaud**. Un pas de plus vers la dégafamisation. Merci @mose !
@@ -93,7 +93,7 @@ Le compte-rendu de [cette expédition est consultable ICI](https://wiki.crapaud-
 
 Pour plus d'info, plongez dans son canal : [#cohorte-ile-de-france](https://coa.crapaud-fou.org/channel/cohorte-ile-de-france)
 
-> Et pour plus d'infos sur les cohortes : [consultez la page Wiki Cohortes ICI](https://wiki.crapaud-fou.org/Cohortes).
+> Et pour plus d'info sur les cohortes : [consultez la page Wiki Cohortes ICI](https://wiki.crapaud-fou.org/Cohortes).
 
 # 3. Les événements et conférences :
 
@@ -105,17 +105,20 @@ Cette playlist youtube, [consultable ici](https://www.youtube.com/playlist?list=
 
 Des "**Rencontres de la Fondation des Treilles**" ont eu lieu à Paris, du 11 au 20 mai 2018, à l’Hôtel de Sauroy, 58 rue Charlot - 75003. A cette occasion des crapauds ont été invités à y donner une conférence sur le thème "**Innovation et société, le Manifeste des crapauds fous**". Cette conférence est désormais [consultable ICI](https://www.youtube.com/watch?v=ZIEEX_0L4Jw&t=5s). En présence de @thanh, @Flo.Cuvellier, @Marie.Gervais, @Antoine.Brachet, @Florent.Massot...
 
-## Conférence de @Thanh au CRI avec des {jardiniers](https://wiki.crapaud-fou.org/Jardiniers)
+## Conférence de @Thanh au CRI avec des [jardiniers](https://wiki.crapaud-fou.org/Jardiniers)
 
 Au **CRI** ([Centre de recherches interdisciplinaires](https://cri-paris.org/)) le 10 janvier 2019, afin de présenter les crapauds fous aux étudiants du [Diplôme Universitaire CREER](https://cri-paris.org/du/diplome-universitaire-creer/), avec @Thanh, @Flo.Cuvellier, @dEve et @alain.le.coq.
 
-## Conférence de @thanh à l'ESSEC Imagination 
+## Conférence de @thanh à l'ESSEC Imagination Week 
 
-Conférence de @thanh à l'ESSEC Imagination Week  weekA l'ESSEC Imagination Week (du 7 au 11 janvier 2019) sur le thème “**Living together in 2050**”, avec au complet les 800 étudiants + profs, intervention de Thanh avec Naim Zriouel ([Synergy Family](http://www.synergiefamily.com/)). Lien de présentation [ESSEC learning center](http://learningcenter.essec.fr/toutes-les-actualitees/imagination-week-2019-vivre-ensemble-en-2050), [teaser iMagination Week](https://drive.google.com/file/d/1eYo5JhpVHL3deY1kMZZwuwwQCYQS8BSc/view) et la [vidéo de Thanh en 4 minutes](https://www.youtube.com/watch?v=u9APkb1-Gcw&index=9&list=PLhlmrcwXrxY1vt_6TplpQijrOABFQXSyr).
+A l'ESSEC Imagination Week (du 7 au 11 janvier 2019) sur le thème “**Living together in 2050**”, avec au complet les 800 étudiants + profs, intervention de Thanh avec Naim Zriouel ([Synergy Family](http://www.synergiefamily.com/)). Lien de présentation [ESSEC learning center](http://learningcenter.essec.fr/toutes-les-actualitees/imagination-week-2019-vivre-ensemble-en-2050), [teaser iMagination Week](https://drive.google.com/file/d/1eYo5JhpVHL3deY1kMZZwuwwQCYQS8BSc/view) et la [vidéo de Thanh en 4 minutes](https://www.youtube.com/watch?v=u9APkb1-Gcw&index=9&list=PLhlmrcwXrxY1vt_6TplpQijrOABFQXSyr).
 
-## Evénement CEETRUS
+## Evénement CEETRUS-Day à Loos en Gohelle sur le thème "Imaginer la ville et ses commerces dans le futur"
 
-Evénement CEETRUS-Day à Loos en Gohelle sur le thème "Imaginer la ville et ses commerces dans le futur" Le 7 février 2019 @thanh, @alain.le.coq, Audrey du LICA ( [Laboratoire d'Intelligence Collective et Artificielle](https://lica-europe.org/)) et Emmanuel Delannoy (qui a lancé l'écologie circulaire en France avec l'[Institut Inspire](https://www.economiecirculaire.org/company/h/institut-inspire.html)) ont participé au CEETRUS-Day.Le lieu : Loos en Gohelle est emblématique au point d'être devenue une ville pilote de reconversion réussie depuis 15 ans par/pour les habitants. Cf ce [TEDx de @thanh](https://www.tedxalsace.com/thanh-nghiem-pailettes-a-letre/) 
+Le 7 février 2019 @thanh, @alain.le.coq, Audrey du LICA ( [Laboratoire d'Intelligence Collective et Artificielle](https://lica-europe.org/)) et Emmanuel Delannoy (qui a lancé l'écologie circulaire en France avec l'[Institut Inspire](https://www.economiecirculaire.org/company/h/institut-inspire.html)) ont participé au CEETRUS-Day.
+
+Le lieu : Loos en Gohelle est emblématique au point d'être devenue une ville pilote de reconversion réussie depuis 15 ans par/pour les habitants. Cf ce [TEDx de @thanh](https://www.tedxalsace.com/thanh-nghiem-pailettes-a-letre/) 
+
 L'enjeu : que les CF aident [CEETRUS](https://fr.wikipedia.org/wiki/Ceetrus) à trouver de nouvelles sources d'inspiration afin d'ouvrir les horizons du possible sur les villes du futur.
 
 > Et pour plus d'info, n'hésitez pas à consulter la page WIKI Nouvelles, [consultable ICI](https://wiki.crapaud-fou.org/Nouvelles).
