@@ -32,10 +32,12 @@ Ce qui suit tente de vous éclairer sur ce qui s'est passé depuis le 2 décembr
 # 1. L' activité dans la mare virtuelle (chat, wiki et boîte à idées) :
 
 Pour celles et ceux qui ne seraient pas encore inscrits dans la mare virtuelle et qui le souhaiteraient, il suffit de vous créer un compte ici :
-* pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org)
-* pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil)
-* pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
+pour le chat : [https://coa.crapaud-fou.org](https://coa.crapaud-fou.org)
+pour le wiki : [https://wiki.crapaud-fou.org/Accueil](https://wiki.crapaud-fou.org/Accueil)
+pour la boîte à idées : [https://idees.crapaud-fou.org/id%C3%A9es](https://idees.crapaud-fou.org/id%C3%A9es)
+
 * Les **graphiques sur l'activité du chat** sont toujours [consultables ICI](https://crapaud-fou.org/channelsstats/).
+
 * Des **canaux projets** ont vu le jour dans le chat depuis décembre 2018, notamment :
 
 **[Solucracy](https://coa.crapaud-fou.org/channel/solucracy)**
@@ -49,10 +51,9 @@ road-trip de @Stouf et @12b en France en vue de la création d'éco-lieux.
 **[Algoculture](https://coa.crapaud-fou.org/channel/algoculture)**
 projet de @mathieu.jim.
 
-**Divers**
-@mose a enrichi la mare d'un **vidéo chat** pour chaque canal et d'un **pad crapaud**. Un pas de plus vers la dégafamisation. Merci @mose !
+* @mose a enrichi la mare d'un **vidéo chat** pour chaque canal et d'un **pad crapaud**. Un pas de plus vers la dégafamisation. Merci @mose !
 
-Une **page Wiki sur la rencontre des Treilles**, première cohorte ayant posé les bases du Manifeste du Crapaud Fou, a été créée. Merci @fabien.rouire pour les photos ! Cette page est [consultable ici](https://wiki.crapaud-fou.org/Rencontre-des-Treilles). 
+* Une **page Wiki sur la rencontre des Treilles**, première cohorte ayant posé les bases du Manifeste du Crapaud Fou, a été créée. Merci @fabien.rouire pour les photos ! Cette page est [consultable ici](https://wiki.crapaud-fou.org/Rencontre-des-Treilles). 
 
 # 2. Les cohortes :
 
