@@ -4,3 +4,5 @@ _site
 vendor/
 .DS_Store
 .bundle
+script/dev.config.py
+script/__pycache__/*.pyc
