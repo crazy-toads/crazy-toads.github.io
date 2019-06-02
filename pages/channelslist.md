@@ -28,7 +28,7 @@ Cliquez sur votre région
 <script>
     var cy = cytoscape({
         container: document.getElementById('cy'),
-        elements: $.getJSON("{{ site.baseurl }}/public/data/result.json"),
+        elements: $.getJSON("{{ site.baseurl }}/public/data/channelslist.json"),
         style: [
             {
                 selector: 'node',

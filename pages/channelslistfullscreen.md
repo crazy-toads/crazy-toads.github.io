@@ -15,7 +15,7 @@ La molette de la souris sert à de/zoomer
 <script>
     var cy = cytoscape({
         container: document.getElementById('cy'),
-        elements: $.getJSON("{{ site.baseurl }}/public/data/result.json"),
+        elements: $.getJSON("{{ site.baseurl }}/public/data/channelslist.json"),
         style: [
             {
                 selector: 'node',
