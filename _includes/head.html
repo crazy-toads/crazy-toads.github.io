@@ -71,7 +71,18 @@
 {% endif %}
 
 <!-- Java scripts -->
-<!-- <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script> -->
+{% if page.jquery %}
+<script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
+{% endif %}
+
+{% if page.vmap %}
+<script src="{{ site.baseurl }}/public/js/jquery.vmap.js"></script>
+<script src="{{ site.baseurl }}/public/js/maps/jquery.vmap.world.js"></script>
+<script src="{{ site.baseurl }}/public/js/maps/jquery.vmap.france.js"></script>
+{% endif %}
+{% if page.cytoscape %}
+<script src="{{ site.baseurl }}/public/js/cytoscape/cytoscape.min.js"></script>
+{% endif %}
 
 <!-- Icons -->
 <!-- 16x16 -->
