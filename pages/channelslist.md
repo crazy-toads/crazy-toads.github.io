@@ -13,7 +13,9 @@ style:  "#cy { width: 100%; height: 500px; }"
 
 Listes des canaux du [chat](https://coa.crapaud-fou.org) (aussi connu sous le nom de mare aux crapauds), rejoignez [nous](https://coa.crapaud-fou.org)
 # Canaux de la mare
-Les canaux permettent des discussions sur différents sujets<br />Cliquez sur les canaux qui vous intéressent (la molette de le souris permet de zoomer)
+Les canaux permettent des discussions sur différents sujets  
+Cliquez sur les canaux qui vous intéressent (la molette de le souris permet de zoomer)  
+<a href="./fullscreen" target="_blank">Fullscreen</a>
 
 <div id="cy"></div>
 
