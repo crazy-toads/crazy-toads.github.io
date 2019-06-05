@@ -93,7 +93,7 @@ while True:
     break
   index += channels['count']
 
-with open('./public/data/channelslist.json', "w") as file_write:
+with open('../public/data/channelslist.json', "w") as file_write:
   json.dump(datas, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
