@@ -8,7 +8,6 @@ from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
 import os
-import inspect
 
 def getNodesOrigin(channel):
   nodes = []
