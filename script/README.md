@@ -5,7 +5,7 @@ Il faut Python 3 & pip car le code est fait en python.
 ## Installation
 Il faut lancer la commande pour avoir les dependences nécessaires :
 
-    pip install -r ./requirement.txt
+    pip install -r ./requirements.txt
 
 Il faut créer un fichier dev_config.py avec ses infos de connection au Rocket.chat
 
