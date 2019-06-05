@@ -95,18 +95,17 @@ while True:
     break
   index += channels['count']
 
-# Récupération du chemin ou est installé le script
-scriptFileName = pprint(inspect.getfile(inspect.currentframe())) 
-# scriptFileName contiens habituellement le chemin complet mais pas toujours 
-# (ce n'est pas le cas sur Mac OSX par exemple).
-scriptFolderPath = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
-
+# Récupération du répertoire racine du repo
+rootFolder = os.path.join(os.path.dirname(__file__), '..')
 # Répertoire pour stocker le fichier de sortie
-dataFolderPath = scriptFolderPath + '/../public/data'
+dataFolder = os.path.join(rootFolder, 'public','data')
 # Faut il essayer de le créer au cas ou?
 # os.makedirs(dataFolderPath, exist_ok=True)
+channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
 
-with open(dataFolderPath + '/channelslist.json', "w") as file_write:
+#print("Ecriture dans : "+channelsFilePath)
+
+with open(channelsFilePath, "w") as file_write:
   json.dump(datas, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
