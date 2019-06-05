@@ -7,6 +7,8 @@ from pprint import pprint
 from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
+import os
+import inspect
 
 def getNodesOrigin(channel):
   nodes = []
@@ -93,7 +95,18 @@ while True:
     break
   index += channels['count']
 
-with open('../public/data/channelslist.json', "w") as file_write:
+# Récupération du chemin ou est installé le script
+scriptFileName = pprint(inspect.getfile(inspect.currentframe())) 
+# scriptFileName contiens habituellement le chemin complet mais pas toujours 
+# (ce n'est pas le cas sur Mac OSX par exemple).
+scriptFolderPath = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+
+# Répertoire pour stocker le fichier de sortie
+dataFolderPath = scriptFolderPath + '/../public/data'
+# Faut il essayer de le créer au cas ou?
+# os.makedirs(dataFolderPath, exist_ok=True)
+
+with open(dataFolderPath + '/channelslist.json', "w") as file_write:
   json.dump(datas, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
