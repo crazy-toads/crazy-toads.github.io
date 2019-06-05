@@ -7,6 +7,7 @@ from pprint import pprint
 from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
+import os
 
 def getNodesOrigin(channel):
   nodes = []
@@ -93,7 +94,17 @@ while True:
     break
   index += channels['count']
 
-with open('../public/data/channelslist.json', "w") as file_write:
+# Récupération du répertoire racine du repo
+rootFolder = os.path.join(os.path.dirname(__file__), '..')
+# Répertoire pour stocker le fichier de sortie
+dataFolder = os.path.join(rootFolder, 'public','data')
+# Faut il essayer de le créer au cas ou?
+# os.makedirs(dataFolderPath, exist_ok=True)
+channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
+
+#print("Ecriture dans : "+channelsFilePath)
+
+with open(channelsFilePath, "w") as file_write:
   json.dump(datas, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
