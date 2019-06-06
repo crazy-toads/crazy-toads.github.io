@@ -1,7 +1,10 @@
 <script>
-    var cy = cytoscape({
+    
+    var data = $.getJSON("{{ site.baseurl }}/public/data/channelslist.json");
+
+    var cy = window.cy = cytoscape({
         container: document.getElementById('cy'),
-        elements: $.getJSON("{{ site.baseurl }}/public/data/channelslist.json"),
+        elements: data,
         style: [
             {
                 selector: 'node',
@@ -28,12 +31,66 @@
             nodeOverlap: 50
         }
     });
+
+    cy.on('ready', function (e) {
+        cy.$('#mare').lock();
+    });
     
     cy.on('tap', 'node', function () {
         try { // your browser may block popups
             window.open(this.data('href'));
         } catch (e) { // fall back on url change
             window.location.href = this.data('href');
+        }
+    });
+    
+    cy.automove({
+        nodesMatching: function( node ) {
+            return cy.$('#technologie').allAreNeighbors(node);
+        },
+        reposition: 'drag',
+        dragWith: function( node ) {
+            return node.id() == cy.$('#technologie').id();
+        }
+    });
+
+    cy.automove({
+        nodesMatching: function( node ) {
+            return cy.$('#global').allAreNeighbors(node);
+        },
+        reposition: 'drag',
+        dragWith: function( node ) {
+            return node.id() == cy.$('#global').id();
+        }
+    });
+
+    cy.automove({
+        nodesMatching: function( node ) {
+            return cy.$('#ecologie').allAreNeighbors(node);
+        },
+        reposition: 'drag',
+        dragWith: function( node ) {
+            return node.id() == cy.$('#ecologie').id();
+        }
+    });
+
+    cy.automove({
+        nodesMatching: function( node ) {
+            return cy.$('#project').allAreNeighbors(node);
+        },
+        reposition: 'drag',
+        dragWith: function( node ) {
+            return node.id() == cy.$('#project').id();
+        }
+    });
+
+    cy.automove({
+        nodesMatching: function( node ) {
+            return cy.$('#democratie').allAreNeighbors(node);
+        },
+        reposition: 'drag',
+        dragWith: function( node ) {
+            return node.id() == cy.$('#democratie').id();
         }
     });
 </script>
