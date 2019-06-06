@@ -40,13 +40,14 @@ colorInfo = {
 rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'], server_url='https://coa.crapaud-fou.org')
 
 edge_index = 0
+sizebase = 100
 datas = []
-datas.append( { 'data':{'id':'mare', 'label': 'mare', 'size': '300', 'color': 'black', 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'global', 'label': 'global', 'size': '200', 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': '200', 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': '200', 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': '200', 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': '200', 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'mare', 'label': 'mare', 'size': sizebase, 'color': 'black', 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'global', 'label': 'global', 'size': sizebase, 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': sizebase, 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': sizebase, 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': sizebase, 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': sizebase, 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'global', 'color': colorInfo['global']}})
 edge_index += 1
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'ecologie', 'color': colorInfo['ecologie']}})
@@ -71,11 +72,16 @@ while True:
       nbCohorte += 1
       continue
 
+    size = channel['usersCount']
+
+    if (channel['_id'] == 'GENERAL') or (channel['_id'] == 'rp5gdRrZubMKic3Nk') :
+      size = sizebase
+
     node =  {
       'data' : {
         'id': channel['_id'],
         'label': channel['fname'] if 'fname' in channel else channel['name'],
-        'size': '100',
+        'size': size,
         'color': 'grey',
         'href': 'https://coa.crapaud-fou.org/channel/'+channel['name']
       }
