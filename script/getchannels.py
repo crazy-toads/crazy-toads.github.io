@@ -8,6 +8,7 @@ from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
 import os
+import re
 
 def getNodesOrigin(channel):
   nodes = []
@@ -59,6 +60,8 @@ edge_index += 1
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'project', 'color': colorInfo['project']}})
 edge_index += 1
 
+cohortes = { 'fr': { 'updateMap': 'france_fr'}}
+cohortescolor = { 'fr': 'green' }
 index = 0
 nbChannels = 0
 nbCohorte = 0
@@ -69,6 +72,11 @@ while True:
 
   for channel in channels['channels']:
     if channel['name'].find('cohorte') != -1:
+      if 'description' in channel:
+        m = re.findall('#([\w-]+)', channel['description'])
+        for region in m:
+          cohortescolor.update( { region: 'green' } )
+          cohortes.update( { region: { 'link': channel['name']}})
       nbCohorte += 1
       continue
 
@@ -112,6 +120,14 @@ channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
 
 with open(channelsFilePath, "w") as file_write:
   json.dump(datas, file_write)
+
+cohortecolorFilePath = os.path.abspath(os.path.join(dataFolder,'cohortescolor.json'))
+with open(cohortecolorFilePath, "w") as file_write:
+  json.dump(cohortescolor, file_write)
+
+cohorteFilePath = os.path.abspath(os.path.join(dataFolder,'cohorteslist.json'))
+with open(cohorteFilePath, "w") as file_write:
+  json.dump(cohortes, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
 pprint("Nb cohorte channels : " + str(nbCohorte))
