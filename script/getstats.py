@@ -23,6 +23,7 @@ rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'],
 index = 0
 labels = [None] * 12
 messagesByChannel = []
+usersByChannel = []
 
 now = datetime.now()
 date = datetime(now.year, now.month, now.day, 0,0,0)
@@ -32,26 +33,45 @@ while True:
   totalChannels = channels['total']
   
   for channel in channels['channels']:
-    data = []
+    dataMess = []
+    dataUsers = []
     pprint( channel['name'] )
     begin = date - monthdelta(12)
     end = begin + monthdelta(1)
+    users = []
     for id in range(0, 12):
       labels[id] = begin.strftime("%b %Y")
       begindate =  begin.isoformat()
       enddate = end.isoformat()
       resultMess = rocket.channels_history(channel['_id'], oldest= begindate, latest=enddate, count= 10000).json()
-      data.append(len(resultMess['messages']))
+      lenght = len(resultMess['messages'])
+      dataMess.append(lenght)
+
+      if lenght > 0:
+        for mess in resultMess['messages']:
+          users.append(mess['u']['_id'])      
+        usersDistinct = set(users)
+        dataUsers.append(len(usersDistinct))
+      else:
+        dataUsers.append(0)
+
       begin = end
       end = begin + monthdelta(1)
    
     messageByChannel = {
         "label": channel['name'],
         "backgroundColor": getColor(),
-        "data": data
+        "data": dataMess
+    }
+
+    userByChannel = {
+        "label": channel['name'],
+        "backgroundColor": getColor(),
+        "data": dataUsers
     }
 
     messagesByChannel.append(messageByChannel)
+    usersByChannel.append(userByChannel)
 
   if channels['count'] + channels['offset'] >= channels['total']:
     break
@@ -63,8 +83,10 @@ rootFolder = os.path.join(os.path.dirname(__file__), '..')
 dataFolder = os.path.join(rootFolder, 'public', 'data')
 
 info = {
+  "updated": "updated {:02}/{:02}/{:04}".format(now.day, now.month, now.year),
   "labels": labels,
-  "messagesByChannel": messagesByChannel
+  "messagesByChannel": messagesByChannel,
+  "usersByChannel": usersByChannel
 }
 
 statsFilePath = os.path.abspath(

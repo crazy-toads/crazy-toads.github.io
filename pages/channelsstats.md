@@ -14,10 +14,10 @@ Statistiques du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous
 <canvas id="byTsunamy"></canvas>
 <canvas id="usersByChannel"></canvas>
 <script>
-updated = "updated 02/05/2019"
-
 
 $.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (datas){
+    updated = datas['updated']
+
     labels = datas['labels'];
 
     var ctx = document.getElementById('byChannel').getContext('2d');
@@ -50,6 +50,42 @@ $.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (dat
                     stacked: true,
                     ticks: {
                         stepSize: 500
+                    }
+                }]
+            }
+        }
+    });
+
+    var ctx3 = document.getElementById('usersByChannel').getContext('2d');
+    var chart3 = new Chart(ctx3, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: labels,
+            datasets: datas['usersByChannel'],
+        },
+
+        // Configuration options go here
+        options: {
+            legend: {
+                display: false
+            },
+            title: {
+                display: true,
+                text: "Nombre d'utilisateur actifs par canaux (" + updated + ")",
+                position: "top"
+            },
+            responsive: true,
+            scales: {
+                xAxes: [{
+                    stacked: true
+                }],
+                yAxes: [{
+                    stacked: true,
+                    ticks: {
+                        stepSize: 50
                     }
                 }]
             }
@@ -96,40 +132,5 @@ $.getJSON("{{ site.baseurl }}/public/data/messagesByTsunami.json", function (dat
 });
 
 $.getJSON("{{ site.baseurl }}/public/data/activeUsersByChannel.json", function (datas){
-    var ctx3 = document.getElementById('usersByChannel').getContext('2d');
-    var chart3 = new Chart(ctx3, {
-        // The type of chart we want to create
-        type: 'bar',
-
-        // The data for our dataset
-        data: {
-            labels: labels,
-            datasets: datas,
-        },
-
-        // Configuration options go here
-        options: {
-            legend: {
-                display: false
-            },
-            title: {
-                display: true,
-                text: "Nombre d'utilisateur actifs par canaux (" + updated + ")",
-                position: "top"
-            },
-            responsive: true,
-            scales: {
-                xAxes: [{
-                    stacked: true
-                }],
-                yAxes: [{
-                    stacked: true,
-                    ticks: {
-                        stepSize: 50
-                    }
-                }]
-            }
-        }
-    });
 });
 </script>
