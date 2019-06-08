@@ -38,7 +38,7 @@ while True:
     pprint( channel['name'] )
     begin = date - monthdelta(12)
     end = begin + monthdelta(1)
-    users = []
+    
     for id in range(0, 12):
       labels[id] = begin.strftime("%b %Y")
       begindate =  begin.isoformat()
@@ -48,6 +48,7 @@ while True:
       dataMess.append(lenght)
 
       if lenght > 0:
+        users = []
         for mess in resultMess['messages']:
           users.append(mess['u']['_id'])      
         usersDistinct = set(users)
