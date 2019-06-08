@@ -59,15 +59,16 @@ while True:
       begin = end
       end = begin + monthdelta(1)
    
+    color = getColor()
     messageByChannel = {
         "label": channel['name'],
-        "backgroundColor": getColor(),
+        "backgroundColor": color,
         "data": dataMess
     }
 
     userByChannel = {
         "label": channel['name'],
-        "backgroundColor": getColor(),
+        "backgroundColor": color,
         "data": dataUsers
     }
 
