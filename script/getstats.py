@@ -21,6 +21,7 @@ def getColor():
 rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'],
                     server_url='https://coa.crapaud-fou.org')
 index = 0
+labels = [None] * 12
 messagesByChannel = []
 
 now = datetime.now()
@@ -36,6 +37,7 @@ while True:
     begin = date - monthdelta(12)
     end = begin + monthdelta(1)
     for id in range(0, 12):
+      labels[id] = begin.strftime("%b %Y")
       begindate =  begin.isoformat()
       enddate = end.isoformat()
       resultMess = rocket.channels_history(channel['_id'], oldest= begindate, latest=enddate, count= 10000).json()
@@ -60,8 +62,13 @@ rootFolder = os.path.join(os.path.dirname(__file__), '..')
 # Répertoire pour stocker le fichier de sortie
 dataFolder = os.path.join(rootFolder, 'public', 'data')
 
+info = {
+  "labels": labels,
+  "messagesByChannel": messagesByChannel
+}
+
 statsFilePath = os.path.abspath(
     os.path.join(dataFolder, 'messagesByChannel.json'))
 with open(statsFilePath, "w") as file_write:
-  json.dump(messagesByChannel, file_write)
+  json.dump(info, file_write)
 
