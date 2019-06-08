@@ -14,8 +14,8 @@ Statistiques du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous
 <canvas id="byTsunamy"></canvas>
 <canvas id="usersByChannel"></canvas>
 <script>
-    updated = "updated 02/05/2019"
-labels = ["mai 2018","juin 2018","juillet 2018","août 2018","septembre 2018","octobre 2018","novembre 2018","décembre 2018","janvier 2019","février 2019","mars 2019","avril 2019",];
+updated = "updated 02/05/2019"
+labels = ["mai 2018","juin 2018","juillet 2018","août 2018","septembre 2018","octobre 2018","novembre 2018","décembre 2018","janvier 2019","février 2019","mars 2019","avril 2019"];
 
 $.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (datas){
     var ctx = document.getElementById('byChannel').getContext('2d');
