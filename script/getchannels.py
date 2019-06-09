@@ -9,26 +9,7 @@ import json
 import dev_config as cfg
 import os
 import re
-
-def getNodesOrigin(channel):
-  nodes = []
-  if 'description' not in channel:
-    nodes.append("global")
-    return nodes
-
-  if channel['description'].find("#projet") != -1:
-    nodes.append("project")
-  if channel['description'].find("#democratie") != -1:
-    nodes.append("democratie")
-  if channel['description'].find("#ecologie") != -1:
-    nodes.append("ecologie")
-  if channel['description'].find("#technologie") != -1:
-    nodes.append("technologie")
-
-  if not nodes:
-    nodes.append("global")
-
-  return nodes
+from common.channelhelper import getNodesOrigin
 
 colorInfo = { 
   'global': 'orange',
@@ -73,7 +54,7 @@ while True:
   for channel in channels['channels']:
     if channel['name'].find('cohorte') != -1:
       if 'description' in channel:
-        m = re.findall('#([\w-]+)', channel['description'])
+        m = re.findall(r'#([\w-]+)', channel['description'])
         for region in m:
           cohortescolor.update( { region: 'green' } )
           cohortes.update( { region: { 'link': channel['name']}})
