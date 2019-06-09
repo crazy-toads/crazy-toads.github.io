@@ -15,7 +15,7 @@ Statistiques du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous
 <canvas id="usersByChannel"></canvas>
 <script>
 
-$.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (datas){
+$.getJSON("{{ site.baseurl }}/public/data/channelsstat.json", function (datas){
     updated = datas['updated']
 
     labels = datas['labels'];
