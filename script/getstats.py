@@ -142,7 +142,7 @@ dataFolder = os.path.join(rootFolder, 'public', 'data')
 
 
 statsFilePath = os.path.abspath(
-    os.path.join(dataFolder, 'messagesByChannel.json'))
+    os.path.join(dataFolder, 'channelsstat.json'))
 with open(statsFilePath, "w") as file_write:
   json.dump(info, file_write)
 

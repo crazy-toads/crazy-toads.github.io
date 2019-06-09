@@ -1,5 +1,4 @@
-# getchannels
-## installation
+# installation
 ## pre-requis
 Il faut Python 3 & pip car le code est fait en python.
 ## Installation
@@ -13,8 +12,25 @@ Il faut créer un fichier dev_config.py avec ses infos de connection au Rocket.c
         'user' : 'username',
         'password': 'pwd'
     }
-# Lancer
+# Get Channels
+Permet de générer les infos pour la page  
+https://crapaud-fou.org/channelslist/
+## Lancer
     python getchannels.py
 
-# Commit
-Un fichier sera créé dans le répertoire [../public/data/result.json](../public/data/result.json)
+## Commit
+Des fichiers seront créé
+* [../public/data/channelslist.json](../public/data/channelslist.json)
+* [../public/data/cohortescolor.json](../public/data/cohortescolor.json)
+* [../public/data/cohorteslist.json](../public/data/cohorteslist.json)
+
+# Get Stats
+Permet de générer les infos pour la page  
+https://crapaud-fou.org/channelsstats/
+
+## Lancer
+    python getstats.py
+
+## Commit
+Un fichier sera créé
+* [../public/data/channelsstat.json](../public/data/channelsstat.json)
