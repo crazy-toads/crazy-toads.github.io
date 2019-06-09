@@ -6,5 +6,5 @@ vendor/
 .bundle
 script/dev.config.py
 script/__pycache__/*.pyc
-
+script/common/__pycache__/*.pyc
 \.vscode/\.ropeproject/

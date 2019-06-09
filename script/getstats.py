@@ -11,6 +11,8 @@ import os
 import random
 from datetime import datetime
 from monthdelta import monthdelta
+from common.channelhelper import getTsunamy
+from common.channelhelper import Tsunami
 
 def getColor():
     r = random.randrange(255)
@@ -23,22 +25,64 @@ rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'],
 index = 0
 labels = [None] * 12
 messagesByChannel = []
+messagesByTsunamy = []
 usersByChannel = []
+messagesDataTsunamy = {
+  "global": [0] * 12,
+  "project": [0] * 12,
+  "democraty": [0] * 12,
+  "ecology": [0] * 12,
+  "technology": [0] * 12,
+}
 
 now = datetime.now()
 date = datetime(now.year, now.month, now.day, 0,0,0)
 
+info = {
+  "updated": "updated {:02}/{:02}/{:04}".format(now.day, now.month, now.year),
+  "labels": labels,
+  "messagesByChannel": messagesByChannel,
+  "usersByChannel": usersByChannel,
+  "messagesByTsunamy": [{        
+        "label": "global",
+        "backgroundColor": getColor(),
+        "data": messagesDataTsunamy['global']
+    },
+    {        
+        "label": "projet",
+        "backgroundColor": getColor(),
+        "data": messagesDataTsunamy['project']
+    },
+    {        
+        "label": "democratie",
+        "backgroundColor": getColor(),
+        "data": messagesDataTsunamy['democraty']
+    },
+    {        
+        "label": "ecologie",
+        "backgroundColor": getColor(),
+        "data": messagesDataTsunamy['ecology']
+    },
+    {        
+        "label": "technologie",
+        "backgroundColor": getColor(),
+        "data": messagesDataTsunamy['technology']
+    }]
+}
+
 while True:
   channels = rocket.channels_list(offset=index).json()
   totalChannels = channels['total']
-  
+    
   for channel in channels['channels']:
     dataMess = []
     dataUsers = []
     pprint( channel['name'] )
     begin = date - monthdelta(12)
     end = begin + monthdelta(1)
-    
+
+    tsunamy = getTsunamy(channel)    
+
     for id in range(0, 12):
       labels[id] = begin.strftime("%b %Y")
       begindate =  begin.isoformat()
@@ -48,6 +92,17 @@ while True:
       dataMess.append(lenght)
 
       if lenght > 0:
+        if tsunamy & Tsunami.GLOBAL:
+          messagesDataTsunamy['global'][id] += lenght
+        if tsunamy & Tsunami.PROJECT:
+          messagesDataTsunamy['project'][id] += lenght
+        if tsunamy & Tsunami.DEMOCRACY:
+          messagesDataTsunamy['democraty'][id] += lenght
+        if tsunamy & Tsunami.ECOLOGY:
+          messagesDataTsunamy['ecology'][id] += lenght
+        if tsunamy & Tsunami.TECHNOLOGY:
+          messagesDataTsunamy['technology'][id] += lenght
+
         users = []
         for mess in resultMess['messages']:
           users.append(mess['u']['_id'])      
@@ -84,12 +139,7 @@ rootFolder = os.path.join(os.path.dirname(__file__), '..')
 # Répertoire pour stocker le fichier de sortie
 dataFolder = os.path.join(rootFolder, 'public', 'data')
 
-info = {
-  "updated": "updated {:02}/{:02}/{:04}".format(now.day, now.month, now.year),
-  "labels": labels,
-  "messagesByChannel": messagesByChannel,
-  "usersByChannel": usersByChannel
-}
+
 
 statsFilePath = os.path.abspath(
     os.path.join(dataFolder, 'messagesByChannel.json'))

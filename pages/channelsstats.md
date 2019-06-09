@@ -56,6 +56,42 @@ $.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (dat
         }
     });
 
+    var ctx2 = document.getElementById('byTsunamy').getContext('2d');
+    var chart2 = new Chart(ctx2, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: labels,
+            datasets: datas['messagesByTsunamy'],
+        },
+
+        // Configuration options go here
+        options: {
+            legend: {
+                display: false
+            },
+            title: {
+                display: true,
+                text: "Nombre de message par Tsunami (" + updated + ")",
+                position: "top"
+            },
+            responsive: true,
+            scales: {
+                xAxes: [{
+                    stacked: true
+                }],
+                yAxes: [{
+                    stacked: true,
+                    ticks: {
+                        stepSize: 500
+                    }
+                }]
+            }
+        }
+    });
+
     var ctx3 = document.getElementById('usersByChannel').getContext('2d');
     var chart3 = new Chart(ctx3, {
         // The type of chart we want to create
@@ -91,46 +127,5 @@ $.getJSON("{{ site.baseurl }}/public/data/messagesByChannel.json", function (dat
             }
         }
     });
-});
-
-$.getJSON("{{ site.baseurl }}/public/data/messagesByTsunami.json", function (datas){
-    var ctx2 = document.getElementById('byTsunamy').getContext('2d');
-    var chart2 = new Chart(ctx2, {
-        // The type of chart we want to create
-        type: 'bar',
-
-        // The data for our dataset
-        data: {
-            labels: labels,
-            datasets: datas,
-        },
-
-        // Configuration options go here
-        options: {
-            legend: {
-                display: false
-            },
-            title: {
-                display: true,
-                text: "Nombre de message par Tsunami (" + updated + ")",
-                position: "top"
-            },
-            responsive: true,
-            scales: {
-                xAxes: [{
-                    stacked: true
-                }],
-                yAxes: [{
-                    stacked: true,
-                    ticks: {
-                        stepSize: 500
-                    }
-                }]
-            }
-        }
-    });
-});
-
-$.getJSON("{{ site.baseurl }}/public/data/activeUsersByChannel.json", function (datas){
 });
 </script>

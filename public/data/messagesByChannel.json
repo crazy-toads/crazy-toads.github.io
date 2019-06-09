@@ -1,1 +1,5765 @@
-{"updated": "updated 08/06/2019", "labels": ["Jun 2018", "Jul 2018", "Aug 2018", "Sep 2018", "Oct 2018", "Nov 2018", "Dec 2018", "Jan 2019", "Feb 2019", "Mar 2019", "Apr 2019", "May 2019"], "messagesByChannel": [{"label": "accueil", "backgroundColor": "rgb(2,27,122)", "data": [0, 0, 0, 0, 395, 832, 504, 658, 751, 862, 500, 1239]}, {"label": "agenda", "backgroundColor": "rgb(25,95,10)", "data": [0, 0, 59, 97, 15, 9, 14, 6, 51, 47, 52, 75]}, {"label": "algoculture", "backgroundColor": "rgb(37,245,200)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 346, 695, 16, 0]}, {"label": "animation-crapauds", "backgroundColor": "rgb(2,146,144)", "data": [29, 8, 0, 0, 0, 0, 0, 11, 72, 136, 0, 49]}, {"label": "aquaponie", "backgroundColor": "rgb(166,42,148)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 116, 27, 1]}, {"label": "auberge-des-crapauds", "backgroundColor": "rgb(165,22,44)", "data": [0, 0, 0, 0, 0, 23, 34, 227, 11, 17, 0, 0]}, {"label": "audio-visuel-libre", "backgroundColor": "rgb(117,162,213)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 485, 144, 27]}, {"label": "avoirouetre", "backgroundColor": "rgb(254,83,65)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 41, 0, 0]}, {"label": "burn-out", "backgroundColor": "rgb(18,26,42)", "data": [205, 29, 23, 559, 0, 3, 79, 4, 0, 21, 1, 101]}, {"label": "cadeaux-ibf", "backgroundColor": "rgb(214,184,41)", "data": [0, 0, 0, 0, 0, 63, 34, 0, 0, 1, 0, 0]}, {"label": "cause-animale", "backgroundColor": "rgb(66,72,126)", "data": [0, 0, 35, 157, 55, 3, 0, 0, 1, 28, 5, 4]}, {"label": "cercle-autonomie-energetique", "backgroundColor": "rgb(107,10,215)", "data": [176, 19, 545, 231, 13, 55, 19, 80, 19, 25, 7, 15]}, {"label": "cercle-blockchain-crypto", "backgroundColor": "rgb(0,50,195)", "data": [144, 9, 4, 7, 9, 20, 10, 2, 1, 4, 4, 1]}, {"label": "cercle-collaboratif", "backgroundColor": "rgb(175,66,249)", "data": [53, 8, 5, 26, 42, 263, 9, 19, 38, 10, 8, 20]}, {"label": "cercle-des-arts", "backgroundColor": "rgb(223,31,180)", "data": [350, 7, 26, 33, 69, 7, 43, 56, 13, 6, 2, 11]}, {"label": "cercle-diversit\u00e9-culturelle", "backgroundColor": "rgb(175,162,144)", "data": [11, 51, 16, 3, 8, 3, 1, 3, 1, 3, 0, 6]}, {"label": "cercle-d\u00e9mocratie", "backgroundColor": "rgb(198,223,250)", "data": [442, 104, 301, 31, 220, 192, 46, 358, 281, 224, 31, 57]}, {"label": "cercle-education", "backgroundColor": "rgb(205,221,187)", "data": [1141, 666, 890, 368, 125, 236, 55, 634, 320, 314, 84, 548]}, {"label": "cercle-electronique", "backgroundColor": "rgb(149,51,49)", "data": [1306, 58, 6, 1, 2, 10, 24, 2, 1, 0, 4, 2]}, {"label": "cercle-enthousiasme", "backgroundColor": "rgb(5,18,188)", "data": [6, 8, 3, 30, 11, 2, 1, 12, 0, 1, 17, 5]}, {"label": "cercle-europe", "backgroundColor": "rgb(241,82,22)", "data": [8, 27, 2, 1, 5, 47, 0, 1, 0, 5, 1, 13]}, {"label": "cercle-game-changers", "backgroundColor": "rgb(202,2,234)", "data": [4, 3, 3, 1, 7, 1, 1, 2, 5, 0, 0, 2]}, {"label": "cercle-generation-2050", "backgroundColor": "rgb(245,145,227)", "data": [10, 6, 67, 10, 24, 2, 7, 6, 13, 172, 53, 61]}, {"label": "cercle-genie-digital", "backgroundColor": "rgb(110,194,11)", "data": [9, 14, 4, 1, 1, 4, 1, 2, 1, 1, 2, 1]}, {"label": "cercle-intergenerationnel", "backgroundColor": "rgb(232,143,28)", "data": [0, 0, 90, 82, 23, 3, 0, 0, 22, 4, 0, 2]}, {"label": "cercle-neurodiversit\u00e9", "backgroundColor": "rgb(62,83,23)", "data": [799, 900, 264, 967, 501, 421, 34, 271, 629, 285, 20, 329]}, {"label": "cercle-permaculture", "backgroundColor": "rgb(81,213,166)", "data": [97, 94, 275, 128, 160, 31, 23, 73, 311, 106, 48, 69]}, {"label": "cercle-sante", "backgroundColor": "rgb(166,23,133)", "data": [224, 98, 10, 60, 447, 104, 52, 52, 71, 185, 68, 69]}, {"label": "changer-de-paradigme", "backgroundColor": "rgb(41,153,61)", "data": [0, 0, 773, 452, 417, 161, 124, 44, 35, 171, 32, 33]}, {"label": "chanvre", "backgroundColor": "rgb(206,4,49)", "data": [0, 0, 0, 0, 0, 0, 46, 0, 2, 6, 3, 2]}, {"label": "christin", "backgroundColor": "rgb(242,79,40)", "data": [0, 0, 3, 0, 0, 6, 0, 0, 0, 1, 0, 0]}, {"label": "cnv", "backgroundColor": "rgb(5,122,79)", "data": [0, 0, 0, 30, 2, 3, 7, 0, 3, 1, 0, 1]}, {"label": "coartistes", "backgroundColor": "rgb(113,232,44)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 339, 4, 2]}, {"label": "cohorte-2607", "backgroundColor": "rgb(51,192,94)", "data": [10, 3, 1, 8, 3, 1, 1, 2, 6, 6, 9, 15]}, {"label": "cohorte-34", "backgroundColor": "rgb(250,161,71)", "data": [40, 4, 0, 5, 0, 3, 4, 265, 48, 69, 103, 89]}, {"label": "cohorte-belgique", "backgroundColor": "rgb(210,161,70)", "data": [277, 1, 1, 0, 7, 8, 5, 0, 6, 0, 0, 0]}, {"label": "cohorte-bourgogne", "backgroundColor": "rgb(244,74,41)", "data": [10, 6, 15, 1, 1, 1, 3, 0, 5, 0, 0, 0]}, {"label": "cohorte-bretagne", "backgroundColor": "rgb(251,163,140)", "data": [0, 21, 12, 61, 44, 3, 8, 12, 1, 12, 7, 81]}, {"label": "cohorte-centre", "backgroundColor": "rgb(95,73,244)", "data": [0, 0, 0, 0, 13, 10, 1, 4, 0, 1, 0, 8]}, {"label": "cohorte-geek", "backgroundColor": "rgb(68,15,48)", "data": [184, 86, 9, 42, 170, 498, 397, 335, 50, 360, 163, 211]}, {"label": "cohorte-grand-est", "backgroundColor": "rgb(161,137,108)", "data": [11, 5, 1, 3, 7, 0, 1, 2, 4, 1, 3, 3]}, {"label": "cohorte-grenoble", "backgroundColor": "rgb(3,139,203)", "data": [31, 7, 12, 14, 6, 0, 3, 0, 1, 4, 1, 0]}, {"label": "cohorte-hdf", "backgroundColor": "rgb(163,19,108)", "data": [14, 3, 0, 9, 4, 3, 3, 32, 38, 55, 30, 17]}, {"label": "cohorte-ile-de-france", "backgroundColor": "rgb(62,84,163)", "data": [147, 4, 69, 4, 2, 31, 17, 80, 180, 77, 28, 187]}, {"label": "cohorte-la-reunion", "backgroundColor": "rgb(104,25,83)", "data": [0, 0, 0, 0, 0, 15, 52, 22, 0, 2, 0, 0]}, {"label": "cohorte-normandie", "backgroundColor": "rgb(111,193,127)", "data": [14, 0, 0, 2, 0, 8, 3, 3, 0, 0, 2, 2]}, {"label": "cohorte-paca", "backgroundColor": "rgb(143,201,31)", "data": [24, 2, 7, 18, 4, 3, 1, 21, 3, 8, 7, 36]}, {"label": "cohorte-paysdesavoie", "backgroundColor": "rgb(169,198,30)", "data": [0, 85, 25, 54, 4, 8, 11, 26, 0, 33, 0, 48]}, {"label": "cohorte-scientifique", "backgroundColor": "rgb(103,113,241)", "data": [24, 3, 17, 43, 24, 39, 2, 3, 1, 6, 2, 28]}, {"label": "cohorte-sud-ouest", "backgroundColor": "rgb(131,109,163)", "data": [51, 4, 11, 9, 5, 2, 5, 35, 3, 4, 0, 5]}, {"label": "cohorte-suisse", "backgroundColor": "rgb(80,231,26)", "data": [0, 0, 0, 24, 1, 6, 7, 19, 23, 39, 102, 8]}, {"label": "comment-se-proteger-de-la-republique", "backgroundColor": "rgb(116,220,119)", "data": [0, 0, 0, 0, 0, 0, 0, 65, 0, 1, 0, 0]}, {"label": "communecter", "backgroundColor": "rgb(133,80,115)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91]}, {"label": "compagnon-du-devoir-educatif", "backgroundColor": "rgb(87,126,214)", "data": [0, 0, 0, 91, 8, 12, 3, 5, 69, 0, 0, 2]}, {"label": "conf-inter-g", "backgroundColor": "rgb(129,97,195)", "data": [0, 0, 0, 309, 49, 47, 0, 0, 1, 35, 0, 0]}, {"label": "cooperatives", "backgroundColor": "rgb(163,36,24)", "data": [19, 8, 10, 24, 2, 1, 13, 1, 1, 0, 0, 0]}, {"label": "covoiturage-montpellier-aix-en-provence", "backgroundColor": "rgb(215,34,211)", "data": [0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0]}, {"label": "crapaud-fou-tv", "backgroundColor": "rgb(170,3,15)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 4, 0]}, {"label": "cyber-sensibilisation", "backgroundColor": "rgb(50,87,112)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 0, 7]}, {"label": "desobeissance-civile", "backgroundColor": "rgb(204,171,243)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 96, 257, 76]}, {"label": "developpement-personnel", "backgroundColor": "rgb(215,35,180)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 99, 11]}, {"label": "doughnut-economics", "backgroundColor": "rgb(37,42,242)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]}, {"label": "economie-connaissance", "backgroundColor": "rgb(17,173,181)", "data": [73, 10, 6, 9, 91, 8, 879, 203, 18, 71, 178, 52]}, {"label": "ecovillages-ecoquartiers", "backgroundColor": "rgb(20,181,119)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 200, 82, 91, 152]}, {"label": "education-populaire", "backgroundColor": "rgb(95,152,230)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 130]}, {"label": "energie", "backgroundColor": "rgb(129,239,39)", "data": [16, 73, 1, 2, 3, 1, 84, 3, 0, 3, 4, 38]}, {"label": "energies-agiles", "backgroundColor": "rgb(178,253,35)", "data": [0, 0, 0, 0, 371, 34, 0, 0, 1, 1, 2, 10]}, {"label": "essaimage", "backgroundColor": "rgb(48,24,32)", "data": [0, 0, 0, 0, 0, 221, 12, 8, 0, 2, 1, 1]}, {"label": "exemples-low-tech-habiter", "backgroundColor": "rgb(172,193,148)", "data": [0, 0, 0, 0, 0, 24, 1, 6, 2, 3, 4, 0]}, {"label": "faire", "backgroundColor": "rgb(83,19,192)", "data": [9, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 0]}, {"label": "faire-avancer-le-schmilblick-ecologique", "backgroundColor": "rgb(214,89,51)", "data": [0, 0, 19, 0, 0, 0, 0, 0, 25, 1, 0, 0]}, {"label": "ferme-pedagogique-albi", "backgroundColor": "rgb(121,198,117)", "data": [10, 0, 1, 2, 0, 3, 0, 0, 2, 0, 0, 0]}, {"label": "fou-a-lier", "backgroundColor": "rgb(36,247,113)", "data": [149, 13, 23, 20, 3, 4, 48, 4, 0, 0, 0, 2]}, {"label": "francais-langue-etrangere", "backgroundColor": "rgb(201,232,109)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]}, {"label": "general", "backgroundColor": "rgb(30,151,249)", "data": [5169, 1275, 1540, 1961, 737, 2902, 399, 819, 1342, 1305, 784, 675]}, {"label": "geopolitique", "backgroundColor": "rgb(216,95,135)", "data": [35, 13, 32, 100, 4, 1, 1, 125, 53, 9, 3, 1]}, {"label": "gestion-de-l-eau", "backgroundColor": "rgb(38,121,30)", "data": [105, 1, 2, 13, 3, 12, 1, 3, 47, 1, 3, 3]}, {"label": "gilets-jaunes", "backgroundColor": "rgb(224,81,82)", "data": [0, 0, 0, 0, 0, 1555, 4532, 3713, 979, 1391, 1302, 367]}, {"label": "godelescherbach", "backgroundColor": "rgb(179,159,206)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}, {"label": "habitat-durable", "backgroundColor": "rgb(70,188,240)", "data": [0, 0, 0, 34, 3, 6, 4, 0, 2, 2, 16, 6]}, {"label": "hackathon-distribue", "backgroundColor": "rgb(10,244,61)", "data": [65, 9, 37, 3, 7, 14, 1, 5, 0, 0, 0, 12]}, {"label": "hacker-les-contes-pour-enfants", "backgroundColor": "rgb(109,35,201)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41]}, {"label": "hackerspace-angers", "backgroundColor": "rgb(68,130,136)", "data": [0, 0, 0, 0, 0, 115, 30, 0, 0, 1, 0, 1]}, {"label": "holacratie-et-sociocratie", "backgroundColor": "rgb(251,168,174)", "data": [0, 0, 0, 0, 0, 0, 0, 47, 64, 41, 1, 1]}, {"label": "how-to-low-tech", "backgroundColor": "rgb(178,30,177)", "data": [194, 11, 61, 22, 75, 411, 256, 13, 5, 9, 25, 29]}, {"label": "hypermedia", "backgroundColor": "rgb(170,110,148)", "data": [0, 0, 0, 0, 0, 0, 0, 13, 0, 347, 136, 3]}, {"label": "impression-3d", "backgroundColor": "rgb(21,218,156)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24]}, {"label": "info-desintox", "backgroundColor": "rgb(183,218,127)", "data": [83, 33, 117, 119, 55, 4, 4, 14, 2, 8, 2, 15]}, {"label": "intelligence-artificielle", "backgroundColor": "rgb(30,153,149)", "data": [56, 8, 126, 25, 8, 59, 16, 269, 12, 14, 9, 112]}, {"label": "intelligence-collective", "backgroundColor": "rgb(87,18,130)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20]}, {"label": "jeux-inde-1", "backgroundColor": "rgb(218,28,217)", "data": [0, 0, 0, 0, 0, 0, 0, 36, 1, 6, 2, 2]}, {"label": "journee-aux-amanins-15-juin", "backgroundColor": "rgb(7,185,220)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 388]}, {"label": "journee-cri", "backgroundColor": "rgb(176,162,30)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 398, 2246, 289, 2]}, {"label": "journee-solucracy-a-marcoussis", "backgroundColor": "rgb(208,69,143)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 199, 91]}, {"label": "journee-univ-j-verne-nantes-4-juil-2019", "backgroundColor": "rgb(123,179,183)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 149]}, {"label": "la-bascule-lobby-citoyen", "backgroundColor": "rgb(135,116,133)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 223, 125, 21]}, {"label": "langage-vrai-anti-glossaire", "backgroundColor": "rgb(186,152,97)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 167, 257, 27, 65]}, {"label": "le-led", "backgroundColor": "rgb(41,70,107)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29]}, {"label": "les-racines-profondes-de-la-crise-globale", "backgroundColor": "rgb(106,143,150)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 92, 11]}, {"label": "lhomme-et-la-terre", "backgroundColor": "rgb(93,53,158)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 98]}, {"label": "libre", "backgroundColor": "rgb(248,203,111)", "data": [355, 3, 3, 489, 813, 12, 0, 2, 0, 1021, 23, 21]}, {"label": "livres-coup-de-coeur", "backgroundColor": "rgb(108,210,48)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32]}, {"label": "lobbying", "backgroundColor": "rgb(175,252,111)", "data": [0, 0, 0, 54, 2, 1, 1, 0, 0, 0, 0, 0]}, {"label": "logiciel-libre", "backgroundColor": "rgb(2,206,240)", "data": [0, 0, 0, 169, 15, 4, 4, 8, 183, 3, 3, 84]}, {"label": "manuel-terrien", "backgroundColor": "rgb(226,11,104)", "data": [0, 39, 259, 9, 2, 2, 0, 1, 0, 1, 1, 0]}, {"label": "marseille-17-18-avril", "backgroundColor": "rgb(159,174,76)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 32, 2]}, {"label": "meditation", "backgroundColor": "rgb(41,113,227)", "data": [0, 6, 2, 2, 0, 0, 0, 3, 0, 0, 6, 1]}, {"label": "medusa", "backgroundColor": "rgb(57,202,133)", "data": [0, 97, 744, 182, 10, 6, 0, 2, 0, 1, 1, 1]}, {"label": "meta", "backgroundColor": "rgb(112,57,248)", "data": [0, 0, 0, 0, 0, 0, 4, 216, 15, 99, 0, 0]}, {"label": "meta-communication", "backgroundColor": "rgb(3,249,178)", "data": [0, 0, 0, 11, 47, 1, 1, 4, 0, 1, 4, 3]}, {"label": "metacognition", "backgroundColor": "rgb(220,248,210)", "data": [0, 0, 0, 0, 27, 4, 7, 5, 1, 1, 1, 4]}, {"label": "mutuelle-sociale-solidaire", "backgroundColor": "rgb(77,153,186)", "data": [0, 0, 0, 1090, 35, 625, 3, 107, 2, 0, 50, 20]}, {"label": "myhappy", "backgroundColor": "rgb(163,166,104)", "data": [0, 0, 0, 59, 110, 16, 1, 1, 3, 1, 1, 1]}, {"label": "nature-simplicite-bienveillance", "backgroundColor": "rgb(74,44,154)", "data": [27, 3, 6, 4, 2, 1, 0, 2, 3, 1, 5, 1]}, {"label": "nenuphar", "backgroundColor": "rgb(127,104,248)", "data": [0, 0, 0, 0, 0, 0, 0, 608, 115, 261, 109, 1]}, {"label": "neuroharmonie-neuromusique", "backgroundColor": "rgb(31,190,196)", "data": [0, 0, 0, 0, 0, 0, 0, 229, 13, 44, 4, 1]}, {"label": "no-gafam", "backgroundColor": "rgb(132,97,21)", "data": [247, 94, 48, 269, 152, 250, 52, 56, 210, 329, 142, 44]}, {"label": "open-hardware", "backgroundColor": "rgb(148,117,120)", "data": [0, 0, 0, 0, 0, 2, 19, 11, 3, 1, 0, 110]}, {"label": "outil-de-mediatisation", "backgroundColor": "rgb(131,221,81)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 812, 30, 1]}, {"label": "ouvrons-et-reparons-les-objets", "backgroundColor": "rgb(125,239,45)", "data": [0, 0, 0, 0, 0, 0, 0, 44, 6, 8, 0, 0]}, {"label": "partage-dessins-et-techniques", "backgroundColor": "rgb(145,161,29)", "data": [4, 0, 1, 1, 0, 0, 0, 2, 0, 0, 0, 0]}, {"label": "philosophie", "backgroundColor": "rgb(246,14,194)", "data": [0, 76, 13, 146, 211, 149, 0, 49, 414, 14, 163, 109]}, {"label": "photovoltaique-hltech", "backgroundColor": "rgb(100,103,202)", "data": [0, 0, 0, 0, 0, 0, 51, 167, 20, 0, 0, 0]}, {"label": "piano-bar", "backgroundColor": "rgb(206,129,206)", "data": [6, 498, 2, 38, 22, 13, 18, 2, 0, 4, 0, 0]}, {"label": "pnl", "backgroundColor": "rgb(130,80,178)", "data": [11, 1, 3, 0, 1, 1, 1, 1, 0, 1, 0, 0]}, {"label": "pratiques-artistiques", "backgroundColor": "rgb(141,153,108)", "data": [0, 0, 337, 739, 81, 138, 2, 92, 153, 26, 103, 122]}, {"label": "produits-biocycliques", "backgroundColor": "rgb(94,196,87)", "data": [0, 0, 0, 0, 0, 0, 0, 10, 0, 1, 1, 0]}, {"label": "projet-transceiver-laser", "backgroundColor": "rgb(184,24,151)", "data": [7, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 0]}, {"label": "psychologie-neurologie", "backgroundColor": "rgb(108,149,199)", "data": [34, 48, 219, 10, 204, 20, 38, 244, 42, 44, 18, 26]}, {"label": "pub-canaux", "backgroundColor": "rgb(84,100,76)", "data": [25, 0, 462, 1, 31, 2, 0, 1, 0, 0, 1, 0]}, {"label": "radio-crapaud", "backgroundColor": "rgb(73,121,105)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 160, 29, 66]}, {"label": "recherches-biologie", "backgroundColor": "rgb(95,38,146)", "data": [10, 1, 3, 2, 2, 1, 0, 3, 4, 1, 3, 16]}, {"label": "reflexion-sur-l-argent", "backgroundColor": "rgb(105,228,110)", "data": [200, 533, 549, 42, 274, 1068, 217, 139, 86, 393, 15, 273]}, {"label": "rencontre-crapaud-kangourou", "backgroundColor": "rgb(252,210,163)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 213]}, {"label": "resilience-du-crapaud-fou-projet", "backgroundColor": "rgb(168,154,179)", "data": [0, 0, 0, 0, 0, 0, 0, 534, 0, 7, 0, 0]}, {"label": "right-to-repair", "backgroundColor": "rgb(71,50,108)", "data": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 147, 144]}, {"label": "selfishgene", "backgroundColor": "rgb(234,6,51)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0]}, {"label": "siteweb", "backgroundColor": "rgb(36,32,28)", "data": [7, 2, 7, 14, 4, 66, 14, 4, 8, 189, 2, 25]}, {"label": "sociologie-de-l-effondrement", "backgroundColor": "rgb(172,194,223)", "data": [458, 218, 274, 148, 162, 133, 29, 17, 178, 88, 13, 18]}, {"label": "solucracy", "backgroundColor": "rgb(0,87,233)", "data": [0, 0, 0, 0, 0, 1114, 1551, 73, 93, 203, 51, 146]}, {"label": "solucracy-dev", "backgroundColor": "rgb(150,237,80)", "data": [0, 0, 0, 0, 0, 0, 1198, 161, 25, 69, 3, 0]}, {"label": "soutien-au-terrain", "backgroundColor": "rgb(182,124,63)", "data": [0, 0, 0, 0, 0, 0, 0, 166, 1, 1, 0, 1]}, {"label": "suggestion", "backgroundColor": "rgb(94,180,204)", "data": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}, {"label": "survivalismes-et-resiliences", "backgroundColor": "rgb(13,196,17)", "data": [226, 47, 49, 2, 4, 74, 11, 1, 0, 14, 3, 0]}, {"label": "team-hacker-debutant", "backgroundColor": "rgb(148,232,167)", "data": [112, 46, 2, 182, 45, 16, 134, 130, 57, 117, 18, 0]}, {"label": "tests", "backgroundColor": "rgb(235,232,55)", "data": [67, 0, 0, 0, 0, 3, 0, 0, 7, 0, 0, 0]}, {"label": "tiers-lieux-apprenant", "backgroundColor": "rgb(152,194,18)", "data": [1141, 65, 15, 101, 36, 142, 86, 355, 471, 1221, 338, 537]}, {"label": "tour-du-monde", "backgroundColor": "rgb(41,19,9)", "data": [0, 0, 0, 0, 0, 0, 0, 1, 64, 1, 3, 0]}, {"label": "transhumanisme-et-eugenisme", "backgroundColor": "rgb(125,159,134)", "data": [21, 0, 3, 0, 1, 1, 0, 3, 0, 0, 8, 51]}, {"label": "transport", "backgroundColor": "rgb(169,46,124)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 17, 5, 0, 0]}, {"label": "tsunamis", "backgroundColor": "rgb(97,199,223)", "data": [0, 0, 299, 19, 5, 5, 1, 23, 4, 6, 33, 41]}, {"label": "tvp-et-ebr", "backgroundColor": "rgb(2,3,78)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 143]}, {"label": "une-revolution-pourquoi-comment", "backgroundColor": "rgb(78,1,12)", "data": [0, 0, 13, 8, 14, 1, 0, 0, 0, 1, 1, 0]}, {"label": "unite-humaine", "backgroundColor": "rgb(77,111,102)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 13, 0]}, {"label": "vers-une-nouvelle-civilisation", "backgroundColor": "rgb(91,150,229)", "data": [0, 0, 3, 2, 1, 9, 1, 1, 0, 1, 0, 4]}, {"label": "zero-dechet", "backgroundColor": "rgb(107,39,92)", "data": [173, 98, 35, 90, 37, 149, 125, 63, 3, 117, 13, 69]}, {"label": "zetetique-et-outils-epistemologiques", "backgroundColor": "rgb(205,4,127)", "data": [0, 0, 0, 522, 255, 4, 0, 222, 75, 18, 1, 13]}], "usersByChannel": [{"label": "accueil", "backgroundColor": "rgb(163,103,67)", "data": [0, 0, 0, 0, 44, 90, 75, 94, 78, 92, 73, 142]}, {"label": "agenda", "backgroundColor": "rgb(208,52,185)", "data": [0, 0, 16, 22, 11, 6, 8, 5, 15, 14, 13, 19]}, {"label": "algoculture", "backgroundColor": "rgb(55,128,184)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 2, 0]}, {"label": "animation-crapauds", "backgroundColor": "rgb(253,172,167)", "data": [6, 3, 0, 0, 0, 0, 0, 3, 5, 7, 0, 5]}, {"label": "aquaponie", "backgroundColor": "rgb(53,78,164)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 5, 1]}, {"label": "auberge-des-crapauds", "backgroundColor": "rgb(218,16,102)", "data": [0, 0, 0, 0, 0, 7, 15, 10, 6, 8, 0, 0]}, {"label": "audio-visuel-libre", "backgroundColor": "rgb(7,46,97)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 10, 10]}, {"label": "avoirouetre", "backgroundColor": "rgb(108,126,76)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]}, {"label": "burn-out", "backgroundColor": "rgb(133,32,147)", "data": [15, 8, 6, 10, 0, 2, 6, 2, 0, 6, 1, 6]}, {"label": "cadeaux-ibf", "backgroundColor": "rgb(242,54,93)", "data": [0, 0, 0, 0, 0, 8, 5, 0, 0, 1, 0, 0]}, {"label": "cause-animale", "backgroundColor": "rgb(94,52,161)", "data": [0, 0, 3, 13, 6, 3, 0, 0, 1, 5, 2, 3]}, {"label": "cercle-autonomie-energetique", "backgroundColor": "rgb(161,148,18)", "data": [19, 10, 14, 16, 12, 14, 10, 14, 8, 8, 7, 10]}, {"label": "cercle-blockchain-crypto", "backgroundColor": "rgb(198,52,203)", "data": [14, 9, 4, 4, 7, 5, 6, 2, 1, 3, 3, 1]}, {"label": "cercle-collaboratif", "backgroundColor": "rgb(224,140,10)", "data": [27, 7, 5, 12, 7, 16, 7, 9, 6, 5, 3, 8]}, {"label": "cercle-des-arts", "backgroundColor": "rgb(32,158,33)", "data": [25, 7, 9, 10, 14, 7, 7, 16, 9, 5, 2, 8]}, {"label": "cercle-diversit\u00e9-culturelle", "backgroundColor": "rgb(204,214,199)", "data": [9, 6, 6, 3, 5, 3, 1, 3, 1, 2, 0, 3]}, {"label": "cercle-d\u00e9mocratie", "backgroundColor": "rgb(11,177,116)", "data": [30, 14, 13, 14, 11, 18, 18, 21, 8, 20, 10, 10]}, {"label": "cercle-education", "backgroundColor": "rgb(125,148,60)", "data": [44, 30, 30, 23, 17, 21, 13, 23, 21, 21, 17, 30]}, {"label": "cercle-electronique", "backgroundColor": "rgb(233,209,238)", "data": [24, 6, 3, 1, 2, 4, 6, 1, 1, 0, 4, 2]}, {"label": "cercle-enthousiasme", "backgroundColor": "rgb(13,94,94)", "data": [6, 3, 3, 6, 7, 2, 1, 4, 0, 1, 4, 2]}, {"label": "cercle-europe", "backgroundColor": "rgb(13,20,197)", "data": [7, 5, 2, 1, 3, 4, 0, 1, 0, 2, 1, 4]}, {"label": "cercle-game-changers", "backgroundColor": "rgb(38,200,206)", "data": [4, 3, 3, 1, 5, 1, 1, 2, 2, 0, 0, 2]}, {"label": "cercle-generation-2050", "backgroundColor": "rgb(144,200,109)", "data": [8, 4, 7, 5, 3, 2, 3, 4, 7, 10, 9, 8]}, {"label": "cercle-genie-digital", "backgroundColor": "rgb(29,69,188)", "data": [9, 9, 4, 1, 1, 3, 1, 2, 1, 1, 2, 1]}, {"label": "cercle-intergenerationnel", "backgroundColor": "rgb(85,168,30)", "data": [0, 0, 8, 6, 5, 3, 0, 0, 5, 3, 0, 1]}, {"label": "cercle-neurodiversit\u00e9", "backgroundColor": "rgb(94,91,64)", "data": [32, 18, 15, 20, 19, 20, 8, 21, 18, 18, 12, 17]}, {"label": "cercle-permaculture", "backgroundColor": "rgb(251,14,6)", "data": [22, 14, 17, 24, 18, 17, 12, 12, 22, 20, 13, 24]}, {"label": "cercle-sante", "backgroundColor": "rgb(143,143,56)", "data": [17, 17, 7, 9, 13, 8, 8, 7, 8, 10, 9, 9]}, {"label": "changer-de-paradigme", "backgroundColor": "rgb(170,61,83)", "data": [0, 0, 19, 18, 19, 17, 16, 13, 10, 19, 11, 18]}, {"label": "chanvre", "backgroundColor": "rgb(47,204,138)", "data": [0, 0, 0, 0, 0, 0, 11, 0, 2, 2, 1, 1]}, {"label": "christin", "backgroundColor": "rgb(43,205,49)", "data": [0, 0, 1, 0, 0, 3, 0, 0, 0, 1, 0, 0]}, {"label": "cnv", "backgroundColor": "rgb(83,196,169)", "data": [0, 0, 0, 7, 2, 3, 4, 0, 2, 1, 0, 1]}, {"label": "coartistes", "backgroundColor": "rgb(49,147,15)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 3, 2]}, {"label": "cohorte-2607", "backgroundColor": "rgb(184,111,236)", "data": [6, 1, 1, 6, 2, 1, 1, 2, 2, 3, 5, 7]}, {"label": "cohorte-34", "backgroundColor": "rgb(186,91,33)", "data": [8, 2, 0, 3, 0, 3, 4, 16, 10, 9, 9, 14]}, {"label": "cohorte-belgique", "backgroundColor": "rgb(21,148,84)", "data": [12, 1, 1, 0, 4, 4, 3, 0, 2, 0, 0, 0]}, {"label": "cohorte-bourgogne", "backgroundColor": "rgb(42,245,229)", "data": [4, 3, 3, 1, 1, 1, 1, 0, 2, 0, 0, 0]}, {"label": "cohorte-bretagne", "backgroundColor": "rgb(220,69,135)", "data": [0, 8, 6, 9, 7, 2, 4, 4, 1, 5, 4, 8]}, {"label": "cohorte-centre", "backgroundColor": "rgb(6,35,96)", "data": [0, 0, 0, 0, 3, 7, 1, 3, 0, 1, 0, 2]}, {"label": "cohorte-geek", "backgroundColor": "rgb(148,128,190)", "data": [22, 14, 6, 14, 17, 19, 19, 14, 11, 18, 18, 25]}, {"label": "cohorte-grand-est", "backgroundColor": "rgb(158,253,90)", "data": [4, 3, 1, 2, 2, 0, 1, 1, 2, 1, 3, 2]}, {"label": "cohorte-grenoble", "backgroundColor": "rgb(75,192,196)", "data": [8, 3, 5, 5, 3, 0, 2, 0, 1, 1, 1, 0]}, {"label": "cohorte-hdf", "backgroundColor": "rgb(155,230,161)", "data": [7, 2, 0, 2, 2, 2, 2, 5, 5, 8, 8, 4]}, {"label": "cohorte-ile-de-france", "backgroundColor": "rgb(25,88,128)", "data": [21, 3, 11, 3, 2, 10, 12, 14, 13, 13, 7, 21]}, {"label": "cohorte-la-reunion", "backgroundColor": "rgb(209,93,49)", "data": [0, 0, 0, 0, 0, 5, 7, 3, 0, 1, 0, 0]}, {"label": "cohorte-normandie", "backgroundColor": "rgb(51,94,16)", "data": [6, 0, 0, 1, 0, 3, 3, 3, 0, 0, 1, 1]}, {"label": "cohorte-paca", "backgroundColor": "rgb(243,161,159)", "data": [5, 2, 3, 5, 2, 2, 1, 10, 3, 2, 4, 6]}, {"label": "cohorte-paysdesavoie", "backgroundColor": "rgb(254,119,15)", "data": [0, 7, 5, 7, 3, 3, 5, 5, 0, 5, 0, 11]}, {"label": "cohorte-scientifique", "backgroundColor": "rgb(143,53,120)", "data": [15, 3, 7, 9, 6, 8, 2, 2, 1, 2, 2, 4]}, {"label": "cohorte-sud-ouest", "backgroundColor": "rgb(3,41,153)", "data": [6, 3, 5, 4, 4, 2, 4, 6, 2, 4, 0, 4]}, {"label": "cohorte-suisse", "backgroundColor": "rgb(167,200,162)", "data": [0, 0, 0, 4, 1, 3, 5, 5, 5, 5, 6, 5]}, {"label": "comment-se-proteger-de-la-republique", "backgroundColor": "rgb(68,45,201)", "data": [0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0]}, {"label": "communecter", "backgroundColor": "rgb(91,74,220)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12]}, {"label": "compagnon-du-devoir-educatif", "backgroundColor": "rgb(13,226,129)", "data": [0, 0, 0, 12, 3, 4, 3, 3, 3, 0, 0, 1]}, {"label": "conf-inter-g", "backgroundColor": "rgb(63,86,21)", "data": [0, 0, 0, 7, 6, 6, 0, 0, 1, 6, 0, 0]}, {"label": "cooperatives", "backgroundColor": "rgb(34,36,244)", "data": [8, 3, 4, 5, 2, 1, 5, 1, 1, 0, 0, 0]}, {"label": "covoiturage-montpellier-aix-en-provence", "backgroundColor": "rgb(92,250,242)", "data": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]}, {"label": "crapaud-fou-tv", "backgroundColor": "rgb(50,108,57)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 0]}, {"label": "cyber-sensibilisation", "backgroundColor": "rgb(117,176,10)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 4]}, {"label": "desobeissance-civile", "backgroundColor": "rgb(209,37,193)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 16, 16]}, {"label": "developpement-personnel", "backgroundColor": "rgb(121,78,230)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 7]}, {"label": "doughnut-economics", "backgroundColor": "rgb(238,18,160)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}, {"label": "economie-connaissance", "backgroundColor": "rgb(197,52,54)", "data": [15, 10, 6, 7, 8, 6, 16, 13, 9, 8, 15, 12]}, {"label": "ecovillages-ecoquartiers", "backgroundColor": "rgb(229,189,209)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 11, 21]}, {"label": "education-populaire", "backgroundColor": "rgb(190,217,226)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]}, {"label": "energie", "backgroundColor": "rgb(160,223,54)", "data": [11, 6, 1, 2, 3, 1, 10, 2, 0, 1, 4, 6]}, {"label": "energies-agiles", "backgroundColor": "rgb(127,34,167)", "data": [0, 0, 0, 0, 12, 4, 0, 0, 1, 1, 2, 3]}, {"label": "essaimage", "backgroundColor": "rgb(150,97,171)", "data": [0, 0, 0, 0, 0, 12, 4, 2, 0, 1, 1, 1]}, {"label": "exemples-low-tech-habiter", "backgroundColor": "rgb(161,23,154)", "data": [0, 0, 0, 0, 0, 2, 1, 3, 2, 3, 3, 0]}, {"label": "faire", "backgroundColor": "rgb(231,4,181)", "data": [5, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 0]}, {"label": "faire-avancer-le-schmilblick-ecologique", "backgroundColor": "rgb(213,178,138)", "data": [0, 0, 4, 0, 0, 0, 0, 0, 4, 1, 0, 0]}, {"label": "ferme-pedagogique-albi", "backgroundColor": "rgb(194,56,187)", "data": [3, 0, 1, 2, 0, 1, 0, 0, 2, 0, 0, 0]}, {"label": "fou-a-lier", "backgroundColor": "rgb(61,6,217)", "data": [15, 4, 6, 7, 3, 4, 8, 4, 0, 0, 0, 2]}, {"label": "francais-langue-etrangere", "backgroundColor": "rgb(222,241,218)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}, {"label": "general", "backgroundColor": "rgb(201,182,193)", "data": [227, 114, 107, 114, 69, 111, 95, 101, 94, 105, 87, 146]}, {"label": "geopolitique", "backgroundColor": "rgb(54,140,254)", "data": [13, 5, 8, 8, 4, 1, 1, 10, 6, 4, 3, 1]}, {"label": "gestion-de-l-eau", "backgroundColor": "rgb(235,189,203)", "data": [6, 1, 2, 3, 3, 5, 1, 3, 4, 1, 1, 3]}, {"label": "gilets-jaunes", "backgroundColor": "rgb(3,195,134)", "data": [0, 0, 0, 0, 0, 27, 29, 34, 27, 27, 27, 16]}, {"label": "godelescherbach", "backgroundColor": "rgb(228,143,171)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0]}, {"label": "habitat-durable", "backgroundColor": "rgb(198,41,190)", "data": [0, 0, 0, 11, 3, 5, 2, 0, 2, 2, 5, 3]}, {"label": "hackathon-distribue", "backgroundColor": "rgb(161,28,7)", "data": [13, 7, 12, 3, 5, 7, 1, 3, 0, 0, 0, 4]}, {"label": "hacker-les-contes-pour-enfants", "backgroundColor": "rgb(191,117,53)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]}, {"label": "hackerspace-angers", "backgroundColor": "rgb(134,15,164)", "data": [0, 0, 0, 0, 0, 13, 3, 0, 0, 1, 0, 1]}, {"label": "holacratie-et-sociocratie", "backgroundColor": "rgb(150,19,222)", "data": [0, 0, 0, 0, 0, 0, 0, 6, 10, 4, 1, 1]}, {"label": "how-to-low-tech", "backgroundColor": "rgb(236,226,50)", "data": [9, 5, 15, 12, 13, 19, 19, 7, 5, 8, 6, 10]}, {"label": "hypermedia", "backgroundColor": "rgb(54,25,208)", "data": [0, 0, 0, 0, 0, 0, 0, 3, 0, 10, 8, 3]}, {"label": "impression-3d", "backgroundColor": "rgb(55,251,192)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8]}, {"label": "info-desintox", "backgroundColor": "rgb(165,230,92)", "data": [11, 6, 6, 14, 11, 4, 3, 7, 1, 5, 2, 6]}, {"label": "intelligence-artificielle", "backgroundColor": "rgb(245,100,204)", "data": [12, 4, 13, 11, 6, 12, 7, 17, 10, 8, 5, 13]}, {"label": "intelligence-collective", "backgroundColor": "rgb(253,144,55)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]}, {"label": "jeux-inde-1", "backgroundColor": "rgb(182,102,232)", "data": [0, 0, 0, 0, 0, 0, 0, 11, 1, 2, 2, 2]}, {"label": "journee-aux-amanins-15-juin", "backgroundColor": "rgb(164,64,195)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]}, {"label": "journee-cri", "backgroundColor": "rgb(77,195,183)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 22, 43, 20, 2]}, {"label": "journee-solucracy-a-marcoussis", "backgroundColor": "rgb(218,105,44)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 19, 13]}, {"label": "journee-univ-j-verne-nantes-4-juil-2019", "backgroundColor": "rgb(66,225,5)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]}, {"label": "la-bascule-lobby-citoyen", "backgroundColor": "rgb(209,117,192)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 15, 7]}, {"label": "langage-vrai-anti-glossaire", "backgroundColor": "rgb(102,117,89)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 10, 12, 9, 8]}, {"label": "le-led", "backgroundColor": "rgb(73,106,143)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}, {"label": "les-racines-profondes-de-la-crise-globale", "backgroundColor": "rgb(143,91,159)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 7]}, {"label": "lhomme-et-la-terre", "backgroundColor": "rgb(34,68,212)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]}, {"label": "libre", "backgroundColor": "rgb(216,64,193)", "data": [16, 2, 3, 11, 16, 7, 0, 2, 0, 10, 6, 7]}, {"label": "livres-coup-de-coeur", "backgroundColor": "rgb(174,29,60)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8]}, {"label": "lobbying", "backgroundColor": "rgb(203,64,20)", "data": [0, 0, 0, 7, 2, 1, 1, 0, 0, 0, 0, 0]}, {"label": "logiciel-libre", "backgroundColor": "rgb(30,198,86)", "data": [0, 0, 0, 9, 6, 4, 4, 4, 5, 2, 3, 9]}, {"label": "manuel-terrien", "backgroundColor": "rgb(49,120,18)", "data": [0, 8, 13, 5, 2, 2, 0, 1, 0, 1, 1, 0]}, {"label": "marseille-17-18-avril", "backgroundColor": "rgb(51,80,8)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 11, 2]}, {"label": "meditation", "backgroundColor": "rgb(205,243,162)", "data": [0, 5, 2, 1, 0, 0, 0, 1, 0, 0, 4, 1]}, {"label": "medusa", "backgroundColor": "rgb(133,54,28)", "data": [0, 6, 15, 9, 4, 5, 0, 2, 0, 1, 1, 1]}, {"label": "meta", "backgroundColor": "rgb(10,84,68)", "data": [0, 0, 0, 0, 0, 0, 1, 2, 2, 7, 0, 0]}, {"label": "meta-communication", "backgroundColor": "rgb(67,213,234)", "data": [0, 0, 0, 4, 4, 1, 1, 3, 0, 1, 3, 2]}, {"label": "metacognition", "backgroundColor": "rgb(50,54,103)", "data": [0, 0, 0, 0, 11, 3, 5, 3, 1, 1, 1, 3]}, {"label": "mutuelle-sociale-solidaire", "backgroundColor": "rgb(120,157,213)", "data": [0, 0, 0, 25, 10, 16, 2, 7, 2, 0, 12, 8]}, {"label": "myhappy", "backgroundColor": "rgb(10,221,164)", "data": [0, 0, 0, 6, 9, 3, 1, 1, 2, 1, 1, 1]}, {"label": "nature-simplicite-bienveillance", "backgroundColor": "rgb(236,249,219)", "data": [14, 3, 6, 4, 2, 1, 0, 2, 3, 1, 3, 1]}, {"label": "nenuphar", "backgroundColor": "rgb(108,58,6)", "data": [0, 0, 0, 0, 0, 0, 0, 15, 10, 10, 11, 1]}, {"label": "neuroharmonie-neuromusique", "backgroundColor": "rgb(191,46,127)", "data": [0, 0, 0, 0, 0, 0, 0, 9, 6, 6, 3, 1]}, {"label": "no-gafam", "backgroundColor": "rgb(61,60,244)", "data": [17, 11, 8, 12, 17, 15, 13, 11, 10, 19, 13, 12]}, {"label": "open-hardware", "backgroundColor": "rgb(128,55,242)", "data": [0, 0, 0, 0, 0, 2, 2, 2, 2, 1, 0, 8]}, {"label": "outil-de-mediatisation", "backgroundColor": "rgb(245,21,220)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 2, 1]}, {"label": "ouvrons-et-reparons-les-objets", "backgroundColor": "rgb(28,80,104)", "data": [0, 0, 0, 0, 0, 0, 0, 17, 4, 5, 0, 0]}, {"label": "partage-dessins-et-techniques", "backgroundColor": "rgb(90,161,80)", "data": [3, 0, 1, 1, 0, 0, 0, 2, 0, 0, 0, 0]}, {"label": "philosophie", "backgroundColor": "rgb(247,198,93)", "data": [0, 11, 7, 10, 13, 13, 0, 6, 16, 6, 13, 14]}, {"label": "photovoltaique-hltech", "backgroundColor": "rgb(169,67,52)", "data": [0, 0, 0, 0, 0, 0, 4, 11, 2, 0, 0, 0]}, {"label": "piano-bar", "backgroundColor": "rgb(187,210,84)", "data": [1, 15, 2, 3, 4, 4, 4, 2, 0, 4, 0, 0]}, {"label": "pnl", "backgroundColor": "rgb(39,106,34)", "data": [8, 1, 3, 0, 1, 1, 1, 1, 0, 1, 0, 0]}, {"label": "pratiques-artistiques", "backgroundColor": "rgb(2,145,88)", "data": [0, 0, 12, 19, 11, 4, 2, 16, 16, 6, 13, 27]}, {"label": "produits-biocycliques", "backgroundColor": "rgb(185,210,37)", "data": [0, 0, 0, 0, 0, 0, 0, 6, 0, 1, 1, 0]}, {"label": "projet-transceiver-laser", "backgroundColor": "rgb(209,242,141)", "data": [2, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0]}, {"label": "psychologie-neurologie", "backgroundColor": "rgb(3,188,102)", "data": [10, 12, 12, 9, 13, 7, 7, 13, 7, 13, 6, 5]}, {"label": "pub-canaux", "backgroundColor": "rgb(244,172,173)", "data": [7, 0, 13, 1, 3, 2, 0, 1, 0, 0, 1, 0]}, {"label": "radio-crapaud", "backgroundColor": "rgb(113,205,151)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 8, 10]}, {"label": "recherches-biologie", "backgroundColor": "rgb(31,247,106)", "data": [8, 1, 3, 2, 2, 1, 0, 2, 2, 1, 3, 4]}, {"label": "reflexion-sur-l-argent", "backgroundColor": "rgb(234,195,86)", "data": [15, 15, 19, 13, 16, 22, 17, 25, 10, 21, 8, 15]}, {"label": "rencontre-crapaud-kangourou", "backgroundColor": "rgb(51,81,200)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]}, {"label": "resilience-du-crapaud-fou-projet", "backgroundColor": "rgb(34,56,239)", "data": [0, 0, 0, 0, 0, 0, 0, 11, 0, 5, 0, 0]}, {"label": "right-to-repair", "backgroundColor": "rgb(120,76,215)", "data": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 20]}, {"label": "selfishgene", "backgroundColor": "rgb(234,48,239)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0]}, {"label": "siteweb", "backgroundColor": "rgb(6,187,2)", "data": [6, 1, 2, 2, 3, 3, 1, 1, 2, 5, 2, 2]}, {"label": "sociologie-de-l-effondrement", "backgroundColor": "rgb(164,121,68)", "data": [19, 13, 19, 14, 15, 10, 13, 7, 17, 14, 9, 10]}, {"label": "solucracy", "backgroundColor": "rgb(120,213,103)", "data": [0, 0, 0, 0, 0, 18, 19, 15, 11, 19, 10, 17]}, {"label": "solucracy-dev", "backgroundColor": "rgb(243,142,228)", "data": [0, 0, 0, 0, 0, 0, 9, 5, 4, 7, 2, 0]}, {"label": "soutien-au-terrain", "backgroundColor": "rgb(38,218,14)", "data": [0, 0, 0, 0, 0, 0, 0, 20, 1, 1, 0, 1]}, {"label": "suggestion", "backgroundColor": "rgb(95,16,74)", "data": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}, {"label": "survivalismes-et-resiliences", "backgroundColor": "rgb(211,76,240)", "data": [18, 7, 13, 2, 4, 13, 5, 1, 0, 6, 3, 0]}, {"label": "team-hacker-debutant", "backgroundColor": "rgb(162,153,140)", "data": [25, 13, 2, 15, 12, 12, 17, 15, 7, 10, 7, 0]}, {"label": "tests", "backgroundColor": "rgb(199,18,170)", "data": [2, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0]}, {"label": "tiers-lieux-apprenant", "backgroundColor": "rgb(248,162,202)", "data": [27, 14, 6, 6, 11, 10, 10, 24, 24, 26, 22, 30]}, {"label": "tour-du-monde", "backgroundColor": "rgb(108,222,200)", "data": [0, 0, 0, 0, 0, 0, 0, 1, 6, 1, 3, 0]}, {"label": "transhumanisme-et-eugenisme", "backgroundColor": "rgb(30,153,188)", "data": [7, 0, 2, 0, 1, 1, 0, 3, 0, 0, 3, 5]}, {"label": "transport", "backgroundColor": "rgb(234,107,64)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 7, 3, 0, 0]}, {"label": "tsunamis", "backgroundColor": "rgb(210,55,142)", "data": [0, 0, 9, 3, 3, 3, 1, 5, 3, 3, 6, 7]}, {"label": "tvp-et-ebr", "backgroundColor": "rgb(235,235,176)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]}, {"label": "une-revolution-pourquoi-comment", "backgroundColor": "rgb(207,3,190)", "data": [0, 0, 2, 2, 2, 1, 0, 0, 0, 1, 1, 0]}, {"label": "unite-humaine", "backgroundColor": "rgb(37,185,115)", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 4, 0]}, {"label": "vers-une-nouvelle-civilisation", "backgroundColor": "rgb(48,213,212)", "data": [0, 0, 2, 1, 1, 2, 1, 1, 0, 1, 0, 2]}, {"label": "zero-dechet", "backgroundColor": "rgb(70,224,10)", "data": [22, 7, 8, 14, 12, 13, 11, 11, 3, 11, 5, 5]}, {"label": "zetetique-et-outils-epistemologiques", "backgroundColor": "rgb(165,146,96)", "data": [0, 0, 0, 13, 13, 4, 0, 4, 8, 5, 1, 4]}]}
+{
+    "updated": "updated 09/06/2019",
+    "labels": [
+        "Jun 2018",
+        "Jul 2018",
+        "Aug 2018",
+        "Sep 2018",
+        "Oct 2018",
+        "Nov 2018",
+        "Dec 2018",
+        "Jan 2019",
+        "Feb 2019",
+        "Mar 2019",
+        "Apr 2019",
+        "May 2019"
+    ],
+    "messagesByChannel": [
+        {
+            "label": "accueil",
+            "backgroundColor": "rgb(152,214,63)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                435,
+                834,
+                467,
+                655,
+                763,
+                898,
+                483,
+                1435
+            ]
+        },
+        {
+            "label": "agenda",
+            "backgroundColor": "rgb(1,202,209)",
+            "data": [
+                0,
+                0,
+                59,
+                103,
+                9,
+                9,
+                14,
+                11,
+                46,
+                55,
+                44,
+                77
+            ]
+        },
+        {
+            "label": "algoculture",
+            "backgroundColor": "rgb(98,160,14)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                420,
+                621,
+                16,
+                1
+            ]
+        },
+        {
+            "label": "animation-crapauds",
+            "backgroundColor": "rgb(153,238,161)",
+            "data": [
+                19,
+                8,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                96,
+                112,
+                0,
+                49
+            ]
+        },
+        {
+            "label": "aquaponie",
+            "backgroundColor": "rgb(246,158,21)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                116,
+                27,
+                2
+            ]
+        },
+        {
+            "label": "auberge-des-crapauds",
+            "backgroundColor": "rgb(204,109,72)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                32,
+                25,
+                227,
+                12,
+                16,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "audio-visuel-libre",
+            "backgroundColor": "rgb(227,101,240)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                504,
+                125,
+                27
+            ]
+        },
+        {
+            "label": "avoirouetre",
+            "backgroundColor": "rgb(208,143,235)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                41,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "burn-out",
+            "backgroundColor": "rgb(224,5,68)",
+            "data": [
+                205,
+                29,
+                23,
+                559,
+                0,
+                3,
+                79,
+                4,
+                0,
+                21,
+                1,
+                101
+            ]
+        },
+        {
+            "label": "cadeaux-ibf",
+            "backgroundColor": "rgb(162,155,199)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                8,
+                56,
+                33,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cause-animale",
+            "backgroundColor": "rgb(88,1,87)",
+            "data": [
+                0,
+                0,
+                39,
+                158,
+                50,
+                3,
+                0,
+                0,
+                1,
+                28,
+                5,
+                4
+            ]
+        },
+        {
+            "label": "cercle-autonomie-energetique",
+            "backgroundColor": "rgb(128,184,91)",
+            "data": [
+                176,
+                19,
+                545,
+                232,
+                13,
+                60,
+                14,
+                79,
+                19,
+                26,
+                6,
+                17
+            ]
+        },
+        {
+            "label": "cercle-blockchain-crypto",
+            "backgroundColor": "rgb(86,159,60)",
+            "data": [
+                146,
+                7,
+                4,
+                7,
+                9,
+                20,
+                10,
+                2,
+                1,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "label": "cercle-collaboratif",
+            "backgroundColor": "rgb(240,124,19)",
+            "data": [
+                54,
+                7,
+                5,
+                26,
+                77,
+                228,
+                9,
+                19,
+                38,
+                12,
+                6,
+                29
+            ]
+        },
+        {
+            "label": "cercle-des-arts",
+            "backgroundColor": "rgb(206,104,199)",
+            "data": [
+                351,
+                6,
+                26,
+                65,
+                37,
+                7,
+                43,
+                56,
+                13,
+                6,
+                2,
+                11
+            ]
+        },
+        {
+            "label": "cercle-diversit\u00e9-culturelle",
+            "backgroundColor": "rgb(194,95,237)",
+            "data": [
+                11,
+                51,
+                16,
+                3,
+                8,
+                3,
+                1,
+                3,
+                1,
+                3,
+                1,
+                5
+            ]
+        },
+        {
+            "label": "cercle-d\u00e9mocratie",
+            "backgroundColor": "rgb(9,138,109)",
+            "data": [
+                442,
+                104,
+                301,
+                31,
+                220,
+                192,
+                46,
+                358,
+                285,
+                221,
+                30,
+                57
+            ]
+        },
+        {
+            "label": "cercle-education",
+            "backgroundColor": "rgb(65,129,8)",
+            "data": [
+                1142,
+                680,
+                877,
+                367,
+                125,
+                235,
+                55,
+                656,
+                301,
+                314,
+                82,
+                573
+            ]
+        },
+        {
+            "label": "cercle-electronique",
+            "backgroundColor": "rgb(41,54,237)",
+            "data": [
+                1287,
+                58,
+                6,
+                1,
+                2,
+                10,
+                24,
+                2,
+                1,
+                0,
+                4,
+                2
+            ]
+        },
+        {
+            "label": "cercle-enthousiasme",
+            "backgroundColor": "rgb(150,154,135)",
+            "data": [
+                6,
+                8,
+                3,
+                30,
+                11,
+                2,
+                1,
+                12,
+                0,
+                1,
+                17,
+                5
+            ]
+        },
+        {
+            "label": "cercle-europe",
+            "backgroundColor": "rgb(66,97,128)",
+            "data": [
+                8,
+                27,
+                2,
+                1,
+                5,
+                47,
+                0,
+                1,
+                0,
+                5,
+                1,
+                13
+            ]
+        },
+        {
+            "label": "cercle-game-changers",
+            "backgroundColor": "rgb(145,56,129)",
+            "data": [
+                4,
+                3,
+                3,
+                1,
+                7,
+                1,
+                1,
+                2,
+                5,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "cercle-generation-2050",
+            "backgroundColor": "rgb(15,239,176)",
+            "data": [
+                11,
+                5,
+                67,
+                30,
+                4,
+                2,
+                7,
+                6,
+                13,
+                174,
+                52,
+                60
+            ]
+        },
+        {
+            "label": "cercle-genie-digital",
+            "backgroundColor": "rgb(148,163,194)",
+            "data": [
+                10,
+                12,
+                4,
+                1,
+                1,
+                4,
+                1,
+                2,
+                1,
+                1,
+                2,
+                1
+            ]
+        },
+        {
+            "label": "cercle-intergenerationnel",
+            "backgroundColor": "rgb(89,91,52)",
+            "data": [
+                0,
+                0,
+                90,
+                82,
+                23,
+                3,
+                0,
+                1,
+                21,
+                4,
+                0,
+                3
+            ]
+        },
+        {
+            "label": "cercle-neurodiversit\u00e9",
+            "backgroundColor": "rgb(21,60,77)",
+            "data": [
+                795,
+                910,
+                254,
+                991,
+                477,
+                421,
+                35,
+                270,
+                634,
+                281,
+                20,
+                335
+            ]
+        },
+        {
+            "label": "cercle-permaculture",
+            "backgroundColor": "rgb(209,201,196)",
+            "data": [
+                97,
+                121,
+                247,
+                128,
+                160,
+                31,
+                24,
+                81,
+                304,
+                106,
+                46,
+                69
+            ]
+        },
+        {
+            "label": "cercle-sante",
+            "backgroundColor": "rgb(242,189,234)",
+            "data": [
+                228,
+                94,
+                10,
+                70,
+                437,
+                106,
+                51,
+                52,
+                70,
+                186,
+                67,
+                70
+            ]
+        },
+        {
+            "label": "changer-de-paradigme",
+            "backgroundColor": "rgb(54,117,209)",
+            "data": [
+                0,
+                0,
+                931,
+                294,
+                420,
+                161,
+                123,
+                49,
+                28,
+                171,
+                32,
+                36
+            ]
+        },
+        {
+            "label": "chanvre",
+            "backgroundColor": "rgb(26,36,60)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                46,
+                0,
+                2,
+                6,
+                3,
+                2
+            ]
+        },
+        {
+            "label": "christin",
+            "backgroundColor": "rgb(147,224,14)",
+            "data": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cnv",
+            "backgroundColor": "rgb(161,113,176)",
+            "data": [
+                0,
+                0,
+                0,
+                30,
+                2,
+                3,
+                7,
+                0,
+                3,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "coartistes",
+            "backgroundColor": "rgb(195,199,243)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                339,
+                4,
+                2
+            ]
+        },
+        {
+            "label": "cohorte-2607",
+            "backgroundColor": "rgb(38,232,152)",
+            "data": [
+                6,
+                3,
+                1,
+                8,
+                3,
+                1,
+                1,
+                2,
+                6,
+                6,
+                9,
+                15
+            ]
+        },
+        {
+            "label": "cohorte-34",
+            "backgroundColor": "rgb(102,196,45)",
+            "data": [
+                35,
+                4,
+                0,
+                5,
+                0,
+                3,
+                4,
+                265,
+                48,
+                91,
+                82,
+                88
+            ]
+        },
+        {
+            "label": "cohorte-belgique",
+            "backgroundColor": "rgb(38,65,93)",
+            "data": [
+                266,
+                1,
+                1,
+                0,
+                7,
+                8,
+                5,
+                0,
+                6,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "cohorte-bourgogne",
+            "backgroundColor": "rgb(61,239,22)",
+            "data": [
+                9,
+                4,
+                15,
+                1,
+                1,
+                1,
+                3,
+                0,
+                5,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-bretagne",
+            "backgroundColor": "rgb(241,151,238)",
+            "data": [
+                5,
+                16,
+                12,
+                61,
+                44,
+                3,
+                8,
+                12,
+                1,
+                13,
+                6,
+                82
+            ]
+        },
+        {
+            "label": "cohorte-centre",
+            "backgroundColor": "rgb(4,118,179)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                14,
+                9,
+                2,
+                3,
+                0,
+                1,
+                0,
+                8
+            ]
+        },
+        {
+            "label": "cohorte-geek",
+            "backgroundColor": "rgb(148,42,89)",
+            "data": [
+                184,
+                87,
+                6,
+                42,
+                170,
+                517,
+                384,
+                329,
+                53,
+                358,
+                162,
+                211
+            ]
+        },
+        {
+            "label": "cohorte-grand-est",
+            "backgroundColor": "rgb(33,60,241)",
+            "data": [
+                15,
+                1,
+                1,
+                3,
+                7,
+                0,
+                1,
+                2,
+                4,
+                3,
+                1,
+                3
+            ]
+        },
+        {
+            "label": "cohorte-grenoble",
+            "backgroundColor": "rgb(104,0,66)",
+            "data": [
+                33,
+                5,
+                12,
+                14,
+                6,
+                0,
+                3,
+                0,
+                1,
+                4,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-hdf",
+            "backgroundColor": "rgb(5,112,221)",
+            "data": [
+                10,
+                3,
+                0,
+                9,
+                4,
+                3,
+                3,
+                32,
+                56,
+                40,
+                27,
+                17
+            ]
+        },
+        {
+            "label": "cohorte-ile-de-france",
+            "backgroundColor": "rgb(67,190,41)",
+            "data": [
+                145,
+                3,
+                69,
+                4,
+                2,
+                31,
+                17,
+                80,
+                180,
+                91,
+                14,
+                191
+            ]
+        },
+        {
+            "label": "cohorte-la-reunion",
+            "backgroundColor": "rgb(234,47,181)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                52,
+                22,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-normandie",
+            "backgroundColor": "rgb(39,107,22)",
+            "data": [
+                14,
+                0,
+                0,
+                2,
+                0,
+                8,
+                5,
+                1,
+                0,
+                0,
+                2,
+                2
+            ]
+        },
+        {
+            "label": "cohorte-paca",
+            "backgroundColor": "rgb(111,33,137)",
+            "data": [
+                12,
+                2,
+                9,
+                18,
+                2,
+                3,
+                1,
+                21,
+                3,
+                8,
+                7,
+                37
+            ]
+        },
+        {
+            "label": "cohorte-paysdesavoie",
+            "backgroundColor": "rgb(225,65,222)",
+            "data": [
+                0,
+                86,
+                24,
+                54,
+                4,
+                8,
+                12,
+                25,
+                0,
+                33,
+                0,
+                48
+            ]
+        },
+        {
+            "label": "cohorte-scientifique",
+            "backgroundColor": "rgb(249,21,77)",
+            "data": [
+                25,
+                2,
+                17,
+                43,
+                26,
+                37,
+                2,
+                3,
+                1,
+                7,
+                1,
+                29
+            ]
+        },
+        {
+            "label": "cohorte-sud-ouest",
+            "backgroundColor": "rgb(85,108,56)",
+            "data": [
+                52,
+                3,
+                12,
+                8,
+                5,
+                2,
+                5,
+                35,
+                3,
+                4,
+                0,
+                5
+            ]
+        },
+        {
+            "label": "cohorte-suisse",
+            "backgroundColor": "rgb(33,195,169)",
+            "data": [
+                0,
+                0,
+                0,
+                24,
+                1,
+                6,
+                7,
+                24,
+                22,
+                38,
+                99,
+                10
+            ]
+        },
+        {
+            "label": "comment-se-proteger-de-la-republique",
+            "backgroundColor": "rgb(149,194,185)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                65,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "communecter",
+            "backgroundColor": "rgb(157,99,213)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                91
+            ]
+        },
+        {
+            "label": "compagnon-du-devoir-educatif",
+            "backgroundColor": "rgb(125,221,246)",
+            "data": [
+                0,
+                0,
+                0,
+                91,
+                8,
+                12,
+                3,
+                5,
+                69,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "conf-inter-g",
+            "backgroundColor": "rgb(234,31,151)",
+            "data": [
+                0,
+                0,
+                0,
+                309,
+                49,
+                47,
+                0,
+                0,
+                1,
+                35,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cooperatives",
+            "backgroundColor": "rgb(18,33,3)",
+            "data": [
+                19,
+                8,
+                10,
+                24,
+                2,
+                1,
+                13,
+                2,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "covoiturage-montpellier-aix-en-provence",
+            "backgroundColor": "rgb(59,9,165)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                7,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "crapaud-fou-tv",
+            "backgroundColor": "rgb(22,20,223)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                17,
+                4,
+                0
+            ]
+        },
+        {
+            "label": "cyber-sensibilisation",
+            "backgroundColor": "rgb(173,157,97)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                117,
+                0,
+                7
+            ]
+        },
+        {
+            "label": "desobeissance-civile",
+            "backgroundColor": "rgb(14,101,22)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                96,
+                257,
+                77
+            ]
+        },
+        {
+            "label": "developpement-personnel",
+            "backgroundColor": "rgb(94,7,74)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                99,
+                11
+            ]
+        },
+        {
+            "label": "doughnut-economics",
+            "backgroundColor": "rgb(93,245,219)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                14
+            ]
+        },
+        {
+            "label": "economie-connaissance",
+            "backgroundColor": "rgb(102,65,156)",
+            "data": [
+                73,
+                10,
+                6,
+                9,
+                91,
+                8,
+                879,
+                203,
+                18,
+                71,
+                186,
+                44
+            ]
+        },
+        {
+            "label": "ecovillages-ecoquartiers",
+            "backgroundColor": "rgb(68,22,63)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                214,
+                68,
+                99,
+                145
+            ]
+        },
+        {
+            "label": "education-populaire",
+            "backgroundColor": "rgb(219,171,34)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                130
+            ]
+        },
+        {
+            "label": "energie",
+            "backgroundColor": "rgb(178,232,170)",
+            "data": [
+                16,
+                73,
+                1,
+                2,
+                3,
+                3,
+                82,
+                3,
+                0,
+                3,
+                4,
+                40
+            ]
+        },
+        {
+            "label": "energies-agiles",
+            "backgroundColor": "rgb(170,13,100)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                371,
+                34,
+                0,
+                1,
+                0,
+                1,
+                2,
+                10
+            ]
+        },
+        {
+            "label": "essaimage",
+            "backgroundColor": "rgb(148,40,15)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                131,
+                90,
+                12,
+                8,
+                0,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "exemples-low-tech-habiter",
+            "backgroundColor": "rgb(68,194,12)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                24,
+                3,
+                4,
+                2,
+                3,
+                4,
+                0
+            ]
+        },
+        {
+            "label": "faire",
+            "backgroundColor": "rgb(57,76,7)",
+            "data": [
+                9,
+                1,
+                2,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "faire-avancer-le-schmilblick-ecologique",
+            "backgroundColor": "rgb(142,120,71)",
+            "data": [
+                0,
+                0,
+                19,
+                0,
+                0,
+                0,
+                0,
+                0,
+                25,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "ferme-pedagogique-albi",
+            "backgroundColor": "rgb(4,105,98)",
+            "data": [
+                10,
+                0,
+                1,
+                2,
+                0,
+                3,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "fou-a-lier",
+            "backgroundColor": "rgb(102,157,193)",
+            "data": [
+                147,
+                13,
+                23,
+                20,
+                3,
+                4,
+                48,
+                4,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "francais-langue-etrangere",
+            "backgroundColor": "rgb(38,143,20)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11
+            ]
+        },
+        {
+            "label": "general",
+            "backgroundColor": "rgb(167,42,108)",
+            "data": [
+                5057,
+                1263,
+                1527,
+                1946,
+                779,
+                2862,
+                379,
+                837,
+                1368,
+                1265,
+                825,
+                668
+            ]
+        },
+        {
+            "label": "geopolitique",
+            "backgroundColor": "rgb(31,178,75)",
+            "data": [
+                35,
+                13,
+                32,
+                100,
+                4,
+                1,
+                1,
+                140,
+                38,
+                9,
+                3,
+                1
+            ]
+        },
+        {
+            "label": "gestion-de-l-eau",
+            "backgroundColor": "rgb(253,106,91)",
+            "data": [
+                96,
+                1,
+                13,
+                2,
+                3,
+                12,
+                2,
+                2,
+                47,
+                1,
+                3,
+                3
+            ]
+        },
+        {
+            "label": "gilets-jaunes",
+            "backgroundColor": "rgb(5,137,194)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1647,
+                4644,
+                3510,
+                1018,
+                1400,
+                1259,
+                361
+            ]
+        },
+        {
+            "label": "godelescherbach",
+            "backgroundColor": "rgb(133,235,10)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "habitat-durable",
+            "backgroundColor": "rgb(102,2,119)",
+            "data": [
+                0,
+                0,
+                0,
+                34,
+                3,
+                10,
+                0,
+                1,
+                1,
+                2,
+                20,
+                3
+            ]
+        },
+        {
+            "label": "hackathon-distribue",
+            "backgroundColor": "rgb(9,217,25)",
+            "data": [
+                65,
+                9,
+                37,
+                7,
+                3,
+                14,
+                1,
+                5,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "label": "hacker-les-contes-pour-enfants",
+            "backgroundColor": "rgb(132,222,154)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                41
+            ]
+        },
+        {
+            "label": "hackerspace-angers",
+            "backgroundColor": "rgb(82,214,235)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                118,
+                27,
+                0,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "holacratie-et-sociocratie",
+            "backgroundColor": "rgb(250,208,78)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                52,
+                59,
+                41,
+                1,
+                2
+            ]
+        },
+        {
+            "label": "how-to-low-tech",
+            "backgroundColor": "rgb(211,183,32)",
+            "data": [
+                195,
+                21,
+                50,
+                22,
+                75,
+                411,
+                256,
+                13,
+                5,
+                9,
+                25,
+                34
+            ]
+        },
+        {
+            "label": "hypermedia",
+            "backgroundColor": "rgb(135,151,81)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13,
+                1,
+                381,
+                101,
+                3
+            ]
+        },
+        {
+            "label": "impression-3d",
+            "backgroundColor": "rgb(58,232,118)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                30
+            ]
+        },
+        {
+            "label": "info-desintox",
+            "backgroundColor": "rgb(245,97,136)",
+            "data": [
+                83,
+                33,
+                117,
+                131,
+                43,
+                4,
+                4,
+                14,
+                3,
+                7,
+                2,
+                15
+            ]
+        },
+        {
+            "label": "intelligence-artificielle",
+            "backgroundColor": "rgb(99,232,118)",
+            "data": [
+                57,
+                7,
+                126,
+                25,
+                8,
+                61,
+                14,
+                269,
+                12,
+                14,
+                9,
+                114
+            ]
+        },
+        {
+            "label": "intelligence-collective",
+            "backgroundColor": "rgb(30,47,66)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                21
+            ]
+        },
+        {
+            "label": "jeux-inde-1",
+            "backgroundColor": "rgb(168,224,11)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                36,
+                1,
+                6,
+                2,
+                2
+            ]
+        },
+        {
+            "label": "journee-aux-amanins-15-juin",
+            "backgroundColor": "rgb(134,240,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                409
+            ]
+        },
+        {
+            "label": "journee-cri",
+            "backgroundColor": "rgb(195,208,239)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                413,
+                2231,
+                289,
+                2
+            ]
+        },
+        {
+            "label": "journee-solucracy-a-marcoussis",
+            "backgroundColor": "rgb(106,158,47)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                37,
+                192,
+                66
+            ]
+        },
+        {
+            "label": "journee-univ-j-verne-nantes-4-juil-2019",
+            "backgroundColor": "rgb(164,137,144)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                149
+            ]
+        },
+        {
+            "label": "la-bascule-lobby-citoyen",
+            "backgroundColor": "rgb(148,96,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                223,
+                125,
+                21
+            ]
+        },
+        {
+            "label": "langage-vrai-anti-glossaire",
+            "backgroundColor": "rgb(190,133,175)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                167,
+                257,
+                27,
+                65
+            ]
+        },
+        {
+            "label": "le-led",
+            "backgroundColor": "rgb(164,40,80)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                29
+            ]
+        },
+        {
+            "label": "les-racines-profondes-de-la-crise-globale",
+            "backgroundColor": "rgb(195,43,68)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                92,
+                11
+            ]
+        },
+        {
+            "label": "lhomme-et-la-terre",
+            "backgroundColor": "rgb(181,170,213)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                102
+            ]
+        },
+        {
+            "label": "libre",
+            "backgroundColor": "rgb(41,20,222)",
+            "data": [
+                344,
+                3,
+                3,
+                581,
+                721,
+                12,
+                0,
+                2,
+                0,
+                1021,
+                23,
+                31
+            ]
+        },
+        {
+            "label": "livres-coup-de-coeur",
+            "backgroundColor": "rgb(97,83,128)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                28
+            ]
+        },
+        {
+            "label": "lobbying",
+            "backgroundColor": "rgb(70,110,77)",
+            "data": [
+                0,
+                0,
+                0,
+                54,
+                2,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "logiciel-libre",
+            "backgroundColor": "rgb(237,139,61)",
+            "data": [
+                0,
+                0,
+                0,
+                169,
+                15,
+                4,
+                4,
+                8,
+                183,
+                3,
+                3,
+                84
+            ]
+        },
+        {
+            "label": "manuel-terrien",
+            "backgroundColor": "rgb(87,107,215)",
+            "data": [
+                0,
+                42,
+                256,
+                9,
+                2,
+                2,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "marseille-17-18-avril",
+            "backgroundColor": "rgb(222,118,80)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                121,
+                32,
+                2
+            ]
+        },
+        {
+            "label": "meditation",
+            "backgroundColor": "rgb(180,82,141)",
+            "data": [
+                2,
+                4,
+                2,
+                2,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                1
+            ]
+        },
+        {
+            "label": "medusa",
+            "backgroundColor": "rgb(204,77,100)",
+            "data": [
+                0,
+                226,
+                615,
+                182,
+                10,
+                6,
+                0,
+                2,
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "meta",
+            "backgroundColor": "rgb(85,165,139)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                218,
+                15,
+                97,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "meta-communication",
+            "backgroundColor": "rgb(206,82,64)",
+            "data": [
+                0,
+                0,
+                0,
+                15,
+                43,
+                1,
+                1,
+                4,
+                0,
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "label": "metacognition",
+            "backgroundColor": "rgb(38,131,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                27,
+                4,
+                7,
+                5,
+                1,
+                1,
+                1,
+                4
+            ]
+        },
+        {
+            "label": "mutuelle-sociale-solidaire",
+            "backgroundColor": "rgb(189,164,175)",
+            "data": [
+                0,
+                0,
+                0,
+                1090,
+                50,
+                610,
+                3,
+                108,
+                1,
+                0,
+                50,
+                20
+            ]
+        },
+        {
+            "label": "myhappy",
+            "backgroundColor": "rgb(100,195,44)",
+            "data": [
+                0,
+                0,
+                0,
+                122,
+                47,
+                16,
+                1,
+                1,
+                3,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "nature-simplicite-bienveillance",
+            "backgroundColor": "rgb(221,114,115)",
+            "data": [
+                21,
+                3,
+                6,
+                4,
+                2,
+                1,
+                0,
+                2,
+                3,
+                1,
+                5,
+                1
+            ]
+        },
+        {
+            "label": "nenuphar",
+            "backgroundColor": "rgb(246,33,67)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                608,
+                115,
+                346,
+                24,
+                1
+            ]
+        },
+        {
+            "label": "neuroharmonie-neuromusique",
+            "backgroundColor": "rgb(54,199,1)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                229,
+                13,
+                44,
+                4,
+                1
+            ]
+        },
+        {
+            "label": "no-gafam",
+            "backgroundColor": "rgb(63,76,208)",
+            "data": [
+                248,
+                93,
+                48,
+                270,
+                162,
+                239,
+                52,
+                56,
+                210,
+                380,
+                91,
+                45
+            ]
+        },
+        {
+            "label": "open-hardware",
+            "backgroundColor": "rgb(132,53,158)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                19,
+                11,
+                3,
+                1,
+                0,
+                133
+            ]
+        },
+        {
+            "label": "outil-de-mediatisation",
+            "backgroundColor": "rgb(15,253,16)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                812,
+                30,
+                1
+            ]
+        },
+        {
+            "label": "ouvrons-et-reparons-les-objets",
+            "backgroundColor": "rgb(209,41,93)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                44,
+                6,
+                8,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "partage-dessins-et-techniques",
+            "backgroundColor": "rgb(197,82,19)",
+            "data": [
+                4,
+                0,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "philosophie",
+            "backgroundColor": "rgb(221,46,54)",
+            "data": [
+                0,
+                76,
+                13,
+                188,
+                169,
+                149,
+                0,
+                49,
+                425,
+                3,
+                163,
+                109
+            ]
+        },
+        {
+            "label": "photovoltaique-hltech",
+            "backgroundColor": "rgb(24,28,32)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                56,
+                170,
+                12,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "piano-bar",
+            "backgroundColor": "rgb(163,72,25)",
+            "data": [
+                6,
+                498,
+                4,
+                36,
+                22,
+                13,
+                19,
+                1,
+                0,
+                4,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "pnl",
+            "backgroundColor": "rgb(128,59,103)",
+            "data": [
+                11,
+                1,
+                3,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "pratiques-artistiques",
+            "backgroundColor": "rgb(109,158,128)",
+            "data": [
+                0,
+                0,
+                360,
+                718,
+                214,
+                3,
+                2,
+                92,
+                153,
+                26,
+                103,
+                198
+            ]
+        },
+        {
+            "label": "produits-biocycliques",
+            "backgroundColor": "rgb(226,81,71)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "projet-transceiver-laser",
+            "backgroundColor": "rgb(95,223,241)",
+            "data": [
+                7,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "psychologie-neurologie",
+            "backgroundColor": "rgb(114,77,92)",
+            "data": [
+                34,
+                48,
+                219,
+                10,
+                204,
+                22,
+                36,
+                244,
+                42,
+                45,
+                17,
+                27
+            ]
+        },
+        {
+            "label": "pub-canaux",
+            "backgroundColor": "rgb(149,60,230)",
+            "data": [
+                17,
+                0,
+                462,
+                1,
+                32,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "radio-crapaud",
+            "backgroundColor": "rgb(139,22,236)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                160,
+                29,
+                66
+            ]
+        },
+        {
+            "label": "recherches-biologie",
+            "backgroundColor": "rgb(33,236,20)",
+            "data": [
+                10,
+                1,
+                3,
+                2,
+                2,
+                1,
+                0,
+                3,
+                4,
+                3,
+                1,
+                16
+            ]
+        },
+        {
+            "label": "reflexion-sur-l-argent",
+            "backgroundColor": "rgb(53,253,129)",
+            "data": [
+                519,
+                214,
+                550,
+                41,
+                338,
+                1005,
+                224,
+                175,
+                96,
+                340,
+                14,
+                439
+            ]
+        },
+        {
+            "label": "rencontre-crapaud-kangourou",
+            "backgroundColor": "rgb(200,93,193)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                215
+            ]
+        },
+        {
+            "label": "resilience-du-crapaud-fou-projet",
+            "backgroundColor": "rgb(235,10,68)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                534,
+                0,
+                7,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "right-to-repair",
+            "backgroundColor": "rgb(52,159,247)",
+            "data": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                147,
+                145
+            ]
+        },
+        {
+            "label": "selfishgene",
+            "backgroundColor": "rgb(237,16,226)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "siteweb",
+            "backgroundColor": "rgb(204,163,169)",
+            "data": [
+                9,
+                0,
+                8,
+                13,
+                4,
+                68,
+                12,
+                4,
+                8,
+                189,
+                2,
+                25
+            ]
+        },
+        {
+            "label": "sociologie-de-l-effondrement",
+            "backgroundColor": "rgb(42,98,58)",
+            "data": [
+                571,
+                102,
+                274,
+                149,
+                161,
+                133,
+                30,
+                16,
+                178,
+                88,
+                14,
+                17
+            ]
+        },
+        {
+            "label": "solucracy",
+            "backgroundColor": "rgb(71,140,157)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1379,
+                1287,
+                72,
+                93,
+                206,
+                48,
+                146
+            ]
+        },
+        {
+            "label": "solucracy-dev",
+            "backgroundColor": "rgb(246,99,238)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1198,
+                161,
+                25,
+                69,
+                3,
+                0
+            ]
+        },
+        {
+            "label": "soutien-au-terrain",
+            "backgroundColor": "rgb(7,114,234)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                167,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "suggestion",
+            "backgroundColor": "rgb(177,238,219)",
+            "data": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "survivalismes-et-resiliences",
+            "backgroundColor": "rgb(10,162,51)",
+            "data": [
+                226,
+                47,
+                49,
+                2,
+                4,
+                74,
+                11,
+                1,
+                0,
+                15,
+                2,
+                0
+            ]
+        },
+        {
+            "label": "team-hacker-debutant",
+            "backgroundColor": "rgb(21,6,200)",
+            "data": [
+                95,
+                44,
+                3,
+                181,
+                45,
+                16,
+                136,
+                128,
+                57,
+                118,
+                17,
+                1
+            ]
+        },
+        {
+            "label": "tests",
+            "backgroundColor": "rgb(22,254,73)",
+            "data": [
+                67,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                7,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "tiers-lieux-apprenant",
+            "backgroundColor": "rgb(208,146,24)",
+            "data": [
+                1034,
+                65,
+                15,
+                101,
+                36,
+                142,
+                87,
+                482,
+                345,
+                1223,
+                336,
+                538
+            ]
+        },
+        {
+            "label": "tour-du-monde",
+            "backgroundColor": "rgb(19,79,129)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                40,
+                25,
+                1,
+                3,
+                0
+            ]
+        },
+        {
+            "label": "transhumanisme-et-eugenisme",
+            "backgroundColor": "rgb(56,138,35)",
+            "data": [
+                16,
+                0,
+                3,
+                0,
+                1,
+                1,
+                0,
+                3,
+                0,
+                0,
+                8,
+                51
+            ]
+        },
+        {
+            "label": "transport",
+            "backgroundColor": "rgb(106,161,86)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                17,
+                5,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "tsunamis",
+            "backgroundColor": "rgb(194,86,232)",
+            "data": [
+                0,
+                0,
+                315,
+                3,
+                8,
+                2,
+                1,
+                23,
+                4,
+                6,
+                33,
+                41
+            ]
+        },
+        {
+            "label": "tvp-et-ebr",
+            "backgroundColor": "rgb(24,158,244)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                165
+            ]
+        },
+        {
+            "label": "une-revolution-pourquoi-comment",
+            "backgroundColor": "rgb(171,203,189)",
+            "data": [
+                0,
+                0,
+                13,
+                8,
+                14,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "unite-humaine",
+            "backgroundColor": "rgb(103,194,43)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                55,
+                13,
+                0
+            ]
+        },
+        {
+            "label": "vers-une-nouvelle-civilisation",
+            "backgroundColor": "rgb(144,53,54)",
+            "data": [
+                0,
+                0,
+                3,
+                2,
+                1,
+                9,
+                1,
+                1,
+                0,
+                1,
+                0,
+                4
+            ]
+        },
+        {
+            "label": "zero-dechet",
+            "backgroundColor": "rgb(208,140,109)",
+            "data": [
+                173,
+                98,
+                35,
+                90,
+                37,
+                149,
+                129,
+                59,
+                3,
+                117,
+                13,
+                70
+            ]
+        },
+        {
+            "label": "zetetique-et-outils-epistemologiques",
+            "backgroundColor": "rgb(52,187,51)",
+            "data": [
+                0,
+                0,
+                0,
+                522,
+                255,
+                4,
+                0,
+                289,
+                8,
+                18,
+                2,
+                12
+            ]
+        }
+    ],
+    "usersByChannel": [
+        {
+            "label": "accueil",
+            "backgroundColor": "rgb(152,214,63)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                45,
+                90,
+                75,
+                94,
+                79,
+                95,
+                72,
+                149
+            ]
+        },
+        {
+            "label": "agenda",
+            "backgroundColor": "rgb(1,202,209)",
+            "data": [
+                0,
+                0,
+                16,
+                22,
+                8,
+                6,
+                8,
+                8,
+                13,
+                17,
+                12,
+                20
+            ]
+        },
+        {
+            "label": "algoculture",
+            "backgroundColor": "rgb(98,160,14)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13,
+                12,
+                2,
+                1
+            ]
+        },
+        {
+            "label": "animation-crapauds",
+            "backgroundColor": "rgb(153,238,161)",
+            "data": [
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                5,
+                7,
+                0,
+                5
+            ]
+        },
+        {
+            "label": "aquaponie",
+            "backgroundColor": "rgb(246,158,21)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13,
+                5,
+                2
+            ]
+        },
+        {
+            "label": "auberge-des-crapauds",
+            "backgroundColor": "rgb(204,109,72)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                12,
+                10,
+                7,
+                7,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "audio-visuel-libre",
+            "backgroundColor": "rgb(227,101,240)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                10,
+                10
+            ]
+        },
+        {
+            "label": "avoirouetre",
+            "backgroundColor": "rgb(208,143,235)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "burn-out",
+            "backgroundColor": "rgb(224,5,68)",
+            "data": [
+                15,
+                8,
+                6,
+                10,
+                0,
+                2,
+                6,
+                2,
+                0,
+                6,
+                1,
+                6
+            ]
+        },
+        {
+            "label": "cadeaux-ibf",
+            "backgroundColor": "rgb(162,155,199)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                9,
+                4,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cause-animale",
+            "backgroundColor": "rgb(88,1,87)",
+            "data": [
+                0,
+                0,
+                4,
+                13,
+                5,
+                3,
+                0,
+                0,
+                1,
+                5,
+                2,
+                3
+            ]
+        },
+        {
+            "label": "cercle-autonomie-energetique",
+            "backgroundColor": "rgb(128,184,91)",
+            "data": [
+                19,
+                10,
+                14,
+                16,
+                12,
+                16,
+                9,
+                13,
+                8,
+                9,
+                6,
+                12
+            ]
+        },
+        {
+            "label": "cercle-blockchain-crypto",
+            "backgroundColor": "rgb(86,159,60)",
+            "data": [
+                15,
+                7,
+                4,
+                4,
+                7,
+                5,
+                6,
+                2,
+                1,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "label": "cercle-collaboratif",
+            "backgroundColor": "rgb(240,124,19)",
+            "data": [
+                28,
+                6,
+                5,
+                12,
+                10,
+                15,
+                7,
+                9,
+                6,
+                5,
+                3,
+                9
+            ]
+        },
+        {
+            "label": "cercle-des-arts",
+            "backgroundColor": "rgb(206,104,199)",
+            "data": [
+                26,
+                6,
+                9,
+                12,
+                12,
+                7,
+                7,
+                16,
+                9,
+                5,
+                2,
+                8
+            ]
+        },
+        {
+            "label": "cercle-diversit\u00e9-culturelle",
+            "backgroundColor": "rgb(194,95,237)",
+            "data": [
+                9,
+                6,
+                6,
+                3,
+                5,
+                3,
+                1,
+                3,
+                1,
+                2,
+                1,
+                3
+            ]
+        },
+        {
+            "label": "cercle-d\u00e9mocratie",
+            "backgroundColor": "rgb(9,138,109)",
+            "data": [
+                30,
+                14,
+                13,
+                14,
+                11,
+                18,
+                18,
+                21,
+                8,
+                20,
+                9,
+                10
+            ]
+        },
+        {
+            "label": "cercle-education",
+            "backgroundColor": "rgb(65,129,8)",
+            "data": [
+                44,
+                30,
+                30,
+                23,
+                17,
+                21,
+                13,
+                24,
+                20,
+                20,
+                17,
+                30
+            ]
+        },
+        {
+            "label": "cercle-electronique",
+            "backgroundColor": "rgb(41,54,237)",
+            "data": [
+                24,
+                6,
+                3,
+                1,
+                2,
+                4,
+                6,
+                1,
+                1,
+                0,
+                4,
+                2
+            ]
+        },
+        {
+            "label": "cercle-enthousiasme",
+            "backgroundColor": "rgb(150,154,135)",
+            "data": [
+                6,
+                3,
+                3,
+                6,
+                7,
+                2,
+                1,
+                4,
+                0,
+                1,
+                4,
+                2
+            ]
+        },
+        {
+            "label": "cercle-europe",
+            "backgroundColor": "rgb(66,97,128)",
+            "data": [
+                7,
+                5,
+                2,
+                1,
+                3,
+                4,
+                0,
+                1,
+                0,
+                2,
+                1,
+                4
+            ]
+        },
+        {
+            "label": "cercle-game-changers",
+            "backgroundColor": "rgb(145,56,129)",
+            "data": [
+                4,
+                3,
+                3,
+                1,
+                5,
+                1,
+                1,
+                2,
+                2,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "cercle-generation-2050",
+            "backgroundColor": "rgb(15,239,176)",
+            "data": [
+                8,
+                3,
+                7,
+                6,
+                2,
+                2,
+                3,
+                4,
+                7,
+                10,
+                9,
+                8
+            ]
+        },
+        {
+            "label": "cercle-genie-digital",
+            "backgroundColor": "rgb(148,163,194)",
+            "data": [
+                10,
+                8,
+                4,
+                1,
+                1,
+                3,
+                1,
+                2,
+                1,
+                1,
+                2,
+                1
+            ]
+        },
+        {
+            "label": "cercle-intergenerationnel",
+            "backgroundColor": "rgb(89,91,52)",
+            "data": [
+                0,
+                0,
+                8,
+                6,
+                5,
+                3,
+                0,
+                1,
+                5,
+                3,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "cercle-neurodiversit\u00e9",
+            "backgroundColor": "rgb(21,60,77)",
+            "data": [
+                31,
+                18,
+                15,
+                20,
+                19,
+                20,
+                9,
+                20,
+                18,
+                18,
+                12,
+                17
+            ]
+        },
+        {
+            "label": "cercle-permaculture",
+            "backgroundColor": "rgb(209,201,196)",
+            "data": [
+                22,
+                13,
+                17,
+                24,
+                18,
+                17,
+                13,
+                12,
+                23,
+                22,
+                11,
+                24
+            ]
+        },
+        {
+            "label": "cercle-sante",
+            "backgroundColor": "rgb(242,189,234)",
+            "data": [
+                17,
+                16,
+                7,
+                9,
+                13,
+                8,
+                9,
+                6,
+                8,
+                11,
+                8,
+                9
+            ]
+        },
+        {
+            "label": "changer-de-paradigme",
+            "backgroundColor": "rgb(54,117,209)",
+            "data": [
+                0,
+                0,
+                19,
+                17,
+                20,
+                16,
+                15,
+                13,
+                10,
+                19,
+                11,
+                19
+            ]
+        },
+        {
+            "label": "chanvre",
+            "backgroundColor": "rgb(26,36,60)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                0,
+                2,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "christin",
+            "backgroundColor": "rgb(147,224,14)",
+            "data": [
+                0,
+                0,
+                1,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cnv",
+            "backgroundColor": "rgb(161,113,176)",
+            "data": [
+                0,
+                0,
+                0,
+                7,
+                2,
+                3,
+                4,
+                0,
+                2,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "coartistes",
+            "backgroundColor": "rgb(195,199,243)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13,
+                3,
+                2
+            ]
+        },
+        {
+            "label": "cohorte-2607",
+            "backgroundColor": "rgb(38,232,152)",
+            "data": [
+                5,
+                1,
+                1,
+                6,
+                2,
+                1,
+                1,
+                2,
+                2,
+                3,
+                5,
+                7
+            ]
+        },
+        {
+            "label": "cohorte-34",
+            "backgroundColor": "rgb(102,196,45)",
+            "data": [
+                7,
+                2,
+                0,
+                3,
+                0,
+                3,
+                4,
+                16,
+                10,
+                9,
+                9,
+                14
+            ]
+        },
+        {
+            "label": "cohorte-belgique",
+            "backgroundColor": "rgb(38,65,93)",
+            "data": [
+                10,
+                1,
+                1,
+                0,
+                4,
+                4,
+                3,
+                0,
+                2,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "cohorte-bourgogne",
+            "backgroundColor": "rgb(61,239,22)",
+            "data": [
+                4,
+                2,
+                3,
+                1,
+                1,
+                1,
+                1,
+                0,
+                2,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-bretagne",
+            "backgroundColor": "rgb(241,151,238)",
+            "data": [
+                4,
+                5,
+                6,
+                9,
+                7,
+                2,
+                4,
+                4,
+                1,
+                5,
+                4,
+                9
+            ]
+        },
+        {
+            "label": "cohorte-centre",
+            "backgroundColor": "rgb(4,118,179)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                4,
+                6,
+                2,
+                2,
+                0,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "cohorte-geek",
+            "backgroundColor": "rgb(148,42,89)",
+            "data": [
+                21,
+                15,
+                4,
+                14,
+                17,
+                19,
+                18,
+                13,
+                12,
+                18,
+                17,
+                25
+            ]
+        },
+        {
+            "label": "cohorte-grand-est",
+            "backgroundColor": "rgb(33,60,241)",
+            "data": [
+                5,
+                1,
+                1,
+                2,
+                2,
+                0,
+                1,
+                1,
+                2,
+                3,
+                1,
+                2
+            ]
+        },
+        {
+            "label": "cohorte-grenoble",
+            "backgroundColor": "rgb(104,0,66)",
+            "data": [
+                8,
+                3,
+                5,
+                5,
+                3,
+                0,
+                2,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-hdf",
+            "backgroundColor": "rgb(5,112,221)",
+            "data": [
+                7,
+                2,
+                0,
+                2,
+                2,
+                2,
+                2,
+                5,
+                7,
+                9,
+                8,
+                4
+            ]
+        },
+        {
+            "label": "cohorte-ile-de-france",
+            "backgroundColor": "rgb(67,190,41)",
+            "data": [
+                22,
+                2,
+                11,
+                3,
+                2,
+                10,
+                12,
+                14,
+                13,
+                14,
+                6,
+                21
+            ]
+        },
+        {
+            "label": "cohorte-la-reunion",
+            "backgroundColor": "rgb(234,47,181)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                7,
+                3,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cohorte-normandie",
+            "backgroundColor": "rgb(39,107,22)",
+            "data": [
+                6,
+                0,
+                0,
+                1,
+                0,
+                3,
+                4,
+                1,
+                0,
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "cohorte-paca",
+            "backgroundColor": "rgb(111,33,137)",
+            "data": [
+                3,
+                2,
+                4,
+                5,
+                1,
+                2,
+                1,
+                10,
+                3,
+                2,
+                4,
+                7
+            ]
+        },
+        {
+            "label": "cohorte-paysdesavoie",
+            "backgroundColor": "rgb(225,65,222)",
+            "data": [
+                0,
+                7,
+                4,
+                7,
+                3,
+                3,
+                5,
+                5,
+                0,
+                5,
+                0,
+                11
+            ]
+        },
+        {
+            "label": "cohorte-scientifique",
+            "backgroundColor": "rgb(249,21,77)",
+            "data": [
+                16,
+                2,
+                7,
+                9,
+                7,
+                8,
+                2,
+                2,
+                1,
+                3,
+                1,
+                5
+            ]
+        },
+        {
+            "label": "cohorte-sud-ouest",
+            "backgroundColor": "rgb(85,108,56)",
+            "data": [
+                7,
+                2,
+                5,
+                4,
+                4,
+                2,
+                4,
+                6,
+                2,
+                4,
+                0,
+                4
+            ]
+        },
+        {
+            "label": "cohorte-suisse",
+            "backgroundColor": "rgb(33,195,169)",
+            "data": [
+                0,
+                0,
+                0,
+                4,
+                1,
+                3,
+                5,
+                5,
+                6,
+                5,
+                6,
+                6
+            ]
+        },
+        {
+            "label": "comment-se-proteger-de-la-republique",
+            "backgroundColor": "rgb(149,194,185)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "communecter",
+            "backgroundColor": "rgb(157,99,213)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "label": "compagnon-du-devoir-educatif",
+            "backgroundColor": "rgb(125,221,246)",
+            "data": [
+                0,
+                0,
+                0,
+                12,
+                3,
+                4,
+                3,
+                3,
+                3,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "conf-inter-g",
+            "backgroundColor": "rgb(234,31,151)",
+            "data": [
+                0,
+                0,
+                0,
+                7,
+                6,
+                6,
+                0,
+                0,
+                1,
+                6,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "cooperatives",
+            "backgroundColor": "rgb(18,33,3)",
+            "data": [
+                8,
+                3,
+                4,
+                5,
+                2,
+                1,
+                5,
+                2,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "covoiturage-montpellier-aix-en-provence",
+            "backgroundColor": "rgb(59,9,165)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "crapaud-fou-tv",
+            "backgroundColor": "rgb(22,20,223)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                0
+            ]
+        },
+        {
+            "label": "cyber-sensibilisation",
+            "backgroundColor": "rgb(173,157,97)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                0,
+                4
+            ]
+        },
+        {
+            "label": "desobeissance-civile",
+            "backgroundColor": "rgb(14,101,22)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                16,
+                17
+            ]
+        },
+        {
+            "label": "developpement-personnel",
+            "backgroundColor": "rgb(94,7,74)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                7
+            ]
+        },
+        {
+            "label": "doughnut-economics",
+            "backgroundColor": "rgb(93,245,219)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "label": "economie-connaissance",
+            "backgroundColor": "rgb(102,65,156)",
+            "data": [
+                15,
+                10,
+                6,
+                7,
+                8,
+                6,
+                16,
+                13,
+                9,
+                8,
+                15,
+                10
+            ]
+        },
+        {
+            "label": "ecovillages-ecoquartiers",
+            "backgroundColor": "rgb(68,22,63)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                19,
+                17,
+                12,
+                21
+            ]
+        },
+        {
+            "label": "education-populaire",
+            "backgroundColor": "rgb(219,171,34)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13
+            ]
+        },
+        {
+            "label": "energie",
+            "backgroundColor": "rgb(178,232,170)",
+            "data": [
+                11,
+                6,
+                1,
+                2,
+                3,
+                3,
+                9,
+                2,
+                0,
+                1,
+                4,
+                8
+            ]
+        },
+        {
+            "label": "energies-agiles",
+            "backgroundColor": "rgb(170,13,100)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                12,
+                4,
+                0,
+                1,
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "label": "essaimage",
+            "backgroundColor": "rgb(148,40,15)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                8,
+                9,
+                4,
+                2,
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "exemples-low-tech-habiter",
+            "backgroundColor": "rgb(68,194,12)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                1,
+                2,
+                3,
+                3,
+                0
+            ]
+        },
+        {
+            "label": "faire",
+            "backgroundColor": "rgb(57,76,7)",
+            "data": [
+                5,
+                1,
+                2,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "faire-avancer-le-schmilblick-ecologique",
+            "backgroundColor": "rgb(142,120,71)",
+            "data": [
+                0,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "ferme-pedagogique-albi",
+            "backgroundColor": "rgb(4,105,98)",
+            "data": [
+                3,
+                0,
+                1,
+                2,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "fou-a-lier",
+            "backgroundColor": "rgb(102,157,193)",
+            "data": [
+                14,
+                4,
+                6,
+                7,
+                3,
+                4,
+                8,
+                4,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "francais-langue-etrangere",
+            "backgroundColor": "rgb(38,143,20)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "label": "general",
+            "backgroundColor": "rgb(167,42,108)",
+            "data": [
+                226,
+                114,
+                100,
+                112,
+                68,
+                110,
+                95,
+                101,
+                96,
+                108,
+                86,
+                154
+            ]
+        },
+        {
+            "label": "geopolitique",
+            "backgroundColor": "rgb(31,178,75)",
+            "data": [
+                13,
+                5,
+                8,
+                8,
+                4,
+                1,
+                1,
+                10,
+                5,
+                4,
+                3,
+                1
+            ]
+        },
+        {
+            "label": "gestion-de-l-eau",
+            "backgroundColor": "rgb(253,106,91)",
+            "data": [
+                5,
+                1,
+                4,
+                2,
+                3,
+                5,
+                2,
+                2,
+                4,
+                1,
+                1,
+                3
+            ]
+        },
+        {
+            "label": "gilets-jaunes",
+            "backgroundColor": "rgb(5,137,194)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                28,
+                31,
+                32,
+                27,
+                29,
+                26,
+                15
+            ]
+        },
+        {
+            "label": "godelescherbach",
+            "backgroundColor": "rgb(133,235,10)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "habitat-durable",
+            "backgroundColor": "rgb(102,2,119)",
+            "data": [
+                0,
+                0,
+                0,
+                11,
+                3,
+                7,
+                0,
+                1,
+                1,
+                2,
+                5,
+                3
+            ]
+        },
+        {
+            "label": "hackathon-distribue",
+            "backgroundColor": "rgb(9,217,25)",
+            "data": [
+                13,
+                7,
+                12,
+                5,
+                3,
+                7,
+                1,
+                3,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "label": "hacker-les-contes-pour-enfants",
+            "backgroundColor": "rgb(132,222,154)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "label": "hackerspace-angers",
+            "backgroundColor": "rgb(82,214,235)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                13,
+                3,
+                0,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "holacratie-et-sociocratie",
+            "backgroundColor": "rgb(250,208,78)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                10,
+                4,
+                1,
+                2
+            ]
+        },
+        {
+            "label": "how-to-low-tech",
+            "backgroundColor": "rgb(211,183,32)",
+            "data": [
+                10,
+                5,
+                14,
+                12,
+                13,
+                19,
+                19,
+                7,
+                5,
+                8,
+                6,
+                14
+            ]
+        },
+        {
+            "label": "hypermedia",
+            "backgroundColor": "rgb(135,151,81)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                9,
+                8,
+                3
+            ]
+        },
+        {
+            "label": "impression-3d",
+            "backgroundColor": "rgb(58,232,118)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "label": "info-desintox",
+            "backgroundColor": "rgb(245,97,136)",
+            "data": [
+                11,
+                6,
+                6,
+                14,
+                8,
+                4,
+                3,
+                7,
+                2,
+                4,
+                2,
+                6
+            ]
+        },
+        {
+            "label": "intelligence-artificielle",
+            "backgroundColor": "rgb(99,232,118)",
+            "data": [
+                13,
+                3,
+                13,
+                11,
+                6,
+                13,
+                6,
+                17,
+                10,
+                8,
+                5,
+                14
+            ]
+        },
+        {
+            "label": "intelligence-collective",
+            "backgroundColor": "rgb(30,47,66)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "label": "jeux-inde-1",
+            "backgroundColor": "rgb(168,224,11)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "label": "journee-aux-amanins-15-juin",
+            "backgroundColor": "rgb(134,240,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                17
+            ]
+        },
+        {
+            "label": "journee-cri",
+            "backgroundColor": "rgb(195,208,239)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                22,
+                43,
+                20,
+                2
+            ]
+        },
+        {
+            "label": "journee-solucracy-a-marcoussis",
+            "backgroundColor": "rgb(106,158,47)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8,
+                16,
+                12
+            ]
+        },
+        {
+            "label": "journee-univ-j-verne-nantes-4-juil-2019",
+            "backgroundColor": "rgb(164,137,144)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "label": "la-bascule-lobby-citoyen",
+            "backgroundColor": "rgb(148,96,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                25,
+                15,
+                7
+            ]
+        },
+        {
+            "label": "langage-vrai-anti-glossaire",
+            "backgroundColor": "rgb(190,133,175)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                12,
+                9,
+                8
+            ]
+        },
+        {
+            "label": "le-led",
+            "backgroundColor": "rgb(164,40,80)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5
+            ]
+        },
+        {
+            "label": "les-racines-profondes-de-la-crise-globale",
+            "backgroundColor": "rgb(195,43,68)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                7
+            ]
+        },
+        {
+            "label": "lhomme-et-la-terre",
+            "backgroundColor": "rgb(181,170,213)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                7
+            ]
+        },
+        {
+            "label": "libre",
+            "backgroundColor": "rgb(41,20,222)",
+            "data": [
+                15,
+                2,
+                3,
+                12,
+                16,
+                7,
+                0,
+                2,
+                0,
+                10,
+                6,
+                9
+            ]
+        },
+        {
+            "label": "livres-coup-de-coeur",
+            "backgroundColor": "rgb(97,83,128)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                8
+            ]
+        },
+        {
+            "label": "lobbying",
+            "backgroundColor": "rgb(70,110,77)",
+            "data": [
+                0,
+                0,
+                0,
+                7,
+                2,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "logiciel-libre",
+            "backgroundColor": "rgb(237,139,61)",
+            "data": [
+                0,
+                0,
+                0,
+                9,
+                6,
+                4,
+                4,
+                4,
+                5,
+                2,
+                3,
+                9
+            ]
+        },
+        {
+            "label": "manuel-terrien",
+            "backgroundColor": "rgb(87,107,215)",
+            "data": [
+                0,
+                8,
+                13,
+                5,
+                2,
+                2,
+                0,
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "marseille-17-18-avril",
+            "backgroundColor": "rgb(222,118,80)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                11,
+                2
+            ]
+        },
+        {
+            "label": "meditation",
+            "backgroundColor": "rgb(180,82,141)",
+            "data": [
+                1,
+                4,
+                2,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                4,
+                1
+            ]
+        },
+        {
+            "label": "medusa",
+            "backgroundColor": "rgb(204,77,100)",
+            "data": [
+                0,
+                6,
+                15,
+                9,
+                4,
+                5,
+                0,
+                2,
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "meta",
+            "backgroundColor": "rgb(85,165,139)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                3,
+                7,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "meta-communication",
+            "backgroundColor": "rgb(206,82,64)",
+            "data": [
+                0,
+                0,
+                0,
+                5,
+                4,
+                1,
+                1,
+                3,
+                0,
+                1,
+                3,
+                2
+            ]
+        },
+        {
+            "label": "metacognition",
+            "backgroundColor": "rgb(38,131,54)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                11,
+                3,
+                5,
+                3,
+                1,
+                1,
+                1,
+                3
+            ]
+        },
+        {
+            "label": "mutuelle-sociale-solidaire",
+            "backgroundColor": "rgb(189,164,175)",
+            "data": [
+                0,
+                0,
+                0,
+                25,
+                14,
+                15,
+                2,
+                8,
+                1,
+                0,
+                12,
+                8
+            ]
+        },
+        {
+            "label": "myhappy",
+            "backgroundColor": "rgb(100,195,44)",
+            "data": [
+                0,
+                0,
+                0,
+                11,
+                7,
+                3,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "label": "nature-simplicite-bienveillance",
+            "backgroundColor": "rgb(221,114,115)",
+            "data": [
+                13,
+                3,
+                6,
+                4,
+                2,
+                1,
+                0,
+                2,
+                3,
+                1,
+                3,
+                1
+            ]
+        },
+        {
+            "label": "nenuphar",
+            "backgroundColor": "rgb(246,33,67)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                10,
+                12,
+                9,
+                1
+            ]
+        },
+        {
+            "label": "neuroharmonie-neuromusique",
+            "backgroundColor": "rgb(54,199,1)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                6,
+                6,
+                3,
+                1
+            ]
+        },
+        {
+            "label": "no-gafam",
+            "backgroundColor": "rgb(63,76,208)",
+            "data": [
+                18,
+                10,
+                8,
+                13,
+                16,
+                15,
+                13,
+                11,
+                10,
+                20,
+                11,
+                13
+            ]
+        },
+        {
+            "label": "open-hardware",
+            "backgroundColor": "rgb(132,53,158)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2,
+                1,
+                0,
+                8
+            ]
+        },
+        {
+            "label": "outil-de-mediatisation",
+            "backgroundColor": "rgb(15,253,16)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                2,
+                1
+            ]
+        },
+        {
+            "label": "ouvrons-et-reparons-les-objets",
+            "backgroundColor": "rgb(209,41,93)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                17,
+                4,
+                5,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "partage-dessins-et-techniques",
+            "backgroundColor": "rgb(197,82,19)",
+            "data": [
+                3,
+                0,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "philosophie",
+            "backgroundColor": "rgb(221,46,54)",
+            "data": [
+                0,
+                11,
+                7,
+                11,
+                11,
+                13,
+                0,
+                6,
+                16,
+                3,
+                13,
+                14
+            ]
+        },
+        {
+            "label": "photovoltaique-hltech",
+            "backgroundColor": "rgb(24,28,32)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                11,
+                2,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "piano-bar",
+            "backgroundColor": "rgb(163,72,25)",
+            "data": [
+                1,
+                15,
+                4,
+                3,
+                4,
+                4,
+                5,
+                1,
+                0,
+                4,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "pnl",
+            "backgroundColor": "rgb(128,59,103)",
+            "data": [
+                8,
+                1,
+                3,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "pratiques-artistiques",
+            "backgroundColor": "rgb(109,158,128)",
+            "data": [
+                0,
+                0,
+                12,
+                21,
+                10,
+                3,
+                2,
+                16,
+                16,
+                6,
+                13,
+                27
+            ]
+        },
+        {
+            "label": "produits-biocycliques",
+            "backgroundColor": "rgb(226,81,71)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "projet-transceiver-laser",
+            "backgroundColor": "rgb(95,223,241)",
+            "data": [
+                2,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "psychologie-neurologie",
+            "backgroundColor": "rgb(114,77,92)",
+            "data": [
+                10,
+                12,
+                12,
+                9,
+                13,
+                8,
+                7,
+                13,
+                7,
+                14,
+                5,
+                6
+            ]
+        },
+        {
+            "label": "pub-canaux",
+            "backgroundColor": "rgb(149,60,230)",
+            "data": [
+                5,
+                0,
+                13,
+                1,
+                4,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "radio-crapaud",
+            "backgroundColor": "rgb(139,22,236)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                16,
+                8,
+                10
+            ]
+        },
+        {
+            "label": "recherches-biologie",
+            "backgroundColor": "rgb(33,236,20)",
+            "data": [
+                8,
+                1,
+                3,
+                2,
+                2,
+                1,
+                0,
+                2,
+                2,
+                3,
+                1,
+                4
+            ]
+        },
+        {
+            "label": "reflexion-sur-l-argent",
+            "backgroundColor": "rgb(53,253,129)",
+            "data": [
+                16,
+                13,
+                19,
+                12,
+                16,
+                22,
+                17,
+                24,
+                10,
+                22,
+                7,
+                17
+            ]
+        },
+        {
+            "label": "rencontre-crapaud-kangourou",
+            "backgroundColor": "rgb(200,93,193)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "label": "resilience-du-crapaud-fou-projet",
+            "backgroundColor": "rgb(235,10,68)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11,
+                0,
+                5,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "right-to-repair",
+            "backgroundColor": "rgb(52,159,247)",
+            "data": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15,
+                20
+            ]
+        },
+        {
+            "label": "selfishgene",
+            "backgroundColor": "rgb(237,16,226)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "siteweb",
+            "backgroundColor": "rgb(204,163,169)",
+            "data": [
+                7,
+                0,
+                2,
+                2,
+                3,
+                3,
+                1,
+                1,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        {
+            "label": "sociologie-de-l-effondrement",
+            "backgroundColor": "rgb(42,98,58)",
+            "data": [
+                20,
+                11,
+                19,
+                14,
+                15,
+                10,
+                13,
+                7,
+                17,
+                14,
+                9,
+                9
+            ]
+        },
+        {
+            "label": "solucracy",
+            "backgroundColor": "rgb(71,140,157)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                18,
+                19,
+                15,
+                11,
+                20,
+                8,
+                17
+            ]
+        },
+        {
+            "label": "solucracy-dev",
+            "backgroundColor": "rgb(246,99,238)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                5,
+                4,
+                7,
+                2,
+                0
+            ]
+        },
+        {
+            "label": "soutien-au-terrain",
+            "backgroundColor": "rgb(7,114,234)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                21,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "suggestion",
+            "backgroundColor": "rgb(177,238,219)",
+            "data": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "survivalismes-et-resiliences",
+            "backgroundColor": "rgb(10,162,51)",
+            "data": [
+                18,
+                7,
+                13,
+                2,
+                4,
+                13,
+                5,
+                1,
+                0,
+                7,
+                2,
+                0
+            ]
+        },
+        {
+            "label": "team-hacker-debutant",
+            "backgroundColor": "rgb(21,6,200)",
+            "data": [
+                24,
+                12,
+                3,
+                14,
+                12,
+                12,
+                17,
+                13,
+                7,
+                11,
+                6,
+                1
+            ]
+        },
+        {
+            "label": "tests",
+            "backgroundColor": "rgb(22,254,73)",
+            "data": [
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "tiers-lieux-apprenant",
+            "backgroundColor": "rgb(208,146,24)",
+            "data": [
+                23,
+                14,
+                6,
+                6,
+                11,
+                10,
+                11,
+                25,
+                23,
+                28,
+                20,
+                32
+            ]
+        },
+        {
+            "label": "tour-du-monde",
+            "backgroundColor": "rgb(19,79,129)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                4,
+                1,
+                3,
+                0
+            ]
+        },
+        {
+            "label": "transhumanisme-et-eugenisme",
+            "backgroundColor": "rgb(56,138,35)",
+            "data": [
+                7,
+                0,
+                2,
+                0,
+                1,
+                1,
+                0,
+                3,
+                0,
+                0,
+                3,
+                5
+            ]
+        },
+        {
+            "label": "transport",
+            "backgroundColor": "rgb(106,161,86)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                7,
+                3,
+                0,
+                1
+            ]
+        },
+        {
+            "label": "tsunamis",
+            "backgroundColor": "rgb(194,86,232)",
+            "data": [
+                0,
+                0,
+                9,
+                1,
+                4,
+                2,
+                1,
+                5,
+                3,
+                3,
+                6,
+                7
+            ]
+        },
+        {
+            "label": "tvp-et-ebr",
+            "backgroundColor": "rgb(24,158,244)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "label": "une-revolution-pourquoi-comment",
+            "backgroundColor": "rgb(171,203,189)",
+            "data": [
+                0,
+                0,
+                2,
+                2,
+                2,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "label": "unite-humaine",
+            "backgroundColor": "rgb(103,194,43)",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8,
+                4,
+                0
+            ]
+        },
+        {
+            "label": "vers-une-nouvelle-civilisation",
+            "backgroundColor": "rgb(144,53,54)",
+            "data": [
+                0,
+                0,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                0,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "label": "zero-dechet",
+            "backgroundColor": "rgb(208,140,109)",
+            "data": [
+                22,
+                7,
+                8,
+                14,
+                12,
+                13,
+                11,
+                11,
+                3,
+                11,
+                5,
+                6
+            ]
+        },
+        {
+            "label": "zetetique-et-outils-epistemologiques",
+            "backgroundColor": "rgb(52,187,51)",
+            "data": [
+                0,
+                0,
+                0,
+                13,
+                13,
+                4,
+                0,
+                8,
+                4,
+                5,
+                2,
+                3
+            ]
+        }
+    ],
+    "messagesByTsunamy": [
+        {
+            "label": "global",
+            "backgroundColor": "rgb(185,82,198)",
+            "data": [
+                15084,
+                5386,
+                8922,
+                10797,
+                7043,
+                12574,
+                11322,
+                12640,
+                8987,
+                16823,
+                6374,
+                9136
+            ]
+        },
+        {
+            "label": "projet",
+            "backgroundColor": "rgb(132,232,205)",
+            "data": [
+                69,
+                277,
+                908,
+                1810,
+                300,
+                2294,
+                1334,
+                736,
+                580,
+                2661,
+                583,
+                1027
+            ]
+        },
+        {
+            "label": "democratie",
+            "backgroundColor": "rgb(57,225,248)",
+            "data": [
+                3081,
+                1457,
+                3390,
+                3622,
+                2210,
+                5960,
+                7388,
+                5881,
+                2970,
+                3278,
+                2087,
+                1978
+            ]
+        },
+        {
+            "label": "ecologie",
+            "backgroundColor": "rgb(240,107,164)",
+            "data": [
+                1284,
+                536,
+                2121,
+                1926,
+                1767,
+                779,
+                694,
+                764,
+                1172,
+                1459,
+                344,
+                618
+            ]
+        },
+        {
+            "label": "technologie",
+            "backgroundColor": "rgb(120,12,238)",
+            "data": [
+                2053,
+                242,
+                243,
+                677,
+                318,
+                909,
+                1801,
+                907,
+                538,
+                2110,
+                479,
+                634
+            ]
+        }
+    ]
+}
