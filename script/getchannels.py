@@ -8,26 +8,8 @@ from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
 import os
-
-def getNodesOrigin(channel):
-  nodes = []
-  if 'description' not in channel:
-    nodes.append("global")
-    return nodes
-
-  if channel['description'].find("#projet") != -1:
-    nodes.append("project")
-  if channel['description'].find("#democratie") != -1:
-    nodes.append("democratie")
-  if channel['description'].find("#ecologie") != -1:
-    nodes.append("ecologie")
-  if channel['description'].find("#technologie") != -1:
-    nodes.append("technologie")
-
-  if not nodes:
-    nodes.append("global")
-
-  return nodes
+import re
+from common.channelhelper import getNodesOrigin
 
 colorInfo = { 
   'global': 'orange',
@@ -40,13 +22,14 @@ colorInfo = {
 rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'], server_url='https://coa.crapaud-fou.org')
 
 edge_index = 0
+sizebase = 100
 datas = []
-datas.append( { 'data':{'id':'mare', 'label': 'mare', 'size': '300', 'color': 'black', 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'global', 'label': 'global', 'size': '200', 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': '200', 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': '200', 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': '200', 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': '200', 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'mare', 'label': 'mare', 'size': sizebase, 'color': 'black', 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'global', 'label': 'global', 'size': sizebase, 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': sizebase, 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': sizebase, 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': sizebase, 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': sizebase, 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'global', 'color': colorInfo['global']}})
 edge_index += 1
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'ecologie', 'color': colorInfo['ecologie']}})
@@ -58,6 +41,8 @@ edge_index += 1
 datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'project', 'color': colorInfo['project']}})
 edge_index += 1
 
+cohortes = { 'fr': { 'updateMap': 'france_fr'}}
+cohortescolor = { 'fr': 'green' }
 index = 0
 nbChannels = 0
 nbCohorte = 0
@@ -68,14 +53,24 @@ while True:
 
   for channel in channels['channels']:
     if channel['name'].find('cohorte') != -1:
+      if 'description' in channel:
+        m = re.findall(r'#([\w-]+)', channel['description'])
+        for region in m:
+          cohortescolor.update( { region: 'green' } )
+          cohortes.update( { region: { 'link': channel['name']}})
       nbCohorte += 1
       continue
+
+    size = channel['usersCount']
+
+    if (channel['_id'] == 'GENERAL') or (channel['_id'] == 'rp5gdRrZubMKic3Nk') :
+      size = sizebase
 
     node =  {
       'data' : {
         'id': channel['_id'],
         'label': channel['fname'] if 'fname' in channel else channel['name'],
-        'size': '100',
+        'size': size,
         'color': 'grey',
         'href': 'https://coa.crapaud-fou.org/channel/'+channel['name']
       }
@@ -106,6 +101,14 @@ channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
 
 with open(channelsFilePath, "w") as file_write:
   json.dump(datas, file_write)
+
+cohortecolorFilePath = os.path.abspath(os.path.join(dataFolder,'cohortescolor.json'))
+with open(cohortecolorFilePath, "w") as file_write:
+  json.dump(cohortescolor, file_write)
+
+cohorteFilePath = os.path.abspath(os.path.join(dataFolder,'cohorteslist.json'))
+with open(cohorteFilePath, "w") as file_write:
+  json.dump(cohortes, file_write)
 
 pprint("Nb displayed channels : " + str(nbChannels))
 pprint("Nb cohorte channels : " + str(nbCohorte))
