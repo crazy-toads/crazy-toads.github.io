@@ -21,25 +21,13 @@ colorInfo = {
 
 rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'], server_url='https://coa.crapaud-fou.org')
 
-edge_index = 0
 sizebase = 100
 datas = []
-datas.append( { 'data':{'id':'mare', 'label': 'mare', 'size': sizebase, 'color': 'black', 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id':'global', 'label': 'global', 'size': sizebase, 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': sizebase, 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': sizebase, 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': sizebase, 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
 datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': sizebase, 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'global', 'color': colorInfo['global']}})
-edge_index += 1
-datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'ecologie', 'color': colorInfo['ecologie']}})
-edge_index += 1
-datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'democratie', 'color': colorInfo['democratie']}})
-edge_index += 1
-datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'technologie', 'color': colorInfo['technologie']}})
-edge_index += 1
-datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': 'mare', 'target': 'project', 'color': colorInfo['project']}})
-edge_index += 1
 
 cohortes = { 'fr': { 'updateMap': 'france_fr'}}
 cohortescolor = { 'fr': 'green' }
@@ -80,8 +68,7 @@ while True:
     nodesOrigin = getNodesOrigin(channel)
     for nodeOrigin in nodesOrigin:
       if nodeOrigin is not None:
-        datas.append( { 'data':{'id': 'edge_' + str(edge_index), 'source': nodeOrigin, 'target': channel['_id'], 'color': colorInfo[nodeOrigin]}})
-        edge_index += 1
+        datas.append( { 'data':{'source': nodeOrigin, 'target': channel['_id'], 'color': colorInfo[nodeOrigin]}})
 
     nbChannels += 1
 
