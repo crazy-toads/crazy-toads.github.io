@@ -88,7 +88,8 @@ while True:
       begindate =  begin.isoformat()
       enddate = end.isoformat()
       resultMess = rocket.channels_history(channel['_id'], oldest= begindate, latest=enddate, count= 10000).json()
-      lenght = len(resultMess['messages'])
+      resultMess = list(filter(lambda mess: 't' not in mess, resultMess['messages']))
+      lenght = len(resultMess)
       dataMess.append(lenght)
 
       if lenght > 0:
@@ -104,7 +105,7 @@ while True:
           messagesDataTsunamy['technology'][id] += lenght
 
         users = []
-        for mess in resultMess['messages']:
+        for mess in resultMess:
           users.append(mess['u']['_id'])      
         usersDistinct = set(users)
         dataUsers.append(len(usersDistinct))
