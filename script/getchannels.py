@@ -40,6 +40,10 @@ while True:
   totalChannels = channels['total']
 
   for channel in channels['channels']:
+    print("{}".format(channel['name']))
+    if ('archived' in channel) and channel['archived']:
+      continue
+      
     if channel['name'].find('cohorte') != -1:
       if 'description' in channel:
         m = re.findall(r'#([\w-]+)', channel['description'])
