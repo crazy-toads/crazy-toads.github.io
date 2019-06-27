@@ -13,6 +13,7 @@ Statistiques du <a href="https://coa.crapaud-fou.org">chat</a> (aussi connu sous
 <canvas id="byChannel"></canvas>
 <canvas id="byTsunamy"></canvas>
 <canvas id="usersByChannel"></canvas>
+<canvas id="usersGlobal"></canvas>
 <script>
 
 $.getJSON("{{ site.baseurl }}/public/data/channelsstat.json", function (datas){
@@ -111,6 +112,42 @@ $.getJSON("{{ site.baseurl }}/public/data/channelsstat.json", function (datas){
             title: {
                 display: true,
                 text: "Nombre d'utilisateur actifs par canaux (" + updated + ")",
+                position: "top"
+            },
+            responsive: true,
+            scales: {
+                xAxes: [{
+                    stacked: true
+                }],
+                yAxes: [{
+                    stacked: true,
+                    ticks: {
+                        stepSize: 50
+                    }
+                }]
+            }
+        }
+    });
+
+    var ctx4 = document.getElementById('usersGlobal').getContext('2d');
+    var chart4 = new Chart(ctx4, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: labels,
+            datasets: datas['usersGlobal'],
+        },
+
+        // Configuration options go here
+        options: {
+            legend: {
+                display: false
+            },
+            title: {
+                display: true,
+                text: "Nombre d'utilisateur actifs (" + updated + ")",
                 position: "top"
             },
             responsive: true,

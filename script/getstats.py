@@ -34,6 +34,7 @@ messagesDataTsunamy = {
   "ecology": [0] * 12,
   "technology": [0] * 12,
 }
+usersGlobal = []
 
 now = datetime.now()
 date = datetime(now.year, now.month, now.day, 0,0,0)
@@ -67,8 +68,11 @@ info = {
         "label": "technologie",
         "backgroundColor": getColor(),
         "data": messagesDataTsunamy['technology']
-    }]
+    }],
+    "usersGlobal": usersGlobal
 }
+
+usersTest = [None] * 12
 
 while True:
   channels = rocket.channels_list(offset=index).json()
@@ -84,6 +88,8 @@ while True:
     tsunamy = getTsunamy(channel)    
 
     for id in range(0, 12):
+      if usersTest[id] == None:
+        usersTest[id] = []
       labels[id] = begin.strftime("%b %Y")
       begindate =  begin.isoformat()
       enddate = end.isoformat()
@@ -106,7 +112,8 @@ while True:
 
         users = []
         for mess in resultMess:
-          users.append(mess['u']['_id'])      
+          users.append(mess['u']['_id'])
+          usersTest[id].append(mess['u']['_id'])
         usersDistinct = set(users)
         dataUsers.append(len(usersDistinct))
       else:
@@ -135,12 +142,20 @@ while True:
     break
   index += channels['count']
 
+for id in range(0, 12):
+  usersTest[id] = len(set(usersTest[id]))
+
+userGlobal = {
+    "label": 'global',
+    "backgroundColor": 'red',
+    "data": usersTest
+}
+usersGlobal.append(userGlobal)
+
 # Récupération du répertoire racine du repo
 rootFolder = os.path.join(os.path.dirname(__file__), '..')
 # Répertoire pour stocker le fichier de sortie
 dataFolder = os.path.join(rootFolder, 'public', 'data')
-
-
 
 statsFilePath = os.path.abspath(
     os.path.join(dataFolder, 'channelsstat.json'))
