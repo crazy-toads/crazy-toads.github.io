@@ -9,40 +9,35 @@ import json
 import dev_config as cfg
 import os
 import re
-from common.channelhelper import getNodesOrigin
+from common.channelhelper import getNodesOrigin, getAllChannels, Tsunami
 
-colorInfo = { 
-  'global': 'orange',
-  'technologie': 'gray',
-  'democratie': 'red',
-  'ecologie': 'green',
-  'project': 'blue'
-}
+def main():
+  
+  colorInfo = { 
+    'global': 'orange',
+    'technologie': 'gray',
+    'democratie': 'red',
+    'ecologie': 'green',
+    'project': 'blue'
+  }
 
-rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'], server_url='https://coa.crapaud-fou.org')
+  rocket = RocketChat(cfg.rocket['user'], cfg.rocket['password'], server_url=cfg.rocket['server'])
 
-sizebase = 100
-datas = []
-datas.append( { 'data':{'id':'global', 'label': 'global', 'size': sizebase, 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': sizebase, 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': sizebase, 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': sizebase, 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
-datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': sizebase, 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
+  sizebase = 100
+  datas = []
+  datas.append( { 'data':{'id':'global', 'label': 'global', 'size': sizebase, 'color': colorInfo['global'], 'href': 'https://coa.crapaud-fou.org/'}})
+  datas.append( { 'data':{'id':'ecologie', 'label': 'ecologie', 'size': sizebase, 'color': colorInfo['ecologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+  datas.append( { 'data':{'id':'democratie', 'label': 'democratie', 'size': sizebase, 'color': colorInfo['democratie'], 'href': 'https://coa.crapaud-fou.org/'}})
+  datas.append( { 'data':{'id':'technologie', 'label': 'technologie', 'size': sizebase, 'color': colorInfo['technologie'], 'href': 'https://coa.crapaud-fou.org/'}})
+  datas.append( { 'data':{'id':'project', 'label': 'projet', 'size': sizebase, 'color': colorInfo['project'], 'href': 'https://coa.crapaud-fou.org/'}})
 
-cohortes = { 'fr': { 'updateMap': 'france_fr'}}
-cohortescolor = { 'fr': 'green' }
-index = 0
-nbChannels = 0
-nbCohorte = 0
-totalChannels = 0
-while True:  
-  channels = rocket.channels_list(offset= index).json()
-  totalChannels = channels['total']
-
-  for channel in channels['channels']:
+  cohortes = { 'fr': { 'updateMap': 'france_fr'}}
+  cohortescolor = { 'fr': 'green' }
+  nbChannels = 0
+  nbCohorte = 0
+  totalChannels = 0
+  for channel in getAllChannels(rocket):
     print("{}".format(channel['name']))
-    if ('archived' in channel) and channel['archived']:
-      continue
       
     if channel['name'].find('cohorte') != -1:
       if 'description' in channel:
@@ -64,7 +59,7 @@ while True:
         'label': channel['fname'] if 'fname' in channel else channel['name'],
         'size': size,
         'color': 'grey',
-        'href': 'https://coa.crapaud-fou.org/channel/'+channel['name']
+        'href':  f"{cfg.rocket['server']}/channel/{channel['name']}"
       }
     }
     datas.append(node)
@@ -76,31 +71,29 @@ while True:
 
     nbChannels += 1
 
-  if channels['count'] + channels['offset'] >= channels['total']:
-    break
-  index += channels['count']
+  # Récupération du répertoire racine du repo
+  rootFolder = os.path.join(os.path.dirname(__file__), '..')
+  # Répertoire pour stocker le fichier de sortie
+  dataFolder = os.path.join(rootFolder, 'public','data')
+  # Faut il essayer de le créer au cas ou?
+  # os.makedirs(dataFolderPath, exist_ok=True)
+  channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
 
-# Récupération du répertoire racine du repo
-rootFolder = os.path.join(os.path.dirname(__file__), '..')
-# Répertoire pour stocker le fichier de sortie
-dataFolder = os.path.join(rootFolder, 'public','data')
-# Faut il essayer de le créer au cas ou?
-# os.makedirs(dataFolderPath, exist_ok=True)
-channelsFilePath = os.path.abspath(os.path.join(dataFolder,'channelslist.json'))
+  #print("Ecriture dans : "+channelsFilePath)
 
-#print("Ecriture dans : "+channelsFilePath)
+  with open(channelsFilePath, "w") as file_write:
+    json.dump(datas, file_write)
 
-with open(channelsFilePath, "w") as file_write:
-  json.dump(datas, file_write)
+  cohortecolorFilePath = os.path.abspath(os.path.join(dataFolder,'cohortescolor.json'))
+  with open(cohortecolorFilePath, "w") as file_write:
+    json.dump(cohortescolor, file_write)
 
-cohortecolorFilePath = os.path.abspath(os.path.join(dataFolder,'cohortescolor.json'))
-with open(cohortecolorFilePath, "w") as file_write:
-  json.dump(cohortescolor, file_write)
+  cohorteFilePath = os.path.abspath(os.path.join(dataFolder,'cohorteslist.json'))
+  with open(cohorteFilePath, "w") as file_write:
+    json.dump(cohortes, file_write)
 
-cohorteFilePath = os.path.abspath(os.path.join(dataFolder,'cohorteslist.json'))
-with open(cohorteFilePath, "w") as file_write:
-  json.dump(cohortes, file_write)
+  pprint("Nb displayed channels : " + str(nbChannels))
+  pprint("Nb cohorte channels : " + str(nbCohorte))
 
-pprint("Nb displayed channels : " + str(nbChannels))
-pprint("Nb cohorte channels : " + str(nbCohorte))
-pprint("Nb total channels : " + str(totalChannels))
+if __name__ == "__main__":
+    main()

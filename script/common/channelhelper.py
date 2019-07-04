@@ -37,3 +37,18 @@ class Tsunami:
     DEMOCRACY   = 1 << 2
     ECOLOGY     = 1 << 3
     TECHNOLOGY  = 1 << 4
+
+def getAllChannels(rocket):
+  index = 0
+  allChannels = []
+  while True:
+    channels = rocket.channels_list(offset= index).json()
+      
+    allChannels.extend([ channel for channel in channels['channels'] if 'archived' not in channel])
+    if channels['count'] + channels['offset'] >= channels['total']:
+      break
+    index += channels['count']
+  return allChannels
+
+if __name__ == "__main__":
+    print("Ce fichier est juste une librarie")
