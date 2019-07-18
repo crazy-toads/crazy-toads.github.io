@@ -4,6 +4,7 @@
 from __future__ import unicode_literals
 
 from pprint import pprint
+from colorama import init, Fore
 from rocketchat_API.rocketchat import RocketChat
 import json
 import dev_config as cfg
@@ -13,6 +14,8 @@ from common.channelhelper import getNodesOrigin, getAllChannels, Tsunami
 
 def main():
   
+  init()
+
   colorInfo = { 
     'global': 'orange',
     'technologie': 'gray',
@@ -35,13 +38,14 @@ def main():
   cohortescolor = { 'fr': 'green' }
   nbChannels = 0
   nbCohorte = 0
-  totalChannels = 0
   for channel in getAllChannels(rocket):
     print("{}".format(channel['name']))
       
     if channel['name'].find('cohorte') != -1:
       if 'description' in channel:
         m = re.findall(r'#([\w-]+)', channel['description'])
+        if m.count == 0:
+          print(Fore.RED + "\tmissing region information", 'red')
         for region in m:
           cohortescolor.update( { region: 'green' } )
           cohortes.update( { region: { 'link': channel['name']}})
