@@ -69,8 +69,6 @@ links:
     url: /contact/
   - title: <i class="iconside iconm-users"></i> Carte des Crapauds
     url: /carte/
-  - title: <i class="iconside iconm-bubbles"></i> Statistiques du chat
-    url: /channelsstats/
   - separator: true
   - title: <i class="iconside iconm-bubbles"></i> Discuter
     url: /channelslist/
