@@ -23,14 +23,3 @@ Des fichiers seront créé
 * [../public/data/channelslist.json](../public/data/channelslist.json)
 * [../public/data/cohortescolor.json](../public/data/cohortescolor.json)
 * [../public/data/cohorteslist.json](../public/data/cohorteslist.json)
-
-# Get Stats
-Permet de générer les infos pour la page  
-https://crapaud-fou.org/channelsstats/
-
-## Lancer
-    python getstats.py
-
-## Commit
-Un fichier sera créé
-* [../public/data/channelsstat.json](../public/data/channelsstat.json)
