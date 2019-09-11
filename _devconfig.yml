@@ -62,6 +62,8 @@ links:
     url: /manifeste_du_crapaud/ 
   - title: <i class="iconside iconm-blog"></i> Cercles & Principes
     url: /cercles/
+  - title: <i class="iconside iconm-users"></i> Crapauds des Treilles
+    url: /crapauds/
   - separator: true
   - title: <i class="iconside iconm-bullhorn"></i> Les Nouvelles
     url: /nouvelles/

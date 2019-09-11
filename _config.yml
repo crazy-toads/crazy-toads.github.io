@@ -61,6 +61,8 @@ links:
     url: /manifeste_du_crapaud/ 
   - title: <i class="iconside iconm-blog"></i> Cercles & Principes
     url: /cercles/
+  - title: <i class="iconside iconm-users"></i> Crapauds des Treilles
+    url: /crapauds/
   - separator: true
   - title: <i class="iconside iconm-bullhorn"></i> Les Nouvelles
     url: /nouvelles/
@@ -68,12 +70,6 @@ links:
     url: /contact/
   - title: <i class="iconside iconm-users"></i> Carte des Crapauds
     url: /carte/
-  - separator: true
-  - title: <i class="iconside iconm-bubbles"></i> Discuter
-    url: /channelslist/
-  - title: <i class="iconside iconm-play"></i> Wiki
-    url: https://wiki.crapaud-fou.org
-    external: true
   - separator: true
   - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
