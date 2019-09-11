@@ -9,3 +9,4 @@ script/__pycache__/*.pyc
 script/common/__pycache__/*.pyc
 \.vscode/\.ropeproject/
 .vscode/*
+.jekyll-cache/

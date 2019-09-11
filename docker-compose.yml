@@ -3,7 +3,7 @@ services:
   jekyll:
     environment:
       - JEKYLL_ENV=docker
-    image: jekyll/jekyll:3.8.5
+    image: jekyll/jekyll:4.0.0
     volumes: 
       - ".:/srv/jekyll"
     ports:
