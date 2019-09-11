@@ -56,6 +56,9 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
+  - title: <i class="iconside iconm-home"></i> retour au Portail
+    url: https://crapaud-fou.org
+  - separator: true
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
   - title: <i class="iconside iconm-compass2"></i> Manifeste du crapaud
@@ -71,12 +74,6 @@ links:
     url: /contact/
   - title: <i class="iconside iconm-users"></i> Carte des Crapauds
     url: /carte/
-  - separator: true
-  - title: <i class="iconside iconm-bubbles"></i> Discuter
-    url: /channelslist/
-  - title: <i class="iconside iconm-play"></i> Wiki
-    url: https://wiki.crapaud-fou.org
-    external: true
   - separator: true
   - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io

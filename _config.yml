@@ -55,6 +55,9 @@ owner:
 ## sidebar links:
 # For external links add external: true
 links:
+  - title: <i class="iconside iconm-home"></i> retour au Portail
+    url: https://crapaud-fou.org
+  - separator: true
   - title: <i class="iconside iconm-home"></i> Accueil
     url: /
   - title: <i class="iconside iconm-compass2"></i> Manifeste du crapaud
