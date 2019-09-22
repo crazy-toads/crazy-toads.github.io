@@ -72,9 +72,6 @@ links:
     url: /nouvelles/
   - title: <i class="iconside iconm-users"></i> Nous rejoindre
     url: /contact/
-  - title: <i class="iconside iconm-users"></i> Carte des Crapauds
-    url: https://framacarte.org/fr/map/crapauds-fous_26200#6/49.081/10.195
-    external: true
   - separator: true
   - title: <i class="iconside iconm-git-square"></i> Source
     url: https://github.com/crazy-toads/crazy-toads.github.io
